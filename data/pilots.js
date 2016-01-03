@@ -1,0 +1,2995 @@
+[
+  {
+    "name": "Wedge Antilles",
+    "id": 0,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 9,
+    "points": 29,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When attacking, reduce the defender's agility value by 1 (to a minimum of \"0\").",
+    "image": "pilots/Rebel Alliance/X-Wing/wedge-antilles.png",
+    "faction": "Rebel Alliance",
+    "xws": "wedgeantilles"
+  },
+  {
+    "name": "Garven Dreis",
+    "id": 1,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 6,
+    "points": 26,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "After spending a focus token, you may place that token on any other friendly ship at Range 1-2 (instead of discarding it).",
+    "image": "pilots/Rebel Alliance/X-Wing/garven-dreis.png",
+    "faction": "Rebel Alliance",
+    "xws": "garvendreis"
+  },
+  {
+    "name": "Red Squadron Pilot",
+    "id": 2,
+    "ship": "X-Wing",
+    "skill": 4,
+    "points": 23,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/X-Wing/red-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "redsquadronpilot"
+  },
+  {
+    "name": "Rookie Pilot",
+    "id": 3,
+    "ship": "X-Wing",
+    "skill": 2,
+    "points": 21,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/X-Wing/rookie-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "rookiepilot"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "id": 4,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 5,
+    "points": 25,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "Other friendly small and large ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.",
+    "image": "pilots/Rebel Alliance/X-Wing/biggs-darklighter.png",
+    "faction": "Rebel Alliance",
+    "xws": "biggsdarklighter"
+  },
+  {
+    "name": "Luke Skywalker",
+    "id": 5,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 8,
+    "points": 28,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When defending, you may change 1 of your [Focus] results to a [Evade] result.",
+    "image": "pilots/Rebel Alliance/X-Wing/luke-skywalker.png",
+    "faction": "Rebel Alliance",
+    "xws": "lukeskywalker"
+  },
+  {
+    "name": "Gray Squadron Pilot",
+    "id": 6,
+    "ship": "Y-Wing",
+    "skill": 4,
+    "points": 20,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/Y-Wing/gray-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "graysquadronpilot"
+  },
+  {
+    "name": "\"Dutch\" Vander",
+    "id": 7,
+    "unique": true,
+    "ship": "Y-Wing",
+    "skill": 6,
+    "points": 23,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "After acquiring a target lock, choose another friendly ship at Range 1-2.  The chosen ship may immediately acquire a target lock.",
+    "image": "pilots/Rebel Alliance/Y-Wing/dutch-vander.png",
+    "faction": "Rebel Alliance",
+    "xws": "dutchvander"
+  },
+  {
+    "name": "Horton Salm",
+    "id": 8,
+    "unique": true,
+    "ship": "Y-Wing",
+    "skill": 8,
+    "points": 25,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When attacking at Range 2-3, you may reroll any of your blank results.",
+    "image": "pilots/Rebel Alliance/Y-Wing/horton-salm.png",
+    "faction": "Rebel Alliance",
+    "xws": "hortonsalm"
+  },
+  {
+    "name": "Gold Squadron Pilot",
+    "id": 9,
+    "ship": "Y-Wing",
+    "skill": 2,
+    "points": 18,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/Y-Wing/gold-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "goldsquadronpilot"
+  },
+  {
+    "name": "Academy Pilot",
+    "id": 10,
+    "ship": "TIE Fighter",
+    "skill": 1,
+    "points": 12,
+    "slots": [],
+    "image": "pilots/Galactic Empire/TIE Fighter/academy-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "academypilot"
+  },
+  {
+    "name": "Obsidian Squadron Pilot",
+    "id": 11,
+    "ship": "TIE Fighter",
+    "skill": 3,
+    "points": 13,
+    "slots": [],
+    "image": "pilots/Galactic Empire/TIE Fighter/obsidian-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "obsidiansquadronpilot"
+  },
+  {
+    "name": "Black Squadron Pilot",
+    "id": 12,
+    "ship": "TIE Fighter",
+    "skill": 4,
+    "points": 14,
+    "slots": [
+      "Elite"
+    ],
+    "image": "pilots/Galactic Empire/TIE Fighter/black-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "blacksquadronpilot"
+  },
+  {
+    "name": "\"Winged Gundark\"",
+    "id": 13,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 5,
+    "points": 15,
+    "slots": [],
+    "text": "When attacking at Range 1, you may change 1 of your [Hit] results to a [Critical Hit] result.",
+    "image": "pilots/Galactic Empire/TIE Fighter/winged-gundark.png",
+    "faction": "Galactic Empire",
+    "xws": "wingedgundark"
+  },
+  {
+    "name": "\"Night Beast\"",
+    "id": 14,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 5,
+    "points": 15,
+    "slots": [],
+    "text": "After executing a green maneuver, you may perform a free focus action.",
+    "image": "pilots/Galactic Empire/TIE Fighter/night-beast.png",
+    "faction": "Galactic Empire",
+    "xws": "nightbeast"
+  },
+  {
+    "name": "\"Backstabber\"",
+    "id": 15,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 6,
+    "points": 16,
+    "slots": [],
+    "text": "When attacking from outside the defender's firing arc, roll 1 additional attack die.",
+    "image": "pilots/Galactic Empire/TIE Fighter/backstabber.png",
+    "faction": "Galactic Empire",
+    "xws": "backstabber"
+  },
+  {
+    "name": "\"Dark Curse\"",
+    "id": 16,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 6,
+    "points": 16,
+    "slots": [],
+    "text": "When defending, ships attacking you cannot spend focus tokens or reroll attack dice.",
+    "image": "pilots/Galactic Empire/TIE Fighter/dark-curse.png",
+    "faction": "Galactic Empire",
+    "xws": "darkcurse"
+  },
+  {
+    "name": "\"Mauler Mithel\"",
+    "id": 17,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 7,
+    "points": 17,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When attacking at Range 1, roll 1 additional attack die.",
+    "image": "pilots/Galactic Empire/TIE Fighter/mauler-mithel.png",
+    "faction": "Galactic Empire",
+    "xws": "maulermithel"
+  },
+  {
+    "name": "\"Howlrunner\"",
+    "id": 18,
+    "unique": true,
+    "ship": "TIE Fighter",
+    "skill": 8,
+    "points": 18,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When another friendly ship at Range 1 is attacking with its primary weapon, it may reroll 1 attack die.",
+    "image": "pilots/Galactic Empire/TIE Fighter/howlrunner.png",
+    "faction": "Galactic Empire",
+    "xws": "howlrunner"
+  },
+  {
+    "name": "Maarek Stele",
+    "id": 19,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 7,
+    "points": 27,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "When your attack deals a faceup Damage card to the defender, instead draw 3 Damage cards, choose 1 to deal, and discard the others.",
+    "image": "pilots/Galactic Empire/TIE Advanced/maarek-stele.png",
+    "faction": "Galactic Empire",
+    "xws": "maarekstele"
+  },
+  {
+    "name": "Tempest Squadron Pilot",
+    "id": 20,
+    "ship": "TIE Advanced",
+    "skill": 2,
+    "points": 21,
+    "slots": [
+      "Missile"
+    ],
+    "image": "pilots/Galactic Empire/TIE Advanced/tempest-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "tempestsquadronpilot"
+  },
+  {
+    "name": "Storm Squadron Pilot",
+    "id": 21,
+    "ship": "TIE Advanced",
+    "skill": 4,
+    "points": 23,
+    "slots": [
+      "Missile"
+    ],
+    "image": "pilots/Galactic Empire/TIE Advanced/storm-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "stormsquadronpilot"
+  },
+  {
+    "name": "Darth Vader",
+    "id": 22,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 9,
+    "points": 29,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "During your \"Perform Action\" step, you may perform 2 actions.",
+    "image": "pilots/Galactic Empire/TIE Advanced/darth-vader.png",
+    "faction": "Galactic Empire",
+    "xws": "darthvader"
+  },
+  {
+    "name": "Alpha Squadron Pilot",
+    "id": 23,
+    "ship": "TIE Interceptor",
+    "skill": 1,
+    "points": 18,
+    "slots": [],
+    "image": "pilots/Galactic Empire/TIE Interceptor/alpha-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "alphasquadronpilot"
+  },
+  {
+    "name": "Avenger Squadron Pilot",
+    "id": 24,
+    "ship": "TIE Interceptor",
+    "skill": 3,
+    "points": 20,
+    "slots": [],
+    "image": "pilots/Galactic Empire/TIE Interceptor/avenger-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "avengersquadronpilot"
+  },
+  {
+    "name": "Saber Squadron Pilot",
+    "id": 25,
+    "ship": "TIE Interceptor",
+    "skill": 4,
+    "points": 21,
+    "slots": [
+      "Elite"
+    ],
+    "image": "pilots/Galactic Empire/TIE Interceptor/saber-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "sabersquadronpilot"
+  },
+  {
+    "name": "\"Fel's Wrath\"",
+    "id": 26,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 5,
+    "points": 23,
+    "slots": [],
+    "text": "When the number of Damage cards assigned to you equals or exceeds your hull value, you are not destroyed until the end of the Combat phase.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/fel-s-wrath.png",
+    "faction": "Galactic Empire",
+    "xws": "felswrath"
+  },
+  {
+    "name": "Turr Phennir",
+    "id": 27,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 7,
+    "points": 25,
+    "slots": [
+      "Elite"
+    ],
+    "text": "After you perform an attack, you may perform a free boost or barrel roll action.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/turr-phennir.png",
+    "faction": "Galactic Empire",
+    "xws": "turrphennir"
+  },
+  {
+    "name": "Soontir Fel",
+    "id": 28,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 9,
+    "points": 27,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When you receive a stress token, you may assign 1 focus token to your ship.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/soontir-fel.png",
+    "faction": "Galactic Empire",
+    "xws": "soontirfel"
+  },
+  {
+    "name": "Tycho Celchu",
+    "id": 29,
+    "unique": true,
+    "ship": "A-Wing",
+    "skill": 8,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "You may perform actions even while you have stress tokens.",
+    "image": "pilots/Rebel Alliance/A-Wing/tycho-celchu.png",
+    "faction": "Rebel Alliance",
+    "xws": "tychocelchu"
+  },
+  {
+    "name": "Arvel Crynyd",
+    "id": 30,
+    "unique": true,
+    "ship": "A-Wing",
+    "skill": 6,
+    "points": 23,
+    "slots": [
+      "Missile"
+    ],
+    "text": "You may declare an enemy ship inside your firing arc that you are touching as the target of your attack.",
+    "image": "pilots/Rebel Alliance/A-Wing/arvel-crynyd.png",
+    "faction": "Rebel Alliance",
+    "xws": "arvelcrynyd"
+  },
+  {
+    "name": "Green Squadron Pilot",
+    "id": 31,
+    "ship": "A-Wing",
+    "skill": 3,
+    "points": 19,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "image": "pilots/Rebel Alliance/A-Wing/green-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "greensquadronpilot"
+  },
+  {
+    "name": "Prototype Pilot",
+    "id": 32,
+    "ship": "A-Wing",
+    "skill": 1,
+    "points": 17,
+    "slots": [
+      "Missile"
+    ],
+    "image": "pilots/Rebel Alliance/A-Wing/prototype-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "prototypepilot"
+  },
+  {
+    "name": "Outer Rim Smuggler",
+    "id": 33,
+    "ship": "YT-1300",
+    "skill": 1,
+    "points": 27,
+    "slots": [
+      "Crew",
+      "Crew"
+    ],
+    "image": "pilots/Rebel Alliance/YT-1300/outer-rim-smuggler.png",
+    "faction": "Rebel Alliance",
+    "xws": "outerrimsmuggler"
+  },
+  {
+    "name": "Chewbacca",
+    "id": 34,
+    "unique": true,
+    "ship": "YT-1300",
+    "skill": 5,
+    "points": 42,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Crew",
+      "Crew"
+    ],
+    "text": "When you are dealt a faceup Damage card, immediately flip it facedown (without resolving its ability).",
+    "ship_override": {
+      "attack": 3,
+      "agility": 1,
+      "hull": 8,
+      "shields": 5
+    },
+    "image": "pilots/Rebel Alliance/YT-1300/chewbacca.png",
+    "faction": "Rebel Alliance",
+    "xws": "chewbacca"
+  },
+  {
+    "name": "Lando Calrissian",
+    "id": 35,
+    "unique": true,
+    "ship": "YT-1300",
+    "skill": 7,
+    "points": 44,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Crew",
+      "Crew"
+    ],
+    "image": "pilots/Rebel Alliance/YT-1300/lando-calrissian.png",
+    "ship_override": {
+      "attack": 3,
+      "agility": 1,
+      "hull": 8,
+      "shields": 5
+    },
+    "text": "After you execute a green maneuver, choose 1 other friendly ship at Range 1.  That ship may perform 1 free action shown on its action bar.",
+    "faction": "Rebel Alliance",
+    "xws": "landocalrissian"
+  },
+  {
+    "name": "Han Solo",
+    "id": 36,
+    "unique": true,
+    "ship": "YT-1300",
+    "skill": 9,
+    "points": 46,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Crew",
+      "Crew"
+    ],
+    "ship_override": {
+      "attack": 3,
+      "agility": 1,
+      "hull": 8,
+      "shields": 5
+    },
+    "text": "When attacking, you may reroll all of your dice. If you choose to do so, you must reroll as many of your dice as possible.",
+    "image": "pilots/Rebel Alliance/YT-1300/han-solo.png",
+    "faction": "Rebel Alliance",
+    "xws": "hansolo"
+  },
+  {
+    "name": "Kath Scarlet",
+    "id": 37,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 7,
+    "points": 38,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile"
+    ],
+    "text": "When attacking, the defender receives 1 stress token if he cancels at least 1 [Critical Hit] result.",
+    "image": "pilots/Galactic Empire/Firespray-31/kath-scarlet.png",
+    "faction": "Galactic Empire",
+    "xws": "kathscarlet"
+  },
+  {
+    "name": "Boba Fett",
+    "id": 38,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 8,
+    "points": 39,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile"
+    ],
+    "text": "When you reveal a bank maneuver ([Bank Left] or [Bank Right]), you may rotate your dial to the other bank maneuver of the same speed.",
+    "image": "pilots/Galactic Empire/Firespray-31/boba-fett.png",
+    "faction": "Galactic Empire",
+    "xws": "bobafett"
+  },
+  {
+    "name": "Krassis Trelix",
+    "id": 39,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 5,
+    "points": 36,
+    "slots": [
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile"
+    ],
+    "text": "When attacking with a secondary weapon, you may reroll 1 attack die.",
+    "image": "pilots/Galactic Empire/Firespray-31/krassis-trelix.png",
+    "faction": "Galactic Empire",
+    "xws": "krassistrelix"
+  },
+  {
+    "name": "Bounty Hunter",
+    "id": 40,
+    "ship": "Firespray-31",
+    "skill": 3,
+    "points": 33,
+    "slots": [
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile"
+    ],
+    "image": "pilots/Galactic Empire/Firespray-31/bounty-hunter.png",
+    "faction": "Galactic Empire",
+    "xws": "bountyhunter"
+  },
+  {
+    "name": "Ten Numb",
+    "id": 41,
+    "unique": true,
+    "ship": "B-Wing",
+    "skill": 8,
+    "points": 31,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "text": "When attacking, 1 of your [Critical Hit] results cannot be canceled by defense dice.",
+    "image": "pilots/Rebel Alliance/B-Wing/ten-numb.png",
+    "faction": "Rebel Alliance",
+    "xws": "tennumb"
+  },
+  {
+    "name": "Ibtisam",
+    "id": 42,
+    "unique": true,
+    "ship": "B-Wing",
+    "skill": 6,
+    "points": 28,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "text": "When attacking or defending, if you have at least 1 stress token, you may reroll 1 of your dice.",
+    "image": "pilots/Rebel Alliance/B-Wing/ibtisam.png",
+    "faction": "Rebel Alliance",
+    "xws": "ibtisam"
+  },
+  {
+    "name": "Dagger Squadron Pilot",
+    "id": 43,
+    "ship": "B-Wing",
+    "skill": 4,
+    "points": 24,
+    "slots": [
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "image": "pilots/Rebel Alliance/B-Wing/dagger-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "daggersquadronpilot"
+  },
+  {
+    "name": "Blue Squadron Pilot",
+    "id": 44,
+    "ship": "B-Wing",
+    "skill": 2,
+    "points": 22,
+    "slots": [
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "image": "pilots/Rebel Alliance/B-Wing/blue-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "bluesquadronpilot"
+  },
+  {
+    "name": "Rebel Operative",
+    "id": 45,
+    "ship": "HWK-290",
+    "skill": 2,
+    "points": 16,
+    "slots": [
+      "Turret",
+      "Crew"
+    ],
+    "image": "pilots/Rebel Alliance/HWK-290/rebel-operative.png",
+    "faction": "Rebel Alliance",
+    "xws": "rebeloperative"
+  },
+  {
+    "name": "Roark Garnet",
+    "id": 46,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 4,
+    "points": 19,
+    "slots": [
+      "Turret",
+      "Crew"
+    ],
+    "text": "At the start of the Combat phase, choose 1 other friendly ship at Range 1-3.  Until the end of the phase, treat that ship's pilot skill value as \"12.\"",
+    "image": "pilots/Rebel Alliance/HWK-290/roark-garnet.png",
+    "faction": "Rebel Alliance",
+    "xws": "roarkgarnet"
+  },
+  {
+    "name": "Kyle Katarn",
+    "id": 47,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 6,
+    "points": 21,
+    "slots": [
+      "Elite",
+      "Turret",
+      "Crew"
+    ],
+    "text": "At the start of the Combat phase, you may assign 1 of your focus tokens to another friendly ship at Range 1-3.",
+    "image": "pilots/Rebel Alliance/HWK-290/kyle-katarn.png",
+    "faction": "Rebel Alliance",
+    "xws": "kylekatarn"
+  },
+  {
+    "name": "Jan Ors",
+    "id": 48,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 8,
+    "points": 25,
+    "slots": [
+      "Elite",
+      "Turret",
+      "Crew"
+    ],
+    "text": "When another friendly ship at Range 1-3 is attacking, if you have no stress tokens, you may receive 1 stress token to allow that ship to roll 1 additional attack die.",
+    "image": "pilots/Rebel Alliance/HWK-290/jan-ors.png",
+    "faction": "Rebel Alliance",
+    "xws": "janors"
+  },
+  {
+    "name": "Scimitar Squadron Pilot",
+    "id": 49,
+    "ship": "TIE Bomber",
+    "skill": 2,
+    "points": 16,
+    "slots": [
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb"
+    ],
+    "image": "pilots/Galactic Empire/TIE Bomber/scimitar-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "scimitarsquadronpilot"
+  },
+  {
+    "name": "Gamma Squadron Pilot",
+    "id": 50,
+    "ship": "TIE Bomber",
+    "skill": 4,
+    "points": 18,
+    "slots": [
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb"
+    ],
+    "image": "pilots/Galactic Empire/TIE Bomber/gamma-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "gammasquadronpilot"
+  },
+  {
+    "name": "Captain Jonus",
+    "id": 51,
+    "unique": true,
+    "ship": "TIE Bomber",
+    "skill": 6,
+    "points": 22,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb"
+    ],
+    "text": "When another friendly ship at Range 1 attacks with a secondary weapon, it may reroll up to 2 attack dice.",
+    "image": "pilots/Galactic Empire/TIE Bomber/captain-jonus.png",
+    "faction": "Galactic Empire",
+    "xws": "captainjonus"
+  },
+  {
+    "name": "Major Rhymer",
+    "id": 52,
+    "unique": true,
+    "ship": "TIE Bomber",
+    "skill": 7,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb"
+    ],
+    "text": "When attacking with a secondary weapon, you may increase or decrease the weapon range by 1 to a limit of Range 1-3.",
+    "image": "pilots/Galactic Empire/TIE Bomber/major-rhymer.png",
+    "faction": "Galactic Empire",
+    "xws": "majorrhymer"
+  },
+  {
+    "name": "Captain Kagi",
+    "id": 53,
+    "unique": true,
+    "ship": "Lambda-Class Shuttle",
+    "skill": 8,
+    "points": 27,
+    "slots": [
+      "System",
+      "Cannon",
+      "Crew",
+      "Crew"
+    ],
+    "text": "When an enemy ship acquires a target lock, it must lock onto your ship if able.",
+    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/captain-kagi.png",
+    "faction": "Galactic Empire",
+    "xws": "captainkagi"
+  },
+  {
+    "name": "Colonel Jendon",
+    "id": 54,
+    "unique": true,
+    "ship": "Lambda-Class Shuttle",
+    "skill": 6,
+    "points": 26,
+    "slots": [
+      "System",
+      "Cannon",
+      "Crew",
+      "Crew"
+    ],
+    "text": "At the start of the Combat phase, you may assign 1 of your blue target lock tokens to a friendly ship at Range 1 if it does not have a blue target lock token.",
+    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/colonel-jendon.png",
+    "faction": "Galactic Empire",
+    "xws": "coloneljendon"
+  },
+  {
+    "name": "Captain Yorr",
+    "id": 55,
+    "unique": true,
+    "ship": "Lambda-Class Shuttle",
+    "skill": 4,
+    "points": 24,
+    "slots": [
+      "System",
+      "Cannon",
+      "Crew",
+      "Crew"
+    ],
+    "text": "When another friendly ship at Range 1-2 would receive a stress token, if you have 2 or fewer stress tokens, you may receive that token instead.",
+    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/captain-yorr.png",
+    "faction": "Galactic Empire",
+    "xws": "captainyorr"
+  },
+  {
+    "name": "Omicron Group Pilot",
+    "id": 56,
+    "ship": "Lambda-Class Shuttle",
+    "skill": 2,
+    "points": 21,
+    "slots": [
+      "System",
+      "Cannon",
+      "Crew",
+      "Crew"
+    ],
+    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/omicron-group-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "omicrongrouppilot"
+  },
+  {
+    "name": "Lieutenant Lorrir",
+    "id": 57,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 5,
+    "points": 23,
+    "slots": [],
+    "text": "When performing a barrel roll action, you may receive 1 stress token to use the ([Bank Left] 1) or ([Bank Right] 1) template instead of the ([Straight] 1) template.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/lieutenant-lorrir.png",
+    "faction": "Galactic Empire",
+    "xws": "lieutenantlorrir"
+  },
+  {
+    "name": "Royal Guard Pilot",
+    "id": 58,
+    "ship": "TIE Interceptor",
+    "skill": 6,
+    "points": 22,
+    "slots": [
+      "Elite"
+    ],
+    "image": "pilots/Galactic Empire/TIE Interceptor/royal-guard-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "royalguardpilot"
+  },
+  {
+    "name": "Tetran Cowall",
+    "id": 59,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 7,
+    "points": 24,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When you reveal a [Koiogran Turn] maneuver, you may treat the speed of that maneuver as \"1,\" \"3,\" or \"5\".",
+    "image": "pilots/Galactic Empire/TIE Interceptor/tetran-cowall.png",
+    "faction": "Galactic Empire",
+    "xws": "tetrancowall"
+  },
+  {
+    "name": "Kir Kanos",
+    "id": 60,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 6,
+    "points": 24,
+    "slots": [],
+    "text": "When attacking at Range 2-3, you may spend 1 evade token to add 1 [Hit] result to your roll.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/kir-kanos.png",
+    "faction": "Galactic Empire",
+    "xws": "kirkanos"
+  },
+  {
+    "name": "Carnor Jax",
+    "id": 61,
+    "unique": true,
+    "ship": "TIE Interceptor",
+    "skill": 8,
+    "points": 26,
+    "slots": [
+      "Elite"
+    ],
+    "text": "Enemy ships at Range 1 cannot perform focus or evade actions and cannot spend focus or evade tokens.",
+    "image": "pilots/Galactic Empire/TIE Interceptor/carnor-jax.png",
+    "faction": "Galactic Empire",
+    "xws": "carnorjax"
+  },
+  {
+    "name": "GR-75 Medium Transport",
+    "id": 62,
+    "ship": "GR-75 Medium Transport",
+    "skill": 3,
+    "points": 30,
+    "slots": [
+      "Crew",
+      "Crew",
+      "Cargo",
+      "Cargo",
+      "Cargo"
+    ],
+    "image": "pilots/Rebel Alliance/GR-75 Medium Transport/gr-75-medium-transport.png",
+    "faction": "Rebel Alliance",
+    "xws": "gr75mediumtransport"
+  },
+  {
+    "name": "Bandit Squadron Pilot",
+    "id": 63,
+    "ship": "Z-95 Headhunter",
+    "skill": 2,
+    "points": 12,
+    "slots": [
+      "Missile"
+    ],
+    "image": "pilots/Rebel Alliance/Z-95 Headhunter/bandit-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "banditsquadronpilot"
+  },
+  {
+    "name": "Tala Squadron Pilot",
+    "id": 64,
+    "ship": "Z-95 Headhunter",
+    "skill": 4,
+    "points": 13,
+    "slots": [
+      "Missile"
+    ],
+    "image": "pilots/Rebel Alliance/Z-95 Headhunter/tala-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "talasquadronpilot"
+  },
+  {
+    "name": "Lieutenant Blount",
+    "id": 65,
+    "unique": true,
+    "ship": "Z-95 Headhunter",
+    "skill": 6,
+    "points": 17,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "When attacking, the defender is hit by your attack, even if he does not suffer any damage.",
+    "image": "pilots/Rebel Alliance/Z-95 Headhunter/lieutenant-blount.png",
+    "faction": "Rebel Alliance",
+    "xws": "lieutenantblount"
+  },
+  {
+    "name": "Airen Cracken",
+    "id": 66,
+    "unique": true,
+    "ship": "Z-95 Headhunter",
+    "skill": 8,
+    "points": 19,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "After you perform an attack, you may choose another friendly ship at Range 1.  That ship may perform 1 free action.",
+    "image": "pilots/Rebel Alliance/Z-95 Headhunter/airen-cracken.png",
+    "faction": "Rebel Alliance",
+    "xws": "airencracken"
+  },
+  {
+    "name": "Delta Squadron Pilot",
+    "id": 67,
+    "ship": "TIE Defender",
+    "skill": 1,
+    "points": 30,
+    "slots": [
+      "Cannon",
+      "Missile"
+    ],
+    "image": "pilots/Galactic Empire/TIE Defender/delta-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "deltasquadronpilot"
+  },
+  {
+    "name": "Onyx Squadron Pilot",
+    "id": 68,
+    "ship": "TIE Defender",
+    "skill": 3,
+    "points": 32,
+    "slots": [
+      "Cannon",
+      "Missile"
+    ],
+    "image": "pilots/Galactic Empire/TIE Defender/onyx-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "onyxsquadronpilot"
+  },
+  {
+    "name": "Colonel Vessery",
+    "id": 69,
+    "unique": true,
+    "ship": "TIE Defender",
+    "skill": 6,
+    "points": 35,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile"
+    ],
+    "text": "When attacking, immediately after you roll attack dice, you may acquire a target lock on the defender if it already has a red target lock token.",
+    "image": "pilots/Galactic Empire/TIE Defender/colonel-vessery.png",
+    "faction": "Galactic Empire",
+    "xws": "colonelvessery"
+  },
+  {
+    "name": "Rexler Brath",
+    "id": 70,
+    "unique": true,
+    "ship": "TIE Defender",
+    "skill": 8,
+    "points": 37,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile"
+    ],
+    "text": "After you perform an attack that deals at least 1 Damage card to the defender, you may spend a focus token to flip those cards faceup.",
+    "image": "pilots/Galactic Empire/TIE Defender/rexler-brath.png",
+    "faction": "Galactic Empire",
+    "xws": "rexlerbrath"
+  },
+  {
+    "name": "Knave Squadron Pilot",
+    "id": 71,
+    "ship": "E-Wing",
+    "skill": 1,
+    "points": 27,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/E-Wing/knave-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "knavesquadronpilot"
+  },
+  {
+    "name": "Blackmoon Squadron Pilot",
+    "id": 72,
+    "ship": "E-Wing",
+    "skill": 3,
+    "points": 29,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Astromech"
+    ],
+    "image": "pilots/Rebel Alliance/E-Wing/blackmoon-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "blackmoonsquadronpilot"
+  },
+  {
+    "name": "Etahn A'baht",
+    "id": 73,
+    "unique": true,
+    "ship": "E-Wing",
+    "skill": 5,
+    "points": 32,
+    "slots": [
+      "Elite",
+      "System",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When an enemy ship inside your firing arc at Range 1-3 is defending, the attacker may change 1 of its [Hit] results to a [Critical Hit] result.",
+    "image": "pilots/Rebel Alliance/E-Wing/etahn-a-baht.png",
+    "faction": "Rebel Alliance",
+    "xws": "etahnabaht"
+  },
+  {
+    "name": "Corran Horn",
+    "id": 74,
+    "unique": true,
+    "ship": "E-Wing",
+    "skill": 8,
+    "points": 35,
+    "slots": [
+      "Elite",
+      "System",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "At the start of the End phase, you may perform one attack. You cannot attack during the next round.",
+    "image": "pilots/Rebel Alliance/E-Wing/corran-horn.png",
+    "faction": "Rebel Alliance",
+    "xws": "corranhorn"
+  },
+  {
+    "name": "Sigma Squadron Pilot",
+    "id": 75,
+    "ship": "TIE Phantom",
+    "skill": 3,
+    "points": 25,
+    "slots": [
+      "System",
+      "Crew"
+    ],
+    "image": "pilots/Galactic Empire/TIE Phantom/sigma-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "sigmasquadronpilot"
+  },
+  {
+    "name": "Shadow Squadron Pilot",
+    "id": 76,
+    "ship": "TIE Phantom",
+    "skill": 5,
+    "points": 27,
+    "slots": [
+      "System",
+      "Crew"
+    ],
+    "image": "pilots/Galactic Empire/TIE Phantom/shadow-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "shadowsquadronpilot"
+  },
+  {
+    "name": "\"Echo\"",
+    "id": 77,
+    "unique": true,
+    "ship": "TIE Phantom",
+    "skill": 6,
+    "points": 30,
+    "slots": [
+      "Elite",
+      "System",
+      "Crew"
+    ],
+    "text": "When you decloak, you must use the ([Bank Left] 2) or ([Bank Right] 2) template instead of the ([Straight] 2) template.",
+    "image": "pilots/Galactic Empire/TIE Phantom/echo.png",
+    "faction": "Galactic Empire",
+    "xws": "echo"
+  },
+  {
+    "name": "\"Whisper\"",
+    "id": 78,
+    "unique": true,
+    "ship": "TIE Phantom",
+    "skill": 7,
+    "points": 32,
+    "slots": [
+      "Elite",
+      "System",
+      "Crew"
+    ],
+    "text": "After you perform an attack that hits, you may assign 1 focus token to your ship.",
+    "image": "pilots/Galactic Empire/TIE Phantom/whisper.png",
+    "faction": "Galactic Empire",
+    "xws": "whisper"
+  },
+  {
+    "name": "CR90 Corvette (Fore)",
+    "id": 79,
+    "ship": "CR90 Corvette (Fore)",
+    "skill": 4,
+    "points": 50,
+    "slots": [
+      "Crew",
+      "Hardpoint",
+      "Hardpoint",
+      "Team",
+      "Team",
+      "Cargo"
+    ],
+    "range": "3-5",
+    "text": "When attacking with your primary weapon, you may spend 1 energy to roll 1 additional attack die.",
+    "image": "pilots/Rebel Alliance/CR90 Corvette (Fore)/cr90-corvette-fore.png",
+    "faction": "Rebel Alliance",
+    "xws": "cr90corvettefore"
+  },
+  {
+    "name": "CR90 Corvette (Aft)",
+    "id": 80,
+    "ship": "CR90 Corvette (Aft)",
+    "skill": 4,
+    "points": 40,
+    "slots": [
+      "Crew",
+      "Hardpoint",
+      "Team",
+      "Cargo"
+    ],
+    "image": "pilots/Rebel Alliance/CR90 Corvette (Aft)/cr90-corvette-aft.png",
+    "faction": "Rebel Alliance",
+    "xws": "cr90corvetteaft"
+  },
+  {
+    "name": "Wes Janson",
+    "id": 81,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 8,
+    "points": 29,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "After you perform an attack, you may remove 1 focus, evade, or blue target lock token from the defender.",
+    "image": "pilots/Rebel Alliance/X-Wing/wes-janson.png",
+    "faction": "Rebel Alliance",
+    "xws": "wesjanson"
+  },
+  {
+    "name": "Jek Porkins",
+    "id": 82,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 7,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When you receive a stress token, you may remove it and roll 1 attack die.  On a [Hit] result, deal 1 facedown Damage card to this ship.",
+    "image": "pilots/Rebel Alliance/X-Wing/jek-porkins.png",
+    "faction": "Rebel Alliance",
+    "xws": "jekporkins"
+  },
+  {
+    "name": "\"Hobbie\" Klivian",
+    "id": 83,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 5,
+    "points": 25,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When you acquire or spend a target lock, you may remove 1 stress token from your ship.",
+    "image": "pilots/Rebel Alliance/X-Wing/hobbie-klivian.png",
+    "faction": "Rebel Alliance",
+    "xws": "hobbieklivian"
+  },
+  {
+    "name": "Tarn Mison",
+    "id": 84,
+    "unique": true,
+    "ship": "X-Wing",
+    "skill": 3,
+    "points": 23,
+    "slots": [
+      "Torpedo",
+      "Astromech"
+    ],
+    "text": "When an enemy ship declares you as the target of an attack, you may acquire a target lock on that ship.",
+    "image": "pilots/Rebel Alliance/X-Wing/tarn-mison.png",
+    "faction": "Rebel Alliance",
+    "xws": "tarnmison"
+  },
+  {
+    "name": "Jake Farrell",
+    "id": 85,
+    "unique": true,
+    "ship": "A-Wing",
+    "skill": 7,
+    "points": 24,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "After you perform a focus action or are assigned a focus token, you may perform a free boost or barrel roll action.",
+    "image": "pilots/Rebel Alliance/A-Wing/jake-farrell.png",
+    "faction": "Rebel Alliance",
+    "xws": "jakefarrell"
+  },
+  {
+    "name": "Gemmer Sojan",
+    "id": 86,
+    "unique": true,
+    "ship": "A-Wing",
+    "skill": 5,
+    "points": 22,
+    "slots": [
+      "Missile"
+    ],
+    "text": "While you are at Range 1 of at least 1 enemy ship, increase your agility value by 1.",
+    "image": "pilots/Rebel Alliance/A-Wing/gemmer-sojan.png",
+    "faction": "Rebel Alliance",
+    "xws": "gemmersojan"
+  },
+  {
+    "name": "Keyan Farlander",
+    "id": 87,
+    "unique": true,
+    "ship": "B-Wing",
+    "skill": 7,
+    "points": 29,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "text": "When attacking, you may remove 1 stress token to change all of your [Focus] results to [Hit] results.",
+    "image": "pilots/Rebel Alliance/B-Wing/keyan-farlander.png",
+    "faction": "Rebel Alliance",
+    "xws": "keyanfarlander"
+  },
+  {
+    "name": "Nera Dantels",
+    "id": 88,
+    "unique": true,
+    "ship": "B-Wing",
+    "skill": 5,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "text": "You can perform [Torpedo] secondary weapon attacks against enemy ships outside your firing arc.",
+    "image": "pilots/Rebel Alliance/B-Wing/nera-dantels.png",
+    "faction": "Rebel Alliance",
+    "xws": "neradantels"
+  },
+  {
+    "name": "Dash Rendar",
+    "id": 89,
+    "unique": true,
+    "ship": "YT-2400",
+    "skill": 7,
+    "points": 36,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile",
+      "Crew"
+    ],
+    "text": "You may ignore obstacles during the Activation phase and when performing actions.",
+    "image": "pilots/Rebel Alliance/YT-2400/dash-rendar.png",
+    "faction": "Rebel Alliance",
+    "xws": "dashrendar"
+  },
+  {
+    "name": "Rear Admiral Chiraneau",
+    "id": 90,
+    "unique": true,
+    "ship": "VT-49 Decimator",
+    "skill": 8,
+    "points": 46,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Bomb"
+    ],
+    "text": "When attacking at Range 1-2, you may change one of your [Focus] results to a [Critical Hit] result.",
+    "image": "pilots/Galactic Empire/VT-49 Decimator/rear-admiral-chiraneau.png",
+    "faction": "Galactic Empire",
+    "xws": "rearadmiralchiraneau"
+  },
+  {
+    "name": "Captain Oicunn",
+    "id": 91,
+    "unique": true,
+    "ship": "VT-49 Decimator",
+    "skill": 4,
+    "points": 42,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Bomb"
+    ],
+    "text": "After executing a maneuver, each enemy ship you are touching suffers 1 damage.",
+    "image": "pilots/Galactic Empire/VT-49 Decimator/captain-oicunn.png",
+    "faction": "Galactic Empire",
+    "xws": "captainoicunn"
+  },
+  {
+    "name": "\"Leebo\"",
+    "id": 92,
+    "unique": true,
+    "ship": "YT-2400",
+    "skill": 5,
+    "points": 34,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile",
+      "Crew"
+    ],
+    "text": "When you are dealt a faceup Damage card, draw 1 additional Damage card, choose 1 to resolve, and discard the other.",
+    "image": "pilots/Rebel Alliance/YT-2400/leebo.png",
+    "faction": "Rebel Alliance",
+    "xws": "leebo"
+  },
+  {
+    "name": "Eaden Vrill",
+    "id": 93,
+    "unique": true,
+    "ship": "YT-2400",
+    "skill": 3,
+    "points": 32,
+    "slots": [
+      "Cannon",
+      "Missile",
+      "Crew"
+    ],
+    "text": "When performing a primary weapon attack against a stressed ship, roll 1 additional attack die.",
+    "image": "pilots/Rebel Alliance/YT-2400/eaden-vrill.png",
+    "faction": "Rebel Alliance",
+    "xws": "eadenvrill"
+  },
+  {
+    "name": "Commander Kenkirk",
+    "id": 94,
+    "unique": true,
+    "ship": "VT-49 Decimator",
+    "skill": 6,
+    "points": 44,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Bomb"
+    ],
+    "text": "If you have no shields and at least 1 Damage card assigned to you, increase your agility value by 1.",
+    "image": "pilots/Galactic Empire/VT-49 Decimator/commander-kenkirk.png",
+    "faction": "Galactic Empire",
+    "xws": "commanderkenkirk"
+  },
+  {
+    "name": "Patrol Leader",
+    "id": 95,
+    "ship": "VT-49 Decimator",
+    "skill": 3,
+    "points": 40,
+    "slots": [
+      "Torpedo",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Bomb"
+    ],
+    "faction": "Galactic Empire",
+    "image": "pilots/Galactic Empire/VT-49 Decimator/patrol-leader.png",
+    "xws": "patrolleader"
+  },
+  {
+    "name": "Wild Space Fringer",
+    "id": 96,
+    "ship": "YT-2400",
+    "skill": 2,
+    "points": 30,
+    "slots": [
+      "Cannon",
+      "Missile",
+      "Crew"
+    ],
+    "faction": "Rebel Alliance",
+    "image": "pilots/Rebel Alliance/YT-2400/wild-space-fringer.png",
+    "xws": "wildspacefringer"
+  },
+  {
+    "name": "Boba Fett",
+    "id": 97,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 8,
+    "points": 39,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When attacking or defending, you may reroll 1 of your dice for each enemy ship at Range 1.",
+    "image": "pilots/Scum and Villainy/Firespray-31/boba-fett.png",
+    "faction": "Scum and Villainy",
+    "xws": "bobafett"
+  },
+  {
+    "name": "Prince Xizor",
+    "id": 98,
+    "unique": true,
+    "ship": "StarViper",
+    "skill": 7,
+    "points": 31,
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "text": "When defending, a friendly ship at Range 1 may suffer 1 uncanceled [Hit] or [Critical Hit] result instead of you.",
+    "image": "pilots/Scum and Villainy/StarViper/prince-xizor.png",
+    "faction": "Scum and Villainy",
+    "xws": "princexizor"
+  },
+  {
+    "name": "Kath Scarlet",
+    "id": 99,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 7,
+    "points": 38,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When attacking a ship inside your auxiliary firing arc, roll 1 additional attack die.",
+    "image": "pilots/Scum and Villainy/Firespray-31/kath-scarlet.png",
+    "faction": "Scum and Villainy",
+    "xws": "kathscarlet"
+  },
+  {
+    "name": "Emon Azzameen",
+    "id": 100,
+    "unique": true,
+    "ship": "Firespray-31",
+    "skill": 6,
+    "points": 36,
+    "slots": [
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When dropping a bomb, you may use the ([Turn Left] 3), ([Straight] 3) or ([Turn Right] 3) template instead of the ([Straight] 1) template.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Firespray-31/emon-azzameen.png",
+    "xws": "emonazzameen"
+  },
+  {
+    "name": "N'dru Suhlak",
+    "id": 101,
+    "unique": true,
+    "ship": "Z-95 Headhunter",
+    "skill": 7,
+    "points": 17,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When attacking, if there are no other friendly ships at Range 1-2, roll 1 additional attack die.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Z-95 Headhunter/n-dru-suhlak.png",
+    "xws": "ndrusuhlak"
+  },
+  {
+    "name": "Serissu",
+    "id": 102,
+    "unique": true,
+    "ship": "M3-A Interceptor",
+    "skill": 8,
+    "points": 20,
+    "slots": [
+      "Elite"
+    ],
+    "text": "When another friendly ship at Range 1 is defending it may reroll 1 defense die.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/serissu.png",
+    "xws": "serissu"
+  },
+  {
+    "name": "IG-88A",
+    "id": 103,
+    "unique": true,
+    "ship": "Aggressor",
+    "skill": 6,
+    "points": 36,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Cannon",
+      "Bomb",
+      "Illicit"
+    ],
+    "text": "After you perform an attack that destroys the defender, you may recover 1 shield.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Aggressor/ig-88a.png",
+    "xws": "ig88a"
+  },
+  {
+    "name": "IG-88B",
+    "id": 104,
+    "unique": true,
+    "ship": "Aggressor",
+    "skill": 6,
+    "points": 36,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Cannon",
+      "Bomb",
+      "Illicit"
+    ],
+    "text": "Once per round, after you perform an attack that does not hit, you may perform an attack with an equipped [Cannon] secondary weapon.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Aggressor/ig-88b.png",
+    "xws": "ig88b"
+  },
+  {
+    "name": "IG-88C",
+    "id": 105,
+    "unique": true,
+    "ship": "Aggressor",
+    "skill": 6,
+    "points": 36,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Cannon",
+      "Bomb",
+      "Illicit"
+    ],
+    "text": "After you perform a boost action, you may perform a free evade action.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Aggressor/ig-88c.png",
+    "xws": "ig88c"
+  },
+  {
+    "name": "IG-88D",
+    "id": 106,
+    "unique": true,
+    "ship": "Aggressor",
+    "skill": 6,
+    "points": 36,
+    "slots": [
+      "Elite",
+      "System",
+      "Cannon",
+      "Cannon",
+      "Bomb",
+      "Illicit"
+    ],
+    "text": "You may execute the ([Segnor's Loop Left] 3) or ([Segnor's Loop Right] 3) maneuver using the corresponding ([Turn Left] 3) or ([Turn Right] 3) template.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Aggressor/ig-88d.png",
+    "xws": "ig88d"
+  },
+  {
+    "name": "Binayre Pirate",
+    "id": 107,
+    "ship": "Z-95 Headhunter",
+    "skill": 1,
+    "points": 12,
+    "slots": [
+      "Missile",
+      "Illicit"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Z-95 Headhunter/binayre-pirate.png",
+    "xws": "binayrepirate"
+  },
+  {
+    "name": "Black Sun Soldier",
+    "id": 108,
+    "ship": "Z-95 Headhunter",
+    "skill": 3,
+    "points": 13,
+    "slots": [
+      "Missile",
+      "Illicit"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Z-95 Headhunter/black-sun-soldier.png",
+    "xws": "blacksunsoldier"
+  },
+  {
+    "name": "Drea Renthal",
+    "id": 109,
+    "unique": true,
+    "ship": "Y-Wing",
+    "skill": 5,
+    "points": 22,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Salvaged Astromech"
+    ],
+    "text": "After you spend a target lock, you may receive 1 stress token to acquire a target lock.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Y-Wing/drea-renthal.png",
+    "xws": "drearenthal"
+  },
+  {
+    "name": "Kaa'to Leeachos",
+    "id": 110,
+    "unique": true,
+    "ship": "Z-95 Headhunter",
+    "skill": 5,
+    "points": 15,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "At the start of the Combat phase, you may remove 1 focus or evade token from another friendly ship at Range 1-2 and assign it to yourself.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Z-95 Headhunter/kaa-to-leeachos.png",
+    "xws": "kaatoleeachos"
+  },
+  {
+    "name": "Kavil",
+    "id": 111,
+    "unique": true,
+    "ship": "Y-Wing",
+    "skill": 7,
+    "points": 24,
+    "slots": [
+      "Elite",
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Salvaged Astromech"
+    ],
+    "text": "When attacking a ship outside your firing arc, roll 1 additional attack die.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Y-Wing/kavil.png",
+    "xws": "kavil"
+  },
+  {
+    "name": "Syndicate Thug",
+    "id": 112,
+    "ship": "Y-Wing",
+    "skill": 2,
+    "points": 18,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Salvaged Astromech"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Y-Wing/syndicate-thug.png",
+    "xws": "syndicatethug"
+  },
+  {
+    "name": "Mandalorian Mercenary",
+    "id": 113,
+    "ship": "Firespray-31",
+    "skill": 5,
+    "points": 35,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Bomb",
+      "Crew",
+      "Missile",
+      "Illicit"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Firespray-31/mandalorian-mercenary.png",
+    "xws": "mandalorianmercenary"
+  },
+  {
+    "name": "Dace Bonearm",
+    "id": 114,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 7,
+    "points": 23,
+    "slots": [
+      "Elite",
+      "Turret",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "When an enemy ship at Range 1-3 receives at least 1 ion token, if you are not stressed, you may receive 1 stress token to cause that ship to suffer 1 damage.",
+    "image": "pilots/Scum and Villainy/HWK-290/dace-bonearm.png",
+    "faction": "Scum and Villainy",
+    "xws": "dacebonearm"
+  },
+  {
+    "name": "Palob Godalhi",
+    "id": 115,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 5,
+    "points": 20,
+    "slots": [
+      "Elite",
+      "Turret",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "At the start of the Combat phase, you may remove 1 focus or evade token from an enemy ship at Range 1-2 and assign it to yourself.",
+    "image": "pilots/Scum and Villainy/HWK-290/palob-godalhi.png",
+    "faction": "Scum and Villainy",
+    "xws": "palobgodalhi"
+  },
+  {
+    "name": "Torkil Mux",
+    "id": 116,
+    "unique": true,
+    "ship": "HWK-290",
+    "skill": 3,
+    "points": 19,
+    "slots": [
+      "Turret",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "At the end of the Activation phase, choose 1 enemy ship at Range 1-2. Until the end of the Combat phase, treat that ship's pilot skill value as \"0\".",
+    "image": "pilots/Scum and Villainy/HWK-290/torkil-mux.png",
+    "faction": "Scum and Villainy",
+    "xws": "torkilmux"
+  },
+  {
+    "name": "Guri",
+    "id": 117,
+    "unique": true,
+    "ship": "StarViper",
+    "skill": 5,
+    "points": 30,
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "text": "At the start of the Combat phase, if you are at Range 1 of an enemy ship, you may assign 1 focus token to your ship.",
+    "image": "pilots/Scum and Villainy/StarViper/guri.png",
+    "faction": "Scum and Villainy",
+    "xws": "guri"
+  },
+  {
+    "name": "Black Sun Vigo",
+    "id": 118,
+    "ship": "StarViper",
+    "skill": 3,
+    "points": 27,
+    "slots": [
+      "Torpedo"
+    ],
+    "image": "pilots/Scum and Villainy/StarViper/black-sun-vigo.png",
+    "faction": "Scum and Villainy",
+    "xws": "blacksunvigo"
+  },
+  {
+    "name": "Black Sun Enforcer",
+    "id": 119,
+    "ship": "StarViper",
+    "skill": 1,
+    "points": 25,
+    "slots": [
+      "Torpedo"
+    ],
+    "image": "pilots/Scum and Villainy/StarViper/black-sun-enforcer.png",
+    "faction": "Scum and Villainy",
+    "xws": "blacksunenforcer"
+  },
+  {
+    "name": "Commander Alozen",
+    "id": 120,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 5,
+    "points": 25,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "At the start of the Combat phase, you may acquire a target lock on an enemy ship at Range 1.",
+    "image": "pilots/Galactic Empire/TIE Advanced/commander-alozen.png",
+    "faction": "Galactic Empire",
+    "xws": "commanderalozen"
+  },
+  {
+    "name": "Laetin A'shera",
+    "id": 121,
+    "unique": true,
+    "ship": "M3-A Interceptor",
+    "skill": 6,
+    "points": 18,
+    "slots": [],
+    "text": "After you defend against an attack, if the attack did not hit, you may assign 1 evade token to your ship.",
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/laetin-a-shera.png",
+    "xws": "laetinashera"
+  },
+  {
+    "name": "Cartel Spacer",
+    "id": 122,
+    "ship": "M3-A Interceptor",
+    "skill": 2,
+    "points": 14,
+    "slots": [],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/cartel-spacer.png",
+    "xws": "cartelspacer"
+  },
+  {
+    "name": "Raider-class Corvette (Fore)",
+    "id": 123,
+    "ship": "Raider-class Corvette (Fore)",
+    "skill": 4,
+    "points": 50,
+    "slots": [
+      "Hardpoint",
+      "Team",
+      "Cargo"
+    ],
+    "range": "2-4",
+    "text": "Once per round, after you perform a primary weapon attack, you may spend 2 energy to perform another primary weapon attack.",
+    "faction": "Galactic Empire",
+    "image": "pilots/Galactic Empire/Raider-Class Corvette/raider-class-corv-fore.png",
+    "xws": "raiderclasscorvettefore"
+  },
+  {
+    "name": "Raider-class Corvette (Aft)",
+    "id": 124,
+    "ship": "Raider-class Corvette (Aft)",
+    "skill": 4,
+    "points": 50,
+    "slots": [
+      "Crew",
+      "Crew",
+      "Hardpoint",
+      "Hardpoint",
+      "Team",
+      "Team",
+      "Cargo"
+    ],
+    "faction": "Galactic Empire",
+    "image": "pilots/Galactic Empire/Raider-Class Corvette/raider-class-corv-aft.png",
+    "xws": "raiderclasscorvetteaft"
+  },
+  {
+    "name": "Tansarii Point Veteran",
+    "id": 125,
+    "ship": "M3-A Interceptor",
+    "skill": 5,
+    "points": 17,
+    "slots": [
+      "Elite"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/tansarii-point-veteran.png",
+    "xws": "tansariipointveteran"
+  },
+  {
+    "name": "Hired Gun",
+    "id": 126,
+    "ship": "Y-Wing",
+    "skill": 4,
+    "points": 20,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Salvaged Astromech"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/Y-Wing/hired-gun.png",
+    "xws": "hiredgun"
+  },
+  {
+    "name": "Spice Runner",
+    "id": 127,
+    "ship": "HWK-290",
+    "skill": 1,
+    "points": 16,
+    "slots": [
+      "Turret",
+      "Crew",
+      "Illicit"
+    ],
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/HWK-290/spice-runner.png",
+    "xws": "spicerunner"
+  },
+  {
+    "name": "Lieutenant Colzet",
+    "id": 128,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 3,
+    "points": 23,
+    "slots": [
+      "Missile"
+    ],
+    "text": "At the start of the End phase, you may spend a target lock you have on an enemy ship to flip 1 random facedown Damage card assigned to it faceup.",
+    "image": "pilots/Galactic Empire/TIE Advanced/lieutenant-colzet.png",
+    "faction": "Galactic Empire",
+    "xws": "lieutenantcolzet"
+  },
+  {
+    "name": "Zertik Strom",
+    "id": 129,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 6,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "Enemy ships at Range 1 cannot add their range combat bonus when attacking.",
+    "image": "pilots/Galactic Empire/TIE Advanced/zertik-strom.png",
+    "faction": "Galactic Empire",
+    "xws": "zertikstrom"
+  },
+  {
+    "name": "Juno Eclipse",
+    "id": 130,
+    "unique": true,
+    "ship": "TIE Advanced",
+    "skill": 8,
+    "points": 28,
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "text": "When you reveal your maneuver, you may increase or decrease its speed by 1 (to a minimum of 1).",
+    "image": "pilots/Galactic Empire/TIE Advanced/juno-eclipse.png",
+    "faction": "Galactic Empire",
+    "xws": "junoeclipse"
+  },
+  {
+    "name": "Trandoshan Slaver",
+    "id": 131,
+    "ship": "YV-666",
+    "skill": 2,
+    "points": 29,
+    "slots": [
+      "Cannon",
+      "Missile",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Illicit"
+    ],
+    "image": "pilots/Scum and Villainy/YV-666/trandoshan-slaver.png",
+    "faction": "Scum and Villainy",
+    "xws": "trandoshanslaver"
+  },
+  {
+    "name": "Latts Razzi",
+    "id": 132,
+    "unique": true,
+    "ship": "YV-666",
+    "skill": 5,
+    "points": 33,
+    "slots": [
+      "Cannon",
+      "Missile",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "When a friendly ship declares an attack, you may spend a target lock you have on the defender to reduce its agility by 1 for that attack.",
+    "image": "pilots/Scum and Villainy/YV-666/latts-razzi.png",
+    "faction": "Scum and Villainy",
+    "xws": "lattsrazzi"
+  },
+  {
+    "name": "Bossk",
+    "id": 133,
+    "unique": true,
+    "ship": "YV-666",
+    "skill": 7,
+    "points": 35,
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "When you perform an attack that hits, before dealing damage, you may cancel 1 of your [Critical Hit] results to add 2 [Hit] results.",
+    "image": "pilots/Scum and Villainy/YV-666/bossk.png",
+    "faction": "Scum and Villainy",
+    "xws": "bossk"
+  },
+  {
+    "name": "Nashtah Pup Pilot",
+    "id": 134,
+    "unique": true,
+    "ship": "Z-95 Headhunter",
+    "skill": "?",
+    "points": "?",
+    "slots": [],
+    "text": "You have the pilot skill and pilot ability of the friendly destroyed ship equipped with the <em>Hound's Tooth</em> Upgrade card.",
+    "image": "pilots/Scum and Villainy/Z-95 Headhunter/nashtah-pup.png",
+    "faction": "Scum and Villainy",
+    "xws": "nashtahpuppilot"
+  },
+  {
+    "name": "Cartel Marauder",
+    "id": 135,
+    "ship": "Kihraxz Fighter",
+    "skill": 2,
+    "points": 20,
+    "slots": [
+      "Missile",
+      "Illicit"
+    ],
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/cartel-marauder.png",
+    "faction": "Scum and Villainy",
+    "xws": "cartelmarauder"
+  },
+  {
+    "name": "Black Sun Ace",
+    "id": 136,
+    "ship": "Kihraxz Fighter",
+    "skill": 5,
+    "points": 23,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Illicit"
+    ],
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/black-sun-ace.png",
+    "faction": "Scum and Villainy",
+    "xws": "blacksunace"
+  },
+  {
+    "name": "Graz the Hunter",
+    "id": 137,
+    "unique": true,
+    "ship": "Kihraxz Fighter",
+    "skill": 6,
+    "points": 25,
+    "slots": [
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When defending, if the attacker is inside your firing arc, roll 1 additional defense die.",
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/graz-the-hunter.png",
+    "faction": "Scum and Villainy",
+    "xws": "grazthehunter"
+  },
+  {
+    "name": "Talonbane Cobra",
+    "id": 138,
+    "unique": true,
+    "ship": "Kihraxz Fighter",
+    "skill": 9,
+    "points": 28,
+    "slots": [
+      "Elite",
+      "Missile",
+      "Illicit"
+    ],
+    "text": "When attacking or defending, double the effect of your range combat bonuses.",
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/talonbane-cobra.png",
+    "faction": "Scum and Villainy",
+    "xws": "talonbanecobra"
+  },
+  {
+    "name": "Warden Squadron Pilot",
+    "id": 139,
+    "ship": "K-Wing",
+    "skill": 2,
+    "points": 23,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Crew",
+      "Bomb",
+      "Bomb"
+    ],
+    "image": "pilots/Rebel Alliance/K-Wing/warden-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "wardensquadronpilot"
+  },
+  {
+    "name": "Esege Tuketu",
+    "id": 140,
+    "unique": true,
+    "ship": "K-Wing",
+    "skill": 6,
+    "points": 28,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Crew",
+      "Bomb",
+      "Bomb"
+    ],
+    "text": "When another friendly ship at Range 1-2 is attacking, it may treat your focus tokens as its own.",
+    "image": "pilots/Rebel Alliance/K-Wing/esege-tuketu.png",
+    "faction": "Rebel Alliance",
+    "xws": "esegetuketu"
+  },
+  {
+    "name": "Miranda Doni",
+    "id": 141,
+    "unique": true,
+    "ship": "K-Wing",
+    "skill": 8,
+    "points": 29,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Crew",
+      "Bomb",
+      "Bomb"
+    ],
+    "text": "Once per round when attacking, you may either spend 1 shield to roll 1 additional attack die <strong>or</strong> roll 1 fewer attack die to recover 1 shield.",
+    "image": "pilots/Rebel Alliance/K-Wing/miranda-doni.png",
+    "faction": "Rebel Alliance",
+    "xws": "mirandadoni"
+  },
+  {
+    "name": "\"Redline\"",
+    "id": 142,
+    "unique": true,
+    "ship": "TIE Punisher",
+    "skill": 7,
+    "points": 27,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb",
+      "Bomb"
+    ],
+    "text": "You may maintain 2 target locks on the same ship. When you acquire a target lock, you may acquire a second lock on that same ship.",
+    "image": "pilots/Galactic Empire/TIE Punisher/redline.png",
+    "faction": "Galactic Empire",
+    "xws": "redline"
+  },
+  {
+    "name": "\"Deathrain\"",
+    "id": 143,
+    "unique": true,
+    "ship": "TIE Punisher",
+    "skill": 6,
+    "points": 26,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb",
+      "Bomb"
+    ],
+    "text": "When dropping a bomb, you may use the front guides of your ship. After dropping a bomb, you may perform a free barrel roll action.",
+    "image": "pilots/Galactic Empire/TIE Punisher/deathrain.png",
+    "faction": "Galactic Empire",
+    "xws": "deathrain"
+  },
+  {
+    "name": "Cutlass Squadron Pilot",
+    "id": 144,
+    "ship": "TIE Punisher",
+    "skill": 2,
+    "points": 21,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb",
+      "Bomb"
+    ],
+    "image": "pilots/Galactic Empire/TIE Punisher/cutlass-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "cutlasssquadronpilot"
+  },
+  {
+    "name": "Black Eight Squadron Pilot",
+    "id": 145,
+    "ship": "TIE Punisher",
+    "skill": 4,
+    "points": 23,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile",
+      "Bomb",
+      "Bomb"
+    ],
+    "image": "pilots/Galactic Empire/TIE Punisher/black-eight-squadron-pilot.png",
+    "faction": "Galactic Empire",
+    "xws": "blackeightsquadronpilot"
+  },
+  {
+    "name": "Moralo Eval",
+    "id": 146,
+    "unique": true,
+    "ship": "YV-666",
+    "skill": 6,
+    "points": 34,
+    "slots": [
+      "Cannon",
+      "Missile",
+      "Crew",
+      "Crew",
+      "Crew",
+      "Illicit"
+    ],
+    "text": "You can perform [Cannon] seconday weapon attacks against ships inside your auxiliary firing arc.",
+    "image": "pilots/Scum and Villainy/YV-666/moralo-eval.png",
+    "faction": "Scum and Villainy",
+    "xws": "moraloeval"
+  },
+  {
+    "name": "Guardian Squadron Pilot",
+    "id": 147,
+    "ship": "K-Wing",
+    "skill": 4,
+    "points": 25,
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Crew",
+      "Bomb",
+      "Bomb"
+    ],
+    "image": "pilots/Rebel Alliance/K-Wing/guardian-squadron-pilot.png",
+    "faction": "Rebel Alliance",
+    "xws": "guardiansquadronpilot"
+  },
+  {
+    "name": "\"Epsilon Leader\"",
+    "unique": true,
+    "id": 148,
+    "ship": "TIE/fo Fighter",
+    "skill": 6,
+    "points": 19,
+    "slots": [
+      "Tech"
+    ],
+    "text": "At the start of the Combat phase, remove 1 stress token from each friendly ship at Range 1.",
+    "image": "pilots/First Order/TIE-fo Fighter/epsilon-leader.png",
+    "faction": "First Order",
+    "xws": "epsilonleader"
+  },
+  {
+    "name": "Epsilon Squadron Pilot",
+    "id": 149,
+    "ship": "TIE/fo Fighter",
+    "skill": 1,
+    "points": 15,
+    "slots": [
+      "Tech"
+    ],
+    "image": "pilots/First Order/TIE-fo Fighter/epsilon-squadron-pilot.png",
+    "faction": "First Order",
+    "xws": "epsilonsquadronpilot"
+  },
+  {
+    "name": "\"Omega Ace\"",
+    "unique": true,
+    "id": 150,
+    "ship": "TIE/fo Fighter",
+    "skill": 7,
+    "points": 20,
+    "slots": [
+      "Elite",
+      "Tech"
+    ],
+    "text": "When attacking, you may spend a focus token and a target lock you have on the defender to change all of your results to [Critical Hit] results.",
+    "image": "pilots/First Order/TIE-fo Fighter/omega-ace.png",
+    "faction": "First Order",
+    "xws": "omegaace"
+  },
+  {
+    "name": "\"Omega Leader\"",
+    "unique": true,
+    "id": 151,
+    "ship": "TIE/fo Fighter",
+    "skill": 8,
+    "points": 21,
+    "slots": [
+      "Elite",
+      "Tech"
+    ],
+    "text": "Enemy ships that you have locked cannot modify any dice when attacking you or defending against your attacks.",
+    "image": "pilots/First Order/TIE-fo Fighter/omega-leader.png",
+    "faction": "First Order",
+    "xws": "omegaleader"
+  },
+  {
+    "name": "\"Zeta Ace\"",
+    "unique": true,
+    "id": 152,
+    "ship": "TIE/fo Fighter",
+    "skill": 5,
+    "points": 18,
+    "slots": [
+      "Elite",
+      "Tech"
+    ],
+    "text": "When performing a barrel roll, you may use the ([Straight] 2) template (instead of the ([Straight] 1) template).",
+    "image": "pilots/First Order/TIE-fo Fighter/zeta-ace.png",
+    "faction": "First Order",
+    "xws": "zetaace"
+  },
+  {
+    "name": "Zeta Squadron Pilot",
+    "id": 153,
+    "ship": "TIE/fo Fighter",
+    "skill": 3,
+    "points": 16,
+    "slots": [
+      "Tech"
+    ],
+    "image": "pilots/First Order/TIE-fo Fighter/zeta-squadron-pilot.png",
+    "faction": "First Order",
+    "xws": "zetasquadronpilot"
+  },
+  {
+    "name": "Omega Squadron Pilot",
+    "id": 154,
+    "ship": "TIE/fo Fighter",
+    "skill": 4,
+    "points": 17,
+    "slots": [
+      "Elite",
+      "Tech"
+    ],
+    "faction": "First Order",
+    "image": "pilots/First Order/TIE-fo Fighter/omega-squadron-pilot.png",
+    "xws": "omegasquadronpilot"
+  },
+  {
+    "name": "Blue Squadron Novice",
+    "id": 155,
+    "ship": "T-70 X-Wing",
+    "skill": 2,
+    "points": 24,
+    "slots": [
+      "Torpedo",
+      "Astromech",
+      "Tech"
+    ],
+    "image": "pilots/Resistance/T-70 X-Wing/blue-squadron-novice.png",
+    "faction": "Resistance",
+    "xws": "bluesquadronnovice"
+  },
+  {
+    "name": "Poe Dameron",
+    "unique": true,
+    "id": 156,
+    "ship": "T-70 X-Wing",
+    "skill": 8,
+    "points": 31,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech",
+      "Tech"
+    ],
+    "text": "While attacking or defending, if you have a focus token, you may change 1 of your [Focus] results to a [Hit] or [Evade] result.",
+    "image": "pilots/Resistance/T-70 X-Wing/poe-dameron.png",
+    "faction": "Resistance",
+    "xws": "poedameron"
+  },
+  {
+    "name": "\"Red Ace\"",
+    "unique": true,
+    "id": 157,
+    "ship": "T-70 X-Wing",
+    "skill": 6,
+    "points": 29,
+    "slots": [
+      "Torpedo",
+      "Astromech",
+      "Tech"
+    ],
+    "text": "The first time you remove a shield token from your ship each round, assign 1 evade token to your ship.",
+    "image": "pilots/Resistance/T-70 X-Wing/red-ace.png",
+    "faction": "Resistance",
+    "xws": "redace"
+  },
+  {
+    "name": "Red Squadron Veteran",
+    "id": 158,
+    "ship": "T-70 X-Wing",
+    "skill": 4,
+    "points": 26,
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Astromech",
+      "Tech"
+    ],
+    "image": "pilots/Resistance/T-70 X-Wing/red-squadron-veteran.png",
+    "faction": "Resistance",
+    "xws": "redsquadronveteran"
+  },
+  {
+    "name": "\"Blue Ace\"",
+    "unique": true,
+    "id": 159,
+    "ship": "T-70 X-Wing",
+    "skill": 5,
+    "points": 27,
+    "slots": [
+      "Torpedo",
+      "Astromech",
+      "Tech"
+    ],
+    "text": "When performing a boost action, you may use the ([Hard Left] 1) or ([Hard Right] 1) template.",
+    "faction": "Resistance",
+    "image": "pilots/Resistance/T-70 X-Wing/blue-ace.png",
+    "xws": "blueace"
+  },
+  {
+    "name": "Hera Syndulla",
+    "ship": "VCX-100",
+    "unique": true,
+    "skill": 7,
+    "points": 40,
+    "faction": "Rebel Alliance",
+    "id": 160,
+    "text": "When you reveal a green or red maneuver, you may rotate your dial to another maneuver of the same difficulty.",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Turret"
+    ],
+    "image": "pilots/Rebel Alliance/VCX-100/hera-syndulla.png",
+    "xws": "herasyndulla"
+  },
+  {
+    "image": "pilots/Scum and Villainy/JumpMaster 5000/dengar.png",
+    "name": "Dengar",
+    "text": "Once per round after defending, if the attacker is inside your firing arc, you may perform an attack against that ship.",
+    "unique": true,
+    "skill": 9,
+    "points": 33,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo",
+      "Torpedo",
+      "Crew",
+      "Salvaged Astromech",
+      "Illicit"
+    ],
+    "id": 161,
+    "ship": "JumpMaster 5000",
+    "xws": "dengar"
+  },
+  {
+    "text": "When attacking you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
+    "name": "Zuckuss",
+    "ship": "G-1A Starfighter",
+    "unique": true,
+    "skill": 7,
+    "points": 28,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "System"
+    ],
+    "id": 162,
+    "xws": "zuckuss"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Adv. Prototype/the-inquisitor.png",
+    "text": "When attacking with your primary weapon at Range 2-3, treat the range of the attack as Range 1.",
+    "name": "The Inquisitor",
+    "ship": "TIE Adv. Prototype",
+    "unique": true,
+    "skill": 8,
+    "points": 25,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "id": 163,
+    "xws": "theinquisitor"
+  },
+  {
+    "image": "pilots/Galactic Empire/Gozanti-Class Cruiser/gozanti-class-cruiser.png",
+    "name": "Gozanti-Class Cruiser",
+    "text": "After you execute a maneuver, you may deploy up to 2 docked ships.",
+    "ship": "Gozanti-Class Cruiser",
+    "skill": 2,
+    "points": 40,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Hardpoint",
+      "Team",
+      "Cargo",
+      "Cargo"
+    ],
+    "id": 164,
+    "xws": "gozanticlasscruiser"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Fighter/scourge.png",
+    "text": "When attacking a defender that has 1 or more Damage cards, roll 1 additional attack die.",
+    "name": "\"Scourge\"",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 17,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite"
+    ],
+    "id": 165,
+    "xws": "scourge"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Fighter/wampa.png",
+    "name": "\"Wampa\"",
+    "text": "When attacking, you may cancel all dice results. If you cancel a [Critical Hit] result, deal 1 facedown Damage card to the defender.",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 4,
+    "points": 14,
+    "faction": "Galactic Empire",
+    "id": 166,
+    "xws": "wampa"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Fighter/youngster.png",
+    "text": "Friendly TIE fighters at Range 1-3 may perform the action on your equipped [Elite] Upgrade card.",
+    "name": "\"Youngster\"",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 6,
+    "points": 15,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite"
+    ],
+    "id": 167,
+    "xws": "youngster"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Fighter/chaser.png",
+    "text": "When another friendly ship at Range 1 spends a focus token, assign a focus token to your ship.",
+    "name": "\"Chaser\"",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 3,
+    "points": 14,
+    "faction": "Galactic Empire",
+    "id": 168,
+    "xws": "chaser"
+  },
+  {
+    "image": "pilots/Rebel Alliance/Attack Shuttle/ezra-bridger.png",
+    "text": "When defending, if you are stressed, you may change up to 2 of your [Focus] results to [Evade] results.",
+    "name": "Ezra Bridger",
+    "ship": "Attack Shuttle",
+    "unique": true,
+    "skill": 4,
+    "points": 20,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Turret",
+      "Crew",
+      "Elite"
+    ],
+    "id": 169,
+    "xws": "ezrabridger"
+  },
+  {
+    "image": "pilots/First Order/TIE-fo Fighter/epsilon-ace.png",
+    "text": "While you do not have any Damage cards, treat your pilot skill value as \"12.\"",
+    "name": "\"Epsilon Ace\"",
+    "ship": "TIE/fo Fighter",
+    "unique": true,
+    "skill": 4,
+    "points": 17,
+    "faction": "First Order",
+    "slots": [
+      "Tech"
+    ],
+    "id": 170,
+    "xws": "epsilonace"
+  },
+  {
+    "image": "pilots/First Order/TIE-fo Fighter/zeta-leader.png",
+    "text": "When attacking, if you are not stressed, you may receive 1 stress token to roll 1 additional attack die.",
+    "name": "\"Zeta Leader\"",
+    "ship": "TIE/fo Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 20,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "Tech"
+    ],
+    "id": 171,
+    "xws": "zetaleader"
+  },
+  {
+    "image": "pilots/Rebel Alliance/VCX-100/chopper.png",
+    "text": "At the start of the Combat phase, each enemy ship you are touching receives 1 stress token.",
+    "name": "\"Chopper\"",
+    "ship": "VCX-100",
+    "unique": true,
+    "skill": 4,
+    "points": 37,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "System",
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "Crew",
+      "Crew"
+    ],
+    "id": 172,
+    "xws": "chopper"
+  },
+  {
+    "image": "pilots/Rebel Alliance/VCX-100/kanan-jarrus.png",
+    "text": "When an enemy ship at Range 1-2 is attacking, you may spend a focus token. If you do, the attacker rolls 1 fewer attack die.",
+    "name": "Kanan Jarrus",
+    "ship": "VCX-100",
+    "unique": true,
+    "skill": 5,
+    "points": 38,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Turret",
+      "Torpedo",
+      "Torpedo",
+      "System",
+      "Crew",
+      "Crew"
+    ],
+    "id": 173,
+    "xws": "kananjarrus"
+  },
+  {
+    "image": "pilots/Rebel Alliance/Attack Shuttle/hera-syndulla.png",
+    "text": "When you reveal a green or red maneuver, you may rotate your dial to another maneuver of the same difficulty.",
+    "name": "Hera Syndulla",
+    "ship": "Attack Shuttle",
+    "unique": true,
+    "skill": 7,
+    "points": 22,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Elite",
+      "Turret",
+      "Crew"
+    ],
+    "id": 174,
+    "xws": "herasyndulla"
+  },
+  {
+    "image": "pilots/Rebel Alliance/Attack Shuttle/sabine-wren.png",
+    "text": "Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.",
+    "name": "Sabine Wren",
+    "ship": "Attack Shuttle",
+    "unique": true,
+    "skill": 5,
+    "points": 21,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Turret",
+      "Crew",
+      "Elite"
+    ],
+    "id": 175,
+    "xws": "sabinewren"
+  },
+  {
+    "image": "pilots/Rebel Alliance/Attack Shuttle/zeb-orrelios.png",
+    "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
+    "name": "\"Zeb\" Orrelios",
+    "ship": "Attack Shuttle",
+    "unique": true,
+    "skill": 3,
+    "points": 18,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Turret"
+    ],
+    "id": 176,
+    "xws": "zeborrelios"
+  },
+  {
+    "name": "Tomax Bren",
+    "text": "Once per round, after you discard an [Elite] Upgrade card, flip that card faceup.",
+    "ship": "TIE Bomber",
+    "unique": true,
+    "skill": 8,
+    "points": 24,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Bomb",
+      "Elite",
+      "Torpedo",
+      "Torpedo",
+      "Missile",
+      "Missile"
+    ],
+    "id": 177,
+    "xws": "tomaxbren"
+  },
+  {
+    "name": "Gamma Squadron Veteran",
+    "ship": "TIE Bomber",
+    "unique": false,
+    "skill": 5,
+    "points": 19,
+    "faction": "Galactic Empire",
+    "image": "pilots/Galactic Empire/TIE Bomber/gamma-squadron-veteran.png",
+    "slots": [
+      "Bomb",
+      "Elite",
+      "Missile",
+      "Missile",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "id": 178,
+    "xws": "gammasquadronveteran"
+  },
+  {
+    "image": "pilots/Resistance/T-70 X-Wing/ello-asty.png",
+    "text": "While you are not stressed, you may treat your [Tallon Roll Left] and [Tallon Roll Right] maneuvers as white maneuvers.",
+    "name": "Ello Asty",
+    "ship": "T-70 X-Wing",
+    "unique": true,
+    "skill": 7,
+    "points": 30,
+    "faction": "Resistance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Tech",
+      "Torpedo"
+    ],
+    "id": 179,
+    "xws": "elloasty"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Adv. Prototype/valen-rudor.png",
+    "text": "After defending, you may perform a free action.",
+    "name": "Valen Rudor",
+    "ship": "TIE Adv. Prototype",
+    "unique": true,
+    "skill": 6,
+    "points": 22,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile"
+    ],
+    "id": 180,
+    "xws": "valenrudor"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Adv. Prototype/sienar-test-pilot.png",
+    "name": "Sienar Test Pilot",
+    "ship": "TIE Adv. Prototype",
+    "skill": 2,
+    "points": 16,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Missile"
+    ],
+    "id": 181,
+    "xws": "sienartestpilot"
+  }
+]
