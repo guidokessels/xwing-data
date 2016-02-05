@@ -2678,7 +2678,8 @@
       "System"
     ],
     "id": 162,
-    "xws": "zuckuss"
+    "xws": "zuckuss",
+    "image": "pilots/Scum and Villainy/G-1A Starfighter/zuckuss.png"
   },
   {
     "image": "pilots/Galactic Empire/TIE Adv. Prototype/the-inquisitor.png",
@@ -2991,5 +2992,23 @@
     ],
     "id": 181,
     "xws": "sienartestpilot"
+  },
+  {
+    "image": "pilots/Scum and Villainy/G-1A Starfighter/4-lom.png",
+    "text": "At the start of the End phase, you may assign 1 of your stress tokens to another ship at Range 1.",
+    "name": "4-LOM",
+    "xws": "4lom",
+    "ship": "G-1A Starfighter",
+    "unique": true,
+    "skill": 6,
+    "points": 27,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "System"
+    ],
+    "id": 182
   }
 ]

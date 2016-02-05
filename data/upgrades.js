@@ -2309,7 +2309,8 @@
       "G-1A Starfighter"
     ],
     "id": 209,
-    "xws": "misthunter"
+    "xws": "misthunter",
+    "image": "upgrades/Title/mist-hunter.png"
   },
   {
     "image": "upgrades/Crew/kannan-jarrus.png",
@@ -2534,5 +2535,54 @@
     "slot": "Modification",
     "id": 229,
     "xws": "guidancechips"
+  },
+  {
+    "image": "upgrades/Crew/zuckuss.png",
+    "text": "When attacking, you may receive any number of stress tokens to choose an equal number of defense dice. The defender must reroll those dice.",
+    "name": "Zuckuss",
+    "xws": "zuckuss",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 230
+  },
+  {
+    "image": "upgrades/Crew/4-lom.png",
+    "text": "When attacking, during the \"Modify Attack Dice\" step, you may receive 1 ion token to choose 1 of the defender's focus or evade tokens. That token cannot be spent during this attack.",
+    "name": "4-LOM",
+    "xws": "4lom",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 231
+  },
+  {
+    "image": "upgrades/Elite/adaptability-decrease.png",
+    "text": "Decrease your pilot skill value by 1.",
+    "name": "Adaptability (-1)",
+    "xws": "adaptability",
+    "points": 0,
+    "slot": "Elite",
+    "id": 232
+  },
+  {
+    "image": "upgrades/Elite/adaptability-increase.png",
+    "text": "Increase your pilot skill value by 1.",
+    "name": "Adaptability (+1)",
+    "xws": "adaptability",
+    "points": 0,
+    "slot": "Elite",
+    "id": 233
+  },
+  {
+    "image": "upgrades/System/electronic-baffle.png",
+    "text": "When you receive a stress token or an ion token, you may suffer 1 damage to discard that token.",
+    "name": "Electronic Baffle",
+    "xws": "electronicbaffle",
+    "points": 1,
+    "slot": "System",
+    "id": 234
   }
 ]
