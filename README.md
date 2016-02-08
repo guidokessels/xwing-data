@@ -57,12 +57,12 @@ See the [Releases tab](https://github.com/guidokessels/xwing-data/releases) in G
 
 - Guido Kessels (mail@guidokessels.com)
 
-The first version of the data was based on Geordan Rosario's squad builder, found here: https://github.com/geordanr/xwing.
+The first version of the data was based on Geordan Rosario's squad builder in 2014, found here: https://github.com/geordanr/xwing.
 
 ## License
 [MIT](http://guidokessels.mit-license.org/)
 
 ---
 
-Star Wars, X-Wing: The Miniatures Game and all related properties are owned by Fantasy Flight Games, Lucasfilm Ltd., and/or Disney.
+Star Wars, X-Wing: The Miniatures Game and all related properties, images and text are owned by Fantasy Flight Games, Lucasfilm Ltd., and/or Disney.
 
