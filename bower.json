@@ -6,7 +6,6 @@
     "Guido Kessels <mail@guidokessels.com>"
   ],
   "description": "An easy-to-use collection of data and images from X-Wing: The Miniatures Game by Fantasy Flight Games.",
-  "private": true,
   "license": "MIT",
   "ignore": [
     "**/.*",
