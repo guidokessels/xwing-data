@@ -3099,5 +3099,34 @@
       "Elite"
     ],
     "id": 187
+  },
+  {
+    "name": "Gand Findsman",
+    "xws": "gandfindsman",
+    "ship": "G-1A Starfighter",
+    "skill": 5,
+    "points": 25,
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "System"
+    ],
+    "id": 188,
+    "faction": "Scum and Villainy"
+  },
+  {
+    "name": "Ruthless Freelancer",
+    "xws": "ruthlessfreelancer",
+    "ship": "G-1A Starfighter",
+    "skill": 3,
+    "points": 23,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Illicit",
+      "Crew",
+      "System"
+    ],
+    "id": 189
   }
 ]
