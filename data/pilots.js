@@ -3068,5 +3068,23 @@
       "Torpedo"
     ],
     "id": 185
+  },
+  {
+    "image": "pilots/Rebel Alliance/VCX-100/lothal-rebel.png",
+    "name": "Lothal Rebel",
+    "xws": "lothalrebel",
+    "ship": "VCX-100",
+    "skill": 3,
+    "points": 35,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Torpedo",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 186
   }
 ]

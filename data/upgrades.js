@@ -2653,6 +2653,17 @@
     "xws": "overclockedr4",
     "points": 1,
     "slot": "Salvaged Astromech",
-    "id": 241
+    "id": 241,
+    "image": "upgrades/Salvaged Astromech/overclocked-r4.png"
+  },
+  {
+    "text": "When you reveal your maneuver dial, you may discard this card to <strong>drop</strong> 1 thermal detonator token.<br /><br />This token <strong>detonates</strong> at the end of the Activation phase.",
+    "name": "Thermal Detonators",
+    "xws": "thermaldetonators",
+    "points": 3,
+    "slot": "Bomb",
+    "id": 242,
+    "effect": "When this bomb token detonates, each ship at Range 1 of the token suffers 1 damage and receives 1 stress token. Then discard this token.",
+    "image": "upgrades/Bomb/thermal-detonators.png"
   }
 ]
