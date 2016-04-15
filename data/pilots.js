@@ -3086,5 +3086,18 @@
       "Turret"
     ],
     "id": 186
+  },
+  {
+    "name": "Baron of the Empire",
+    "xws": "baronoftheempire",
+    "ship": "TIE Adv. Prototype",
+    "skill": 4,
+    "points": 19,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Missile",
+      "Elite"
+    ],
+    "id": 187
   }
 ]
