@@ -2925,7 +2925,8 @@
       "Missile"
     ],
     "id": 177,
-    "xws": "tomaxbren"
+    "xws": "tomaxbren",
+    "image": "pilots/Galactic Empire/TIE Bomber/tomax-bren.png"
   },
   {
     "name": "Gamma Squadron Veteran",
@@ -3128,5 +3129,24 @@
       "System"
     ],
     "id": 189
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Bomber/deathfire.png",
+    "text": "When you reveal your maneuver dial or after you perform an action, you may perform a [Bomb] Upgrade card action as a free action.",
+    "name": "\"Deathfire\"",
+    "xws": "deathfire",
+    "ship": "TIE Bomber",
+    "unique": true,
+    "skill": 3,
+    "points": 17,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Bomb",
+      "Missile",
+      "Missile",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "id": 190
   }
 ]

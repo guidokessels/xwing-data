@@ -2444,7 +2444,8 @@
       "TIE Bomber"
     ],
     "id": 221,
-    "xws": "tieshuttle"
+    "xws": "tieshuttle",
+    "image": "upgrades/Title/tie-shuttle.png"
   },
   {
     "image": "upgrades/Modification/long-range-scanners.png",
