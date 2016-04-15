@@ -1089,7 +1089,8 @@
         "240": 1,
         "241": 2
       }
-    }
+    },
+    "released": true
   },
   {
     "name": "Mist Hunter Expansion Pack",
@@ -1115,7 +1116,8 @@
         "233": 2,
         "234": 1
       }
-    }
+    },
+    "released": true
   },
   {
     "name": "Inquisitor's TIE Expansion Pack",
@@ -1139,7 +1141,8 @@
         "208": 1,
         "229": 1
       }
-    }
+    },
+    "released": true
   },
   {
     "name": "Ghost Expansion Pack",
@@ -1177,7 +1180,8 @@
         "217": 1,
         "218": 1
       }
-    }
+    },
+    "released": true
   },
   {
     "name": "Imperial Assault Carrier Expansion Pack",
