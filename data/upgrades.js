@@ -2584,5 +2584,75 @@
     "points": 1,
     "slot": "System",
     "id": 234
+  },
+  {
+    "image": "upgrades/Elite/rage.png",
+    "text": "<strong>Action:</strong> Assign 1 focus token to your ship and receive 2 stress tokens. Until the end of the round, when attacking, you may reroll up to 3 attack dice.",
+    "name": "Rage",
+    "xws": "rage",
+    "points": 1,
+    "slot": "Elite",
+    "id": 235
+  },
+  {
+    "image": "upgrades/Elite/attanni-mindlink.png",
+    "name": "Attanni Mindlink",
+    "xws": "attannimindlink",
+    "text": "Each time you are assigned a focus or stress token, each other friendly ship with Attanni Mindlink must also be assigned the same type of token if it does not already have one.",
+    "points": 1,
+    "slot": "Elite",
+    "faction": "Scum and Villainy",
+    "id": 236
+  },
+  {
+    "image": "upgrades/Salvaged Astromech/r5-p8.png",
+    "text": "Once per round, after defending, you may roll 1 attack die. On a [Hit] result, the attacker suffers 1 damage. On a [Critical Hit] result, you and the attack each suffer 1 damage.",
+    "name": "R5-P8",
+    "xws": "r5p8",
+    "unique": true,
+    "points": 3,
+    "slot": "Salvaged Astromech",
+    "id": 237
+  },
+  {
+    "image": "upgrades/Crew/boba-fett.png",
+    "text": "After performing an attack, if the defender was dealt a faceup Damage card, you may discard this card to choose and discard 1 of the defender's Upgrade cards.",
+    "name": "Boba Fett",
+    "xws": "bobafett",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 238
+  },
+  {
+    "image": "upgrades/Crew/gonk.png",
+    "text": "<strong>Action:</strong> Place 1 shield token on this card.<br /><br /><strong>Action:</strong> Remove 1 shield token from this card to recover 1 shield (up to your shield value).",
+    "name": "\"Gonk\"",
+    "xws": "gonk",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 239
+  },
+  {
+    "image": "upgrades/Crew/dengar.png",
+    "text": "When attacking, you may reroll 1 attack die. If the defender is a unique pilot, you may instead reroll up to 2 attack dice.",
+    "name": "Dengar",
+    "xws": "dengar",
+    "unique": true,
+    "points": 3,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 240
+  },
+  {
+    "text": "During the Combat phase, when you spend a focus token, you may receive 1 stress token to assign 1 focus token to your ship.",
+    "name": "Overclocked R4",
+    "xws": "overclockedr4",
+    "points": 1,
+    "slot": "Salvaged Astromech",
+    "id": 241
   }
 ]

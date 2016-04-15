@@ -3010,5 +3010,63 @@
       "System"
     ],
     "id": 182
+  },
+  {
+    "image": "pilots/Scum and Villainy/JumpMaster 5000/contracted-scout.png",
+    "name": "Contracted Scout",
+    "xws": "contractedscout",
+    "ship": "JumpMaster 5000",
+    "skill": 3,
+    "points": 25,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "Salvaged Astromech",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "id": 183
+  },
+  {
+    "image": "pilots/Scum and Villainy/JumpMaster 5000/manaroo.png",
+    "text": "At the start of the Combat phase, you may assign all focus, evade, and target lock tokens assigned to you to another friendly ship.",
+    "name": "Manaroo",
+    "xws": "manaroo",
+    "ship": "JumpMaster 5000",
+    "unique": true,
+    "skill": 4,
+    "points": 27,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Illicit",
+      "Salvaged Astromech",
+      "Torpedo",
+      "Torpedo",
+      "Crew"
+    ],
+    "id": 184
+  },
+  {
+    "image": "pilots/Scum and Villainy/JumpMaster 5000/tel-trevura.png",
+    "text": "The first time you would be destroyed, instead cancel any remaining damage, discard all Damage cards, and deal 4 facedown Damage cards to this ship.",
+    "name": "Tel Trevura",
+    "xws": "teltrevura",
+    "ship": "JumpMaster 5000",
+    "unique": true,
+    "skill": 7,
+    "points": 30,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "Salvaged Astromech",
+      "Torpedo",
+      "Torpedo"
+    ],
+    "id": 185
   }
 ]
