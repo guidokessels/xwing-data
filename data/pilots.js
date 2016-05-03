@@ -3195,8 +3195,6 @@
     "slots": [
       "Cannon",
       "Elite",
-      "Missile",
-      "Missile",
       "Missile"
     ],
     "id": 193
