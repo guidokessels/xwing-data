@@ -527,7 +527,7 @@
     "points": 3,
     "attack": 3,
     "range": "2-3",
-    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, the defender suffers 1 damage and receives 2 ion tokens.  Then cancel <strong>all<strong> dice results.",
+    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, the defender suffers 1 damage and receives 2 ion tokens.  Then cancel <strong>all</strong> dice results.",
     "image": "upgrades/Missile/ion-pulse-missiles.png",
     "xws": "ionpulsemissiles"
   },
