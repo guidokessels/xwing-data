@@ -3148,5 +3148,57 @@
       "Torpedo"
     ],
     "id": 190
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Defender/glaive-squadron-pilot.png",
+    "name": "Glaive Squadron Pilot",
+    "xws": "glaivesquadronpilot",
+    "ship": "TIE Defender",
+    "unique": false,
+    "skill": 6,
+    "points": 34,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Cannon"
+    ],
+    "id": 191
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Defender/maarek-stele.png",
+    "text": "When your attack deals a faceup Damage card to the defender, instead draw 3 Damage cards, choose 1 to deal, and discard the others.",
+    "name": "Maarek Stele",
+    "xws": "maarekstele",
+    "ship": "TIE Defender",
+    "unique": true,
+    "skill": 7,
+    "points": 35,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Cannon",
+      "Missile"
+    ],
+    "id": 192
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Defender/countess-ryad.png",
+    "text": "When you reveal a [Straight] maneuver, you may treat it as a [Koiogran Turn] maneuver.",
+    "name": "Countess Ryad",
+    "xws": "countessryad",
+    "ship": "TIE Defender",
+    "unique": true,
+    "skill": 5,
+    "points": 34,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Cannon",
+      "Elite",
+      "Missile",
+      "Missile",
+      "Missile"
+    ],
+    "id": 193
   }
 ]
