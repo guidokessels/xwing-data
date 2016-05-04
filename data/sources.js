@@ -1264,5 +1264,29 @@
         "222": 2
       }
     }
+  },
+  {
+    "wave": "Iconic Starships",
+    "name": "Heroes of the Resistance Expansion Pack",
+    "contents": {
+      "ships": [
+        "T-70 X-Wing",
+        "YT-1300"
+      ],
+      "pilots": {
+        "155": 1,
+        "158": 1,
+        "194": 1,
+        "195": 1
+      },
+      "upgrades": {
+        "193": 2,
+        "243": 1,
+        "244": 1
+      }
+    },
+    "image": "sources/heroes-of-the-resistance-expansion-pack-product.png",
+    "id": 41,
+    "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg"
   }
 ]

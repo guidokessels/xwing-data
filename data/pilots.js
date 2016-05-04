@@ -3198,5 +3198,41 @@
       "Missile"
     ],
     "id": 193
+  },
+  {
+    "image": "pilots/Resistance/T-70 X-Wing/poe-dameron-hotr.png",
+    "text": "While attacking or defending, if you have a focus token, you may change 1 of your [Focus] results to a [Hit] or [Evade] result.",
+    "name": "Poe Dameron",
+    "xws": "poedameron",
+    "ship": "T-70 X-Wing",
+    "unique": true,
+    "skill": 9,
+    "points": 33,
+    "faction": "Resistance",
+    "slots": [
+      "Elite",
+      "Astromech",
+      "Tech",
+      "Torpedo"
+    ],
+    "id": 194
+  },
+  {
+    "image": "pilots/Rebel Alliance/YT-1300/rey.png",
+    "text": "When attacking or defending, if the enemy ship is inside your firing arc, you may reroll up to 2 of your blank results.",
+    "name": "Rey",
+    "xws": "rey",
+    "ship": "YT-1300",
+    "unique": true,
+    "skill": 8,
+    "points": 45,
+    "faction": "Resistance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite",
+      "Missile"
+    ],
+    "id": 195
   }
 ]

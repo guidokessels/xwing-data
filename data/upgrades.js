@@ -2666,5 +2666,30 @@
     "id": 242,
     "effect": "When this bomb token detonates, each ship at Range 1 of the token suffers 1 damage and receives 1 stress token. Then discard this token.",
     "image": "upgrades/Bomb/thermal-detonators.png"
+  },
+  {
+    "name": "Millennium Falcon",
+    "xws": "millenniumfalcon",
+    "image": "upgrades/Title/millennium-falcon-hotr.png",
+    "text": "After you execute a 3-speed bank maneuver ([Bank Left] or [Bank Right]), if you are not touching another ship and you are not stressed, you may receive 1 stress token to rotate your ship 180&deg;.",
+    "unique": true,
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "YT-1300"
+    ],
+    "id": 243
+  },
+  {
+    "text": "After you perform a boost or barrel roll action, you may remove 1\nenemy target lock from a friendly ship at Range 1. You cannot equip this card if your pilot skill is \"6\" or lower.",
+    "name": "Black One",
+    "xws": "blackone",
+    "unique": true,
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "T-70 X-Wing"
+    ],
+    "id": 244
   }
 ]
