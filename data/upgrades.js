@@ -2691,5 +2691,16 @@
       "T-70 X-Wing"
     ],
     "id": 244
+  },
+  {
+    "image": "upgrades/Crew/systems-officer.png",
+    "text": "After you execute a green maneuver, choose another friendly ship at Range 1. That ship may acquire a target lock.",
+    "name": "Systems Officer",
+    "xws": "systemsofficer",
+    "limited": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 245
   }
 ]
