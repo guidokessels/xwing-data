@@ -2466,7 +2466,8 @@
       "Huge"
     ],
     "id": 223,
-    "xws": "constructiondroid"
+    "xws": "constructiondroid",
+    "image": "upgrades/Crew/construction-droid.png"
   },
   {
     "text": "<strong>Action:</strong> Execute a white ([Straight] 1) maneuver.",

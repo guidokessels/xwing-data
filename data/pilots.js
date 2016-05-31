@@ -3114,7 +3114,8 @@
       "System"
     ],
     "id": 188,
-    "faction": "Scum and Villainy"
+    "faction": "Scum and Villainy",
+    "image": "pilots/Scum and Villainy/G-1A Starfighter/gand-findsman.png"
   },
   {
     "name": "Ruthless Freelancer",
@@ -3128,7 +3129,8 @@
       "Crew",
       "System"
     ],
-    "id": 189
+    "id": 189,
+    "image": "pilots/Scum and Villainy/G-1A Starfighter/ruthless-freelancer.png"
   },
   {
     "image": "pilots/Galactic Empire/TIE Bomber/deathfire.png",
