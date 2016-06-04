@@ -2703,5 +2703,52 @@
     "slot": "Crew",
     "faction": "Galactic Empire",
     "id": 245
+  },
+  {
+    "image": "upgrades/Title/alliance-overhaul.png",
+    "text": "When attacking with a primary weapon from your primary firing arc, you may roll 1 additional attack die. When attacking from your auxiliary firing arc, you may change 1 of your [Focus] results to a [Critical Hit] result.",
+    "name": "Alliance Overhaul",
+    "xws": "allianceoverhaul",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "ARC-170"
+    ],
+    "id": 246
+  },
+  {
+    "name": "Special Ops Training",
+    "xws": "specialopstraining",
+    "image": "upgrades/Title/special-ops-training.png",
+    "text": "When attacking with a primary weapon from your primary firing arc, you may roll 1 additional attack die. If you do not, you may perform an additional attack from your auxiliary firing arc.",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "TIE/sf Fighter"
+    ],
+    "id": 247
+  },
+  {
+    "text": "When defending, if you are inside the attacker's firing arc and at Range 1 and the attacker is inside your firing arc, add 1 [Evade] result.",
+    "name": "Concord Dawn Protector",
+    "xws": "concorddawnprotector",
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "Protectorate Starfighter"
+    ],
+    "id": 248
+  },
+  {
+    "text": "After you perform an attack that hits, if the defender is inside your mobile firing arc and at Range 1-2, you may assign the defender 1 tractor beam token.",
+    "name": "Shadow Caster",
+    "xws": "shadowcaster",
+    "unique": true,
+    "points": 3,
+    "slot": "Title",
+    "ship": [
+      "Lancer-class Pursuit Craft"
+    ],
+    "id": 249
   }
 ]

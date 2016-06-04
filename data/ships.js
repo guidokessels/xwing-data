@@ -2463,5 +2463,119 @@
     "size": "huge",
     "epic_points": 2,
     "xws": "gozanticlasscruiser"
+  },
+  {
+    "name": "ARC-170",
+    "xws": "arc170",
+    "faction": [
+      "Rebel Alliance"
+    ],
+    "actions": [
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 1,
+    "hull": 6,
+    "shields": 3,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        2,
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "TIE/sf Fighter",
+    "xws": "tiesffighter",
+    "faction": [
+      "First Order"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 3,
+    "shields": 3,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Protectorate Starfighter",
+    "xws": "protectoratestarfighter",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Boost",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 3,
+    "hull": 4,
+    "shields": 0,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Lancer-class Pursuit Craft",
+    "xws": "lancerclasspursuitcraft",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Boost",
+      "Evade",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 2,
+    "hull": 7,
+    "shields": 3,
+    "maneuvers": [
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        0,
+        2
+      ]
+    ]
   }
 ]

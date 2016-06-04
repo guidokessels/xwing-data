@@ -3236,5 +3236,90 @@
       "Missile"
     ],
     "id": 195
+  },
+  {
+    "image": "pilots/Rebel Alliance/ARC-170/shara-bey.png",
+    "text": "When another friendly ship at Range 1-2 is attacking, it may treat your blue target lock tokens as its own.",
+    "name": "Shara Bey",
+    "xws": "sharabey",
+    "ship": "ARC-170",
+    "unique": true,
+    "skill": 6,
+    "points": 28,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Torpedo",
+      "Astromech"
+    ],
+    "id": 196
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/fenn-rau.png",
+    "text": "When attacking or defending, if the enemy is at Range 1, you may roll 1 additional die.",
+    "name": "Fenn Rau",
+    "xws": "fennrau",
+    "ship": "Protectorate Starfighter",
+    "unique": true,
+    "skill": 9,
+    "points": 28,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 197
+  },
+  {
+    "name": "Sabine Wren",
+    "xws": "sabinewren",
+    "text": "When defending against an enemy ship inside your mobile firing arc at Range 1-2, you may add 1 [Focus] result to your roll.",
+    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/sabine-wren.png",
+    "ship": "Lancer-class Pursuit Craft",
+    "unique": true,
+    "skill": 5,
+    "points": 35,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Illicit",
+      "Illicit"
+    ],
+    "id": 198
+  },
+  {
+    "text": "Once per round, when you lose a shield token, you may perform a primary weapon attack.",
+    "name": "\"Quickdraw\"",
+    "xws": "quickdraw",
+    "ship": "TIE/sf Fighter",
+    "unique": true,
+    "skill": 9,
+    "points": 29,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "Tech",
+      "System",
+      "Missile"
+    ],
+    "id": 199
+  },
+  {
+    "text": "At the start of the Combat phase, you may choose a ship at Range 1. If it is inside your primary <strong>and</strong> mobile firing arcs, assign 1 tractor beam token to it.",
+    "name": "Ketsu Onyo",
+    "xws": "ketsuonyo",
+    "ship": "Lancer-class Pursuit Craft",
+    "unique": true,
+    "skill": 7,
+    "points": 38,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "Illicit"
+    ],
+    "id": 200
   }
 ]

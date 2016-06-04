@@ -1289,5 +1289,83 @@
     "image": "sources/heroes-of-the-resistance-expansion-pack-product.png",
     "id": 41,
     "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg"
+  },
+  {
+    "name": "ARC-170 Expansion Pack",
+    "wave": 9,
+    "contents": {
+      "ships": [
+        "ARC-170"
+      ],
+      "pilots": {
+        "196": 1
+      },
+      "upgrades": {
+        "38": 1,
+        "42": 1,
+        "246": 1
+      }
+    },
+    "image": "sources/arc-170-expansion-pack-product.png",
+    "id": 42,
+    "thumb": "sources/arc-170-expansion-pack-thumb.jpg"
+  },
+  {
+    "name": "Special Forces TIE Expansion Pack",
+    "wave": 9,
+    "contents": {
+      "ships": [
+        "TIE/sf Fighter"
+      ],
+      "pilots": {
+        "199": 1
+      },
+      "upgrades": {
+        "148": 1,
+        "247": 1
+      }
+    },
+    "image": "sources/special-forces-tie-expansion-pack-product.png",
+    "id": 43
+  },
+  {
+    "name": "Protectorate Starfighter Expansion Pack",
+    "wave": 9,
+    "contents": {
+      "ships": [
+        "Protectorate Starfighter"
+      ],
+      "pilots": {
+        "197": 1
+      },
+      "upgrades": {
+        "248": 1
+      }
+    },
+    "image": "sources/protectorate-starfighter-expansion-pack-product.png",
+    "thumb": "sources/protectorate-starfighter-expansion-pack-thumb.jpg",
+    "id": 44
+  },
+  {
+    "name": "Shadow Caster Expansion Pack",
+    "wave": 9,
+    "contents": {
+      "ships": [
+        "Lancer-class Pursuit Craft"
+      ],
+      "pilots": {
+        "198": 1,
+        "200": 1
+      },
+      "upgrades": {
+        "27": 1,
+        "186": 1,
+        "187": 2,
+        "249": 1
+      }
+    },
+    "image": "sources/shadow-caster-expansion-pack-product.png",
+    "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
+    "id": 45
   }
 ]
