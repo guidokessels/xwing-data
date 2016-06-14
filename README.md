@@ -42,7 +42,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [X-Wing Companion](https://play.google.com/store/apps/details?id=com.guidokessels.xwc)
+- [X-Wing Companion](https://play.google.com/store/apps/details?id=com.guidokessels.xwc) (Android App)
+- [X-Wing Companion Card Viewer](https://chrome.google.com/webstore/detail/x-wing-companion-card-vie/bilhapljfgefhhepedfaanikpailghbm) (Chrome Extension)
 
 Want your project listed here? [Let us know!](https://github.com/guidokessels/xwing-data/issues/new?title=Add%20Project)
 
