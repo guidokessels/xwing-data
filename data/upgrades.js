@@ -604,7 +604,8 @@
     "points": 2,
     "text": "After you perform an attack against a ship inside your firing arc at Range 2, that ship receives 1 stress token.",
     "image": "upgrades/Crew/tactician.png",
-    "xws": "tactician"
+    "xws": "tactician",
+    "limited": true
   },
   {
     "name": "R2-D2",
