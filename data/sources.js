@@ -1264,7 +1264,8 @@
         "222": 2,
         "245": 1
       }
-    }
+    },
+    "released": true
   },
   {
     "wave": "Iconic Starships",
