@@ -3321,5 +3321,57 @@
       "Illicit"
     ],
     "id": 200
+  },
+  {
+    "image": "pilots/Rebel Alliance/ARC-170/braylen-stramm.png",
+    "text": "After you execute a maneuver, you may roll an attack die. On a [Hit] or [Critical Hit] result, remove 1 stress token from your ship.",
+    "name": "Braylen Stramm",
+    "xws": "braylenstramm",
+    "ship": "ARC-170",
+    "unique": true,
+    "skill": 3,
+    "points": 25,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew",
+      "Torpedo"
+    ],
+    "id": 201
+  },
+  {
+    "image": "pilots/Rebel Alliance/ARC-170/thane-kyrell.png",
+    "text": "After an enemy ship inside your firing arc at Range 1-3 attacks another friendly ship, you may perform a free action.",
+    "name": "Thane Kyrell",
+    "xws": "thanekyrell",
+    "ship": "ARC-170",
+    "unique": true,
+    "skill": 4,
+    "points": 26,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew",
+      "Torpedo"
+    ],
+    "id": 202
+  },
+  {
+    "image": "pilots/Rebel Alliance/ARC-170/norra-wexley.png",
+    "text": "When attacking or defending, you may spend a target lock you have on the enemy ship to add 1 [Focus] result to your roll.",
+    "name": "Norra Wexley",
+    "xws": "norrawexley",
+    "ship": "ARC-170",
+    "unique": true,
+    "skill": 7,
+    "points": 29,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew",
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 203
   }
 ]

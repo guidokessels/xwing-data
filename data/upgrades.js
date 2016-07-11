@@ -2751,5 +2751,36 @@
       "Lancer-class Pursuit Craft"
     ],
     "id": 249
+  },
+  {
+    "image": "upgrades/Astromech/r3-astromech.png",
+    "text": "Once per round, when attacking with a primary weapon, you may cancel 1 of your [Focus] results during the \"Modify Attack Dice\" step to assign 1 evade token to your ship.",
+    "name": "R3 Astromech",
+    "xws": "r3astromech",
+    "points": 2,
+    "slot": "Astromech",
+    "id": 250
+  },
+  {
+    "image": "upgrades/Modification/vectored-thrusters.png",
+    "text": "Your action bar gains the [Barrel Roll] action icon.",
+    "name": "Vectored Thrusters",
+    "xws": "vectoredthrusters",
+    "points": 2,
+    "slot": "Modification",
+    "size": [
+      "Small"
+    ],
+    "id": 251
+  },
+  {
+    "image": "upgrades/Crew/tail-gunner.png",
+    "text": "When attacking from your rear-facing auxiliary firing arc, reduce the defender's agility by 1 (to a minimum of \"0\").",
+    "name": "Tail Gunner",
+    "xws": "tailgunner",
+    "limited": true,
+    "points": 2,
+    "slot": "Crew",
+    "id": 252
   }
 ]
