@@ -3,7 +3,7 @@
   "commitMessage": "Bump to %s",
   "tagName": "%s",
   "tagAnnotation": "%s",
-  "changelogCommand": "git log --pretty=format:'- %s (%h)' [REV_RANGE]",
+  "changelogCommand": "git log --pretty=format:'- %s (%h)' --no-merges [REV_RANGE]",
   "github": {
     "release": true,
     "releaseName": "Release %s",
