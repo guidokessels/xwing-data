@@ -3303,7 +3303,8 @@
       "System",
       "Missile"
     ],
-    "id": 199
+    "id": 199,
+    "image": "pilots/First Order/TIE-sf Fighter/quickdraw.png"
   },
   {
     "text": "At the start of the Combat phase, you may choose a ship at Range 1. If it is inside your primary <strong>and</strong> mobile firing arcs, assign 1 tractor beam token to it.",
@@ -3373,5 +3374,38 @@
       "Torpedo"
     ],
     "id": 203
+  },
+  {
+    "image": "pilots/First Order/TIE-sf Fighter/zeta-specialist.png",
+    "name": "Zeta Specialist",
+    "xws": "zetaspecialist",
+    "ship": "TIE/sf Fighter",
+    "skill": 3,
+    "points": 23,
+    "faction": "First Order",
+    "slots": [
+      "Missile",
+      "System",
+      "Tech"
+    ],
+    "id": 204
+  },
+  {
+    "image": "pilots/First Order/TIE-sf Fighter/backdraft.png",
+    "text": "When attacking a ship inside your auxiliary firing arc, you may add 1 [Critical Hit] result.",
+    "name": "\"Backdraft\"",
+    "xws": "backdraft",
+    "ship": "TIE/sf Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 27,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "Missile",
+      "System",
+      "Tech"
+    ],
+    "id": 205
   }
 ]

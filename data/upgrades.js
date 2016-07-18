@@ -2782,5 +2782,23 @@
     "points": 2,
     "slot": "Crew",
     "id": 252
+  },
+  {
+    "image": "upgrades/System/collision-detector.png",
+    "text": "When performing a boost, barrel roll, or decloak, your ship and maneuver template can overlap obstacles.<br /><br />When rolling for obstacle damage, ignore all [Critical Hit] results.",
+    "name": "Collision Detector",
+    "xws": "collisiondetector",
+    "points": 0,
+    "slot": "System",
+    "id": 253
+  },
+  {
+    "image": "upgrades/Tech/sensor-cluster.png",
+    "text": "When defending, you may spend a focus token to change 1 of your blank results to an [Evade] result.",
+    "name": "Sensor Cluster",
+    "xws": "sensorcluster",
+    "points": 2,
+    "slot": "Tech",
+    "id": 254
   }
 ]

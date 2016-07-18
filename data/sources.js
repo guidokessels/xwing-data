@@ -1325,11 +1325,15 @@
         "TIE/sf Fighter"
       ],
       "pilots": {
-        "199": 1
+        "199": 1,
+        "204": 1,
+        "205": 1
       },
       "upgrades": {
         "148": 1,
-        "247": 1
+        "247": 1,
+        "253": 1,
+        "254": 2
       }
     },
     "image": "sources/special-forces-tie-expansion-pack-product.png",
