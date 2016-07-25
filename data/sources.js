@@ -1347,10 +1347,16 @@
         "Protectorate Starfighter"
       ],
       "pilots": {
-        "197": 1
+        "197": 1,
+        "206": 1,
+        "207": 1,
+        "208": 1,
+        "209": 1,
+        "210": 1
       },
       "upgrades": {
-        "248": 1
+        "248": 1,
+        "255": 1
       }
     },
     "image": "sources/protectorate-starfighter-expansion-pack-product.png",

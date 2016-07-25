@@ -2738,7 +2738,8 @@
     "ship": [
       "Protectorate Starfighter"
     ],
-    "id": 248
+    "id": 248,
+    "image": "upgrades/Title/concord-dawn-protector.png"
   },
   {
     "text": "After you perform an attack that hits, if the defender is inside your mobile firing arc and at Range 1-2, you may assign the defender 1 tractor beam token.",
@@ -2800,5 +2801,15 @@
     "points": 2,
     "slot": "Tech",
     "id": 254
+  },
+  {
+    "image": "upgrades/Elite/fearlessness.png",
+    "text": "When attacking, if you are inside the defender's firing arc at Range 1 and the defender is inside your firing arc, you may add 1 [Hit] result to your roll.",
+    "name": "Fearlessness",
+    "xws": "fearlessness",
+    "points": 1,
+    "slot": "Elite",
+    "faction": "Scum and Villainy",
+    "id": 255
   }
 ]

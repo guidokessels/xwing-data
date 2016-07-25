@@ -3407,5 +3407,80 @@
       "Tech"
     ],
     "id": 205
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/kad-solus.png",
+    "text": "After you execute a red maneuver, assign 2 focus tokens to your ship.",
+    "name": "Kad Solus",
+    "xws": "kadsolus",
+    "ship": "Protectorate Starfighter",
+    "unique": true,
+    "skill": 6,
+    "points": 25,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Torpedo",
+      "Elite"
+    ],
+    "id": 206
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/concord-dawn-ace.png",
+    "name": "Concord Dawn Ace",
+    "xws": "concorddawnace",
+    "ship": "Protectorate Starfighter",
+    "unique": false,
+    "skill": 5,
+    "points": 23,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 207
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/concord-dawn-veteran.png",
+    "name": "Concord Dawn Veteran",
+    "xws": "concorddawnveteran",
+    "ship": "Protectorate Starfighter",
+    "skill": 3,
+    "points": 22,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 208
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/old-teroch.png",
+    "text": "At the start of the Combat phase, you may choose 1 enemy ship at Range 1. If you are inside its firing arc, it discards all focus and evade tokens.",
+    "name": "Old Teroch",
+    "xws": "oldteroch",
+    "ship": "Protectorate Starfighter",
+    "unique": true,
+    "skill": 7,
+    "points": 26,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 209
+  },
+  {
+    "image": "pilots/Scum and Villainy/Protectorate Starfighter/zealous-recruit.png",
+    "name": "Zealous Recruit",
+    "xws": "zealousrecruit",
+    "ship": "Protectorate Starfighter",
+    "skill": 1,
+    "points": 20,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 210
   }
 ]
