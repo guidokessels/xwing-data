@@ -103,7 +103,7 @@
     "unique": true,
     "slot": "Elite",
     "points": 2,
-    "text": "<strong>Action:</strong> Choose 1 ship at Range 1-2 that has a lower pilot skill than you.<br /><br />The chosen ship my immediately perform 1 free action.",
+    "text": "<strong>Action:</strong> Choose 1 ship at Range 1-2 that has a lower pilot skill than you.<br /><br />The chosen ship may immediately perform 1 free action.",
     "image": "upgrades/Elite/squad-leader.png",
     "xws": "squadleader"
   },
@@ -1358,7 +1358,7 @@
     "id": 131,
     "slot": "Crew",
     "points": 2,
-    "text": "After you perfrom an attack that does not hit, if you are not stressed, you <strong>must</strong> receive 1 stress token. Then assign 1 focus token to your ship and acquire a target lock on the defender.",
+    "text": "After you perfom an attack that does not hit, if you are not stressed, you <strong>must</strong> receive 1 stress token. Then assign 1 focus token to your ship and acquire a target lock on the defender.",
     "image": "upgrades/Crew/bossk-crew.png",
     "faction": "Scum and Villainy",
     "xws": "bossk"
@@ -1423,7 +1423,7 @@
     "limited": true,
     "slot": "Torpedo",
     "points": 2,
-    "text": "When you euip this card, place 1 ordnance token on each equipped [Torpedo], [Missile], and [Bomb] Upgrade card. When you are instructed to discard an Upgrade card, you may discard 1 ordnance token on that card instead.",
+    "text": "When you equip this card, place 1 ordnance token on each equipped [Torpedo], [Missile], and [Bomb] Upgrade card. When you are instructed to discard an Upgrade card, you may discard 1 ordnance token on that card instead.",
     "image": "upgrades/Torpedo/extra-munitions.png",
     "xws": "extramunitions"
   },
@@ -2182,7 +2182,7 @@
   },
   {
     "image": "upgrades/Missile/xx-23-s-thread-tracers.png",
-    "text": "<b>Attack (Focus):</b> Discard this card to perform this attack. If this attack hits, each friendly ship at Range 1-2 of you may aqcuire a target lock on the defender. Then cancel <b>all</b> dice results.",
+    "text": "<b>Attack (Focus):</b> Discard this card to perform this attack. If this attack hits, each friendly ship at Range 1-2 of you may acquire a target lock on the defender. Then cancel <b>all</b> dice results.",
     "name": "XX-23 S-Thread Tracers",
     "points": 1,
     "slot": "Missile",
@@ -2609,7 +2609,7 @@
   },
   {
     "image": "upgrades/Salvaged Astromech/r5-p8.png",
-    "text": "Once per round, after defending, you may roll 1 attack die. On a [Hit] result, the attacker suffers 1 damage. On a [Critical Hit] result, you and the attack each suffer 1 damage.",
+    "text": "Once per round, after defending, you may roll 1 attack die. On a [Hit] result, the attacker suffers 1 damage. On a [Critical Hit] result, you and the attacker each suffer 1 damage.",
     "name": "R5-P8",
     "xws": "r5p8",
     "unique": true,
@@ -2683,7 +2683,7 @@
     "id": 243
   },
   {
-    "text": "After you perform a boost or barrel roll action, you may remove 1\nenemy target lock from a friendly ship at Range 1. You cannot equip this card if your pilot skill is \"6\" or lower.",
+    "text": "After you perform a boost or barrel roll action, you may remove 1 enemy target lock from a friendly ship at Range 1. You cannot equip this card if your pilot skill is \"6\" or lower.",
     "name": "Black One",
     "xws": "blackone",
     "unique": true,

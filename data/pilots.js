@@ -2413,7 +2413,7 @@
       "Crew",
       "Illicit"
     ],
-    "text": "You can perform [Cannon] seconday weapon attacks against ships inside your auxiliary firing arc.",
+    "text": "You can perform [Cannon] secondary weapon attacks against ships inside your auxiliary firing arc.",
     "image": "pilots/Scum and Villainy/YV-666/moralo-eval.png",
     "faction": "Scum and Villainy",
     "xws": "moraloeval"
