@@ -1358,7 +1358,7 @@
     "id": 131,
     "slot": "Crew",
     "points": 2,
-    "text": "After you perfom an attack that does not hit, if you are not stressed, you <strong>must</strong> receive 1 stress token. Then assign 1 focus token to your ship and acquire a target lock on the defender.",
+    "text": "After you perform an attack that does not hit, if you are not stressed, you <strong>must</strong> receive 1 stress token. Then assign 1 focus token to your ship and acquire a target lock on the defender.",
     "image": "upgrades/Crew/bossk-crew.png",
     "faction": "Scum and Villainy",
     "xws": "bossk"
