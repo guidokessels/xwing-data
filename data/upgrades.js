@@ -2478,7 +2478,8 @@
     "slot": "Crew",
     "faction": "Galactic Empire",
     "id": 224,
-    "xws": "rearadmiralchiraneau"
+    "xws": "rearadmiralchiraneau",
+    "image": "upgrades/Crew/rear-admiral-chiraneau.png"
   },
   {
     "text": "After defending, you may discard this card. If you do, each other ship at Range 1 of the defending section rolls 2 attack dice, suffering all damage ([Hit]) and critical damage ([Critical Hit]) rolled.",
