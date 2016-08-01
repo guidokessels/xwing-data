@@ -1,6 +1,6 @@
 {
   "name": "xwing-data",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "An easy-to-use collection of data and images from X-Wing: The Miniatures Game by Fantasy Flight Games.",
   "scripts": {
     "release": "./node_modules/.bin/release-it",
