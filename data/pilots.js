@@ -3321,7 +3321,8 @@
       "Illicit",
       "Illicit"
     ],
-    "id": 200
+    "id": 200,
+    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/ketsu-onyo.png"
   },
   {
     "image": "pilots/Rebel Alliance/ARC-170/braylen-stramm.png",
@@ -3482,5 +3483,23 @@
       "Torpedo"
     ],
     "id": 210
+  },
+  {
+    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/asajj-ventress.png",
+    "text": "At the start of the Combat phase, you may choose a ship at Range 1-2. If it is inside your mobile firing arc, assign 1 stress token to it.",
+    "name": "Asajj Ventress",
+    "xws": "asajjventress",
+    "ship": "Lancer-class Pursuit Craft",
+    "unique": true,
+    "skill": 6,
+    "points": 37,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Illicit",
+      "Illicit"
+    ],
+    "id": 211
   }
 ]

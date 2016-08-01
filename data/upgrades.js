@@ -2752,7 +2752,8 @@
     "ship": [
       "Lancer-class Pursuit Craft"
     ],
-    "id": 249
+    "id": 249,
+    "image": "upgrades/Title/shadow-caster.png"
   },
   {
     "image": "upgrades/Astromech/r3-astromech.png",
@@ -2812,5 +2813,59 @@
     "slot": "Elite",
     "faction": "Scum and Villainy",
     "id": 255
+  },
+  {
+    "image": "upgrades/Crew/ig-88d.png",
+    "text": "You have the pilot ability of each friendly ship with the <em>IG-2000</em> Upgrade card (in addition to your own pilot ability).",
+    "name": "IG-88D",
+    "xws": "ig88d",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 256
+  },
+  {
+    "image": "upgrades/Crew/latts-razzi.png",
+    "text": "When defending, you may remove 1 stress token from the attacker to add 1 [Evade] result to your roll.",
+    "name": "Latts Razzi",
+    "xws": "lattsrazzi",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 257
+  },
+  {
+    "image": "upgrades/Crew/ketsu-onyo.png",
+    "text": "At the start of the End phase, you may choose 1 enemy ship inside your firing arc at Range 1-2. That ship does not remove its tractor beam tokens.",
+    "name": "Ketsu Onyo",
+    "xws": "ketsuonyo",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 258
+  },
+  {
+    "image": "upgrades/Torpedo/seismic-torpedo.png",
+    "text": "<strong>Action:</strong> Discard this card to choose an obstacle at Range 1-2 and inside your primary firing arc. Each ship at Range 1 of the obstacle rolls 1 attack die and suffers any damage ([Hit]) and critical damage ([Critical Hit]) rolled. Then remove the obstacle.",
+    "name": "Seismic Torpedo",
+    "xws": "seismictorpedo",
+    "points": 2,
+    "slot": "Torpedo",
+    "id": 259
+  },
+  {
+    "image": "upgrades/Illicit/rigged-cargo-chute.png",
+    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> one cargo token.",
+    "name": "Rigged Cargo Chute",
+    "xws": "riggedcargochute",
+    "size": [
+      "Large"
+    ],
+    "id": 260,
+    "slot": "Illicit",
+    "points": 1
   }
 ]
