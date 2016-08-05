@@ -1384,7 +1384,9 @@
         "256": 1,
         "257": 1,
         "258": 1,
-        "260": 1
+        "260": 1,
+        "261": 1,
+        "262": 2
       }
     },
     "image": "sources/shadow-caster-expansion-pack-product.png",

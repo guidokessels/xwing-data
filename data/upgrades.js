@@ -2867,5 +2867,24 @@
     "id": 260,
     "slot": "Illicit",
     "points": 1
+  },
+  {
+    "text": "At the end of the Combat phase, if you executed a 3-, 4-, or 5-speed maneuver that round, you may rotate your mobile firing arc.",
+    "name": "Gyroscopic Targeting",
+    "xws": "gyroscopictargeting",
+    "points": 2,
+    "slot": "Modification",
+    "ship": [
+      "Lancer-class Pursuit Craft"
+    ],
+    "id": 261
+  },
+  {
+    "text": "<strong>Action:</strong> Choose a stressed enemy ship at Range 1-2 and roll 1 attack die. On a [Hit] or [Critical Hit] result, remove 1 stress token and deal it 1 facedown Damage card.",
+    "name": "Black Market Slicer Tools",
+    "xws": "blackmarketslicertools",
+    "points": 1,
+    "slot": "Illicit",
+    "id": 262
   }
 ]
