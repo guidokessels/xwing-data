@@ -3501,5 +3501,20 @@
       "Illicit"
     ],
     "id": 211
+  },
+  {
+    "name": "Omega Specialist",
+    "xws": "omegaspecialist",
+    "ship": "TIE/sf Fighter",
+    "skill": 5,
+    "points": 25,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "Missile",
+      "System",
+      "Tech"
+    ],
+    "id": 212
   }
 ]
