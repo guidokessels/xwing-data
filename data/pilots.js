@@ -3516,5 +3516,19 @@
       "Tech"
     ],
     "id": 212
+  },
+  {
+    "name": "Shadowport Hunter",
+    "xws": "shadowporthunter",
+    "ship": "Lancer-class Pursuit Craft",
+    "skill": 2,
+    "points": 33,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Illicit",
+      "Illicit"
+    ],
+    "id": 213
   }
 ]
