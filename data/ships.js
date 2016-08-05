@@ -2629,6 +2629,7 @@
     "actions": [
       "Boost",
       "Evade",
+      "Rotate Arc",
       "Target Lock"
     ],
     "size": "small",
