@@ -2673,5 +2673,58 @@
         3
       ]
     ]
+  },
+  {
+    "name": "Upsilon-class Shuttle",
+    "xws": "upsilonclassshuttle",
+    "faction": [
+      "First Order"
+    ],
+    "actions": [
+      "Coordinate",
+      "Focus",
+      "Rotate Arc"
+    ],
+    "size": "large",
+    "attack": 4,
+    "agility": 1,
+    "hull": 6,
+    "shields": 6,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        2,
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Quadjumper",
+    "xws": "quadjumper",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Focus"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 5,
+    "shields": 0,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        2,
+        0,
+        2
+      ]
+    ]
   }
 ]

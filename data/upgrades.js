@@ -2886,5 +2886,62 @@
     "points": 1,
     "slot": "Illicit",
     "id": 262
+  },
+  {
+    "image": "upgrades/Title/sabines-masterpiece.png",
+    "text": "Your upgrade bar gains the [Crew] and [Illicit] upgrade icons.",
+    "name": "Sabine's Masterpiece",
+    "xws": "sabinesmasterpiece",
+    "unique": true,
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "TIE Fighter"
+    ],
+    "faction": "Rebel Alliance",
+    "id": 263
+  },
+  {
+    "image": "upgrades/Crew/kylo-ren.png",
+    "text": "<strong>Action:</strong> Assign the \"I'll Show You the Dark Side\" Condition card to an enemy ship at Range 1-3.",
+    "name": "Kylo Ren",
+    "xws": "kyloren",
+    "unique": true,
+    "points": 3,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 264
+  },
+  {
+    "image": "upgrades/Crew/unkar-plutt.png",
+    "text": "After executing a maneuver that causes you to overlap an enemy ship, you may suffer 1 damage to perform 1 free action.",
+    "name": "Unkar Plutt",
+    "xws": "unkarplutt",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 265
+  },
+  {
+    "text": "At the end of the Combat phase, choose an unstressed enemy ship at Range 1-2. The owner must assign a stress token to it or assign a stress token to another ship at Range 1-2 of you that that player controls.",
+    "name": "Kylo Ren's Shuttle",
+    "xws": "kylorensshuttle",
+    "unique": true,
+    "points": 2,
+    "slot": "Title",
+    "ship": [
+      "Upsilon-class Shuttle"
+    ],
+    "id": 266
+  },
+  {
+    "text": "During setup, before the \"Place Forces\" step, choose 1 enemy ship and assign the \"A Debt to Pay\" Condition card to it.\n\nWhen attacking a ship that has the \"A Debt to Pay\" Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
+    "name": "A Score to Settle",
+    "xws": "ascoretosettle",
+    "unique": true,
+    "points": 0,
+    "slot": "Elite",
+    "id": 267
   }
 ]

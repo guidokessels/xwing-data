@@ -1394,5 +1394,63 @@
     "image": "sources/shadow-caster-expansion-pack-product.png",
     "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
     "id": 45
+  },
+  {
+    "name": "Sabine's TIE Fighter Expansion Pack",
+    "wave": 10,
+    "contents": {
+      "ships": [
+        "TIE Fighter"
+      ],
+      "pilots": {
+        "214": 1
+      },
+      "upgrades": {
+        "27": 1,
+        "263": 1
+      }
+    },
+    "id": 46,
+    "image": "sources/swx59-product.png",
+    "thumb": "sources/swx59-thumb.jpg"
+  },
+  {
+    "name": "Upsilon-class Shuttle Expansion Pack",
+    "wave": 10,
+    "id": 47,
+    "contents": {
+      "ships": [
+        "Upsilon-class Shuttle"
+      ],
+      "pilots": {
+        "215": 1
+      },
+      "upgrades": {
+        "192": 2,
+        "264": 1,
+        "266": 1
+      }
+    },
+    "image": "sources/swx60-product.png",
+    "thumb": "sources/swx60-thumb.jpg"
+  },
+  {
+    "name": "Quadjumper Expansion Pack",
+    "wave": 10,
+    "id": 48,
+    "contents": {
+      "ships": [
+        "Quadjumper"
+      ],
+      "pilots": {
+        "216": 1
+      },
+      "upgrades": {
+        "242": 1,
+        "265": 1
+      }
+    },
+    "image": "sources/swx61-product.png",
+    "thumb": "sources/swx61-thumb.jpg"
   }
 ]

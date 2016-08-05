@@ -3530,5 +3530,55 @@
       "Illicit"
     ],
     "id": 213
+  },
+  {
+    "text": "Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.",
+    "name": "Sabine Wren",
+    "xws": "sabinewren",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 5,
+    "points": 15,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Elite"
+    ],
+    "id": 214
+  },
+  {
+    "text": "The first time you are hit by an attack each round, assign the \"I'll Show You the Dark Side\" Condition card to the defender.",
+    "name": "Kylo Ren",
+    "xws": "kyloren",
+    "ship": "Upsilon-class Shuttle",
+    "unique": true,
+    "skill": 6,
+    "points": 34,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "System",
+      "Crew",
+      "Crew",
+      "Tech",
+      "Tech"
+    ],
+    "id": 215
+  },
+  {
+    "text": "At the end of the Activation phase, you <strong>must</strong> assign a tractor beam token to each ship you are touching.",
+    "name": "Unkar Plutt",
+    "xws": "unkarplutt",
+    "ship": "Quadjumper",
+    "unique": true,
+    "skill": 3,
+    "points": 17,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Crew",
+      "Illicit",
+      "Tech"
+    ],
+    "id": 216
   }
 ]
