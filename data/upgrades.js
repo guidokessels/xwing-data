@@ -1415,7 +1415,9 @@
     "points": 3,
     "text": "<strong>Attack (target lock):</strong> Spend your target lock and discard this card to perform this attack.<br /><br />If this attack hits, after dealing damage, remove 1 shield token from the defender.",
     "image": "upgrades/Torpedo/plasma-torpedoes.png",
-    "xws": "plasmatorpedoes"
+    "xws": "plasmatorpedoes",
+    "range": "2-3",
+    "attack": "4"
   },
   {
     "name": "Extra Munitions",
