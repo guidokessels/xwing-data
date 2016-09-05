@@ -1454,7 +1454,7 @@
     "thumb": "sources/swx61-thumb.jpg"
   },
   {
-    "name": "U-wing Expansion Pack",
+    "name": "U-Wing Expansion Pack",
     "wave": 10,
     "id": 49,
     "contents": {
