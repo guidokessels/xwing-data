@@ -2726,5 +2726,58 @@
         2
       ]
     ]
+  },
+  {
+    "name": "TIE Striker",
+    "xws": "tiestriker",
+    "faction": [
+      "Galactic Empire"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Evade",
+      "Focus"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 2,
+    "hull": 4,
+    "shields": 0,
+    "maneuvers": [
+      [],
+      [],
+      [
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "U-Wing",
+    "xws": "uwing",
+    "faction": [
+      "Rebel Alliance"
+    ],
+    "actions": [
+      "Target Lock"
+    ],
+    "size": "large",
+    "attack": 3,
+    "agility": 1,
+    "hull": 4,
+    "shields": 4,
+    "maneuvers": [
+      [],
+      [],
+      [
+        0,
+        2,
+        0,
+        2
+      ]
+    ]
   }
 ]

@@ -1452,5 +1452,45 @@
     },
     "image": "sources/swx61-product.png",
     "thumb": "sources/swx61-thumb.jpg"
+  },
+  {
+    "name": "U-wing Expansion Pack",
+    "wave": 10,
+    "id": 49,
+    "contents": {
+      "ships": [
+        "U-Wing"
+      ],
+      "pilots": {
+        "217": 1
+      },
+      "upgrades": {
+        "44": 1,
+        "58": 1,
+        "174": 2,
+        "268": 1,
+        "269": 1,
+        "271": 1,
+        "272": 1
+      }
+    },
+    "image": "sources/swx62-product.png"
+  },
+  {
+    "name": "TIE Striker Expansion Pack",
+    "wave": 10,
+    "id": 50,
+    "image": "sources/swx63-product.png",
+    "contents": {
+      "ships": [
+        "TIE Striker"
+      ],
+      "pilots": {
+        "218": 1
+      },
+      "upgrades": {
+        "270": 1
+      }
+    }
   }
 ]

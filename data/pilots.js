@@ -3580,5 +3580,37 @@
       "Tech"
     ],
     "id": 216
+  },
+  {
+    "text": "At the start of the Activation phase, you may remove 1 stress token from 1 other friendly ship at Range 1-2.",
+    "name": "Cassian Andor",
+    "xws": "cassianandor",
+    "ship": "U-Wing",
+    "unique": true,
+    "skill": 6,
+    "points": 27,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite",
+      "System",
+      "Torpedo"
+    ],
+    "id": 217
+  },
+  {
+    "text": "While you have the \"Adaptive Ailerons\" Upgrade card equipped, you may choose to ignore its card ability.",
+    "name": "\"Duchess\"",
+    "xws": "duchess",
+    "ship": "TIE Striker",
+    "unique": true,
+    "skill": 8,
+    "points": 23,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite"
+    ],
+    "id": 218
   }
 ]

@@ -2945,5 +2945,63 @@
     "points": 0,
     "slot": "Elite",
     "id": 267
+  },
+  {
+    "image": "upgrades/Crew/jyn-erso.png",
+    "name": "Jyn Erso",
+    "xws": "jynerso",
+    "text": "<strong>Action:</strong> Choose 1 friendly ship at Range 1-2. Assign 1 focus token to that ship for each enemy ship inside your firing arc at Range 1-3. You cannot assign more than 3 tokens in this way.",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 268
+  },
+  {
+    "image": "upgrades/Crew/cassian-andor.png",
+    "text": "At the end of the Planning phase, you may choose an enemy ship at Range 1-2. Guess aloud that ship's bearing and speed, then look at its dial. If you are correct, you may rotate your dial to another maneuver.",
+    "name": "Cassian Andor",
+    "xws": "cassianandor",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 269
+  },
+  {
+    "image": "upgrades/Title/adaptive-ailerons.png",
+    "text": "Immediately before you reveal your dial, if you are not stressed, you <strong>must</strong> execute a white ([Bank Left] 1), ([Straight] 1), or ([Bank Right] 1) maneuver.",
+    "name": "Adaptive Ailerons",
+    "xws": "adaptiveailerons",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "TIE Striker"
+    ],
+    "id": 270
+  },
+  {
+    "image": "upgrades/Title/pivot-wing-attack.png",
+    "text": "Increase your agility value by 1.<br /><br />After you execute a maneuver, you may flip this card.",
+    "name": "Pivot Wing (Attack)",
+    "xws": "pivotwingattack",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "U-Wing"
+    ],
+    "id": 271
+  },
+  {
+    "image": "upgrades/Title/pivot-wing-landing.png",
+    "text": "When you reveal a (0 [Stop]) maneuver, you may rotate your ship 180&deg;.<br /><br />After you execute a maneuver, you may flip this card.",
+    "name": "Pivot Wing (Landing)",
+    "xws": "pivotwinglanding",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "U-Wing"
+    ],
+    "id": 272
   }
 ]
