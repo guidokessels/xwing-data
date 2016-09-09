@@ -3003,5 +3003,53 @@
       "U-Wing"
     ],
     "id": 272
+  },
+  {
+    "image": "upgrades/Modification/smuggling-compartment.png",
+    "text": "Your upgrade bar gains the [Illicit] upgrade icon.<br /><br />You may equip 1 additional Modification upgrade that costs 3 or fewer squad points.",
+    "name": "Smuggling Compartment",
+    "xws": "smugglingcompartment",
+    "limited": true,
+    "points": 0,
+    "slot": "Modification",
+    "ship": [
+      "YT-1300",
+      "YT-2400"
+    ],
+    "id": 273
+  },
+  {
+    "image": "upgrades/Illicit/burnout-slam.png",
+    "text": "Your action bar gains the [Slam] action icon.<br /><br />After you perform a SLAM action, discard this card.",
+    "name": "Burnout SLAM",
+    "xws": "burnoutslam",
+    "points": 1,
+    "slot": "Illicit",
+    "size": [
+      "Large"
+    ],
+    "id": 274
+  },
+  {
+    "image": "upgrades/Crew/rey.png",
+    "text": "At the start of the End phase, you may place 1 of your ship's focus tokens on this card. At the start of the Combat phase, you may assign 1 of those tokens to your ship.",
+    "name": "Rey",
+    "xws": "rey",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 275
+  },
+  {
+    "image": "upgrades/Crew/finn.png",
+    "text": "When attacking with a primary weapon or defending, if the enemy ship is inside your firing arc, you may add 1 blank result to your roll.",
+    "name": "Finn",
+    "xws": "finn",
+    "unique": true,
+    "points": 5,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 276
   }
 ]

@@ -3612,5 +3612,41 @@
       "Elite"
     ],
     "id": 218
+  },
+  {
+    "image": "pilots/Resistance/YT-1300/han-solo.png",
+    "text": "When you are placed during setup, you can be placed anywhere in the play area beyond Range 3 of enemy ships.",
+    "name": "Han Solo",
+    "xws": "hansolo",
+    "ship": "YT-1300",
+    "unique": true,
+    "skill": 9,
+    "points": 46,
+    "faction": "Resistance",
+    "slots": [
+      "Elite",
+      "Crew",
+      "Crew",
+      "Missile"
+    ],
+    "id": 219
+  },
+  {
+    "image": "pilots/Resistance/YT-1300/chewbacca.png",
+    "text": "After another friendly ship at Range 1-3 is destroyed (but has not fled the battlefield), you may perform an attack.",
+    "name": "Chewbacca",
+    "xws": "chewbacca",
+    "ship": "YT-1300",
+    "unique": true,
+    "skill": 5,
+    "points": 42,
+    "faction": "Resistance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite",
+      "Missile"
+    ],
+    "id": 220
   }
 ]
