@@ -1474,7 +1474,8 @@
         "272": 1
       }
     },
-    "image": "sources/swx62-product.png"
+    "image": "sources/swx62-product.png",
+    "thumb": "sources/swx62-thumb.jpg"
   },
   {
     "name": "TIE Striker Expansion Pack",
