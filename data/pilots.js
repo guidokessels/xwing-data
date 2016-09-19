@@ -3648,5 +3648,58 @@
       "Missile"
     ],
     "id": 220
+  },
+  {
+    "image": "pilots/Resistance/T-70 X-Wing/jess-pava.png",
+    "text": "When attacking or defending, you may reroll 1 of your dice for each other friendly ship at Range 1.",
+    "name": "Jess Pava",
+    "xws": "jesspava",
+    "ship": "T-70 X-Wing",
+    "unique": true,
+    "skill": 3,
+    "points": 25,
+    "faction": "Resistance",
+    "slots": [
+      "Astromech",
+      "Tech",
+      "Torpedo"
+    ],
+    "id": 221
+  },
+  {
+    "image": "pilots/Resistance/T-70 X-Wing/nien-nunb.png",
+    "text": "When you receive a stress token, if there is an enemy ship inside your firing arc at Range 1, you may discard that stress token.",
+    "name": "Nien Nunb",
+    "xws": "niennunb",
+    "ship": "T-70 X-Wing",
+    "unique": true,
+    "skill": 7,
+    "points": 29,
+    "faction": "Resistance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Tech",
+      "Torpedo"
+    ],
+    "id": 222
+  },
+  {
+    "image": "pilots/Resistance/T-70 X-Wing/snap-wexley.png",
+    "text": "After you execute a 2-, 3-, or 4-speed maneuver, if you are not touching a ship, you may perform a free boost action.",
+    "name": "\"Snap\" Wexley",
+    "xws": "snapwexley",
+    "ship": "T-70 X-Wing",
+    "unique": true,
+    "skill": 6,
+    "points": 28,
+    "faction": "Resistance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Tech",
+      "Torpedo"
+    ],
+    "id": 223
   }
 ]

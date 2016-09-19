@@ -2695,7 +2695,8 @@
     "ship": [
       "T-70 X-Wing"
     ],
-    "id": 244
+    "id": 244,
+    "image": "upgrades/Title/black-one.png"
   },
   {
     "image": "upgrades/Crew/systems-officer.png",
@@ -3051,5 +3052,47 @@
     "slot": "Crew",
     "faction": "Rebel Alliance",
     "id": 276
+  },
+  {
+    "image": "upgrades/Tech/primed-thrusters.png",
+    "text": "Stress tokens do not prevent you from performing boost or barrel roll actions unless you have 3 or more stress tokens.",
+    "name": "Primed Thrusters",
+    "xws": "primedthrusters",
+    "points": 1,
+    "slot": "Tech",
+    "size": [
+      "Small"
+    ],
+    "id": 277
+  },
+  {
+    "text": "When executing a maneuver, you may resolve the \"Check Pilot Stress\" step after the \"Perform Action\" step (instead of before that step).",
+    "image": "upgrades/Tech/pattern-analyzer.png",
+    "name": "Pattern Analyzer",
+    "xws": "patternanalyzer",
+    "points": 2,
+    "slot": "Tech",
+    "id": 278
+  },
+  {
+    "image": "upgrades/Elite/snap-shot.png",
+    "text": "After an enemy ship executes a maneuver, you may perform this attack against that ship.<br /><br /><strong>Attack:</strong> Attack 1 ship. You cannot modify your attack dice and cannot attack again this phase.",
+    "name": "Snap Shot",
+    "xws": "snapshot",
+    "points": 2,
+    "slot": "Elite",
+    "range": "1",
+    "attack": "2",
+    "id": 279
+  },
+  {
+    "image": "upgrades/Astromech/m9-g8.png",
+    "text": "When a ship you have locked is attacking, you may choose 1 attack die. The attacker must reroll that die.<br /><br />You can acquire target locks on other friendly ships.",
+    "name": "M9-G8",
+    "xws": "m9g8",
+    "unique": true,
+    "points": 3,
+    "slot": "Astromech",
+    "id": 280
   }
 ]
