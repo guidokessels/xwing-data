@@ -1329,7 +1329,8 @@
     },
     "image": "sources/arc-170-expansion-pack-product.png",
     "id": 42,
-    "thumb": "sources/arc-170-expansion-pack-thumb.jpg"
+    "thumb": "sources/arc-170-expansion-pack-thumb.jpg",
+    "released": true
   },
   {
     "name": "Special Forces TIE Expansion Pack",
@@ -1352,7 +1353,8 @@
       }
     },
     "image": "sources/special-forces-tie-expansion-pack-product.png",
-    "id": 43
+    "id": 43,
+    "released": true
   },
   {
     "name": "Protectorate Starfighter Expansion Pack",
@@ -1376,7 +1378,8 @@
     },
     "image": "sources/protectorate-starfighter-expansion-pack-product.png",
     "thumb": "sources/protectorate-starfighter-expansion-pack-thumb.jpg",
-    "id": 44
+    "id": 44,
+    "released": true
   },
   {
     "name": "Shadow Caster Expansion Pack",
@@ -1406,7 +1409,8 @@
     },
     "image": "sources/shadow-caster-expansion-pack-product.png",
     "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
-    "id": 45
+    "id": 45,
+    "released": true
   },
   {
     "name": "Sabine's TIE Fighter Expansion Pack",
