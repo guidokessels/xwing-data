@@ -3099,7 +3099,8 @@
       "Missile",
       "Elite"
     ],
-    "id": 187
+    "id": 187,
+    "image": "pilots/Galactic Empire/TIE Adv. Prototype/baron-of-the-empire.png"
   },
   {
     "name": "Gand Findsman",
@@ -3515,7 +3516,8 @@
       "System",
       "Tech"
     ],
-    "id": 212
+    "id": 212,
+    "image": "pilots/First Order/TIE-sf Fighter/omega-specialist.png"
   },
   {
     "name": "Shadowport Hunter",
@@ -3529,7 +3531,8 @@
       "Illicit",
       "Illicit"
     ],
-    "id": 213
+    "id": 213,
+    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/shadowport-hunter.png"
   },
   {
     "text": "Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.",

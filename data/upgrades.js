@@ -2489,7 +2489,8 @@
     "points": 4,
     "slot": "Cargo",
     "id": 225,
-    "xws": "clusterbombs"
+    "xws": "clusterbombs",
+    "image": "upgrades/Cargo/cluster-bombs.png"
   },
   {
     "text": "When you deploy a ship, treat its pilot skill value as \"8\" until the end of the round.",
@@ -2880,7 +2881,8 @@
     "ship": [
       "Lancer-class Pursuit Craft"
     ],
-    "id": 261
+    "id": 261,
+    "image": "upgrades/Modification/gyroscopic-targeting.png"
   },
   {
     "text": "<strong>Action:</strong> Choose a stressed enemy ship at Range 1-2 and roll 1 attack die. On a [Hit] or [Critical Hit] result, remove 1 stress token and deal it 1 facedown Damage card.",
@@ -2888,7 +2890,8 @@
     "xws": "blackmarketslicertools",
     "points": 1,
     "slot": "Illicit",
-    "id": 262
+    "id": 262,
+    "image": "upgrades/Elite/black-market-slicer-tools.png"
   },
   {
     "image": "upgrades/Title/sabines-masterpiece.png",
