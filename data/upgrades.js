@@ -616,7 +616,7 @@
     "faction": "Rebel Alliance",
     "text": "At the end of the End phase, if you have no shields, you may recover 1 shield and roll 1 attack die.  On a [Hit] result, randomly flip 1 of your facedown Damage cards faceup and resolve it.",
     "image": "upgrades/Crew/r2-d2.png",
-    "xws": "r2d2"
+    "xws": "r2d2-swx22"
   },
   {
     "name": "C-3PO",
@@ -2675,7 +2675,7 @@
   },
   {
     "name": "Millennium Falcon",
-    "xws": "millenniumfalcon",
+    "xws": "millenniumfalcon-swx57",
     "image": "upgrades/Title/millennium-falcon-hotr.png",
     "text": "After you execute a 3-speed bank maneuver ([Bank Left] or [Bank Right]), if you are not touching another ship and you are not stressed, you may receive 1 stress token to rotate your ship 180&deg;.",
     "unique": true,
