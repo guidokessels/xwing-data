@@ -30,7 +30,8 @@
         "8": 1,
         "12": 1
       }
-    }
+    },
+    "sku": "SWX01"
   },
   {
     "id": 1,
@@ -56,7 +57,8 @@
         "11": 1,
         "12": 1
       }
-    }
+    },
+    "sku": "SWX02"
   },
   {
     "id": 2,
@@ -81,7 +83,8 @@
         "2": 1,
         "5": 1
       }
-    }
+    },
+    "sku": "SWX04"
   },
   {
     "id": 3,
@@ -106,7 +109,8 @@
         "8": 1,
         "9": 1
       }
-    }
+    },
+    "sku": "SWX03"
   },
   {
     "id": 4,
@@ -132,7 +136,8 @@
         "13": 1,
         "14": 1
       }
-    }
+    },
+    "sku": "SWX05"
   },
   {
     "id": 5,
@@ -156,7 +161,8 @@
         "15": 1,
         "16": 1
       }
-    }
+    },
+    "sku": "SWX09"
   },
   {
     "id": 6,
@@ -182,7 +188,8 @@
         "18": 1,
         "19": 1
       }
-    }
+    },
+    "sku": "SWX08"
   },
   {
     "id": 7,
@@ -215,7 +222,8 @@
         "175": 2,
         "176": 2
       }
-    }
+    },
+    "sku": "SWX06"
   },
   {
     "id": 8,
@@ -248,7 +256,8 @@
         "151": 1,
         "174": 2
       }
-    }
+    },
+    "sku": "SWX07"
   },
   {
     "id": 9,
@@ -274,7 +283,8 @@
         "35": 1,
         "36": 1
       }
-    }
+    },
+    "sku": "SWX14"
   },
   {
     "id": 10,
@@ -301,7 +311,8 @@
         "40": 1,
         "153": 1
       }
-    }
+    },
+    "sku": "SWX12"
   },
   {
     "id": 11,
@@ -327,7 +338,8 @@
         "41": 1,
         "42": 1
       }
-    }
+    },
+    "sku": "SWX15"
   },
   {
     "id": 12,
@@ -359,7 +371,8 @@
         "154": 1,
         "177": 2
       }
-    }
+    },
+    "sku": "SWX13"
   },
   {
     "id": 13,
@@ -388,7 +401,8 @@
         "178": 2,
         "179": 2
       }
-    }
+    },
+    "sku": "SWX21"
   },
   {
     "id": 14,
@@ -414,7 +428,8 @@
         "55": 1,
         "180": 1
       }
-    }
+    },
+    "sku": "SWX16"
   },
   {
     "id": 15,
@@ -440,7 +455,8 @@
         "57": 1,
         "180": 1
       }
-    }
+    },
+    "sku": "SWX17"
   },
   {
     "id": 16,
@@ -466,7 +482,8 @@
         "59": 1,
         "60": 1
       }
-    }
+    },
+    "sku": "SWX18"
   },
   {
     "id": 17,
@@ -492,7 +509,8 @@
         "181": 1,
         "182": 1
       }
-    }
+    },
+    "sku": "SWX19"
   },
   {
     "id": 18,
@@ -525,7 +543,8 @@
         "157": 2,
         "184": 2
       }
-    }
+    },
+    "sku": "SWX29"
   },
   {
     "id": 19,
@@ -564,7 +583,8 @@
         "158": 1,
         "162": 1
       }
-    }
+    },
+    "sku": "SWX22"
   },
   {
     "id": 20,
@@ -611,7 +631,8 @@
         "161": 1,
         "183": 1
       }
-    }
+    },
+    "sku": "SWX11"
   },
   {
     "id": 21,
@@ -644,7 +665,8 @@
         "185": 1,
         "186": 2
       }
-    }
+    },
+    "sku": "SWX23"
   },
   {
     "id": 22,
@@ -675,7 +697,8 @@
         "164": 1,
         "187": 2
       }
-    }
+    },
+    "sku": "SWX24"
   },
   {
     "id": 23,
@@ -722,7 +745,8 @@
         "168": 1,
         "169": 2
       }
-    }
+    },
+    "sku": "SWX28"
   },
   {
     "id": 24,
@@ -751,7 +775,8 @@
         "179": 1,
         "188": 2
       }
-    }
+    },
+    "sku": "SWX25"
   },
   {
     "id": 25,
@@ -777,7 +802,8 @@
         "165": 1,
         "174": 1
       }
-    }
+    },
+    "sku": "SWX26"
   },
   {
     "id": 26,
@@ -808,7 +834,8 @@
         "124": 1,
         "166": 1
       }
-    }
+    },
+    "sku": "SWX27"
   },
   {
     "id": 27,
@@ -856,7 +883,8 @@
         "172": 1,
         "173": 1
       }
-    }
+    },
+    "sku": "SWX30"
   },
   {
     "id": 28,
@@ -890,7 +918,8 @@
         "191": 1,
         "192": 2
       }
-    }
+    },
+    "sku": "SWX31"
   },
   {
     "id": 29,
@@ -916,7 +945,8 @@
         "133": 1,
         "141": 1
       }
-    }
+    },
+    "sku": "SWX32"
   },
   {
     "id": 30,
@@ -945,7 +975,8 @@
         "142": 1,
         "189": 1
       }
-    }
+    },
+    "sku": "SWX33"
   },
   {
     "id": 31,
@@ -974,7 +1005,8 @@
         "142": 1,
         "190": 2
       }
-    }
+    },
+    "sku": "SWX34"
   },
   {
     "id": 32,
@@ -1007,7 +1039,8 @@
         "148": 1,
         "150": 1
       }
-    }
+    },
+    "sku": "SWX36"
   },
   {
     "id": 33,
@@ -1033,7 +1066,8 @@
         "193": 1,
         "214": 1
       }
-    }
+    },
+    "sku": "SWX37"
   },
   {
     "id": 34,
@@ -1058,7 +1092,8 @@
         "147": 1,
         "149": 1
       }
-    }
+    },
+    "sku": "SWX38"
   },
   {
     "name": "Punishing One Expansion Pack",
@@ -1090,7 +1125,8 @@
         "241": 2
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX42"
   },
   {
     "name": "Mist Hunter Expansion Pack",
@@ -1119,7 +1155,8 @@
         "234": 1
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX41"
   },
   {
     "name": "Inquisitor's TIE Expansion Pack",
@@ -1145,7 +1182,8 @@
         "229": 1
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX40"
   },
   {
     "name": "Ghost Expansion Pack",
@@ -1186,7 +1224,8 @@
         "242": 1
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX39"
   },
   {
     "name": "Imperial Assault Carrier Expansion Pack",
@@ -1232,7 +1271,8 @@
         "228": 1
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX35"
   },
   {
     "name": "Imperial Veterans Expansion Pack",
@@ -1265,7 +1305,8 @@
         "245": 1
       }
     },
-    "released": true
+    "released": true,
+    "sku": "SWX52"
   },
   {
     "wave": "Iconic Starships",
@@ -1302,7 +1343,8 @@
     },
     "image": "sources/heroes-of-the-resistance-expansion-pack-product.png",
     "id": 41,
-    "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg"
+    "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg",
+    "sku": "SWX57"
   },
   {
     "name": "ARC-170 Expansion Pack",
@@ -1330,7 +1372,8 @@
     "image": "sources/arc-170-expansion-pack-product.png",
     "id": 42,
     "thumb": "sources/arc-170-expansion-pack-thumb.jpg",
-    "released": true
+    "released": true,
+    "sku": "SWX53"
   },
   {
     "name": "Special Forces TIE Expansion Pack",
@@ -1354,7 +1397,8 @@
     },
     "image": "sources/special-forces-tie-expansion-pack-product.png",
     "id": 43,
-    "released": true
+    "released": true,
+    "sku": "SWX54"
   },
   {
     "name": "Protectorate Starfighter Expansion Pack",
@@ -1379,7 +1423,8 @@
     "image": "sources/protectorate-starfighter-expansion-pack-product.png",
     "thumb": "sources/protectorate-starfighter-expansion-pack-thumb.jpg",
     "id": 44,
-    "released": true
+    "released": true,
+    "sku": "SWX55"
   },
   {
     "name": "Shadow Caster Expansion Pack",
@@ -1410,7 +1455,8 @@
     "image": "sources/shadow-caster-expansion-pack-product.png",
     "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
     "id": 45,
-    "released": true
+    "released": true,
+    "sku": "SWX56"
   },
   {
     "name": "Sabine's TIE Fighter Expansion Pack",
@@ -1429,7 +1475,8 @@
     },
     "id": 46,
     "image": "sources/swx59-product.png",
-    "thumb": "sources/swx59-thumb.jpg"
+    "thumb": "sources/swx59-thumb.jpg",
+    "sku": "SWX59"
   },
   {
     "name": "Upsilon-class Shuttle Expansion Pack",
@@ -1449,7 +1496,8 @@
       }
     },
     "image": "sources/swx60-product.png",
-    "thumb": "sources/swx60-thumb.jpg"
+    "thumb": "sources/swx60-thumb.jpg",
+    "sku": "SWX60"
   },
   {
     "name": "Quadjumper Expansion Pack",
@@ -1468,7 +1516,8 @@
       }
     },
     "image": "sources/swx61-product.png",
-    "thumb": "sources/swx61-thumb.jpg"
+    "thumb": "sources/swx61-thumb.jpg",
+    "sku": "SWX61"
   },
   {
     "name": "U-Wing Expansion Pack",
@@ -1492,7 +1541,8 @@
       }
     },
     "image": "sources/swx62-product.png",
-    "thumb": "sources/swx62-thumb.jpg"
+    "thumb": "sources/swx62-thumb.jpg",
+    "sku": "SWX62"
   },
   {
     "name": "TIE Striker Expansion Pack",
@@ -1509,6 +1559,7 @@
       "upgrades": {
         "270": 1
       }
-    }
+    },
+    "sku": "SWX63"
   }
 ]
