@@ -2257,7 +2257,7 @@
     "points": 2,
     "slot": "Cargo",
     "ship": [
-      "G-1A Starfighter"
+      "Gozanti-Class Cruiser"
     ],
     "id": 205,
     "xws": "broadcastarray"
@@ -2270,7 +2270,7 @@
     "points": 0,
     "slot": "Cargo",
     "ship": [
-      "G-1A Starfighter"
+      "Gozanti-Class Cruiser"
     ],
     "id": 206,
     "xws": "dockingclamps"
@@ -2284,7 +2284,7 @@
     "range": "1-3",
     "attack": "3",
     "ship": [
-      "G-1A Starfighter"
+      "Gozanti-Class Cruiser"
     ],
     "id": 207,
     "energy": "1",
