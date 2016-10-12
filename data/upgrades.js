@@ -1571,7 +1571,8 @@
     "image": "upgrades/Title/slave-i.png",
     "grants": [
       {
-        "slot": "Torpedo"
+        "type": "slot",
+        "name": "Torpedo"
       }
     ],
     "xws": "slavei"
@@ -1628,7 +1629,8 @@
     "image": "upgrades/Title/royal-guard-tie.png",
     "grants": [
       {
-        "slot": "Modification"
+        "type": "slot",
+        "name": "Modification"
       }
     ],
     "xws": "royalguardtie"
@@ -1658,7 +1660,8 @@
     "image": "upgrades/Title/a-wing-test-pilot.png",
     "grants": [
       {
-        "slot": "Elite"
+        "type": "slot",
+        "name": "Elite"
       }
     ],
     "xws": "awingtestpilot"
@@ -1794,10 +1797,12 @@
     "image": "upgrades/Title/virago.png",
     "grants": [
       {
-        "slot": "System"
+        "type": "slot",
+        "name": "System"
       },
       {
-        "slot": "Illicit"
+        "type": "slot",
+        "name": "Illicit"
       }
     ],
     "xws": "virago"
@@ -1815,10 +1820,12 @@
     "image": "upgrades/Title/andrasta.png",
     "grants": [
       {
-        "slot": "Bomb"
+        "type": "slot",
+        "name": "Bomb"
       },
       {
-        "slot": "Bomb"
+        "type": "slot",
+        "name": "Bomb"
       }
     ],
     "xws": "andrasta"
@@ -1847,7 +1854,8 @@
     "image": "upgrades/Title/tie-x1.png",
     "grants": [
       {
-        "slot": "System"
+        "type": "slot",
+        "name": "System"
       }
     ],
     "xws": "tiex1"
@@ -2005,7 +2013,8 @@
     "image": "upgrades/Modification/b-wing-e2.png",
     "grants": [
       {
-        "slot": "Crew"
+        "type": "slot",
+        "name": "Crew"
       }
     ],
     "xws": "bwinge2"
