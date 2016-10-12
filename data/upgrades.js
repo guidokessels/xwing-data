@@ -1586,7 +1586,12 @@
     "ship": [
       "YT-1300"
     ],
-    "actions": "Evade",
+    "grants": [
+      {
+        "type": "action",
+        "name": "Evade"
+      }
+    ],
     "text": "Your action bar gains the [Evade] action icon.",
     "image": "upgrades/Title/millennium-falcon.png",
     "xws": "millenniumfalcon"
