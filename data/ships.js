@@ -2189,7 +2189,7 @@
       "Rebel Alliance"
     ],
     "actions": [
-      "Boost",
+      "Focus",
       "Evade",
       "Target Lock"
     ],
