@@ -482,6 +482,12 @@
       "Crew",
       "Crew"
     ],
+    "ship_override": {
+      "attack": 2,
+      "agility": 1,
+      "hull": 6,
+      "shields": 4
+    },
     "image": "pilots/Rebel Alliance/YT-1300/outer-rim-smuggler.png",
     "faction": "Rebel Alliance",
     "xws": "outerrimsmuggler"
@@ -500,12 +506,6 @@
       "Crew"
     ],
     "text": "When you are dealt a faceup Damage card, immediately flip it facedown (without resolving its ability).",
-    "ship_override": {
-      "attack": 3,
-      "agility": 1,
-      "hull": 8,
-      "shields": 5
-    },
     "image": "pilots/Rebel Alliance/YT-1300/chewbacca.png",
     "faction": "Rebel Alliance",
     "xws": "chewbacca"
@@ -524,12 +524,6 @@
       "Crew"
     ],
     "image": "pilots/Rebel Alliance/YT-1300/lando-calrissian.png",
-    "ship_override": {
-      "attack": 3,
-      "agility": 1,
-      "hull": 8,
-      "shields": 5
-    },
     "text": "After you execute a green maneuver, choose 1 other friendly ship at Range 1.  That ship may perform 1 free action shown on its action bar.",
     "faction": "Rebel Alliance",
     "xws": "landocalrissian"
@@ -547,12 +541,6 @@
       "Crew",
       "Crew"
     ],
-    "ship_override": {
-      "attack": 3,
-      "agility": 1,
-      "hull": 8,
-      "shields": 5
-    },
     "text": "When attacking, you may reroll all of your dice. If you choose to do so, you must reroll as many of your dice as possible.",
     "image": "pilots/Rebel Alliance/YT-1300/han-solo.png",
     "faction": "Rebel Alliance",

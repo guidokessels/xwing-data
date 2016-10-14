@@ -189,10 +189,10 @@
     "faction": [
       "Rebel Alliance"
     ],
-    "attack": 2,
+    "attack": 3,
     "agility": 1,
-    "hull": 6,
-    "shields": 4,
+    "hull": 8,
+    "shields": 5,
     "actions": [
       "Focus",
       "Target Lock"
