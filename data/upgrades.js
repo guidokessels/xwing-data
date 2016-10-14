@@ -3111,5 +3111,21 @@
     "points": 3,
     "slot": "Astromech",
     "id": 280
+  },
+  {
+    "name": "Hotshot Copilot",
+    "xws": "hotshotcopilot",
+    "text": "When attacking with your primary weapon, the defender must spend one focus token if able.<br /><br />When defending, the attacker must spend one foucs token if able.",
+    "points": 4,
+    "slot": "Crew",
+    "id": 281
+  },
+  {
+    "text": "When attacking you may roll one additional attack die if the shot is obstructed.",
+    "name": "Trickshot",
+    "xws": "trickshot",
+    "points": 0,
+    "slot": "Elite",
+    "id": 282
   }
 ]

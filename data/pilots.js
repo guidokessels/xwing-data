@@ -3704,5 +3704,19 @@
       "Torpedo"
     ],
     "id": 223
+  },
+  {
+    "name": "Resistance Sympathizer",
+    "xws": "resistancesympathizer",
+    "ship": "YT-1300",
+    "skill": 3,
+    "points": 38,
+    "faction": "Resistance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Missile"
+    ],
+    "id": 224
   }
 ]
