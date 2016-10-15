@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Core",
+    "name": "Core Set",
     "image": "sources/core-product.jpg",
     "thumb": "sources/core-thumb.jpg",
     "wave": 0,
