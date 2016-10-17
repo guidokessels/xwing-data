@@ -3523,6 +3523,7 @@
     "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/shadowport-hunter.png"
   },
   {
+    "image": "pilots/Rebel Alliance/TIE Fighter/sabine-wren.png",
     "text": "Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.",
     "name": "Sabine Wren",
     "xws": "sabinewren-swx59",
@@ -3706,5 +3707,50 @@
       "Missile"
     ],
     "id": 224
+  },
+  {
+    "image": "pilots/Rebel Alliance/TIE Fighter/ahsoka-tano.png",
+    "text": "At the start of the Combat phase, you may spend 1 focus token to choose a friendly ship at Range 1. It may perform 1 free action.",
+    "name": "Ahsoka Tano",
+    "xws": "ahsokatano",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 17,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Elite"
+    ],
+    "id": 225
+  },
+  {
+    "image": "pilots/Rebel Alliance/TIE Fighter/captain-rex.png",
+    "text": "After you perform an attack, assign the \"Suppressive Fire\" Condition card to the defender.",
+    "name": "Captain Rex",
+    "xws": "captainrex",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 4,
+    "points": 14,
+    "faction": "Rebel Alliance",
+    "slots": [],
+    "id": 226
+  },
+  {
+    "image": "pilots/Rebel Alliance/U-Wing/blue-squadron-pathfinder.png",
+    "name": "Blue Squadron Pathfinder",
+    "xws": "bluesquadronpathfinder",
+    "ship": "U-Wing",
+    "unique": false,
+    "skill": 2,
+    "points": 23,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Torpedo"
+    ],
+    "id": 227
   }
 ]

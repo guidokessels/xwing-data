@@ -3130,5 +3130,40 @@
     "points": 0,
     "slot": "Elite",
     "id": 282
+  },
+  {
+    "image": "upgrades/Illicit/emp-device.png",
+    "text": "During the Combat phase, instead of performing any attacks, you may discard this card to assign 2 ion tokens to each ship at Range 1.",
+    "name": "EMP Device",
+    "xws": "empdevice",
+    "unique": true,
+    "points": 2,
+    "slot": "Illicit",
+    "id": 283
+  },
+  {
+    "image": "upgrades/Modification/captured-tie.png",
+    "text": "Enemy ships with a pilot skill value lower than yours cannot declare you as the target of an attack. After you perform an attack or when you are the only remaining friendly ship in play, discard this card.",
+    "name": "Captured TIE",
+    "xws": "capturedtie",
+    "unique": true,
+    "points": 1,
+    "slot": "Modification",
+    "ship": [
+      "TIE Fighter"
+    ],
+    "faction": "Rebel Alliance",
+    "id": 284
+  },
+  {
+    "image": "upgrades/Crew/captain-rex.png",
+    "text": "After you perform an attack that does not hit, you may assign 1 focus token to your ship.",
+    "name": "Captain Rex",
+    "xws": "captainrex",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 285
   }
 ]
