@@ -112,7 +112,7 @@
     "id": 11,
     "slot": "Elite",
     "points": 2,
-    "text": "<strong>Action:</strong> Perform a free barrel roll action.  If you do not have the [Barrel Roll] action icon, receive 1 stress token.<br /><br />You may then remove 1 enemy target lock from your ship.",
+    "text": "<strong>Action:</strong> Perform a free barrel roll action. If you do not have the [Barrel Roll] action icon, receive 1 stress token. You may then remove 1 enemy target lock from your ship",
     "image": "upgrades/Elite/expert-handling.png",
     "xws": "experthandling"
   },
@@ -152,7 +152,7 @@
     "id": 15,
     "slot": "Elite",
     "points": 3,
-    "text": "<strong>Action:</strong> Execute a white ([Turn Left] 1) or ([Turn Right] 1) maneuver. Then, receive 1 stress token.<br /><br />Then, if you do not have the [Boost] action icon, roll 2 attack dice.  Suffer any damage ([Hit]) and any critical damage ([Critical Hit]) rolled.",
+    "text": "<strong>Action:</strong> Execute a white ([Turn Left] 1) or ([Turn Right] 1) maneuver. Then, receive 1 stress token. Then, if you do not have the [Boost] action icon, roll 2 attack dice.  Suffer any damage ([Hit]) and any critical damage ([Critical Hit]) rolled.",
     "image": "upgrades/Elite/daredevil.png",
     "xws": "daredevil"
   },
@@ -211,7 +211,7 @@
     "id": 21,
     "slot": "Crew",
     "points": 5,
-    "text": "After you perform an attack that does not hit, you may immediately perform a primary weapon attack.  You cannot perform another attack this round.",
+    "text": "After you perform an attack that does not hit, you may immediately perform a primary weapon attack. You cannot perform another attack this round.",
     "image": "upgrades/Crew/gunner.png",
     "xws": "gunner"
   },
@@ -281,7 +281,7 @@
     "id": 28,
     "slot": "Bomb",
     "points": 3,
-    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 proximity mine token.<br /><br />When a ship's base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
+    "text": "<strong>Action:</strong> Discard this card to drop 1 proximity mine token. When a ship's base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
     "effect": "<strong>Bomb Token:</strong> When this bomb token detonates, the ship that moved through or overlapped this token rolls 3 attack dice and suffers all damage [Hit] and critical damage [Critical Hit] rolled. Then discard this token.",
     "image": "upgrades/Bomb/proximity-mines.png",
     "xws": "proximitymines"
@@ -311,7 +311,7 @@
     "faction": "Rebel Alliance",
     "slot": "Crew",
     "points": 7,
-    "text": "After you perform an attack that does not hit, you may immediately perform a primary weapon attack.  You may change 1 [Focus] result to a [Hit] result.  You cannot perform another attack this round.",
+    "text": "After you perform an attack that does not hit, you may immediately perform a primary weapon attack. You may change 1 [Focus] result to a [Hit] result.  You cannot perform another attack this round.",
     "image": "upgrades/Crew/luke-skywalker.png",
     "xws": "lukeskywalker"
   },
@@ -1093,7 +1093,7 @@
     "id": 106,
     "slot": "System",
     "points": 3,
-    "text": "When attacking, you may cancel all of your dice results. Then, you may add 2 [Hit] results to your roll.<br /><br />Your dice cannot be modified again during this attack.",
+    "text": "When attacking, during the “Modify Attack Dice” step, you may cancel all of your dice results. Then, you may add 2 [Hit] results to your roll.<br /><br />Your dice cannot be modified again during this attack.",
     "image": "upgrades/System/accuracy-corrector.png",
     "xws": "accuracycorrector"
   },
@@ -1132,7 +1132,7 @@
     "unique": true,
     "slot": "Salvaged Astromech",
     "points": 0,
-    "text": "If you are equipped with a bomb that can be dropped before you reveal your maneuver, you may drop the bomb <strong>after</strong> you execute your maneuver instead.",
+    "text": "If you are equipped with a bomb that can be dropped when you reveal your maneuver, you may drop the bomb after you execute your maneuver instead.",
     "image": "upgrades/Salvaged Astromech/genius.png",
     "xws": "genius"
   },
@@ -1154,7 +1154,7 @@
     "id": 112,
     "slot": "Salvaged Astromech",
     "points": 2,
-    "text": "When you are dealt a Damage card with the <strong>Ship</strong> trait, you may immediately discard that card (before resolving its effect).<br /><br />Then, discard this Upgrade card.",
+    "text": "When you are dealt a faceup Damage card with the <strong>Ship</strong> trait, you may immediately discard that card (before resolving its effect).<br /><br />Then, discard this Upgrade card.",
     "image": "upgrades/Salvaged Astromech/salvaged-astromech.png",
     "xws": "salvagedastromech"
   },
@@ -1448,7 +1448,7 @@
     "slot": "Bomb",
     "points": 4,
     "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 cluster mine token set.<br /><br />When a ship's base or maneuver template overlaps a cluster mine token, that token <strong>detonates</strong>.",
-    "effect": "<strong>Bomb Token:</strong> When one of these bomb token detonates, the ship that moved through or overlapped that token rolls 2 attack dice and suffers alls damage ([Hit]) rolled. Then discard that token.",
+    "effect": "<strong>Bomb Token:</strong> When one of these bomb token detonates, the ship that moved through or overlapped that token rolls 2 attack dice and suffers 1 damage for each [Hit] and [Critical Hit] rolled. Then discard that token.",
     "image": "upgrades/Bomb/cluster-mines.png",
     "xws": "clustermines"
   },
@@ -1466,7 +1466,7 @@
     "id": 141,
     "slot": "Elite",
     "points": 1,
-    "text": "When attacking a ship inside your firing arc, you may discard this card to cancel 1 of the defender’s [Evade] results.",
+    "text": "When attacking a ship inside your firing arc, at the start of the 'Compare Results' step, you may discard this card to cancel 1 of the defender's [Evade] results.",
     "image": "upgrades/Elite/crack-shot.png",
     "xws": "crackshot"
   },
@@ -2066,7 +2066,7 @@
     "id": 188,
     "slot": "Modification",
     "points": 2,
-    "text": "When defending, if you are beyond Range 2 or outside the attacker's firing arc, you may change 1 of your blank results to a [Evade] result. You can equip this card only if you have the [Boost] action icon.",
+    "text": "When defending, if you are inside the attacker’s firing arc beyond Range 2 or outside the attacker’s firing arc, you may change 1 of your blank results to a [Evade] result. You can equip this card only if you have the [Boost] action icon.",
     "image": "upgrades/Modification/autothrusters.png",
     "xws": "autothrusters"
   },
@@ -2367,7 +2367,7 @@
   },
   {
     "image": "upgrades/System/reinforced-deflectors.png",
-    "text": "After you suffer 3 or more damage from an attack, recover 1 shield (up to your shield value).",
+    "text": "After defending, if you suffered a combination of 3 or more damage and critical damage during the attack, recover 1 shield (up to your shield value).",
     "name": "Reinforced Deflectors",
     "points": 3,
     "slot": "System",
