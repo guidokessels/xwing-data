@@ -192,7 +192,10 @@
     "points": 1,
     "text": "You may treat the <strong>Attack (target lock):</strong> header as <strong>Attack (focus):</strong>.<br /><br />When an attack instructs you to spend a target lock, you may spend a focus token instead.",
     "image": "upgrades/Elite/deadeye.png",
-    "xws": "deadeye"
+    "xws": "deadeye",
+    "size": [
+      "Small"
+    ]
   },
   {
     "name": "Expose",
@@ -1773,7 +1776,7 @@
     "ship": [
       "M3-A Interceptor"
     ],
-    "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.",
+    "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.<br /><br />Increase your hull value by 1.",
     "image": "upgrades/Title/heavy-scyk-interceptor.png",
     "xws": "heavyscykinterceptor"
   },
