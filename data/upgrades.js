@@ -705,7 +705,13 @@
     "points": 1,
     "text": "Your upgrade bar gains the [Elite] upgrade icon.<br /><br />You cannot equip this upgrade if you already have a [Elite] upgrade icon or if your pilot skill value is \"2\" or lower.",
     "image": "upgrades/Astromech/r2-d6.png",
-    "xws": "r2d6"
+    "xws": "r2d6",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Elite"
+      }
+    ]
   },
   {
     "name": "Enhanced Scopes",
@@ -1147,7 +1153,13 @@
     "points": 0,
     "text": "Your upgrade bar gains the [Bomb] icon.",
     "image": "upgrades/Torpedo/bomb-loadout.png",
-    "xws": "bombloadout"
+    "xws": "bombloadout",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Bomb"
+      }
+    ]
   },
   {
     "name": "Salvaged Astromech",
@@ -1932,7 +1944,13 @@
     "slot": "Modification",
     "text": "Your action bar gains the [Boost] action icon.",
     "image": "upgrades/Modification/engine-upgrade.png",
-    "xws": "engineupgrade"
+    "xws": "engineupgrade",
+    "grants": [
+      {
+        "type": "action",
+        "name": "Boost"
+      }
+    ]
   },
   {
     "name": "Anti-Pursuit Lasers",
@@ -2428,7 +2446,13 @@
     "slot": "Crew",
     "faction": "Rebel Alliance",
     "id": 218,
-    "xws": "sabinewren"
+    "xws": "sabinewren",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Bomb"
+      }
+    ]
   },
   {
     "image": "upgrades/Title/tie-x7.png",
@@ -2795,7 +2819,13 @@
     "size": [
       "Small"
     ],
-    "id": 251
+    "id": 251,
+    "grants": [
+      {
+        "type": "action",
+        "name": "Barrel Roll"
+      }
+    ]
   },
   {
     "image": "upgrades/Crew/tail-gunner.png",
@@ -2922,7 +2952,17 @@
       "TIE Fighter"
     ],
     "faction": "Rebel Alliance",
-    "id": 263
+    "id": 263,
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Crew"
+      },
+      {
+        "type": "slot",
+        "name": "Illicit"
+      }
+    ]
   },
   {
     "image": "upgrades/Crew/kylo-ren.png",
@@ -3037,7 +3077,13 @@
       "YT-1300",
       "YT-2400"
     ],
-    "id": 273
+    "id": 273,
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Illicit"
+      }
+    ]
   },
   {
     "image": "upgrades/Illicit/burnout-slam.png",
