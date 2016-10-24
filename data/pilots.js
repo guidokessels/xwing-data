@@ -3806,6 +3806,7 @@
       "Tech",
       "Tech"
     ],
-    "id": 230
+    "id": 230,
+    "faction": "First Order"
   }
 ]
