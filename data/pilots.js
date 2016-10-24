@@ -3554,7 +3554,8 @@
       "Tech",
       "Tech"
     ],
-    "id": 215
+    "id": 215,
+    "image": "pilots/First Order/Upsilon-Class Shuttle/kylo-ren.png"
   },
   {
     "text": "At the end of the Activation phase, you <strong>must</strong> assign a tractor beam token to each ship you are touching.",
@@ -3752,5 +3753,59 @@
       "Torpedo"
     ],
     "id": 227
+  },
+  {
+    "image": "pilots/First Order/Upsilon-Class Shuttle/major-stridan.png",
+    "text": "For the purpose of your actions and Upgrade cards, you may treat friendly ships at Range 2-3 as being at Range 1.",
+    "name": "Major Stridan",
+    "xws": "majorstridan",
+    "ship": "Upsilon-class Shuttle",
+    "unique": true,
+    "points": 32,
+    "faction": "First Order",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Tech",
+      "Tech"
+    ],
+    "id": 228,
+    "skill": 4
+  },
+  {
+    "image": "pilots/First Order/Upsilon-Class Shuttle/lieutenant-dormitz.png",
+    "text": "During setup, friendly ships may be placed anywhere in the play area at Range 1-2 of you.",
+    "name": "Lieutenant Dormitz",
+    "xws": "lieutenantdormitz",
+    "ship": "Upsilon-class Shuttle",
+    "unique": true,
+    "points": 31,
+    "skill": 3,
+    "faction": "First Order",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Tech",
+      "Tech"
+    ],
+    "id": 229
+  },
+  {
+    "image": "pilots/First Order/Upsilon-Class Shuttle/starkiller-base-pilot.png",
+    "name": "Starkiller Base Pilot",
+    "xws": "starkillerbasepilot",
+    "ship": "Upsilon-class Shuttle",
+    "skill": 2,
+    "points": 30,
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Tech",
+      "Tech"
+    ],
+    "id": 230
   }
 ]

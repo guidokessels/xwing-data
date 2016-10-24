@@ -2996,7 +2996,8 @@
     "ship": [
       "Upsilon-class Shuttle"
     ],
-    "id": 266
+    "id": 266,
+    "image": "upgrades/Title/kylo-rens-shuttle.png"
   },
   {
     "text": "During setup, before the \"Place Forces\" step, choose 1 enemy ship and assign the \"A Debt to Pay\" Condition card to it.\n\nWhen attacking a ship that has the \"A Debt to Pay\" Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
@@ -3211,5 +3212,44 @@
     "slot": "Crew",
     "faction": "Rebel Alliance",
     "id": 285
+  },
+  {
+    "image": "upgrades/Crew/general-hux.png",
+    "text": "<strong>Action:</strong> Choose up to 3 friendly ships at Range 1-2. Assign 1 focus token to each of those ships and assign the \"Fanatical Devotion\" Condition card to 1 of them. Then receive 1 stress token.",
+    "name": "General Hux",
+    "xws": "generalhux",
+    "unique": true,
+    "points": 5,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 286
+  },
+  {
+    "image": "upgrades/Crew/operations-specialist.png",
+    "text": "After a friendly ship at Range 1-2 performs an attack that does not hit, you may assign 1 focus token to a friendly ship at Range 1-3 of the attacker.",
+    "name": "Operations Specialist",
+    "xws": "operationsspecialist",
+    "limited": true,
+    "points": 3,
+    "slot": "Crew",
+    "id": 287
+  },
+  {
+    "image": "upgrades/Tech/targeting-synchronizer.png",
+    "text": "When a friendly ship at Range 1-2 is attacking a ship you have locked, the friendly ship treats the \"<strong>Attack (target lock):</strong>\" header as \"<strong>Attack:</strong>.\" If a game effect instructs that ship to spend a target lock, it may spend your target lock instead.",
+    "name": "Targeting Synchronizer",
+    "xws": "targetingsynchronizer",
+    "points": 3,
+    "slot": "Tech",
+    "id": 288
+  },
+  {
+    "image": "upgrades/Tech/hyperwave-comm-scanner.png",
+    "text": "At the start of the \"Place Forces\" step, you may choose to treat your pilot skill value as \"0\", \"6\", or \"12\" until the end of the step.<br /><br />During setup, after another friendly ship is placed at Range 1-2, you may assign 1 focus or evade token to it.",
+    "name": "Hyperwave Comm Scanner",
+    "xws": "hyperwavecommscanner",
+    "slot": "Tech",
+    "points": 1,
+    "id": 289
   }
 ]
