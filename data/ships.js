@@ -2683,7 +2683,7 @@
     "actions": [
       "Coordinate",
       "Focus",
-      "Rotate Arc"
+      "Target Lock"
     ],
     "size": "large",
     "attack": 4,
