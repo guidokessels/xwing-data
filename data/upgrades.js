@@ -3163,16 +3163,16 @@
     "id": 280
   },
   {
-    "name": "Hotshot Copilot",
+    "name": "Hotshot Co-pilot",
     "xws": "hotshotcopilot",
-    "text": "When attacking with your primary weapon, the defender must spend one focus token if able.<br /><br />When defending, the attacker must spend one foucs token if able.",
+    "text": "When attacking with a primary weapon, the defender must spend 1 focus token if able.<br /><br />When defending, the attacker must spend 1 focus token if able.",
     "points": 4,
     "slot": "Crew",
     "id": 281
   },
   {
-    "text": "When attacking you may roll one additional attack die if the shot is obstructed.",
-    "name": "Trickshot",
+    "text": "When attacking, if the attack is obstructed, you may roll 1 additional attack die.",
+    "name": "Trick Shot",
     "xws": "trickshot",
     "points": 0,
     "slot": "Elite",

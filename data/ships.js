@@ -187,7 +187,8 @@
   {
     "name": "YT-1300",
     "faction": [
-      "Rebel Alliance"
+      "Rebel Alliance",
+      "Resistance"
     ],
     "attack": 3,
     "agility": 1,

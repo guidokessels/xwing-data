@@ -1347,7 +1347,8 @@
     "image": "sources/heroes-of-the-resistance-expansion-pack-product.png",
     "id": 41,
     "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg",
-    "sku": "SWX57"
+    "sku": "SWX57",
+    "released": true
   },
   {
     "name": "ARC-170 Expansion Pack",
