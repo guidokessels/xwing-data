@@ -2111,7 +2111,9 @@
       "TIE Interceptor",
       "TIE Phantom",
       "TIE Punisher",
-      "TIE/fo Fighter"
+      "TIE Striker",
+      "TIE/fo Fighter",
+      "TIE/sf Fighter"
     ],
     "image": "upgrades/Modification/twin-ion-engine-mk2.png",
     "text": "You may treat all bank maneuvers ([Bank Left] or [Bank Right]) as green maneuvers.",
