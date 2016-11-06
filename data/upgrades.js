@@ -2975,7 +2975,10 @@
     "points": 3,
     "slot": "Crew",
     "faction": "Galactic Empire",
-    "id": 264
+    "id": 264,
+    "conditions": [
+      "I'll Show You the Dark Side"
+    ]
   },
   {
     "image": "upgrades/Crew/unkar-plutt.png",
@@ -3224,7 +3227,10 @@
     "points": 5,
     "slot": "Crew",
     "faction": "Galactic Empire",
-    "id": 286
+    "id": 286,
+    "conditions": [
+      "Fanatical Devotion"
+    ]
   },
   {
     "image": "upgrades/Crew/operations-specialist.png",

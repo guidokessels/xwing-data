@@ -3555,7 +3555,10 @@
       "Tech"
     ],
     "id": 215,
-    "image": "pilots/First Order/Upsilon-Class Shuttle/kylo-ren.png"
+    "image": "pilots/First Order/Upsilon-Class Shuttle/kylo-ren.png",
+    "conditions": [
+      "I'll Show You the Dark Side"
+    ]
   },
   {
     "text": "At the end of the Activation phase, you <strong>must</strong> assign a tractor beam token to each ship you are touching.",
@@ -3735,7 +3738,10 @@
     "points": 14,
     "faction": "Rebel Alliance",
     "slots": [],
-    "id": 226
+    "id": 226,
+    "conditions": [
+      "Suppressive Fire"
+    ]
   },
   {
     "image": "pilots/Rebel Alliance/U-Wing/blue-squadron-pathfinder.png",
