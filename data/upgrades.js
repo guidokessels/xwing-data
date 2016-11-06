@@ -194,7 +194,7 @@
     "image": "upgrades/Elite/deadeye.png",
     "xws": "deadeye",
     "size": [
-      "Small"
+      "small"
     ]
   },
   {
@@ -481,8 +481,8 @@
     "points": 3,
     "text": "When you reveal a maneuver, you may rotate your dial to another maneuver with the same bearing.<br /><br />You cannot rotate to a red maneuver if you have any stress tokens.",
     "size": [
-      "Small",
-      "Large"
+      "small",
+      "large"
     ],
     "image": "upgrades/Crew/navigator.png",
     "xws": "navigator"
@@ -776,7 +776,7 @@
     "text": "<strong>Action:</strong> Spend any amount of energy to choose that many enemy ships at Range 1-2. Remove all focus, evade, and blue target lock tokens from those ships.",
     "faction": "Rebel Alliance",
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Crew/toryn-farr.png",
     "xws": "torynfarr"
@@ -808,7 +808,7 @@
     "points": 2,
     "text": "<strong>Action:</strong> Spend 1 energy to discard 1 of your facedown Damage cards, or spend 3 energy to discard 1 of your faceup Damage cards.",
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Crew/wed-15-repair-droid.png",
     "xws": "wed15repairdroid"
@@ -822,7 +822,7 @@
     "faction": "Rebel Alliance",
     "text": "At the start of the Activation phase, you may discard this card to treat each friendly ship's pilot skill value as \"12\" until the end of the phase.",
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Crew/carlist-rieekan.png",
     "xws": "carlistrieekan"
@@ -836,7 +836,7 @@
     "faction": "Rebel Alliance",
     "text": "When another friendly ship at Range 1 is attacking, it may change 1 of its [Hit] results to a [Critical Hit].",
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Crew/jan-dodonna.png",
     "xws": "jandodonna"
@@ -924,7 +924,7 @@
     "points": 6,
     "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-3. You may look at that ship's chosen maneuver. If the maneuver is white, assign that ship 1 stress token.",
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Crew/raymus-antilles.png",
     "xws": "raymusantilles"
@@ -1311,7 +1311,7 @@
     "unique": true,
     "faction": "Galactic Empire",
     "size": [
-      "Huge"
+      "huge"
     ],
     "slot": "Crew",
     "points": 6,
@@ -1325,7 +1325,7 @@
     "unique": true,
     "faction": "Galactic Empire",
     "size": [
-      "Huge"
+      "huge"
     ],
     "slot": "Crew",
     "points": 2,
@@ -1339,7 +1339,7 @@
     "unique": true,
     "faction": "Galactic Empire",
     "size": [
-      "Huge"
+      "huge"
     ],
     "slot": "Crew",
     "points": 2,
@@ -1399,7 +1399,7 @@
     "text": "After you execute a white or green maneuver on your dial, you may discard this card to rotate your ship 180&deg;. Then receive 1 stress token <strong>after</strong> the \"Check Pilot Stress\" step.",
     "image": "upgrades/Elite/lightning-reflexes.png",
     "size": [
-      "Small"
+      "small"
     ],
     "xws": "lightningreflexes"
   },
@@ -1497,7 +1497,7 @@
     "name": "Shield Technician",
     "id": 143,
     "size": [
-      "Huge"
+      "huge"
     ],
     "slot": "Crew",
     "points": 1,
@@ -1540,7 +1540,7 @@
     "slot": "Elite",
     "points": 2,
     "size": [
-      "Small"
+      "small"
     ],
     "text": "When attacking, if you have an evade token, you may change 1 of the defender's [Evade] results to a [Focus] result.",
     "image": "upgrades/Elite/juke.png",
@@ -1959,7 +1959,7 @@
     "points": 2,
     "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, roll 1 attack die.  On a [Hit] or [Critical Hit] result, the enemy ship suffers 1 damage.",
     "size": [
-      "Large"
+      "large"
     ],
     "image": "upgrades/Modification/anti-pursuit-lasers.png",
     "xws": "antipursuitlasers"
@@ -2022,7 +2022,7 @@
       "GR-75 Medium Transport"
     ],
     "size": [
-      "Huge"
+      "huge"
     ],
     "image": "upgrades/Modification/combat-retrofit.png",
     "xws": "combatretrofit"
@@ -2063,7 +2063,7 @@
     "text": "At the start of the Combat phase, you may discard this card to increase your agility value by 1 until the end of the round. Then you may remove 1 enemy target lock from your ship.",
     "image": "upgrades/Modification/countermeasures.png",
     "size": [
-      "Large"
+      "large"
     ],
     "xws": "countermeasures"
   },
@@ -2075,7 +2075,7 @@
     "text": "Your ship can obstruct enemy attacks.",
     "image": "upgrades/Modification/tactical-jammer.png",
     "size": [
-      "Large"
+      "large"
     ],
     "xws": "tacticaljammer"
   },
@@ -2137,7 +2137,7 @@
     "slot": "Modification",
     "points": 2,
     "size": [
-      "Large"
+      "large"
     ],
     "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, roll 1 attack die. On a [Hit] or [Critical Hit] result, the enemy ship receives 1 ion token.",
     "image": "upgrades/Modification/ion-projector.png",
@@ -2188,7 +2188,7 @@
     "points": 2,
     "slot": "Illicit",
     "size": [
-      "Small"
+      "small"
     ],
     "id": 196,
     "xws": "cloakingdevice"
@@ -2258,7 +2258,7 @@
     "points": 5,
     "slot": "Modification",
     "size": [
-      "Huge"
+      "huge"
     ],
     "id": 202,
     "xws": "automatedprotocols"
@@ -2270,7 +2270,7 @@
     "points": 5,
     "slot": "Modification",
     "size": [
-      "Huge"
+      "huge"
     ],
     "id": 203,
     "xws": "optimizedgenerators"
@@ -2282,7 +2282,7 @@
     "points": 5,
     "slot": "Modification",
     "size": [
-      "Huge"
+      "huge"
     ],
     "id": 204,
     "xws": "ordnancetubes"
@@ -2392,7 +2392,7 @@
     "points": 3,
     "slot": "System",
     "size": [
-      "Large"
+      "large"
     ],
     "id": 213,
     "xws": "reinforceddeflectors"
@@ -2509,7 +2509,7 @@
     "points": 3,
     "slot": "Crew",
     "size": [
-      "Huge"
+      "huge"
     ],
     "id": 223,
     "xws": "constructiondroid",
@@ -2819,7 +2819,7 @@
     "points": 2,
     "slot": "Modification",
     "size": [
-      "Small"
+      "small"
     ],
     "id": 251,
     "grants": [
@@ -2915,7 +2915,7 @@
     "name": "Rigged Cargo Chute",
     "xws": "riggedcargochute",
     "size": [
-      "Large"
+      "large"
     ],
     "id": 260,
     "slot": "Illicit",
@@ -3096,7 +3096,7 @@
     "points": 1,
     "slot": "Illicit",
     "size": [
-      "Large"
+      "large"
     ],
     "id": 274
   },
@@ -3130,7 +3130,7 @@
     "points": 1,
     "slot": "Tech",
     "size": [
-      "Small"
+      "small"
     ],
     "id": 277
   },
