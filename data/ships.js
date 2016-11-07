@@ -2444,7 +2444,7 @@
       ]
     ],
     "size": "small",
-    "xws": "tieadvancedprototype"
+    "xws": "tieadvprototype"
   },
   {
     "name": "Gozanti-Class Cruiser",
