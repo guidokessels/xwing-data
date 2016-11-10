@@ -3262,7 +3262,7 @@
   },
   {
     "name": "Sabine Wren",
-    "xws": "sabinewren-swx56",
+    "xws": "sabinewren",
     "text": "When defending against an enemy ship inside your mobile firing arc at Range 1-2, you may add 1 [Focus] result to your roll.",
     "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/sabine-wren.png",
     "ship": "Lancer-class Pursuit Craft",
@@ -3526,7 +3526,7 @@
     "image": "pilots/Rebel Alliance/TIE Fighter/sabine-wren.png",
     "text": "Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.",
     "name": "Sabine Wren",
-    "xws": "sabinewren-swx59",
+    "xws": "sabinewren",
     "ship": "TIE Fighter",
     "unique": true,
     "skill": 5,
