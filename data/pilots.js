@@ -3575,7 +3575,8 @@
       "Illicit",
       "Tech"
     ],
-    "id": 216
+    "id": 216,
+    "image": "pilots/Scum and Villainy/Quadjumper/unkar-plutt.png"
   },
   {
     "text": "At the start of the Activation phase, you may remove 1 stress token from 1 other friendly ship at Range 1-2.",
@@ -3814,5 +3815,77 @@
     ],
     "id": 230,
     "faction": "First Order"
+  },
+  {
+    "image": "pilots/Rebel Alliance/U-Wing/bodhi-rook.png",
+    "text": "When a friendly ship acquires a target lock, that ship can lock onto an enemy ship at Range 1-3 of any friendly ship.",
+    "name": "Bodhi Rook",
+    "xws": "bodhirook",
+    "ship": "U-Wing",
+    "unique": true,
+    "skill": 4,
+    "points": 25,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "System",
+      "Torpedo",
+      "Crew",
+      "Crew"
+    ],
+    "id": 231
+  },
+  {
+    "image": "pilots/Rebel Alliance/U-Wing/heff-tobber.png",
+    "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, you may perform a free action.",
+    "name": "Heff Tobber",
+    "xws": "hefftobber",
+    "ship": "U-Wing",
+    "unique": true,
+    "skill": 3,
+    "points": 24,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "System",
+      "Crew",
+      "Crew",
+      "Torpedo"
+    ],
+    "id": 232
+  },
+  {
+    "image": "pilots/Scum and Villainy/Quadjumper/constable-zuvio.png",
+    "text": "When you reveal a reverse maneuver, you may drop a bomb using your front guides (including a bomb with the \"<strong>Action:</strong>\" header).",
+    "name": "Constable Zuvio",
+    "xws": "constablezuvio",
+    "ship": "Quadjumper",
+    "unique": true,
+    "skill": 7,
+    "points": 19,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Crew",
+      "Elite",
+      "Illicit",
+      "Tech"
+    ],
+    "id": 233
+  },
+  {
+    "image": "pilots/Scum and Villainy/Quadjumper/jakku-gunrunner.png",
+    "name": "Jakku Gunrunner",
+    "xws": "jakkugunrunner",
+    "ship": "Quadjumper",
+    "unique": false,
+    "skill": 1,
+    "points": 15,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Crew",
+      "Illicit",
+      "Tech"
+    ],
+    "id": 234
   }
 ]

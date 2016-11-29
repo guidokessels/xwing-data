@@ -3005,13 +3005,17 @@
     "image": "upgrades/Title/kylo-rens-shuttle.png"
   },
   {
-    "text": "During setup, before the \"Place Forces\" step, choose 1 enemy ship and assign the \"A Debt to Pay\" Condition card to it.\n\nWhen attacking a ship that has the \"A Debt to Pay\" Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
+    "text": "During setup, before the \"Place Forces\" step, choose 1 enemy ship and assign the \"A Debt to Pay\" Condition card to it.<br /><br />When attacking a ship that has the \"A Debt to Pay\" Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
     "name": "A Score to Settle",
     "xws": "ascoretosettle",
     "unique": true,
     "points": 0,
     "slot": "Elite",
-    "id": 267
+    "id": 267,
+    "image": "upgrades/Elite/a-score-to-settle.png",
+    "conditions": [
+      "A Debt to Pay"
+    ]
   },
   {
     "image": "upgrades/Crew/jyn-erso.png",
@@ -3259,5 +3263,56 @@
     "slot": "Tech",
     "points": 1,
     "id": 289
+  },
+  {
+    "image": "upgrades/Crew/bodhi-rook.png",
+    "text": "When you acquire a target lock, you can lock onto an enemy ship at Range 1-3 of any friendly ship.",
+    "name": "Bodhi Rook",
+    "xws": "bodhirook",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 290
+  },
+  {
+    "image": "upgrades/Crew/baze-malbus.png",
+    "text": "After you perform an attack that does not hit, you may immediately perform a primary weapon attack against a different ship. You cannot perform another attack this round.",
+    "name": "Baze Malbus",
+    "xws": "bazemalbus",
+    "unique": true,
+    "points": 3,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 291
+  },
+  {
+    "image": "upgrades/Crew/inspiring-recruit.png",
+    "text": "Once per round, when a friendly ship at Range 1-2 removes a stress token, it may remove 1 additional stress token.",
+    "name": "Inspiring Recruit",
+    "xws": "inspiringrecruit",
+    "points": 1,
+    "slot": "Crew",
+    "id": 292
+  },
+  {
+    "image": "upgrades/Illicit/scavenger-crane.png",
+    "text": "After a ship at Range 1-2 is destroyed, you may choose a discarded [Torpedo], [Missile], [Bomb], [Canon], [Turret], or Modification Upgrade card that was equipped to your ship and flip it faceup. Then roll 1 attack die. On a blank result, discard Scavenger Crane.",
+    "name": "Scavenger Crane",
+    "xws": "scavengercrane",
+    "points": 2,
+    "slot": "Illicit",
+    "id": 293
+  },
+  {
+    "image": "upgrades/Modification/spacetug-tractor-array.png",
+    "text": "<strong>Action:</strong> Choose a ship inside your firing arc at Range 1 and assign a tractor beam token to it. If it is a friendly ship, resolve the effect of the tractor beam token a though it were an enemy ship.",
+    "name": "Spacetug Tractor Array",
+    "xws": "spacetugtractorarray",
+    "points": 2,
+    "ship": [
+      "Quadjumper"
+    ],
+    "id": 294
   }
 ]
