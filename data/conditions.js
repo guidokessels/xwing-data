@@ -22,5 +22,13 @@
     "xws": "suppressivefire",
     "unique": true,
     "id": 2
+  },
+  {
+    "image": "conditions/a-debt-to-pay.png",
+    "text": "When attacking a ship that has the \"A Score to Settle\" Upgrade card, you may change 1 [Focus] result to a [Critical Hit] result.",
+    "name": "A Debt to Pay",
+    "xws": "adebttopay",
+    "unique": true,
+    "id": 3
   }
 ]
