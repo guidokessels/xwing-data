@@ -3597,6 +3597,7 @@
     "id": 217
   },
   {
+    "image": "pilots/Galactic Empire/TIE Striker/duchess.png",
     "text": "While you have the \"Adaptive Ailerons\" Upgrade card equipped, you may choose to ignore its card ability.",
     "name": "\"Duchess\"",
     "xws": "duchess",
@@ -3887,5 +3888,45 @@
       "Tech"
     ],
     "id": 234
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Striker/countdown.png",
+    "text": "When defending, if you are not stressed, during the \"Compare Results\" step, you may suffer 1 damage to cancel <strong>all</strong> dice results. If you do, receive 1 stress token.",
+    "name": "\"Countdown\"",
+    "xws": "countdown",
+    "ship": "TIE Striker",
+    "unique": true,
+    "skill": 5,
+    "points": 20,
+    "faction": "Galactic Empire",
+    "slots": [],
+    "id": 235
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Striker/pure-sabacc.png",
+    "text": "When attacking, if you have 1 or fewer Damage cards, roll 1 additional attack die.",
+    "name": "\"Pure Sabacc\"",
+    "xws": "puresabacc",
+    "ship": "TIE Striker",
+    "unique": true,
+    "skill": 6,
+    "points": 22,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite"
+    ],
+    "id": 236
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Striker/imperial-trainee.png",
+    "name": "Imperial Trainee",
+    "xws": "imperialtrainee",
+    "ship": "TIE Striker",
+    "unique": false,
+    "skill": 1,
+    "points": 17,
+    "faction": "Galactic Empire",
+    "slots": [],
+    "id": 237
   }
 ]

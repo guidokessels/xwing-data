@@ -3314,5 +3314,37 @@
       "Quadjumper"
     ],
     "id": 294
+  },
+  {
+    "image": "upgrades/Elite/swarm-leader.png",
+    "text": "When performing a primary weapon attack, choose up to 2 other friendly ships that have the defender inside their firing arcs at Range 1-3. Remove 1 evade token from each chosen ship to roll 1 additional attack die for each token removed.",
+    "name": "Swarm Leader",
+    "xws": "swarmleader",
+    "unique": true,
+    "points": 3,
+    "slot": "Elite",
+    "id": 295
+  },
+  {
+    "image": "upgrades/Modification/lightweight-frame.png",
+    "text": "When defending, after rolling defense dice, if there are more attack dice than defense dice, roll 1 additional defense die.<br /><br />You cannot equip this card if your agility value is \"3\" or higher.",
+    "name": "Lightweight Frame",
+    "xws": "lightweightframe",
+    "points": 2,
+    "slot": "Modification",
+    "ship": [
+      "TIE Adv. Prototype",
+      "TIE Advanced",
+      "TIE Bomber",
+      "TIE Defender",
+      "TIE Fighter",
+      "TIE Interceptor",
+      "TIE Phantom",
+      "TIE Punisher",
+      "TIE Striker",
+      "TIE/fo Fighter",
+      "TIE/sf Fighter"
+    ],
+    "id": 296
   }
 ]
