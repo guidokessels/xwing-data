@@ -1487,7 +1487,7 @@
     "id": 142,
     "slot": "Missile",
     "attack": 3,
-    "range": 2,
+    "range": "2",
     "points": 3,
     "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, deal 1 faceup Damage card to the defender. Then cancel <strong>all</strong> dice results.",
     "image": "upgrades/Missile/advanced-homing-missiles.png",
