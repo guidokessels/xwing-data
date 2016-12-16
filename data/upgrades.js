@@ -2324,7 +2324,7 @@
       "Gozanti-Class Cruiser"
     ],
     "id": 207,
-    "energy": "1",
+    "energy": 1,
     "xws": "duallaserturret"
   },
   {
@@ -2541,7 +2541,7 @@
     "unique": true,
     "points": 4,
     "slot": "Title",
-    "energy": "0",
+    "energy": 0,
     "ship": [
       "Gozanti-Class Cruiser"
     ],
@@ -2555,7 +2555,7 @@
     "unique": true,
     "points": 2,
     "slot": "Title",
-    "energy": "1",
+    "energy": 1,
     "ship": [
       "Gozanti-Class Cruiser"
     ],
@@ -2569,7 +2569,7 @@
     "unique": true,
     "points": 6,
     "slot": "Title",
-    "energy": "2",
+    "energy": 2,
     "ship": [
       "Gozanti-Class Cruiser"
     ],
