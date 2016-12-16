@@ -1432,7 +1432,7 @@
     "image": "upgrades/Torpedo/plasma-torpedoes.png",
     "xws": "plasmatorpedoes",
     "range": "2-3",
-    "attack": "4"
+    "attack": 4
   },
   {
     "name": "Extra Munitions",
@@ -2176,7 +2176,7 @@
     "points": 1,
     "slot": "Cannon",
     "range": "1-3",
-    "attack": "3",
+    "attack": 3,
     "id": 195,
     "xws": "tractorbeam"
   },
@@ -2226,7 +2226,7 @@
     "points": 1,
     "slot": "Missile",
     "range": "1-3",
-    "attack": "3",
+    "attack": 3,
     "id": 199,
     "xws": "xx23sthreadtracers"
   },
@@ -2319,7 +2319,7 @@
     "points": 5,
     "slot": "Hardpoint",
     "range": "1-3",
-    "attack": "3",
+    "attack": 3,
     "ship": [
       "Gozanti-Class Cruiser"
     ],
@@ -2380,7 +2380,7 @@
     "name": "Dorsal Turret",
     "points": 3,
     "slot": "Turret",
-    "attack": "2",
+    "attack": 2,
     "range": "1-2",
     "id": 212,
     "xws": "dorsalturret"
@@ -3158,7 +3158,7 @@
     "points": 2,
     "slot": "Elite",
     "range": "1",
-    "attack": "2",
+    "attack": 2,
     "id": 279
   },
   {
