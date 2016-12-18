@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "damage-deck.json#",
+  "title": "Schema for damage deck data files (original and tfa)",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The card's name as written on the card itself.",
+      "minLength": 1
+    },
+    "amount": {
+      "type": "integer",
+      "description": "Indicates how many cards of this type are included in it's source.",
+      "minimum": 0
+    },
+    "type": {
+      "type": "string",
+      "description": "Defines the type/scope of the damage this card does when dealt faceup.",
+      "enum": [
+        "Pilot",
+        "Ship"
+      ]
+    },
+    "text": {
+      "type": "string",
+      "description": "The card's text describing its effect.",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "name",
+    "amount",
+    "type",
+    "text"
+  ],
+  "additionalProperties": false
+}

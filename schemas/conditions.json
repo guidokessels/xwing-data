@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "conditions.json#",
+  "title": "Schema for conditions data file",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "image": {
+      "description": "The file path for this condition card's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "name": {
+      "type": "string",
+      "description": "The conditions's name as written on the package.",
+      "minLength": 1
+    },
+    "xws": {
+      "type": "string",
+      "description": "The conditions's unique XWS id as described in the XWS format.",
+      "minLength": 1
+    },
+    "text": {
+      "type": "string",
+      "description": "The condition card's text describing its effect.",
+      "minLength": 1
+    },
+    "unique": {
+      "type": "boolean",
+      "description": "Some condition cards have unique names, which are identified by the bullet to the left of the name.\n A player cannot field two or more cards that share the same unique name, even if those cards are of different types."
+    },
+    "id": {
+      "type": "integer",
+      "description": "The condition's unique id number. It's not used in the game but it's used to link this condition to other data in this dataset.",
+      "minimum": 0
+    }
+  },
+  "required": [
+    "name",
+    "xws",
+    "text",
+    "unique",
+    "id"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,107 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "sources.json#",
+  "title": "Schema for sources data file",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "The source's unique id number. It's not used in the game but it's used to link this source to other data in this dataset.",
+      "minimum": 0
+    },
+    "name": {
+      "type": "string",
+      "description": "The source's name as written on the package.",
+      "minLength": 1
+    },
+    "image": {
+      "description": "The file path for this source's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "thumb": {
+      "description": "The file path for this source's thumbnail.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "wave": {
+      "description": "The sources wave (or product line).",
+      "anyOf": [
+        {
+          "type": "integer",
+          "description": "Wave number. This value is usually presented in roman numerals but here is presented in arabic numerals.",
+          "minimum": 0
+        },
+        {
+          "type": "string",
+          "description": "Some sources are not grouped under particular wave, but under a particular product line.\nWhen that\\s the case, use text fot that type.",
+          "minLength": 1
+        }
+      ]
+    },
+    "released": {
+      "type": "boolean",
+      "description": "This value indicates whether this sources has been released or not"
+    },
+    "contents": {
+      "type": "object",
+      "description": "The sources contents",
+      "properties": {
+        "ships": {
+          "type": "array",
+          "description": "The ships included in this source.",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "description": "A ship's name."
+          }
+        },
+        "pilots": {
+          "type": "object",
+          "description": "The pilots included in this source.\nThe object property names (casted as integers) are the ids of the upgrades included.\nTheir corresponding integer values indicate how many of those pilots are included in the source.",
+          "additionalProperties": true
+        },
+        "upgrades": {
+          "type": "object",
+          "description": "The upgrades included in this source.\nThe object property names (casted as integers) are the ids of the upgrades included.\nTheir corresponding integer values indicate how many of those upgrades are included in the source.",
+          "additionalProperties": true
+        },
+        "conditions": {
+          "type": "object",
+          "description": "The conditions included in this source.\nThe object property names (casted as integers) are the ids of the conditions included.\nTheir corresponding integer values indicate how many of those conditions are included in the source.",
+          "additionalProperties": true
+        }
+      },
+      "required": [
+        "ships",
+        "pilots",
+        "upgrades"
+      ],
+      "additionalProperties": false
+    },
+    "sku": {
+      "type": "string",
+      "description": "Fantasy Flight Games unique product key for this particular source.",
+      "minLength": 1,
+      "pattern": "^SWX[0-9]+$"
+    },
+    "release_date": {
+      "type": "string",
+      "description": "Indicates the date on which the source was released.",
+      "format": "date"
+    },
+    "announcement_date": {
+      "type": "string",
+      "description": "Indicates the date on which the source was announced.",
+      "format": "date"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "wave",
+    "contents",
+    "sku",
+    "announcement_date"
+  ],
+  "additionalProperties": false
+}

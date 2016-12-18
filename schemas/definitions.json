@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "definitions.json#",
+  "title": "Schema for common fields in data files",
+  "definitions": {
+    "faction": {
+      "type": "string",
+      "description": "A faction in the game.",
+      "enum": [
+        "First Order",
+        "Galactic Empire",
+        "Rebel Alliance",
+        "Resistance",
+        "Scum and Villainy"
+      ]
+    },
+    "size": {
+      "type": "string",
+      "description": "A ship size in the game.",
+      "enum": [
+        "huge",
+        "large",
+        "small"
+      ]
+    },
+    "slot": {
+      "type": "string",
+      "description": "A slot type in the game.",
+      "enum": [
+        "Astromech",
+        "Bomb",
+        "Cannon",
+        "Cargo",
+        "Crew",
+        "Elite",
+        "Hardpoint",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Salvaged Astromech",
+        "System",
+        "Team",
+        "Tech",
+        "Title",
+        "Torpedo",
+        "Turret"
+      ]
+    },
+    "action": {
+      "type": "string",
+      "description": "A action type in the game.",
+      "enum": [
+        "Barrel Roll",
+        "Boost",
+        "Cloak",
+        "Coordinate",
+        "Evade",
+        "Focus",
+        "Jam",
+        "Recover",
+        "Reinforce",
+        "Rotate Arc",
+        "SLAM",
+        "Target Lock"
+      ]
+    },
+    "image_file_path": {
+      "type": "string",
+      "description": "A file path for an image in this package.",
+      "pattern": "^(?:conditions|pilots|factions|sources|upgrades)(?:\\/[a-zA-Z\\(\\)\\.0-9_-](?:[a-zA-Z\\(\\)\\.0-9\\ _-]*[a-zA-Z\\(\\)\\.0-9\\ _-])?)*\\.(?:png|jpg)$"
+    },
+    "range": {
+      "type": "string",
+      "description": "A range in expressed in range format",
+      "pattern": "^[1-5](-[1-5])?$"
+    }
+  }
+}
