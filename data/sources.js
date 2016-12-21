@@ -31,7 +31,9 @@
         "12": 1
       }
     },
-    "sku": "SWX01"
+    "sku": "SWX01",
+    "release_date": "2012-09-14",
+    "announcement_date": "2011-08-02"
   },
   {
     "id": 1,
@@ -58,7 +60,9 @@
         "12": 1
       }
     },
-    "sku": "SWX02"
+    "sku": "SWX02",
+    "release_date": "2012-09-14",
+    "announcement_date": "2012-04-17"
   },
   {
     "id": 2,
@@ -84,7 +88,9 @@
         "5": 1
       }
     },
-    "sku": "SWX04"
+    "sku": "SWX04",
+    "release_date": "2012-09-14",
+    "announcement_date": "2012-04-17"
   },
   {
     "id": 3,
@@ -110,7 +116,9 @@
         "9": 1
       }
     },
-    "sku": "SWX03"
+    "sku": "SWX03",
+    "release_date": "2012-09-14",
+    "announcement_date": "2012-04-17"
   },
   {
     "id": 4,
@@ -137,7 +145,9 @@
         "14": 1
       }
     },
-    "sku": "SWX05"
+    "sku": "SWX05",
+    "release_date": "2012-09-14",
+    "announcement_date": "2012-04-17"
   },
   {
     "id": 5,
@@ -162,7 +172,9 @@
         "16": 1
       }
     },
-    "sku": "SWX09"
+    "sku": "SWX09",
+    "release_date": "2013-02-28",
+    "announcement_date": "2012-09-14"
   },
   {
     "id": 6,
@@ -189,7 +201,9 @@
         "19": 1
       }
     },
-    "sku": "SWX08"
+    "sku": "SWX08",
+    "release_date": "2013-02-28",
+    "announcement_date": "2012-09-14"
   },
   {
     "id": 7,
@@ -223,7 +237,9 @@
         "176": 2
       }
     },
-    "sku": "SWX06"
+    "sku": "SWX06",
+    "release_date": "2013-02-28",
+    "announcement_date": "2012-09-14"
   },
   {
     "id": 8,
@@ -257,7 +273,9 @@
         "174": 2
       }
     },
-    "sku": "SWX07"
+    "sku": "SWX07",
+    "release_date": "2013-02-28",
+    "announcement_date": "2012-09-14"
   },
   {
     "id": 9,
@@ -284,7 +302,9 @@
         "36": 1
       }
     },
-    "sku": "SWX14"
+    "sku": "SWX14",
+    "release_date": "2013-09-12",
+    "announcement_date": "2013-05-04"
   },
   {
     "id": 10,
@@ -312,7 +332,9 @@
         "153": 1
       }
     },
-    "sku": "SWX12"
+    "sku": "SWX12",
+    "release_date": "2013-09-12",
+    "announcement_date": "2013-05-04"
   },
   {
     "id": 11,
@@ -339,7 +361,9 @@
         "42": 1
       }
     },
-    "sku": "SWX15"
+    "sku": "SWX15",
+    "release_date": "2013-09-12",
+    "announcement_date": "2013-05-04"
   },
   {
     "id": 12,
@@ -372,7 +396,9 @@
         "177": 2
       }
     },
-    "sku": "SWX13"
+    "sku": "SWX13",
+    "release_date": "2013-09-12",
+    "announcement_date": "2013-05-04"
   },
   {
     "id": 13,
@@ -402,7 +428,9 @@
         "179": 2
       }
     },
-    "sku": "SWX21"
+    "sku": "SWX21",
+    "release_date": "2014-03-14",
+    "announcement_date": "2013-09-16"
   },
   {
     "id": 14,
@@ -429,7 +457,9 @@
         "180": 1
       }
     },
-    "sku": "SWX16"
+    "sku": "SWX16",
+    "release_date": "2014-06-26",
+    "announcement_date": "2014-02-07"
   },
   {
     "id": 15,
@@ -456,7 +486,9 @@
         "180": 1
       }
     },
-    "sku": "SWX17"
+    "sku": "SWX17",
+    "release_date": "2014-06-26",
+    "announcement_date": "2014-02-07"
   },
   {
     "id": 16,
@@ -483,7 +515,9 @@
         "60": 1
       }
     },
-    "sku": "SWX18"
+    "sku": "SWX18",
+    "release_date": "2014-06-26",
+    "announcement_date": "2014-02-07"
   },
   {
     "id": 17,
@@ -510,7 +544,9 @@
         "182": 1
       }
     },
-    "sku": "SWX19"
+    "sku": "SWX19",
+    "release_date": "2014-06-26",
+    "announcement_date": "2014-02-07"
   },
   {
     "id": 18,
@@ -544,7 +580,9 @@
         "184": 2
       }
     },
-    "sku": "SWX29"
+    "sku": "SWX29",
+    "release_date": "2014-09-25",
+    "announcement_date": "2014-03-18"
   },
   {
     "id": 19,
@@ -584,7 +622,9 @@
         "162": 1
       }
     },
-    "sku": "SWX22"
+    "sku": "SWX22",
+    "release_date": "2014-05-22",
+    "announcement_date": "2013-08-20"
   },
   {
     "id": 20,
@@ -632,7 +672,9 @@
         "183": 1
       }
     },
-    "sku": "SWX11"
+    "sku": "SWX11",
+    "release_date": "2014-04-30",
+    "announcement_date": "2013-08-20"
   },
   {
     "id": 21,
@@ -666,7 +708,9 @@
         "186": 2
       }
     },
-    "sku": "SWX23"
+    "sku": "SWX23",
+    "release_date": "2014-11-26",
+    "announcement_date": "2014-06-13"
   },
   {
     "id": 22,
@@ -698,7 +742,9 @@
         "187": 2
       }
     },
-    "sku": "SWX24"
+    "sku": "SWX24",
+    "release_date": "2014-11-26",
+    "announcement_date": "2014-06-13"
   },
   {
     "id": 23,
@@ -746,7 +792,9 @@
         "169": 2
       }
     },
-    "sku": "SWX28"
+    "sku": "SWX28",
+    "release_date": "2015-02-26",
+    "announcement_date": "2014-08-15"
   },
   {
     "id": 24,
@@ -776,7 +824,9 @@
         "188": 2
       }
     },
-    "sku": "SWX25"
+    "sku": "SWX25",
+    "release_date": "2015-02-26",
+    "announcement_date": "2014-08-15"
   },
   {
     "id": 25,
@@ -803,7 +853,9 @@
         "174": 1
       }
     },
-    "sku": "SWX26"
+    "sku": "SWX26",
+    "release_date": "2015-02-26",
+    "announcement_date": "2014-08-15"
   },
   {
     "id": 26,
@@ -835,7 +887,9 @@
         "166": 1
       }
     },
-    "sku": "SWX27"
+    "sku": "SWX27",
+    "release_date": "2015-02-26",
+    "announcement_date": "2014-08-15"
   },
   {
     "id": 27,
@@ -884,7 +938,9 @@
         "173": 1
       }
     },
-    "sku": "SWX30"
+    "sku": "SWX30",
+    "release_date": "2015-08-13",
+    "announcement_date": "2014-12-19"
   },
   {
     "id": 28,
@@ -919,7 +975,9 @@
         "192": 2
       }
     },
-    "sku": "SWX31"
+    "sku": "SWX31",
+    "release_date": "2015-08-25",
+    "announcement_date": "2015-04-20"
   },
   {
     "id": 29,
@@ -946,7 +1004,9 @@
         "141": 1
       }
     },
-    "sku": "SWX32"
+    "sku": "SWX32",
+    "release_date": "2015-08-25",
+    "announcement_date": "2015-04-20"
   },
   {
     "id": 30,
@@ -976,7 +1036,9 @@
         "189": 1
       }
     },
-    "sku": "SWX33"
+    "sku": "SWX33",
+    "release_date": "2015-08-25",
+    "announcement_date": "2015-04-20"
   },
   {
     "id": 31,
@@ -1006,7 +1068,9 @@
         "190": 2
       }
     },
-    "sku": "SWX34"
+    "sku": "SWX34",
+    "release_date": "2015-08-25",
+    "announcement_date": "2015-04-20"
   },
   {
     "id": 32,
@@ -1040,7 +1104,9 @@
         "150": 1
       }
     },
-    "sku": "SWX36"
+    "sku": "SWX36",
+    "release_date": "2015-09-04",
+    "announcement_date": "2015-09-03"
   },
   {
     "id": 33,
@@ -1067,7 +1133,9 @@
         "214": 1
       }
     },
-    "sku": "SWX37"
+    "sku": "SWX37",
+    "release_date": "2015-12-17",
+    "announcement_date": "2015-09-10"
   },
   {
     "id": 34,
@@ -1093,7 +1161,9 @@
         "149": 1
       }
     },
-    "sku": "SWX38"
+    "sku": "SWX38",
+    "release_date": "2015-12-17",
+    "announcement_date": "2015-09-10"
   },
   {
     "name": "Punishing One Expansion Pack",
@@ -1126,7 +1196,9 @@
       }
     },
     "released": true,
-    "sku": "SWX42"
+    "sku": "SWX42",
+    "release_date": "2016-03-17",
+    "announcement_date": "2015-07-31"
   },
   {
     "name": "Mist Hunter Expansion Pack",
@@ -1156,7 +1228,9 @@
       }
     },
     "released": true,
-    "sku": "SWX41"
+    "sku": "SWX41",
+    "release_date": "2016-03-17",
+    "announcement_date": "2015-07-31"
   },
   {
     "name": "Inquisitor's TIE Expansion Pack",
@@ -1183,7 +1257,9 @@
       }
     },
     "released": true,
-    "sku": "SWX40"
+    "sku": "SWX40",
+    "release_date": "2016-03-17",
+    "announcement_date": "2015-07-31"
   },
   {
     "name": "Ghost Expansion Pack",
@@ -1225,7 +1301,9 @@
       }
     },
     "released": true,
-    "sku": "SWX39"
+    "sku": "SWX39",
+    "release_date": "2016-03-17",
+    "announcement_date": "2015-07-31"
   },
   {
     "name": "Imperial Assault Carrier Expansion Pack",
@@ -1272,7 +1350,9 @@
       }
     },
     "released": true,
-    "sku": "SWX35"
+    "sku": "SWX35",
+    "release_date": "2015-12-21",
+    "announcement_date": "2015-07-31"
   },
   {
     "name": "Imperial Veterans Expansion Pack",
@@ -1306,7 +1386,9 @@
       }
     },
     "released": true,
-    "sku": "SWX52"
+    "sku": "SWX52",
+    "release_date": "2016-06-30",
+    "announcement_date": "2015-12-14"
   },
   {
     "wave": "Iconic Starships",
@@ -1348,7 +1430,9 @@
     "id": 41,
     "thumb": "sources/heroes-of-the-resistance-expansion-pack-thumb.jpg",
     "sku": "SWX57",
-    "released": true
+    "released": true,
+    "release_date": "2016-10-27",
+    "announcement_date": "2016-05-04"
   },
   {
     "name": "ARC-170 Expansion Pack",
@@ -1377,7 +1461,9 @@
     "id": 42,
     "thumb": "sources/arc-170-expansion-pack-thumb.jpg",
     "released": true,
-    "sku": "SWX53"
+    "sku": "SWX53",
+    "release_date": "2016-09-22",
+    "announcement_date": "2016-06-02"
   },
   {
     "name": "Special Forces TIE Expansion Pack",
@@ -1402,7 +1488,9 @@
     "image": "sources/special-forces-tie-expansion-pack-product.png",
     "id": 43,
     "released": true,
-    "sku": "SWX54"
+    "sku": "SWX54",
+    "release_date": "2016-09-22",
+    "announcement_date": "2016-06-02"
   },
   {
     "name": "Protectorate Starfighter Expansion Pack",
@@ -1428,7 +1516,9 @@
     "thumb": "sources/protectorate-starfighter-expansion-pack-thumb.jpg",
     "id": 44,
     "released": true,
-    "sku": "SWX55"
+    "sku": "SWX55",
+    "release_date": "2016-09-22",
+    "announcement_date": "2016-06-02"
   },
   {
     "name": "Shadow Caster Expansion Pack",
@@ -1460,7 +1550,9 @@
     "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
     "id": 45,
     "released": true,
-    "sku": "SWX56"
+    "sku": "SWX56",
+    "release_date": "2016-09-22",
+    "announcement_date": "2016-06-02"
   },
   {
     "name": "Sabine's TIE Fighter Expansion Pack",
@@ -1488,7 +1580,8 @@
     "id": 46,
     "image": "sources/swx59-product.png",
     "thumb": "sources/swx59-thumb.jpg",
-    "sku": "SWX59"
+    "sku": "SWX59",
+    "announcement_date": "2016-08-05"
   },
   {
     "name": "Upsilon-class Shuttle Expansion Pack",
@@ -1521,7 +1614,8 @@
     },
     "image": "sources/swx60-product.png",
     "thumb": "sources/swx60-thumb.jpg",
-    "sku": "SWX60"
+    "sku": "SWX60",
+    "announcement_date": "2016-08-05"
   },
   {
     "name": "Quadjumper Expansion Pack",
@@ -1550,7 +1644,8 @@
     },
     "image": "sources/swx61-product.png",
     "thumb": "sources/swx61-thumb.jpg",
-    "sku": "SWX61"
+    "sku": "SWX61",
+    "announcement_date": "2016-08-05"
   },
   {
     "name": "U-Wing Expansion Pack",
@@ -1581,7 +1676,9 @@
     },
     "image": "sources/swx62-product.png",
     "thumb": "sources/swx62-thumb.jpg",
-    "sku": "SWX62"
+    "sku": "SWX62",
+    "release_date": "2016-12-15",
+    "announcement_date": "2016-09-02"
   },
   {
     "name": "TIE Striker Expansion Pack",
@@ -1604,6 +1701,8 @@
         "296": 1
       }
     },
-    "sku": "SWX63"
+    "sku": "SWX63",
+    "release_date": "2016-12-15",
+    "announcement_date": "2016-09-02"
   }
 ]
