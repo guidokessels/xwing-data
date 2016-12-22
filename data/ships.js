@@ -509,7 +509,8 @@
   {
     "name": "HWK-290",
     "faction": [
-      "Rebel Alliance"
+      "Rebel Alliance",
+      "Scum and Villainy"
     ],
     "attack": 1,
     "agility": 2,
