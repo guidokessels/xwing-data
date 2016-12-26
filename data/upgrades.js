@@ -3297,7 +3297,7 @@
   },
   {
     "image": "upgrades/Illicit/scavenger-crane.png",
-    "text": "After a ship at Range 1-2 is destroyed, you may choose a discarded [Torpedo], [Missile], [Bomb], [Canon], [Turret], or Modification Upgrade card that was equipped to your ship and flip it faceup. Then roll 1 attack die. On a blank result, discard Scavenger Crane.",
+    "text": "After a ship at Range 1-2 is destroyed, you may choose a discarded [Torpedo], [Missile], [Bomb], [Cannon], [Turret], or Modification Upgrade card that was equipped to your ship and flip it faceup. Then roll 1 attack die. On a blank result, discard Scavenger Crane.",
     "name": "Scavenger Crane",
     "xws": "scavengercrane",
     "points": 2,
