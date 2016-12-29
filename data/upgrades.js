@@ -3313,7 +3313,8 @@
     "ship": [
       "Quadjumper"
     ],
-    "id": 294
+    "id": 294,
+    "slot": "Modification"
   },
   {
     "image": "upgrades/Elite/swarm-leader.png",

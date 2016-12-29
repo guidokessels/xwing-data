@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "ships.json#",
+  "title": "Schema for ships data file",
+  "type": "object",
+  "definitions": {
+    "common": {
+      "type": "object",
+      "description": "Fields used by all ships, regardless of size.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The ship's name as written on the card itself.",
+          "minLength": 1
+        },
+        "faction": {
+          "type": "array",
+          "description": "A list of factions this ship belongs to.",
+          "uniqueItems": true,
+          "minItems": 1,
+          "items": {
+            "description": "A faction this ship belongs to.",
+            "$ref": "definitions.json#/definitions/faction"
+          }
+        },
+        "attack": {
+          "type": "integer",
+          "description": "The ship's attack value.",
+          "minimum": 0
+        },
+        "agility": {
+          "type": "integer",
+          "description": "The ship's agility value.",
+          "minimum": 0
+        },
+        "hull": {
+          "type": "integer",
+          "description": "The ship's hull value.",
+          "minimum": 0
+        },
+        "shields": {
+          "type": "integer",
+          "description": "The ship's shields value.",
+          "minimum": 0
+        },
+        "actions": {
+          "type": "array",
+          "description": "A list of all the actions the ship is capable of.",
+          "uniqueItems": true,
+          "minItems": 0,
+          "items": {
+            "description": "A list of all the actions the ship is capable of.",
+            "$ref": "definitions.json#/definitions/action"
+          }
+        },
+        "xws": {
+          "type": "string",
+          "description": "The ship's unique XWS id as described in the XWS format.",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "huge": {
+      "type": "object",
+      "description": "Fields used by ships huge ships only.",
+      "properties": {
+        "maneuvers": {
+          "type": "array",
+          "description": "The huge ship\\s maneuvers.",
+          "uniqueItems": false,
+          "maxItems": 6,
+          "minItems": 0,
+          "items": {
+            "type": "array",
+            "description": "Each element in this array contains a representation of the maneuvers available to the ship at a particular speed, determined by its position in the array. ei. ship.maneuvers[1] will provide all maneuvers available to said ship at speed 1.\nThis array may be as short as required to provide accurate data, meaning that a missing speed 'index' indicates that the ship is is not capable of such speed.",
+            "uniqueItems": false,
+            "maxItems": 6,
+            "minItems": 0,
+            "items": {
+              "type": "integer",
+              "description": "This array is a representation of a huge ship' maneuvers at a particular speed.\n\nEach value on this array references a different maneuver depending on its index, which maps according to the following list:\n\t0 = Left Turn\n\t1 = Left Bank\n\t2 = Straight\n\t3 = Right Bank\n\t4 = Right Turn\n\t5 = Koiogran Turn\n\nPossible values in this array range from 0 to 1 and mean the following:\n\t0 = Maneuver unavailable\n\t1 = Maneuver available\n\nThis array may be as short as required to provide accurate data, meaning that a missing value for a particular maneuver type indicates that said maneuver is not available to that particular huge ship at that particular speed.\n",
+              "minimum": 0,
+              "maximum": 1
+            }
+          }
+        },
+        "size": {
+          "description": "The ship's size.",
+          "allOf": [
+            {
+              "description": "Ship size must be a valid size in size in the game.",
+              "$ref": "definitions.json#/definitions/size"
+            },
+            {
+              "type": "string",
+              "description": "This schema only applies to huge ships.\nTherefore, ship size is restricted to huge.",
+              "enum": [
+                "huge"
+              ]
+            }
+          ]
+        },
+        "energy": {
+          "type": "integer",
+          "description": "The ship's energy value.",
+          "minimum": 1
+        },
+        "epic_points": {
+          "type": "number",
+          "description": "The ship's epic points value, as described in the X-Wing Epic Play Tournament Rules.",
+          "minimum": 0
+        },
+        "maneuvers_energy": {
+          "type": "array",
+          "description": "The ship\\s maneuvers energy costs.",
+          "uniqueItems": false,
+          "maxItems": 6,
+          "minItems": 0,
+          "items": {
+            "type": "array",
+            "description": "Each element in this array contains a representation of the maneuver costs for the maneuvers available to the huge ship at a particular speed, determined by its position in the array. ei. ``ship.maneuvers_energy[1]`` will provide all maneuver cost for the maneuvers available to the huge ship at speed 1.\nThis array's length should match the array's length of the array in the maneuvers property.\nIn other words ``ship.maneuvers.length`` should equal to ``ship.maneuvers_energy.length``.",
+            "uniqueItems": false,
+            "maxItems": 6,
+            "minItems": 0,
+            "items": {
+              "type": "integer",
+              "description": "This array is a representation of a huge ship' maneuvers energy cost at a particular speed.\n\nEach value on this array references a different maneuver depending on its index, which maps according to the following list:\n\t0 = Left Turn\n\t1 = Left Bank\n\t2 = Straight\n\t3 = Right Bank\n\t4 = Right Turn\n\t5 = Koiogran Turn\n\nPossible values in this array range from 0 to 3 and indicate the referenced maneuver's energy cost.\n\nThis array's length should match the array's length of the array in the maneuvers property at the same speed.\nIn other words ``ship.maneuvers[2].length`` should equal to ``ship.maneuvers_energy[2].length``.",
+              "minimum": 0,
+              "maximum": 3
+            }
+          }
+        }
+      },
+      "required": [
+        "name",
+        "faction",
+        "agility",
+        "hull",
+        "shields",
+        "actions",
+        "xws",
+        "maneuvers",
+        "maneuvers_energy",
+        "size"
+      ]
+    },
+    "non_huge": {
+      "type": "object",
+      "description": "Fields used by small and large ships only.",
+      "properties": {
+        "maneuvers": {
+          "type": "array",
+          "description": "The huge ship\\s maneuvers.",
+          "uniqueItems": false,
+          "maxItems": 6,
+          "minItems": 0,
+          "items": {
+            "type": "array",
+            "description": "Each element in this array contains a representation of the maneuvers available to the ship at a particular speed, determined by its position in the array. ei. ship.maneuvers[1] will provide all maneuvers available to said ship at speed 1.\nThis array may be as short as required to provide accurate data, meaning that a missing speed 'index' indicates that the ship is is not capable of such speed.",
+            "uniqueItems": false,
+            "maxItems": 13,
+            "minItems": 0,
+            "items": {
+              "type": "integer",
+              "description": "This array is a representation of a ship' maneuvers at a particular speed.\n\nEach value on this array references a different maneuver depending on its index, which maps according to the following list:\n\t00 = Left Turn\n\t01 = Left Bank\n\t02 = Straight\n\t03 = Right Bank\n\t04 = Right Turn\n\t05 = Koiogran Turn\n\t06 = Segnor's Loop Left\n\t07 = Segnor's Loop Right\n\t08 = Tallon Roll Left\n\t09 = Tallon Roll Right\n\t10 = Backwards Left Bank\n\t11 = Backwards Straight\n\t12 = Backwards Right Bank\n\nPossible values in this array range from 0 to 3 and mean the following:\n\t0 = Maneuver unavailable\n\t1 = White maneuver\n\t2 = Green maneuver\n\t3 = Red maneuver\n\nThis array may be as short as required to provide accurate data, meaning that a missing value for a particular maneuver type indicates that said maneuver is not available to that particular ship at that particular speed.\n.",
+              "minimum": 0,
+              "maximum": 3
+            }
+          }
+        },
+        "size": {
+          "description": "The ship's size.",
+          "allOf": [
+            {
+              "description": "Ship size must be a valid size in size in the game.",
+              "$ref": "definitions.json#/definitions/size"
+            },
+            {
+              "type": "string",
+              "description": "This schema only applies to small or large ships.\nTherefore, ship size is restricted to small or large.",
+              "enum": [
+                "small",
+                "large"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "faction",
+        "agility",
+        "attack",
+        "hull",
+        "shields",
+        "actions",
+        "xws",
+        "maneuvers",
+        "size"
+      ]
+    }
+  },
+  "oneOf": [
+    {
+      "$merge": {
+        "source": {
+          "description": "Schema for common ship fields.",
+          "$ref": "#/definitions/common"
+        },
+        "with": {
+          "description": "Schema for huge ships.",
+          "$ref": "#/definitions/huge"
+        }
+      }
+    },
+    {
+      "$merge": {
+        "source": {
+          "description": "Schema for common ship fields.",
+          "$ref": "#/definitions/common"
+        },
+        "with": {
+          "description": "Schema for small and large ships.",
+          "$ref": "#/definitions/non_huge"
+        }
+      }
+    }
+  ]
+}

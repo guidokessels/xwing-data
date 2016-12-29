@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "pilots.json#",
+  "title": "Schema for pilots data file",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The pilot's name, as written on the card itself.",
+      "minLength": 1
+    },
+    "id": {
+      "type": "integer",
+      "description": "The pilot's unique id number. It's not used in the game but it's used to link this pilot to other data in this dataset.",
+      "minimum": 0
+    },
+    "unique": {
+      "type": "boolean",
+      "description": "Indicates whether this pilot has a unique name or not.\nSome pilot cards have unique names, which are identified by the bullet to the left of the name.\nA player cannot field two or more cards that share the same unique name, even if those cards are of different types."
+    },
+    "ship": {
+      "type": "string",
+      "description": "The pilot's ship name.",
+      "minLength": 1
+    },
+    "skill": {
+      "description": "The pilot's skill.",
+      "anyOf": [
+        {
+          "type": "integer",
+          "description": "Pilot skill.",
+          "minimum": 0,
+          "maximum": 9
+        },
+        {
+          "type": "string",
+          "description": "Having '?' as a pilot's skill means that there is a special ruling for it and it's variable.",
+          "minLength": 1,
+          "maxLength": 1,
+          "pattern": "^\\?$"
+        }
+      ]
+    },
+    "points": {
+      "description": "This pilot's squad points cost.",
+      "anyOf": [
+        {
+          "type": "integer",
+          "description": "Squad points cost.",
+          "minimum": 1
+        },
+        {
+          "type": "string",
+          "description": "Having '?' as a pilot's squad points cost means that there is a special ruling for it and it's variable.",
+          "minLength": 1,
+          "maxLength": 1,
+          "pattern": "^\\?$"
+        }
+      ]
+    },
+    "slots": {
+      "type": "array",
+      "description": "A list of the slots available to this pilot.",
+      "uniqueItems": false,
+      "items": {
+        "description": "A slot available to this ship.",
+        "$ref": "definitions.json#/definitions/slot"
+      }
+    },
+    "text": {
+      "type": "string",
+      "description": "The pilot card's text describing its effect.",
+      "minLength": 1
+    },
+    "image": {
+      "description": "The file path for this pilot card's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "faction": {
+      "description": "The pilot's faction.",
+      "$ref": "definitions.json#/definitions/faction"
+    },
+    "xws": {
+      "type": "string",
+      "description": "The pilot's unique XWS id as described in the XWS format.",
+      "minLength": 1
+    },
+    "ship_override": {
+      "type": "object",
+      "description": "Most times, ships attributes remain the same for all its pilot cards.\nWhen they don't, this attribute is used to reflect those changes.\nThe values here supersede the ones provided by pilot's ship values. ",
+      "properties": {
+        "attack": {
+          "description": "The ship's attack value.",
+          "minimum": 0
+        },
+        "agility": {
+          "description": "The ship's agility value.",
+          "minimum": 0
+        },
+        "hull": {
+          "description": "The ship's hull value.",
+          "minimum": 0
+        },
+        "shields": {
+          "description": "The ship's shields value.",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": false
+    },
+    "range": {
+      "description": "The ship's range. This property is for huge ships only.",
+      "$ref": "definitions.json#/definitions/range"
+    },
+    "conditions": {
+      "type": "array",
+      "description": "The pilot's related conditions.",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "description": "A condition name."
+      }
+    }
+  },
+  "required": [
+    "name",
+    "id",
+    "ship",
+    "skill",
+    "points",
+    "faction",
+    "xws"
+  ],
+  "additionalProperties": false
+}

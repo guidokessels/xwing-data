@@ -6,7 +6,8 @@
     "release": "./node_modules/.bin/release-it",
     "patch": "npm run release -- patch",
     "minor": "npm run release -- minor",
-    "major": "npm run release -- major"
+    "major": "npm run release -- major",
+    "test": "mocha ./tests"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,9 @@
   },
   "homepage": "https://github.com/guidokessels/xwing-data",
   "devDependencies": {
-    "release-it": "^2.3.1"
+    "release-it": "^2.3.1",
+    "mocha": "^3.2.0",
+    "ajv": "^4.10.0",
+    "ajv-merge-patch": "^2.1.0"
   }
 }

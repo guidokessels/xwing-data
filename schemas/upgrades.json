@@ -1,0 +1,163 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "upgrades.json#",
+  "title": "Schema for upgrades data file",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The upgrade's name as written on the card.",
+      "minLength": 1
+    },
+    "id": {
+      "type": "integer",
+      "description": "The upgrade's unique id number. It's not used in the game but it's used to link this upgrade to other data in this dataset.",
+      "minimum": 0
+    },
+    "slot": {
+      "description": "The slot used by this upgrade.",
+      "$ref": "definitions.json#/definitions/slot"
+    },
+    "points": {
+      "type": "integer",
+      "description": "Squad points cost for this upgrade."
+    },
+    "attack": {
+      "type": "integer",
+      "description": "The upgrade's attack value.",
+      "minimum": 1
+    },
+    "range": {
+      "description": "The upgrade's range. Usually attach related.",
+      "$ref": "definitions.json#/definitions/range"
+    },
+    "text": {
+      "type": "string",
+      "description": "The upgrade's text as written on the card.",
+      "minLength": 1
+    },
+    "image": {
+      "description": "The file path for this upgrade's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "xws": {
+      "type": "string",
+      "description": "The upgrade's unique XWS id as described in the XWS format.",
+      "minLength": 1
+    },
+    "unique": {
+      "type": "boolean",
+      "description": "Some upgrade cards have unique names, which are identified by the bullet to the left of the name.\n A player cannot field two or more cards that share the same unique name, even if those cards are of different types."
+    },
+    "size": {
+      "type": "array",
+      "description": "This ship sizes this upgrade is restricted to.",
+      "uniqueItems": true,
+      "items": {
+        "description": "A ship size the upgrade is restricted to.",
+        "$ref": "definitions.json#/definitions/size"
+      }
+    },
+    "effect": {
+      "type": "string",
+      "description": "Some upgrades have effects, like bomb tokens.\nThe text for such effects go here.",
+      "minLength": 1
+    },
+    "faction": {
+      "description": "The faction this upgrade is restricted to.",
+      "$ref": "definitions.json#/definitions/faction"
+    },
+    "limited": {
+      "type": "boolean",
+      "description": "Indicates if this upgrade has the Limited trait.\nA ship cannot equip more than one copy of the same card with the Limited trait."
+    },
+    "energy": {
+      "type": "integer",
+      "description": "The upgrade's energy cost",
+      "minimum": 0
+    },
+    "grants": {
+      "type": "array",
+      "description": "A list of improvements the upgrade grants to the ship it's attached to.",
+      "uniqueItems": false,
+      "items": {
+        "type": "object",
+        "description": "An improvement granted by the upgrade",
+        "anyOf": [
+          {
+            "type": "object",
+            "description": "The improved granted by this upgrade (action).",
+            "properties": {
+              "name": {
+                "description": "The action granted by this upgrade",
+                "$ref": "definitions.json#/definitions/action"
+              },
+              "type": {
+                "type": "string",
+                "description": "This upgrade grants an action.",
+                "enum": [
+                  "action"
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "description": "The improved granted by this upgrade (slot).",
+            "properties": {
+              "name": {
+                "description": "The slot granted by this upgrade",
+                "$ref": "definitions.json#/definitions/slot"
+              },
+              "type": {
+                "type": "string",
+                "description": "This upgrade grants a slot.",
+                "enum": [
+                  "slot"
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      }
+    },
+    "ship": {
+      "type": "array",
+      "description": "The ships this upgrade is restricted to.",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "description": "A ship's name."
+      }
+    },
+    "conditions": {
+      "type": "array",
+      "description": "The upgrades's related conditions.",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "description": "A condition name."
+      }
+    }
+  },
+  "required": [
+    "name",
+    "id",
+    "slot",
+    "points",
+    "text",
+    "xws"
+  ],
+  "additionalProperties": false
+}
