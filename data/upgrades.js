@@ -3347,5 +3347,23 @@
       "TIE/sf Fighter"
     ],
     "id": 296
+  },
+  {
+    "text": "When attacking, if you are not stressed, you may change all of your [Focus] results to [Hit] results.",
+    "name": "Expertise",
+    "xws": "expertise",
+    "points": 4,
+    "slot": "Elite",
+    "id": 297
+  },
+  {
+    "text": "When attacking at Range 1-2, you may change 1 of your [Hit] results to a [Critical Hit] result.",
+    "name": "Bistan",
+    "xws": "bistan",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 298
   }
 ]

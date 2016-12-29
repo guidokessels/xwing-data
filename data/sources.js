@@ -1671,14 +1671,18 @@
         "272": 1,
         "290": 1,
         "291": 1,
-        "292": 2
+        "292": 2,
+        "297": 1,
+        "298": 1
       }
     },
     "image": "sources/swx62-product.png",
     "thumb": "sources/swx62-thumb.jpg",
     "sku": "SWX62",
     "release_date": "2016-12-15",
-    "announcement_date": "2016-09-02"
+    "announcement_date": "2016-09-02",
+    "released": true,
+    "release_date": "2016-12-15"
   },
   {
     "name": "TIE Striker Expansion Pack",
@@ -1703,6 +1707,8 @@
     },
     "sku": "SWX63",
     "release_date": "2016-12-15",
-    "announcement_date": "2016-09-02"
+    "announcement_date": "2016-09-02",
+    "released": true,
+    "release_date": "2016-12-15"
   }
 ]
