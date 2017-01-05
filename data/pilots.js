@@ -2606,7 +2606,7 @@
       "Astromech",
       "Tech"
     ],
-    "text": "When performing a boost action, you may use the ([Hard Left] 1) or ([Hard Right] 1) template.",
+    "text": "When performing a boost action, you may use the ([Turn Left] 1) or ([Turn Right] 1) template.",
     "faction": "Resistance",
     "image": "pilots/Resistance/T-70 X-Wing/blue-ace.png",
     "xws": "blueace"
