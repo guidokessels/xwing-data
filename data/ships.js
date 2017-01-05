@@ -2708,7 +2708,7 @@
       "Rotate Arc",
       "Target Lock"
     ],
-    "size": "small",
+    "size": "large",
     "attack": 3,
     "agility": 2,
     "hull": 7,
