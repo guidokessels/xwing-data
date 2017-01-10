@@ -1,24 +1,17 @@
 var assert = require("assert");
 var Data = require("./data");
 var Schema = require("./schema");
+var utils = require("./utils");
 
 
-function validateData(header, data, schema) {
+function validateData(data, dataKey, schema) {
     var errors = [];
     var errorText;
 
-    for (var i = 0; i < data.length; i++) {
-      if (!schema(data[i])) {
+    for (var i = 0; i < data[dataKey].length; i++) {
+      if (!schema(data[dataKey][i])) {
+        errorText = utils.buildDataHeader(data, dataKey, i) + ':\n\t\t';
 
-        if (data[i].id && data[i].name) {
-          errorText = "\t<" + header + " id=" + data[i].id + " name=\"" + data[i].name + "\">:\n\t\t";
-        } else if (data[i].id) {
-          errorText = "\t<" + header + " id=" + data[i].id + ">:\n\t\t";
-        } else if (data[i].name) {
-          errorText = "\t<" + header + " name=\"" + data[i].name + "\">:\n\t\t";
-        } else {
-          errorText = "\t<" + header + " index=" + i.toString() + ">:\n\t\t";
-        }
         for (var j = 0; j < schema.errors.length; j++) {
           errorText += "- ";
           if (schema.errors[j].dataPath && schema.errors[j].dataPath != "") {
@@ -38,56 +31,50 @@ function validateData(header, data, schema) {
       }
     }
 
-    if (errors.length > 0) {
-      assert.fail(
-        errors.length.toString() + " Validation Errors",
-        "0 Validation Errors" ,
-        "\n" + errors.join("\n")
-      );
-    }
+    utils.outputAllErrors(errors);
 }
 
 
 describe("All data", function() {
   describe("in conditions.js", function() {
     it("should validate against conditions schema", function() {
-      validateData("Condition", Data.conditions, Schema.conditions);
+      validateData(Data, "conditions", Schema.conditions);
     });
   });
 
   describe("in damage-deck-core.js", function() {
     it("should validate against damage-deck schema", function() {
-      validateData("DamageDeckCore", Data.damageDeckCore, Schema.damageDeck);
+      validateData(Data, "damageDeckCore", Schema.damageDeck);
     });
   });
 
   describe("in damage-deck-core-tfa.js", function() {
     it("should validate against damage-deck schema", function() {
-      validateData("DamageDeckCoreTfa", Data.damageDeckCoreTfa, Schema.damageDeck);
+      validateData(Data, "damageDeckCoreTfa", Schema.damageDeck);
     });
   });
 
   describe("in pilots.js", function() {
     it("should validate against pilots schema", function() {
-      validateData("Pilot", Data.pilots, Schema.pilots);
+      validateData(Data, "pilots", Schema.pilots);
     });
   });
 
   describe("in ships.js", function() {
     it("should validate against ships schema", function() {
-      validateData("Ship", Data.ships, Schema.ships);
+      validateData(Data, "ships", Schema.ships);
     });
   });
 
   describe("in sources.js", function() {
     it("should validate against sources schema", function() {
-      validateData("Source", Data.sources, Schema.sources);
+      validateData(Data, "sources", Schema.sources);
     });
   });
 
   describe("in upgrades.js", function() {
     it("should validate against upgrades schema", function() {
-      validateData("Upgrade", Data.upgrades, Schema.upgrades);
+      validateData(Data, "upgrades", Schema.upgrades);
     });
   });
 });
