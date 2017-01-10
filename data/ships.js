@@ -246,7 +246,8 @@
   {
     "name": "TIE Fighter",
     "faction": [
-      "Galactic Empire"
+      "Galactic Empire",
+      "Rebel Alliance"
     ],
     "attack": 2,
     "agility": 3,
