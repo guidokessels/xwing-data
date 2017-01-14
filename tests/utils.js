@@ -11,7 +11,7 @@ var DATASET_HEADER_MAP = {
   upgrades: "Upgrade",
 };
 
-function buildDataHeader(data, dataKey ,index) {
+function buildDataHeader(data, dataKey, index) {
   var dataHeader;
   var header = DATASET_HEADER_MAP[dataKey];
   var model = data[dataKey][index];

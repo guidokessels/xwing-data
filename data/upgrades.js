@@ -3097,7 +3097,7 @@
   },
   {
     "image": "upgrades/Illicit/burnout-slam.png",
-    "text": "Your action bar gains the [Slam] action icon.<br /><br />After you perform a SLAM action, discard this card.",
+    "text": "Your action bar gains the [SLAM] action icon.<br /><br />After you perform a SLAM action, discard this card.",
     "name": "Burnout SLAM",
     "xws": "burnoutslam",
     "points": 1,
