@@ -3959,5 +3959,15 @@
       "Elite"
     ],
     "id": 239
+  },
+  {
+    "name": "Scarif Defender",
+    "xws": "scarifdefender",
+    "ship": "TIE Striker",
+    "skill": 3,
+    "points": 18,
+    "faction": "Galactic Empire",
+    "slots": [],
+    "id": 240
   }
 ]
