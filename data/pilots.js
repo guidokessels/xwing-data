@@ -3947,5 +3947,17 @@
       "Cargo"
     ],
     "id": 238
+  },
+  {
+    "name": "Black Squadron Scout",
+    "xws": "blacksquadronscout",
+    "ship": "TIE Striker",
+    "skill": 4,
+    "points": 20,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite"
+    ],
+    "id": 239
   }
 ]
