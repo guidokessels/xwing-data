@@ -2917,5 +2917,25 @@
         1
       ]
     ]
+  },
+  {
+    "name": "C-ROC Cruiser",
+    "xws": "croccruiser",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Jam",
+      "Recover",
+      "Reinforce",
+      "Target Lock"
+    ],
+    "size": "huge",
+    "energy": 4,
+    "agility": 0,
+    "hull": 10,
+    "shields": 4,
+    "maneuvers": [],
+    "maneuvers_energy": []
   }
 ]
