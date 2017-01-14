@@ -24,7 +24,7 @@ function validateData(data, dataKey, schema) {
             errorText += " (" + schema.errors[j].params.additionalProperty + ")";
           }
 
-          errorText += "\n\t\t"
+          errorText += "\n\t\t";
         }
 
         errors.push(errorText);
