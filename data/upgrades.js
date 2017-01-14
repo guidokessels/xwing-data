@@ -3365,5 +3365,74 @@
     "slot": "Crew",
     "faction": "Rebel Alliance",
     "id": 298
+  },
+  {
+    "image": "upgrades/Hardpoint/heavy-laser-turret.png",
+    "text": "<strong>Attack (energy):</strong> Spend 2 energy from this card to perform this attack against 1 ship (even a ship outside of your firing arc).",
+    "name": "Heavy Laser Turret",
+    "xws": "heavylaserturret",
+    "points": 5,
+    "slot": "Hardpoint",
+    "range": "2-3",
+    "attack": 4,
+    "energy": 2,
+    "ship": [
+      "C-ROC Cruiser"
+    ],
+    "id": 299
+  },
+  {
+    "image": "upgrades/Crew/cikatro-vizago.png",
+    "text": "At the start of the End phase, you may discard this card to replace a faceup [Illicit] or [Cargo] Upgrade card you have equipped with another Upgrade card of the same type of equal or fewer squad points.",
+    "name": "Cikatro Vizago",
+    "xws": "cikatrovizago",
+    "unique": true,
+    "points": 0,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 300
+  },
+  {
+    "image": "upgrades/Crew/azmorigan.png",
+    "text": "At the start of the End phase, you may spend 1 energy to replace a faceup [Crew] or [Team] Upgrade card you have equipped with another Upgrade card of the same type of equal or fewer squad points.",
+    "name": "Azmorigan",
+    "xws": "azmorigan",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "ship": [
+      "CR90 Corvette (Fore)"
+    ],
+    "size": [
+      "huge"
+    ],
+    "faction": "Scum and Villainy",
+    "id": 301
+  },
+  {
+    "image": "upgrades/Title/merchant-one.png",
+    "text": "Your upgrade bar gains 1 additional [Crew] upgrade icon and 1 additional [Team] upgrade icon and loses 1 [Cargo] upgrade icon.",
+    "name": "Merchant One",
+    "xws": "merchantone",
+    "unique": true,
+    "points": 2,
+    "slot": "Title",
+    "energy": 1,
+    "ship": [
+      "C-ROC Cruiser"
+    ],
+    "id": 302
+  },
+  {
+    "image": "upgrades/Title/light-scyk-interceptor.png",
+    "text": "All Damage cards dealt to you are dealt faceup. You may treat all bank maneuvers ([Bank Left] or [Bank Right]) as green maneuvers. You cannot equip Modification upgrades.",
+    "name": "\"Light Scyk\" Interceptor",
+    "xws": "lightscykinterceptor",
+    "points": -2,
+    "slot": "Title",
+    "ship": [
+      "M3-A Interceptor"
+    ],
+    "id": 303
   }
 ]

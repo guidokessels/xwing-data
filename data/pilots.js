@@ -3928,5 +3928,24 @@
     "faction": "Galactic Empire",
     "slots": [],
     "id": 237
+  },
+  {
+    "image": "pilots/Scum and Villainy/C-ROC Cruiser/c-roc-cruiser.png",
+    "name": "C-ROC Cruiser",
+    "xws": "croccruiser",
+    "ship": "C-ROC Cruiser",
+    "skill": 1,
+    "points": 35,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Hardpoint",
+      "Team",
+      "Cargo",
+      "Cargo",
+      "Cargo"
+    ],
+    "id": 238
   }
 ]

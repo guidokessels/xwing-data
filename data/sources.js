@@ -1681,8 +1681,7 @@
     "sku": "SWX62",
     "release_date": "2016-12-15",
     "announcement_date": "2016-09-02",
-    "released": true,
-    "release_date": "2016-12-15"
+    "released": true
   },
   {
     "name": "TIE Striker Expansion Pack",
@@ -1708,7 +1707,33 @@
     "sku": "SWX63",
     "release_date": "2016-12-15",
     "announcement_date": "2016-09-02",
-    "released": true,
-    "release_date": "2016-12-15"
+    "released": true
+  },
+  {
+    "name": "C-ROC Cruiser Expansion Pack",
+    "wave": "Iconic Starships",
+    "sku": "SWX58",
+    "contents": {
+      "ships": [
+        "C-ROC Cruiser",
+        "M3-A Interceptor"
+      ],
+      "pilots": {
+        "122": 1,
+        "238": 1
+      },
+      "upgrades": {
+        "165": 1,
+        "299": 1,
+        "300": 1,
+        "301": 1,
+        "302": 1,
+        "303": 6
+      }
+    },
+    "id": 51,
+    "image": "sources/swx58-product.png",
+    "thumb": "sources/swx58-thumb.jpg",
+    "announcement_date": "2017-01-09"
   }
 ]
