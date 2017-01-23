@@ -29,7 +29,8 @@
         "4": 1,
         "8": 1,
         "12": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX01",
     "release_date": "2012-09-14",
@@ -58,7 +59,8 @@
         "7": 1,
         "11": 1,
         "12": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX02",
     "release_date": "2012-09-14",
@@ -86,7 +88,10 @@
         "1": 2,
         "2": 1,
         "5": 1
-      }
+      },
+      "reference-cards": [
+        0
+      ]
     },
     "sku": "SWX04",
     "release_date": "2012-09-14",
@@ -114,7 +119,8 @@
       "upgrades": {
         "8": 1,
         "9": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX03",
     "release_date": "2012-09-14",
@@ -143,7 +149,8 @@
         "11": 1,
         "13": 1,
         "14": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX05",
     "release_date": "2012-09-14",
@@ -170,7 +177,10 @@
       "upgrades": {
         "15": 1,
         "16": 1
-      }
+      },
+      "reference-cards": [
+        2
+      ]
     },
     "sku": "SWX09",
     "release_date": "2013-02-28",
@@ -199,7 +209,10 @@
         "17": 1,
         "18": 1,
         "19": 1
-      }
+      },
+      "reference-cards": [
+        2
+      ]
     },
     "sku": "SWX08",
     "release_date": "2013-02-28",
@@ -235,7 +248,10 @@
         "152": 1,
         "175": 2,
         "176": 2
-      }
+      },
+      "reference-cards": [
+        2
+      ]
     },
     "sku": "SWX06",
     "release_date": "2013-02-28",
@@ -271,7 +287,11 @@
         "28": 1,
         "151": 1,
         "174": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        1
+      ]
     },
     "sku": "SWX07",
     "release_date": "2013-02-28",
@@ -300,7 +320,10 @@
         "34": 1,
         "35": 1,
         "36": 1
-      }
+      },
+      "reference-cards": [
+        0
+      ]
     },
     "sku": "SWX14",
     "release_date": "2013-09-12",
@@ -330,7 +353,11 @@
         "39": 1,
         "40": 1,
         "153": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3
+      ]
     },
     "sku": "SWX12",
     "release_date": "2013-09-12",
@@ -359,7 +386,11 @@
         "34": 1,
         "41": 1,
         "42": 1
-      }
+      },
+      "reference-cards": [
+        4,
+        5
+      ]
     },
     "sku": "SWX15",
     "release_date": "2013-09-12",
@@ -394,7 +425,8 @@
         "48": 1,
         "154": 1,
         "177": 2
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX13",
     "release_date": "2013-09-12",
@@ -426,7 +458,8 @@
         "175": 2,
         "178": 2,
         "179": 2
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX21",
     "release_date": "2014-03-14",
@@ -455,7 +488,11 @@
         "54": 1,
         "55": 1,
         "180": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3
+      ]
     },
     "sku": "SWX16",
     "release_date": "2014-06-26",
@@ -484,7 +521,11 @@
         "56": 1,
         "57": 1,
         "180": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3
+      ]
     },
     "sku": "SWX17",
     "release_date": "2014-06-26",
@@ -513,7 +554,10 @@
         "58": 1,
         "59": 1,
         "60": 1
-      }
+      },
+      "reference-cards": [
+        2
+      ]
     },
     "sku": "SWX18",
     "release_date": "2014-06-26",
@@ -542,7 +586,12 @@
         "61": 1,
         "181": 1,
         "182": 1
-      }
+      },
+      "reference-cards": [
+        3,
+        6,
+        7
+      ]
     },
     "sku": "SWX19",
     "release_date": "2014-06-26",
@@ -578,7 +627,10 @@
         "75": 1,
         "157": 2,
         "184": 2
-      }
+      },
+      "reference-cards": [
+        2
+      ]
     },
     "sku": "SWX29",
     "release_date": "2014-09-25",
@@ -620,7 +672,10 @@
         "156": 1,
         "158": 1,
         "162": 1
-      }
+      },
+      "reference-cards": [
+        0
+      ]
     },
     "sku": "SWX22",
     "release_date": "2014-05-22",
@@ -670,7 +725,10 @@
         "160": 1,
         "161": 1,
         "183": 1
-      }
+      },
+      "reference-cards": [
+        0
+      ]
     },
     "sku": "SWX11",
     "release_date": "2014-04-30",
@@ -706,7 +764,11 @@
         "163": 1,
         "185": 1,
         "186": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        2
+      ]
     },
     "sku": "SWX23",
     "release_date": "2014-11-26",
@@ -740,7 +802,12 @@
         "104": 2,
         "164": 1,
         "187": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        4,
+        5
+      ]
     },
     "sku": "SWX24",
     "release_date": "2014-11-26",
@@ -790,7 +857,8 @@
         "120": 1,
         "168": 1,
         "169": 2
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX28",
     "release_date": "2015-02-26",
@@ -822,7 +890,13 @@
         "167": 1,
         "179": 1,
         "188": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        2,
+        3,
+        8
+      ]
     },
     "sku": "SWX25",
     "release_date": "2015-02-26",
@@ -851,7 +925,11 @@
         "124": 1,
         "165": 1,
         "174": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3
+      ]
     },
     "sku": "SWX26",
     "release_date": "2015-02-26",
@@ -885,7 +963,11 @@
         "115": 1,
         "124": 1,
         "166": 1
-      }
+      },
+      "reference-cards": [
+        1,
+        8
+      ]
     },
     "sku": "SWX27",
     "release_date": "2015-02-26",
@@ -936,7 +1018,10 @@
         "171": 1,
         "172": 1,
         "173": 1
-      }
+      },
+      "reference-cards": [
+        0
+      ]
     },
     "sku": "SWX30",
     "release_date": "2015-08-13",
@@ -973,7 +1058,11 @@
         "176": 1,
         "191": 1,
         "192": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        2
+      ]
     },
     "sku": "SWX31",
     "release_date": "2015-08-25",
@@ -1002,7 +1091,8 @@
         "130": 1,
         "133": 1,
         "141": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX32",
     "release_date": "2015-08-25",
@@ -1034,7 +1124,15 @@
         "140": 1,
         "142": 1,
         "189": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3,
+        4,
+        11,
+        12,
+        13
+      ]
     },
     "sku": "SWX33",
     "release_date": "2015-08-25",
@@ -1066,7 +1164,15 @@
         "139": 1,
         "142": 1,
         "190": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        2,
+        3,
+        4,
+        9,
+        10
+      ]
     },
     "sku": "SWX34",
     "release_date": "2015-08-25",
@@ -1102,7 +1208,8 @@
         "145": 1,
         "148": 1,
         "150": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX36",
     "release_date": "2015-09-04",
@@ -1131,7 +1238,8 @@
         "150": 1,
         "193": 1,
         "214": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX37",
     "release_date": "2015-12-17",
@@ -1159,7 +1267,8 @@
       "upgrades": {
         "147": 1,
         "149": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX38",
     "release_date": "2015-12-17",
@@ -1193,7 +1302,8 @@
         "239": 1,
         "240": 1,
         "241": 2
-      }
+      },
+      "reference-cards": []
     },
     "released": true,
     "sku": "SWX42",
@@ -1225,7 +1335,15 @@
         "232": 2,
         "233": 2,
         "234": 2
-      }
+      },
+      "reference-cards": [
+        0,
+        3,
+        6,
+        7,
+        14,
+        16
+      ]
     },
     "released": true,
     "sku": "SWX41",
@@ -1254,7 +1372,11 @@
         "199": 1,
         "208": 1,
         "229": 1
-      }
+      },
+      "reference-cards": [
+        2,
+        3
+      ]
     },
     "released": true,
     "sku": "SWX40",
@@ -1298,7 +1420,12 @@
         "217": 1,
         "218": 1,
         "242": 1
-      }
+      },
+      "reference-cards": [
+        9,
+        10,
+        15
+      ]
     },
     "released": true,
     "sku": "SWX39",
@@ -1347,7 +1474,8 @@
         "226": 1,
         "227": 1,
         "228": 1
-      }
+      },
+      "reference-cards": []
     },
     "released": true,
     "sku": "SWX35",
@@ -1383,7 +1511,12 @@
         "221": 2,
         "222": 2,
         "245": 1
-      }
+      },
+      "reference-cards": [
+        10,
+        14,
+        17
+      ]
     },
     "released": true,
     "sku": "SWX52",
@@ -1424,7 +1557,8 @@
         "280": 1,
         "281": 1,
         "282": 2
-      }
+      },
+      "reference-cards": []
     },
     "image": "sources/heroes-of-the-resistance-expansion-pack-product.png",
     "id": 41,
@@ -1455,7 +1589,10 @@
         "251": 2,
         "252": 1,
         "259": 1
-      }
+      },
+      "reference-cards": [
+        20
+      ]
     },
     "image": "sources/arc-170-expansion-pack-product.png",
     "id": 42,
@@ -1483,7 +1620,10 @@
         "247": 1,
         "253": 1,
         "254": 2
-      }
+      },
+      "reference-cards": [
+        20
+      ]
     },
     "image": "sources/special-forces-tie-expansion-pack-product.png",
     "id": 43,
@@ -1510,7 +1650,11 @@
       "upgrades": {
         "248": 1,
         "255": 1
-      }
+      },
+      "reference-cards": [
+        2,
+        21
+      ]
     },
     "image": "sources/protectorate-starfighter-expansion-pack-product.png",
     "thumb": "sources/protectorate-starfighter-expansion-pack-thumb.jpg",
@@ -1544,7 +1688,11 @@
         "260": 1,
         "261": 1,
         "262": 2
-      }
+      },
+      "reference-cards": [
+        18,
+        19
+      ]
     },
     "image": "sources/shadow-caster-expansion-pack-product.png",
     "thumb": "sources/shadow-caster-expansion-pack-thumb.jpg",
@@ -1575,7 +1723,12 @@
       },
       "conditions": {
         "2": 1
-      }
+      },
+      "reference-cards": [
+        0,
+        3,
+        22
+      ]
     },
     "id": 46,
     "image": "sources/swx59-product.png",
@@ -1610,7 +1763,8 @@
       "conditions": {
         "0": 1,
         "1": 1
-      }
+      },
+      "reference-cards": []
     },
     "image": "sources/swx60-product.png",
     "thumb": "sources/swx60-thumb.jpg",
@@ -1640,7 +1794,8 @@
       },
       "conditions": {
         "3": 1
-      }
+      },
+      "reference-cards": []
     },
     "image": "sources/swx61-product.png",
     "thumb": "sources/swx61-thumb.jpg",
@@ -1674,7 +1829,8 @@
         "292": 2,
         "297": 1,
         "298": 1
-      }
+      },
+      "reference-cards": []
     },
     "image": "sources/swx62-product.png",
     "thumb": "sources/swx62-thumb.jpg",
@@ -1704,7 +1860,8 @@
         "270": 1,
         "295": 1,
         "296": 1
-      }
+      },
+      "reference-cards": []
     },
     "sku": "SWX63",
     "release_date": "2016-12-15",
@@ -1731,7 +1888,8 @@
         "301": 1,
         "302": 1,
         "303": 6
-      }
+      },
+      "reference-cards": []
     },
     "id": 51,
     "image": "sources/swx58-product.png",

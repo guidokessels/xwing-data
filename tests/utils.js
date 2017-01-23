@@ -6,6 +6,7 @@ var DATASET_HEADER_MAP = {
   damageDeckCore: "DamageDeckCore",
   damageDeckCoreTfa: "DamageDeckCore",
   pilots: "Pilot",
+  referenceCards: "ReferenceCard",
   ships: "Ship",
   sources: "Source",
   upgrades: "Upgrade",

@@ -11,7 +11,7 @@
     },
     "name": {
       "type": "string",
-      "description": "The conditions's name as written on the package.",
+      "description": "The conditions's name as written on the card itself.",
       "minLength": 1
     },
     "xws": {

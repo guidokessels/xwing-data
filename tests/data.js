@@ -9,6 +9,7 @@ var data = {
   damageDeckCore: getData("data/damage-deck-core.js"),
   damageDeckCoreTfa: getData("data/damage-deck-core-tfa.js"),
   pilots: getData("data/pilots.js"),
+  referenceCards: getData("data/reference-cards.js"),
   ships: getData("data/ships.js"),
   sources: getData("data/sources.js"),
   upgrades: getData("data/upgrades.js")

@@ -25,6 +25,7 @@ var schemas = {
   conditions: getSchema("schemas/conditions.json"),
   damageDeck: getSchema("schemas/damage-deck.json"),
   pilots: getSchema("schemas/pilots.json"),
+  referenceCards: getSchema("schemas/reference-cards.json"),
   ships: getSchema("schemas/ships.json"),
   sources: getSchema("schemas/sources.json"),
   upgrades: getSchema("schemas/upgrades.json")

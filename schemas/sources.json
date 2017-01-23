@@ -65,6 +65,15 @@
           "description": "The upgrades included in this source.\nThe object property names (casted as integers) are the ids of the upgrades included.\nTheir corresponding integer values indicate how many of those upgrades are included in the source.",
           "additionalProperties": true
         },
+        "reference-cards": {
+          "type": "array",
+          "description": "The reference cards included in this source.",
+          "uniqueItems": true,
+          "items": {
+            "type": "integer",
+            "description": "A reference card's id."
+          }
+        },
         "conditions": {
           "type": "object",
           "description": "The conditions included in this source.\nThe object property names (casted as integers) are the ids of the conditions included.\nTheir corresponding integer values indicate how many of those conditions are included in the source.",

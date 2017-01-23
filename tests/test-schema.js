@@ -60,6 +60,12 @@ describe("All data", function() {
     });
   });
 
+  describe("in reference-cards.js", function() {
+    it("should validate against reference-cards schema", function() {
+      validateData(Data, "referenceCards", Schema.referenceCards);
+    });
+  });
+
   describe("in ships.js", function() {
     it("should validate against ships schema", function() {
       validateData(Data, "ships", Schema.ships);

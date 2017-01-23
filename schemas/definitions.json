@@ -67,7 +67,7 @@
     "image_file_path": {
       "type": "string",
       "description": "A file path for an image in this package.",
-      "pattern": "^(?:conditions|pilots|factions|sources|upgrades)(?:\\/[a-zA-Z\\(\\)\\.0-9_-](?:[a-zA-Z\\(\\)\\.0-9\\ _-]*[a-zA-Z\\(\\)\\.0-9\\ _-])?)*\\.(?:png|jpg)$"
+      "pattern": "^(?:conditions|pilots|factions|sources|upgrades|reference-cards)(?:\\/[a-zA-Z\\(\\)\\.0-9_-](?:[a-zA-Z\\(\\)\\.0-9\\ _-]*[a-zA-Z\\(\\)\\.0-9\\ _-])?)*\\.(?:png|jpg)$"
     },
     "range": {
       "type": "string",

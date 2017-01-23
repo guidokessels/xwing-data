@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "reference-cards.json#",
+  "title": "Schema for reference card data file",
+  "type": "object",
+  "definitions": {},
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "The reference card's unique id number. It's not used in the game but it's used to link this reference card to other data in this dataset.",
+      "minimum": 0
+    },
+    "title": {
+      "type": "string",
+      "description": "The reference card's title as written on the card itself.",
+      "minLength": 1
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "The reference card's subtitle as written on the card itself.",
+      "minLength": 1
+    },
+    "image": {
+      "description": "The file path for this reference card's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "text": {
+      "type": "string",
+      "description": "The reference card's text describing or updating new rules.",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "subtitle"
+  ],
+  "additionalProperties": false
+}
