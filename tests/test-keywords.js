@@ -21,7 +21,7 @@ var utils = require("./utils");
  * to some keywords not being matched.
  */
 
-function validateKeywords(dataKey, keywords) {
+function validateKeywords(dataKey, keywords, textFields) {
   var errors = [];
   var errorText;
   var item;
@@ -33,19 +33,22 @@ function validateKeywords(dataKey, keywords) {
   for (var i = 0; i < model.length; i++) {
     errorText = '';
     item = model[i];
-    if (!('text' in item)) {
-      continue;
-    }
 
-    while (matches = regex.exec(item.text)) {
-      if (keywords.indexOf(matches[1]) === -1) {
-        errorText += "- Unknown keyword [" + matches[1] + "]\n\t\t";
-        keywordErrors++;
+    for (var j = 0; j < textFields.length; j++) {
+
+      if (textFields[j] in item) {
+        while (matches = regex.exec(item[textFields[j]])) {
+          if (keywords.indexOf(matches[1]) === -1) {
+            errorText += "- Unknown keyword [" + matches[1] + "] in '" +
+              textFields[j] + "' field.\n\t\t";
+            keywordErrors++;
+          }
+        }
+
+        if (errorText) {
+          errors.push(utils.buildDataHeader(Data, dataKey, i) + ':\n\t\t' + errorText);
+        }
       }
-    }
-
-    if (errorText) {
-      errors.push(utils.buildDataHeader(Data, dataKey, i) + ':\n\t\t' + errorText);
     }
   }
 
@@ -58,22 +61,22 @@ function validateKeywords(dataKey, keywords) {
   }
 }
 
-describe("All card text", function() {
+describe("All card text fields", function() {
   describe("in conditions.js", function() {
     it("should use allowed keywords only", function() {
-      validateKeywords("conditions", Keywords.all);
+      validateKeywords("conditions", Keywords.all, ['text']);
     });
   });
 
   describe("in pilots.js", function() {
     it("should use allowed keywords only", function() {
-      validateKeywords("pilots", Keywords.all);
+      validateKeywords("pilots", Keywords.all, ['text']);
     });
   });
 
   describe("in upgrades.js", function() {
     it("should use allowed keywords only", function() {
-      validateKeywords("upgrades", Keywords.all);
+      validateKeywords("upgrades", Keywords.all, ['text', 'effect']);
     });
   });
 });
