@@ -3,7 +3,7 @@
     "image": "conditions/ill-show-you-the-dark-side.png",
     "name": "I'll Show You the Dark Side",
     "xws": "illshowyouthedarkside",
-    "text": "When this card is assigned, if it is not already in play, the player who assigned it searches the Damage deck for 1 Damage card with the <strong>Pilot</strong> trait and may place it faceup on this card. Then shuffle the damage deck.<br /><br />When you suffer critical damage during an attack, you are instead dealt the chose faceup Damage card.<br /><br />When there is no Damage card on this card, remove it.",
+    "text": "When this card is assigned, if it is not already in play, the player who assigned it searches the Damage deck for 1 Damage card with the <strong>Pilot</strong> trait and may place it faceup on this card. Then shuffle the damage deck.<br /><br />When you suffer critical damage during an attack, you are instead dealt the chosen faceup Damage card.<br /><br />When there is no Damage card on this card, remove it.",
     "unique": true,
     "id": 0
   },
