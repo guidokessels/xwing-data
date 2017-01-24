@@ -2171,7 +2171,7 @@
   },
   {
     "image": "upgrades/Cannon/tractor-beam.png",
-    "text": "<b>Attack:</b> Attack 1 ship.<br /><br />If this attack hits, the defender receives 1 tractor beam token. Then cancel <b>all</b> dice results.",
+    "text": "<strong>Attack:</strong> Attack 1 ship.<br /><br />If this attack hits, the defender receives 1 tractor beam token. Then cancel <strong>all</strong> dice results.",
     "name": "Tractor Beam",
     "points": 1,
     "slot": "Cannon",
@@ -2182,7 +2182,7 @@
   },
   {
     "image": "upgrades/Illicit/cloaking-device.png",
-    "text": "<b>Action:</b> Perform a free cloak action.<br /><br />At the end of each round, roll 1 attack die. On a [Focus] result, discard this card, then decloak or discard your cloak token.",
+    "text": "<strong>Action:</strong> Perform a free cloak action.<br /><br />At the end of each round, roll 1 attack die. On a [Focus] result, discard this card, then decloak or discard your cloak token.",
     "name": "Cloaking Device",
     "unique": true,
     "points": 2,
@@ -2195,7 +2195,7 @@
   },
   {
     "image": "upgrades/Title/phantom.png",
-    "text": "While you are docked, the <i>Ghost</i> can perform primary weapon attacks from its special firing arc and, at the end of the Combat phase, it may perform an additional attack with an equipped [Turret]. If it performs this attack, it cannot attack again this round.",
+    "text": "While you are docked, the <em>Ghost</em> can perform primary weapon attacks from its special firing arc and, at the end of the Combat phase, it may perform an additional attack with an equipped [Turret]. If it performs this attack, it cannot attack again this round.",
     "name": "Phantom",
     "unique": true,
     "points": 0,
@@ -2208,7 +2208,7 @@
   },
   {
     "image": "upgrades/Title/ghost.png",
-    "text": "Equip the <i>Phantom</i> title card to a friendly Attack Shuttle and dock it to this ship.<br /><br />After you execute a maneuver, you may deploy it from your rear guides.",
+    "text": "Equip the <em>Phantom</em> title card to a friendly Attack Shuttle and dock it to this ship.<br /><br />After you execute a maneuver, you may deploy it from your rear guides.",
     "name": "Ghost",
     "unique": true,
     "points": 0,
@@ -2221,7 +2221,7 @@
   },
   {
     "image": "upgrades/Missile/xx-23-s-thread-tracers.png",
-    "text": "<b>Attack (Focus):</b> Discard this card to perform this attack. If this attack hits, each friendly ship at Range 1-2 of you may acquire a target lock on the defender. Then cancel <b>all</b> dice results.",
+    "text": "<strong>Attack (Focus):</strong> Discard this card to perform this attack. If this attack hits, each friendly ship at Range 1-2 of you may acquire a target lock on the defender. Then cancel <strong>all</strong> dice results.",
     "name": "XX-23 S-Thread Tracers",
     "points": 1,
     "slot": "Missile",
@@ -2314,7 +2314,7 @@
   },
   {
     "image": "upgrades/Hardpoint/dual-laser-turret.png",
-    "text": "<b>Attack (Energy):</b> Spend 1 energy from this card to perform this attack against 1 ship (even a ship outside of your firing arc).",
+    "text": "<strong>Attack (Energy):</strong> Spend 1 energy from this card to perform this attack against 1 ship (even a ship outside of your firing arc).",
     "name": "Dual Laser Turret",
     "points": 5,
     "slot": "Hardpoint",
