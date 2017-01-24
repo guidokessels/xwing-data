@@ -55,7 +55,8 @@
       ]
     ],
     "size": "small",
-    "xws": "xwing"
+    "xws": "xwing",
+    "id": 0
   },
   {
     "name": "Y-Wing",
@@ -114,7 +115,8 @@
       ]
     ],
     "size": "small",
-    "xws": "ywing"
+    "xws": "ywing",
+    "id": 1
   },
   {
     "name": "A-Wing",
@@ -182,7 +184,8 @@
       ]
     ],
     "size": "small",
-    "xws": "awing"
+    "xws": "awing",
+    "id": 2
   },
   {
     "name": "YT-1300",
@@ -241,7 +244,8 @@
       ]
     ],
     "size": "large",
-    "xws": "yt1300"
+    "xws": "yt1300",
+    "id": 3
   },
   {
     "name": "TIE Fighter",
@@ -309,7 +313,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiefighter"
+    "xws": "tiefighter",
+    "id": 4
   },
   {
     "name": "TIE Advanced",
@@ -377,7 +382,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tieadvanced"
+    "xws": "tieadvanced",
+    "id": 5
   },
   {
     "name": "TIE Interceptor",
@@ -445,7 +451,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tieinterceptor"
+    "xws": "tieinterceptor",
+    "id": 6
   },
   {
     "name": "Firespray-31",
@@ -505,7 +512,8 @@
       ]
     ],
     "size": "large",
-    "xws": "firespray31"
+    "xws": "firespray31",
+    "id": 7
   },
   {
     "name": "HWK-290",
@@ -559,7 +567,8 @@
       ]
     ],
     "size": "small",
-    "xws": "hwk290"
+    "xws": "hwk290",
+    "id": 8
   },
   {
     "name": "Lambda-Class Shuttle",
@@ -605,7 +614,8 @@
       ]
     ],
     "size": "large",
-    "xws": "lambdaclassshuttle"
+    "xws": "lambdaclassshuttle",
+    "id": 9
   },
   {
     "name": "B-Wing",
@@ -664,7 +674,8 @@
       ]
     ],
     "size": "small",
-    "xws": "bwing"
+    "xws": "bwing",
+    "id": 10
   },
   {
     "name": "TIE Bomber",
@@ -731,7 +742,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiebomber"
+    "xws": "tiebomber",
+    "id": 11
   },
   {
     "name": "GR-75 Medium Transport",
@@ -834,7 +846,8 @@
       ]
     ],
     "size": "huge",
-    "xws": "gr75mediumtransport"
+    "xws": "gr75mediumtransport",
+    "id": 12
   },
   {
     "name": "Z-95 Headhunter",
@@ -893,7 +906,8 @@
       ]
     ],
     "size": "small",
-    "xws": "z95headhunter"
+    "xws": "z95headhunter",
+    "id": 13
   },
   {
     "name": "TIE Defender",
@@ -960,7 +974,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiedefender"
+    "xws": "tiedefender",
+    "id": 14
   },
   {
     "name": "E-Wing",
@@ -1028,7 +1043,8 @@
       ]
     ],
     "size": "small",
-    "xws": "ewing"
+    "xws": "ewing",
+    "id": 15
   },
   {
     "name": "TIE Phantom",
@@ -1088,7 +1104,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiephantom"
+    "xws": "tiephantom",
+    "id": 16
   },
   {
     "name": "CR90 Corvette (Fore)",
@@ -1189,7 +1206,8 @@
       ]
     ],
     "size": "huge",
-    "xws": "cr90corvettefore"
+    "xws": "cr90corvettefore",
+    "id": 17
   },
   {
     "name": "CR90 Corvette (Aft)",
@@ -1290,7 +1308,8 @@
       ]
     ],
     "size": "huge",
-    "xws": "cr90corvetteaft"
+    "xws": "cr90corvetteaft",
+    "id": 18
   },
   {
     "name": "YT-2400",
@@ -1349,7 +1368,8 @@
       ]
     ],
     "size": "large",
-    "xws": "yt2400"
+    "xws": "yt2400",
+    "id": 19
   },
   {
     "name": "VT-49 Decimator",
@@ -1407,7 +1427,8 @@
       ]
     ],
     "size": "large",
-    "xws": "vt49decimator"
+    "xws": "vt49decimator",
+    "id": 20
   },
   {
     "name": "StarViper",
@@ -1469,7 +1490,8 @@
       ]
     ],
     "size": "small",
-    "xws": "starviper"
+    "xws": "starviper",
+    "id": 21
   },
   {
     "name": "M3-A Interceptor",
@@ -1537,7 +1559,8 @@
       ]
     ],
     "size": "small",
-    "xws": "m3ainterceptor"
+    "xws": "m3ainterceptor",
+    "id": 22
   },
   {
     "name": "Aggressor",
@@ -1599,7 +1622,8 @@
       ]
     ],
     "size": "large",
-    "xws": "aggressor"
+    "xws": "aggressor",
+    "id": 23
   },
   {
     "name": "Raider-class Corvette (Fore)",
@@ -1700,7 +1724,8 @@
       ]
     ],
     "size": "huge",
-    "xws": "raiderclasscorvettefore"
+    "xws": "raiderclasscorvettefore",
+    "id": 24
   },
   {
     "name": "Raider-class Corvette (Aft)",
@@ -1801,7 +1826,8 @@
       ]
     ],
     "size": "huge",
-    "xws": "raiderclasscorvetteaft"
+    "xws": "raiderclasscorvetteaft",
+    "id": 25
   },
   {
     "name": "YV-666",
@@ -1859,7 +1885,8 @@
       ]
     ],
     "size": "large",
-    "xws": "yv666"
+    "xws": "yv666",
+    "id": 26
   },
   {
     "name": "Kihraxz Fighter",
@@ -1925,7 +1952,8 @@
       ]
     ],
     "size": "small",
-    "xws": "kihraxzfighter"
+    "xws": "kihraxzfighter",
+    "id": 27
   },
   {
     "name": "K-Wing",
@@ -1992,7 +2020,8 @@
       ]
     ],
     "size": "small",
-    "xws": "kwing"
+    "xws": "kwing",
+    "id": 28
   },
   {
     "name": "TIE Punisher",
@@ -2051,7 +2080,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiepunisher"
+    "xws": "tiepunisher",
+    "id": 29
   },
   {
     "name": "T-70 X-Wing",
@@ -2114,7 +2144,8 @@
       ]
     ],
     "size": "small",
-    "xws": "t70xwing"
+    "xws": "t70xwing",
+    "id": 30
   },
   {
     "name": "TIE/fo Fighter",
@@ -2184,7 +2215,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tiefofighter"
+    "xws": "tiefofighter",
+    "id": 31
   },
   {
     "name": "VCX-100",
@@ -2241,7 +2273,8 @@
       ]
     ],
     "size": "large",
-    "xws": "vcx100"
+    "xws": "vcx100",
+    "id": 32
   },
   {
     "name": "Attack Shuttle",
@@ -2290,7 +2323,8 @@
       "Focus"
     ],
     "size": "small",
-    "xws": "attackshuttle"
+    "xws": "attackshuttle",
+    "id": 33
   },
   {
     "name": "JumpMaster 5000",
@@ -2341,7 +2375,8 @@
       ]
     ],
     "size": "large",
-    "xws": "jumpmaster5000"
+    "xws": "jumpmaster5000",
+    "id": 34
   },
   {
     "name": "G-1A Starfighter",
@@ -2391,7 +2426,8 @@
       ]
     ],
     "size": "small",
-    "xws": "g1astarfighter"
+    "xws": "g1astarfighter",
+    "id": 35
   },
   {
     "name": "TIE Adv. Prototype",
@@ -2446,7 +2482,8 @@
       ]
     ],
     "size": "small",
-    "xws": "tieadvprototype"
+    "xws": "tieadvprototype",
+    "id": 36
   },
   {
     "name": "Gozanti-Class Cruiser",
@@ -2539,7 +2576,8 @@
         0
       ]
     ],
-    "xws": "gozanticlasscruiser"
+    "xws": "gozanticlasscruiser",
+    "id": 37
   },
   {
     "name": "ARC-170",
@@ -2586,7 +2624,8 @@
         0,
         3
       ]
-    ]
+    ],
+    "id": 38
   },
   {
     "name": "TIE/sf Fighter",
@@ -2635,7 +2674,8 @@
         0,
         1
       ]
-    ]
+    ],
+    "id": 39
   },
   {
     "name": "Protectorate Starfighter",
@@ -2695,7 +2735,8 @@
         0,
         1
       ]
-    ]
+    ],
+    "id": 40
   },
   {
     "name": "Lancer-class Pursuit Craft",
@@ -2749,7 +2790,8 @@
         0,
         3
       ]
-    ]
+    ],
+    "id": 41
   },
   {
     "name": "Upsilon-class Shuttle",
@@ -2794,7 +2836,8 @@
         1,
         3
       ]
-    ]
+    ],
+    "id": 42
   },
   {
     "name": "Quadjumper",
@@ -2845,7 +2888,8 @@
         2,
         1
       ]
-    ]
+    ],
+    "id": 43
   },
   {
     "name": "TIE Striker",
@@ -2888,7 +2932,8 @@
         2,
         1
       ]
-    ]
+    ],
+    "id": 44
   },
   {
     "name": "U-Wing",
@@ -2934,7 +2979,8 @@
         0,
         1
       ]
-    ]
+    ],
+    "id": 45
   },
   {
     "name": "C-ROC Cruiser",
@@ -2954,6 +3000,7 @@
     "hull": 10,
     "shields": 4,
     "maneuvers": [],
-    "maneuvers_energy": []
+    "maneuvers_energy": [],
+    "id": 46
   }
 ]

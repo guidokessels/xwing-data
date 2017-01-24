@@ -47,17 +47,13 @@
       "description": "The sources contents",
       "properties": {
         "ships": {
-          "type": "array",
-          "description": "The ships included in this source.",
-          "uniqueItems": true,
-          "items": {
-            "type": "string",
-            "description": "A ship's name."
-          }
+          "type": "object",
+          "description": "The ships included in this source.\nThe object property names (casted as integers) are the ids of the ships included.\nTheir corresponding integer values indicate how many of those ships are included in the source.",
+          "additionalProperties": true
         },
         "pilots": {
           "type": "object",
-          "description": "The pilots included in this source.\nThe object property names (casted as integers) are the ids of the upgrades included.\nTheir corresponding integer values indicate how many of those pilots are included in the source.",
+          "description": "The pilots included in this source.\nThe object property names (casted as integers) are the ids of the pilots included.\nTheir corresponding integer values indicate how many of those pilots are included in the source.",
           "additionalProperties": true
         },
         "upgrades": {
@@ -67,7 +63,7 @@
         },
         "reference-cards": {
           "type": "array",
-          "description": "The reference cards included in this source.",
+          "description": "The reference cards included in this source.\nEach integer in this array is the id of a reference card included in the source.",
           "uniqueItems": true,
           "items": {
             "type": "integer",
