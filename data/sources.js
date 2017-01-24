@@ -1734,6 +1734,7 @@
     "image": "sources/swx59-product.png",
     "thumb": "sources/swx59-thumb.jpg",
     "sku": "SWX59",
+    "release_date": "2017-02-02",
     "announcement_date": "2016-08-05"
   },
   {
@@ -1769,6 +1770,7 @@
     "image": "sources/swx60-product.png",
     "thumb": "sources/swx60-thumb.jpg",
     "sku": "SWX60",
+    "release_date": "2017-02-02",
     "announcement_date": "2016-08-05"
   },
   {
@@ -1800,6 +1802,7 @@
     "image": "sources/swx61-product.png",
     "thumb": "sources/swx61-thumb.jpg",
     "sku": "SWX61",
+    "release_date": "2017-02-02",
     "announcement_date": "2016-08-05"
   },
   {
