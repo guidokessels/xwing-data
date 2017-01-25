@@ -3969,5 +3969,17 @@
     "faction": "Galactic Empire",
     "slots": [],
     "id": 240
+  },
+  {
+    "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
+    "name": "\"Zeb\" Orrelios",
+    "xws": "zeborrelios",
+    "ship": "TIE Fighter",
+    "unique": true,
+    "skill": 3,
+    "points": 13,
+    "faction": "Rebel Alliance",
+    "slots": [],
+    "id": 241
   }
 ]
