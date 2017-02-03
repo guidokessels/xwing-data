@@ -1736,7 +1736,8 @@
     "thumb": "sources/swx59-thumb.jpg",
     "sku": "SWX59",
     "release_date": "2017-02-02",
-    "announcement_date": "2016-08-05"
+    "announcement_date": "2016-08-05",
+    "released": true
   },
   {
     "name": "Upsilon-class Shuttle Expansion Pack",
@@ -1772,7 +1773,8 @@
     "thumb": "sources/swx60-thumb.jpg",
     "sku": "SWX60",
     "release_date": "2017-02-02",
-    "announcement_date": "2016-08-05"
+    "announcement_date": "2016-08-05",
+    "released": true
   },
   {
     "name": "Quadjumper Expansion Pack",
@@ -1793,7 +1795,8 @@
         "267": 1,
         "289": 1,
         "293": 1,
-        "294": 1
+        "294": 1,
+        "304": 1
       },
       "conditions": {
         "3": 1
@@ -1804,7 +1807,8 @@
     "thumb": "sources/swx61-thumb.jpg",
     "sku": "SWX61",
     "release_date": "2017-02-02",
-    "announcement_date": "2016-08-05"
+    "announcement_date": "2016-08-05",
+    "released": true
   },
   {
     "name": "U-Wing Expansion Pack",

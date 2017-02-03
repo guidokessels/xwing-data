@@ -3354,7 +3354,8 @@
     "xws": "expertise",
     "points": 4,
     "slot": "Elite",
-    "id": 297
+    "id": 297,
+    "image": "upgrades/Elite/expertise.png"
   },
   {
     "text": "When attacking at Range 1-2, you may change 1 of your [Hit] results to a [Critical Hit] result.",
@@ -3364,7 +3365,8 @@
     "points": 2,
     "slot": "Crew",
     "faction": "Rebel Alliance",
-    "id": 298
+    "id": 298,
+    "image": "upgrades/Crew/bistan.png"
   },
   {
     "image": "upgrades/Hardpoint/heavy-laser-turret.png",
@@ -3434,5 +3436,15 @@
       "M3-A Interceptor"
     ],
     "id": 303
+  },
+  {
+    "image": "upgrades/Crew/boshek.png",
+    "text": "When a ship you are touching activates, you may look at its chosen maneuver. If you do, its owner <strong>must</strong> rotate the dial to an adjacent maneuver. The ship can reveal and execute that maneuver even while stressed.",
+    "name": "BoShek",
+    "xws": "boshek",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "id": 304
   }
 ]
