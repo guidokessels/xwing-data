@@ -3594,7 +3594,8 @@
       "System",
       "Torpedo"
     ],
-    "id": 217
+    "id": 217,
+    "image": "pilots/Rebel Alliance/U-Wing/cassian-andor.png"
   },
   {
     "image": "pilots/Galactic Empire/TIE Striker/duchess.png",
@@ -3958,7 +3959,8 @@
     "slots": [
       "Elite"
     ],
-    "id": 239
+    "id": 239,
+    "image": "pilots/Galactic Empire/TIE Striker/black-squadron-scout.png"
   },
   {
     "name": "Scarif Defender",
@@ -3968,7 +3970,8 @@
     "points": 18,
     "faction": "Galactic Empire",
     "slots": [],
-    "id": 240
+    "id": 240,
+    "image": "pilots/Galactic Empire/TIE Striker/scarif-defender.png"
   },
   {
     "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
