@@ -346,7 +346,7 @@
     "points": 6,
     "text": "<strong>Attack (target lock):</strong> Spend your target lock and discard this card to perform this attack.<br /><br />You may change up to 3 of your blank results to [Focus] results.",
     "image": "upgrades/Torpedo/advanced-proton-torpedoes.png",
-    "xws": "advancedprotontorpedoes"
+    "xws": "advprotontorpedoes"
   },
   {
     "name": "Autoblaster",
@@ -1260,7 +1260,7 @@
     "points": 5,
     "text": "When attacking with your primary weapon, if you have a target lock on the defender, you may add 1 [Critical Hit] result to your roll. If you do, you cannot spend target locks during this attack.",
     "image": "upgrades/System/advanced-targeting-computer.png",
-    "xws": "advancedtargetingcomputer"
+    "xws": "advtargetingcomputer"
   },
   {
     "name": "Ion Cannon Battery",
@@ -1491,7 +1491,7 @@
     "points": 3,
     "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, deal 1 faceup Damage card to the defender. Then cancel <strong>all</strong> dice results.",
     "image": "upgrades/Missile/advanced-homing-missiles.png",
-    "xws": "advancedhomingmissiles"
+    "xws": "advhomingmissiles"
   },
   {
     "name": "Shield Technician",
