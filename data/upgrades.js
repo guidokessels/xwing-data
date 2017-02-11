@@ -3109,7 +3109,7 @@
     "image": "upgrades/Title/pivot-wing-attack.png",
     "text": "Increase your agility value by 1.<br /><br />After you execute a maneuver, you may flip this card.",
     "name": "Pivot Wing (Attack)",
-    "xws": "pivotwingattack",
+    "xws": "pivotwing",
     "points": 0,
     "slot": "Title",
     "ship": [
@@ -3121,7 +3121,7 @@
     "image": "upgrades/Title/pivot-wing-landing.png",
     "text": "When you reveal a (0 [Stop]) maneuver, you may rotate your ship 180&deg;.<br /><br />After you execute a maneuver, you may flip this card.",
     "name": "Pivot Wing (Landing)",
-    "xws": "pivotwinglanding",
+    "xws": "pivotwing",
     "points": 0,
     "slot": "Title",
     "ship": [
