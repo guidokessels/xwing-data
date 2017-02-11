@@ -274,7 +274,14 @@
     "points": 1,
     "text": "Increase your pilot skill value by 2.",
     "image": "upgrades/Elite/veteran-instincts.png",
-    "xws": "veteraninstincts"
+    "xws": "veteraninstincts",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "skill",
+        "value": 2
+      }
+    ]
   },
   {
     "name": "Proximity Mines",
@@ -1790,7 +1797,14 @@
     ],
     "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.<br /><br />Increase your hull value by 1.",
     "image": "upgrades/Title/heavy-scyk-interceptor.png",
-    "xws": "heavyscykinterceptor"
+    "xws": "heavyscykinterceptor",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "IG-2000",
@@ -1924,9 +1938,16 @@
     "id": 174,
     "points": 3,
     "slot": "Modification",
-    "text": "Increase your agility value by 1.  If you are hit by an attack, discard this card.",
+    "text": "Increase your agility value by 1. If you are hit by an attack, discard this card.",
     "image": "upgrades/Modification/stealth-device.png",
-    "xws": "stealthdevice"
+    "xws": "stealthdevice",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "agility",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Shield Upgrade",
@@ -1935,7 +1956,14 @@
     "slot": "Modification",
     "text": "Increase your shield value by 1.",
     "image": "upgrades/Modification/shield-upgrade.png",
-    "xws": "shieldupgrade"
+    "xws": "shieldupgrade",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "shields",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Engine Upgrade",
@@ -1980,7 +2008,14 @@
     "points": 3,
     "text": "Increase your hull value by 1.",
     "image": "upgrades/Modification/hull-upgrade.png",
-    "xws": "hullupgrade"
+    "xws": "hullupgrade",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Munitions Failsafe",
@@ -2025,7 +2060,19 @@
       "huge"
     ],
     "image": "upgrades/Modification/combat-retrofit.png",
-    "xws": "combatretrofit"
+    "xws": "combatretrofit",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 2
+      },
+      {
+        "type": "stats",
+        "name": "shields",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "B-Wing/E2",
@@ -2167,7 +2214,14 @@
       "JumpMaster 5000"
     ],
     "id": 194,
-    "xws": "punishingone"
+    "xws": "punishingone",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "attack",
+        "value": 1
+      }
+    ]
   },
   {
     "image": "upgrades/Cannon/tractor-beam.png",

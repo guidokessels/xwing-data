@@ -23,6 +23,18 @@
         "small"
       ]
     },
+    "stats": {
+      "type": "string",
+      "description": "A ship stat.",
+      "enum": [
+        "attack",
+        "agility",
+        "hull",
+        "shields",
+        "skill",
+        "energy"
+      ]
+    },
     "slot": {
       "type": "string",
       "description": "A slot type in the game.",

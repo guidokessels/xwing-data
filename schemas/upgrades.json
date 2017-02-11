@@ -87,7 +87,34 @@
         "anyOf": [
           {
             "type": "object",
-            "description": "The improved granted by this upgrade (action).",
+            "description": "The modifier granted by this upgrade (stats).",
+            "properties": {
+              "name": {
+                "description": "The name of the stat modified by this upgrade",
+                "$ref": "definitions.json#/definitions/stats"
+              },
+              "type": {
+                "type": "string",
+                "description": "This upgrade grants a stats modifier.",
+                "enum": [
+                  "stats"
+                ]
+              },
+              "value": {
+                "type": "integer",
+                "description": "The value of the modifier."
+              }
+            },
+            "required": [
+              "value",
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "description": "The modifier granted by this upgrade (action).",
             "properties": {
               "name": {
                 "description": "The action granted by this upgrade",
@@ -109,7 +136,7 @@
           },
           {
             "type": "object",
-            "description": "The improved granted by this upgrade (slot).",
+            "description": "The modifier granted by this upgrade (slot).",
             "properties": {
               "name": {
                 "description": "The slot granted by this upgrade",
