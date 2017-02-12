@@ -18,10 +18,11 @@ The `images` folder contains images for each card, product and faction.
 
 You can use this data to build your own apps, squad builders, web sites, etc.
 
-The easiest way to do this is via [Bower](http://bower.io/), [NPM](https://www.npmjs.com/package/xwing-data) or as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
+The easiest way to do this is via [Bower](http://bower.io/), [Yarn](https://yarnpkg.com/), [npm](https://www.npmjs.com/package/xwing-data) or as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
 
 * Bower: `bower install xwing-data`
-* NPM: `npm install xwing-data`
+* Yarn: `yarn add xwing-data`
+* npm: `npm install xwing-data`
 * Git submodule: `git submodule add https://github.com/guidokessels/xwing-data.git`
 
 ## Bugs / Issues
