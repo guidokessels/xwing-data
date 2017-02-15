@@ -2745,7 +2745,7 @@
       "Scum and Villainy"
     ],
     "actions": [
-      "Boost",
+      "Focus",
       "Evade",
       "Rotate Arc",
       "Target Lock"

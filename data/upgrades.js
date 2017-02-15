@@ -274,7 +274,14 @@
     "points": 1,
     "text": "Increase your pilot skill value by 2.",
     "image": "upgrades/Elite/veteran-instincts.png",
-    "xws": "veteraninstincts"
+    "xws": "veteraninstincts",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "skill",
+        "value": 2
+      }
+    ]
   },
   {
     "name": "Proximity Mines",
@@ -346,7 +353,7 @@
     "points": 6,
     "text": "<strong>Attack (target lock):</strong> Spend your target lock and discard this card to perform this attack.<br /><br />You may change up to 3 of your blank results to [Focus] results.",
     "image": "upgrades/Torpedo/advanced-proton-torpedoes.png",
-    "xws": "advancedprotontorpedoes"
+    "xws": "advprotontorpedoes"
   },
   {
     "name": "Autoblaster",
@@ -1260,7 +1267,7 @@
     "points": 5,
     "text": "When attacking with your primary weapon, if you have a target lock on the defender, you may add 1 [Critical Hit] result to your roll. If you do, you cannot spend target locks during this attack.",
     "image": "upgrades/System/advanced-targeting-computer.png",
-    "xws": "advancedtargetingcomputer"
+    "xws": "advtargetingcomputer"
   },
   {
     "name": "Ion Cannon Battery",
@@ -1491,7 +1498,7 @@
     "points": 3,
     "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, deal 1 faceup Damage card to the defender. Then cancel <strong>all</strong> dice results.",
     "image": "upgrades/Missile/advanced-homing-missiles.png",
-    "xws": "advancedhomingmissiles"
+    "xws": "advhomingmissiles"
   },
   {
     "name": "Shield Technician",
@@ -1813,6 +1820,11 @@
       {
         "type": "slot",
         "name": "Missile"
+      },
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 1
       }
     ]
   },
@@ -1948,9 +1960,16 @@
     "id": 174,
     "points": 3,
     "slot": "Modification",
-    "text": "Increase your agility value by 1.  If you are hit by an attack, discard this card.",
+    "text": "Increase your agility value by 1. If you are hit by an attack, discard this card.",
     "image": "upgrades/Modification/stealth-device.png",
-    "xws": "stealthdevice"
+    "xws": "stealthdevice",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "agility",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Shield Upgrade",
@@ -1959,7 +1978,14 @@
     "slot": "Modification",
     "text": "Increase your shield value by 1.",
     "image": "upgrades/Modification/shield-upgrade.png",
-    "xws": "shieldupgrade"
+    "xws": "shieldupgrade",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "shields",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Engine Upgrade",
@@ -2010,7 +2036,14 @@
     "points": 3,
     "text": "Increase your hull value by 1.",
     "image": "upgrades/Modification/hull-upgrade.png",
-    "xws": "hullupgrade"
+    "xws": "hullupgrade",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "Munitions Failsafe",
@@ -2055,7 +2088,19 @@
       "huge"
     ],
     "image": "upgrades/Modification/combat-retrofit.png",
-    "xws": "combatretrofit"
+    "xws": "combatretrofit",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 2
+      },
+      {
+        "type": "stats",
+        "name": "shields",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "B-Wing/E2",
@@ -2197,7 +2242,14 @@
       "JumpMaster 5000"
     ],
     "id": 194,
-    "xws": "punishingone"
+    "xws": "punishingone",
+    "grants": [
+      {
+        "type": "stats",
+        "name": "attack",
+        "value": 1
+      }
+    ]
   },
   {
     "image": "upgrades/Cannon/tractor-beam.png",
@@ -3107,7 +3159,7 @@
     "image": "upgrades/Title/pivot-wing-attack.png",
     "text": "Increase your agility value by 1.<br /><br />After you execute a maneuver, you may flip this card.",
     "name": "Pivot Wing (Attack)",
-    "xws": "pivotwingattack",
+    "xws": "pivotwing",
     "points": 0,
     "slot": "Title",
     "ship": [
@@ -3119,7 +3171,7 @@
     "image": "upgrades/Title/pivot-wing-landing.png",
     "text": "When you reveal a (0 [Stop]) maneuver, you may rotate your ship 180&deg;.<br /><br />After you execute a maneuver, you may flip this card.",
     "name": "Pivot Wing (Landing)",
-    "xws": "pivotwinglanding",
+    "xws": "pivotwing",
     "points": 0,
     "slot": "Title",
     "ship": [

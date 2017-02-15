@@ -9,7 +9,7 @@
     "name": "Blinded Pilot",
     "amount": 2,
     "type": "Pilot",
-    "text": "You cannot perform attacks.<br /><br />At the end of your next Combat phase activation, flip this card facedown."
+    "text": "You cannot perform attacks.<br /><br />After your next opportunity to attack (even if there was no target for an attack), flip this card facedown."
   },
   {
     "name": "Damaged Cockpit",
