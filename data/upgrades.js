@@ -1697,7 +1697,17 @@
     ],
     "text": "Your fore section upgrade bar gains 1 additional [Crew] and 1 additional [Team] upgrade icon.",
     "image": "upgrades/Title/tantive-iv.png",
-    "xws": "tantiveiv"
+    "xws": "tantiveiv",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Crew"
+      },
+      {
+        "type": "slot",
+        "name": "Team"
+      }
+    ]
   },
   {
     "name": "Bright Hope",
@@ -1790,7 +1800,21 @@
     ],
     "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.<br /><br />Increase your hull value by 1.",
     "image": "upgrades/Title/heavy-scyk-interceptor.png",
-    "xws": "heavyscykinterceptor"
+    "xws": "heavyscykinterceptor",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Cannon"
+      },
+      {
+        "type": "slot",
+        "name": "Torpedo"
+      },
+      {
+        "type": "slot",
+        "name": "Missle"
+      }
+    ]
   },
   {
     "name": "IG-2000",
@@ -1971,7 +1995,13 @@
     "points": 2,
     "text": "Your action bar gains the [Target Lock] action icon.",
     "image": "upgrades/Modification/targeting-computer.png",
-    "xws": "targetingcomputer"
+    "xws": "targetingcomputer",
+    "grants": [
+      {
+        "type": "action",
+        "name": "Target Lock"
+      }
+    ]
   },
   {
     "name": "Hull Upgrade",
@@ -2297,7 +2327,13 @@
       "Gozanti-Class Cruiser"
     ],
     "id": 205,
-    "xws": "broadcastarray"
+    "xws": "broadcastarray",
+    "grants": [
+      {
+        "type": "action",
+        "name": "Jam"
+      }
+    ]
   },
   {
     "image": "upgrades/Cargo/docking-clamps.png",
@@ -2350,7 +2386,13 @@
     ],
     "id": 209,
     "xws": "misthunter",
-    "image": "upgrades/Title/mist-hunter.png"
+    "image": "upgrades/Title/mist-hunter.png",
+    "grants": [
+      {
+        "type": "action",
+        "name": "Barrel Roll"
+      }
+    ]
   },
   {
     "image": "upgrades/Crew/kannan-jarrus.png",
@@ -2491,7 +2533,17 @@
     ],
     "id": 221,
     "xws": "tieshuttle",
-    "image": "upgrades/Title/tie-shuttle.png"
+    "image": "upgrades/Title/tie-shuttle.png",
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Crew"
+      },
+      {
+        "type": "slot",
+        "name": "Crew"
+      }
+    ]
   },
   {
     "image": "upgrades/Modification/long-range-scanners.png",
@@ -3105,7 +3157,13 @@
     "size": [
       "large"
     ],
-    "id": 274
+    "id": 274,
+    "grants": [
+      {
+        "type": "action",
+        "name": "SLAM"
+      }
+    ]
   },
   {
     "image": "upgrades/Crew/rey.png",
@@ -3423,7 +3481,17 @@
     "ship": [
       "C-ROC Cruiser"
     ],
-    "id": 302
+    "id": 302,
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Crew"
+      },
+      {
+        "type": "slot",
+        "name": "Team"
+      }
+    ]
   },
   {
     "image": "upgrades/Title/light-scyk-interceptor.png",
