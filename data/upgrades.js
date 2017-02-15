@@ -1812,7 +1812,7 @@
       },
       {
         "type": "slot",
-        "name": "Missle"
+        "name": "Missile"
       }
     ]
   },
