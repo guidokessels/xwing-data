@@ -3984,5 +3984,23 @@
     "faction": "Rebel Alliance",
     "slots": [],
     "id": 241
+  },
+  {
+    "text": "When defending, instead of using your agility value, you may roll a number of defense dice equal to the speed of the maneuver you executed this round.",
+    "name": "Sarco Plank",
+    "xws": "sarcoplank",
+    "ship": "Quadjumper",
+    "unique": true,
+    "skill": 5,
+    "points": 18,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Crew",
+      "Elite",
+      "Bomb",
+      "Illicit",
+      "Tech"
+    ],
+    "id": 242
   }
 ]
