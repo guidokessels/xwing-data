@@ -3231,7 +3231,8 @@
     "text": "When attacking with a primary weapon, the defender must spend 1 focus token if able.<br /><br />When defending, the attacker must spend 1 focus token if able.",
     "points": 4,
     "slot": "Crew",
-    "id": 281
+    "id": 281,
+    "image": "upgrades/Crew/hotshot-co-pilot.png"
   },
   {
     "text": "When attacking, if the attack is obstructed, you may roll 1 additional attack die.",
@@ -3239,7 +3240,8 @@
     "xws": "trickshot",
     "points": 0,
     "slot": "Elite",
-    "id": 282
+    "id": 282,
+    "image": "upgrades/Elite/trick-shot.png"
   },
   {
     "image": "upgrades/Illicit/emp-device.png",

@@ -3713,7 +3713,8 @@
       "Crew",
       "Missile"
     ],
-    "id": 224
+    "id": 224,
+    "image": "pilots/Resistance/YT-1300/resistance-sympathizer.png"
   },
   {
     "image": "pilots/Rebel Alliance/TIE Fighter/ahsoka-tano.png",
@@ -3983,7 +3984,8 @@
     "points": 13,
     "faction": "Rebel Alliance",
     "slots": [],
-    "id": 241
+    "id": 241,
+    "image": "pilots/Rebel Alliance/TIE Fighter/zeb-orrelios.png"
   },
   {
     "text": "When defending, instead of using your agility value, you may roll a number of defense dice equal to the speed of the maneuver you executed this round.",
