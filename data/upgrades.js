@@ -3502,5 +3502,57 @@
     "points": 2,
     "slot": "Crew",
     "id": 304
+  },
+  {
+    "image": "upgrades/Title/broken-horn.png",
+    "text": "When defending, if you have a reinforce token, you may add 1 additional [Evade] result. If you do, after defending, discard your reinforce token.",
+    "name": "Broken Horn",
+    "xws": "brokenhorn",
+    "unique": true,
+    "points": 5,
+    "slot": "Title",
+    "ship": [
+      "C-ROC Cruiser"
+    ],
+    "id": 305,
+    "energy": 2
+  },
+  {
+    "image": "upgrades/Title/insatiable-worrt.png",
+    "text": "After your perform the recover action, gain 3 energy.",
+    "name": "Insatiable Worrt",
+    "xws": "insatiableworrt",
+    "unique": true,
+    "points": 1,
+    "slot": "Title",
+    "energy": -1,
+    "ship": [
+      "C-ROC Cruiser"
+    ],
+    "id": 306
+  },
+  {
+    "image": "upgrades/Cargo/supercharged-power-cells.png",
+    "text": "When attacking, you may discard this card to roll 2 additional attack dice.",
+    "name": "Supercharged Power Cells",
+    "xws": "superchargedpowercells",
+    "limited": true,
+    "points": 3,
+    "slot": "Cargo",
+    "id": 307
+  },
+  {
+    "image": "upgrades/Cargo/quick-release-cargo-locks.png",
+    "text": "At the end of the Activation phase, you may discard this card to <strong>place</strong> 1 container token.",
+    "name": "Quick-release Cargo Locks",
+    "xws": "quickreleasecargolocks",
+    "limited": true,
+    "points": 2,
+    "slot": "Cargo",
+    "ship": [
+      "C-ROC Cruiser",
+      "GR-75 Medium Transport"
+    ],
+    "id": 308
   }
 ]
