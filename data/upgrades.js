@@ -1807,26 +1807,7 @@
     ],
     "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.<br /><br />Increase your hull value by 1.",
     "image": "upgrades/Title/heavy-scyk-interceptor.png",
-    "xws": "heavyscykinterceptor",
-    "grants": [
-      {
-        "type": "slot",
-        "name": "Cannon"
-      },
-      {
-        "type": "slot",
-        "name": "Torpedo"
-      },
-      {
-        "type": "slot",
-        "name": "Missile"
-      },
-      {
-        "type": "stats",
-        "name": "hull",
-        "value": 1
-      }
-    ]
+    "xws": "heavyscykinterceptor"
   },
   {
     "name": "IG-2000",
