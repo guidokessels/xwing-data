@@ -1361,7 +1361,7 @@
     "faction": "Galactic Empire",
     "slot": "Crew",
     "points": 8,
-    "text": "Once per round, you may change a friendly ship's die result to any other die result. That die result cannot be modified again.",
+    "text": "Once per round, before a friendly ship rolls dice, you may name a die result. After rolling, you must change 1 of your dice results to the named result. That die result cannot be modified again.",
     "image": "upgrades/Crew/emperor-palpatine.png",
     "xws": "emperorpalpatine"
   },
@@ -2512,7 +2512,7 @@
   },
   {
     "image": "upgrades/Title/tie-x7.png",
-    "text": "Your upgrade bar loses the [Cannon] and [Missile] upgrade icons.<br /><br />After executing a 3-, 4-, or 5-speed maneuver, you may assign 1 evade token to your ship.",
+    "text": "Your upgrade bar loses the [Cannon] and [Missile] upgrade icons.<br /><br />After executing a 3-, 4-, or 5-speed maneuver, if you did not overlap an obstacle or ship, you may perform a free evade action.",
     "name": "TIE/x7",
     "unique": false,
     "points": -2,
@@ -2642,7 +2642,7 @@
   },
   {
     "image": "upgrades/Crew/zuckuss.png",
-    "text": "When attacking, you may receive any number of stress tokens to choose an equal number of defense dice. The defender must reroll those dice.",
+    "text": "When attacking, if you are not stressed, you may receive any number of stress tokens to choose an equal number of defense dice. The defender must reroll those dice.",
     "name": "Zuckuss",
     "xws": "zuckuss",
     "unique": true,

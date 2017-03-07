@@ -3020,7 +3020,7 @@
   },
   {
     "image": "pilots/Scum and Villainy/JumpMaster 5000/manaroo.png",
-    "text": "At the start of the Combat phase, you may assign all focus, evade, and target lock tokens assigned to you to another friendly ship.",
+    "text": "At the start of the Combat phase, you may assign all focus, evade, and target lock tokens assigned to you to another friendly ship at Range 1.",
     "name": "Manaroo",
     "xws": "manaroo",
     "ship": "JumpMaster 5000",
