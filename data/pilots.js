@@ -4004,5 +4004,63 @@
       "Tech"
     ],
     "id": 242
+  },
+  {
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/genesis-red.png",
+    "text": "After you acquire a target lock, assign focus and evade tokens to your ship until you have the same number of each token as the locked ship.",
+    "name": "Genesis Red",
+    "xws": "genesisred",
+    "ship": "M3-A Interceptor",
+    "unique": true,
+    "skill": 7,
+    "points": 19,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite"
+    ],
+    "id": 243
+  },
+  {
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/inaldra.png",
+    "text": "When attacking or defending, you may spend 1 shield to reroll any number of your dice.",
+    "name": "Inaldra",
+    "xws": "inaldra",
+    "ship": "M3-A Interceptor",
+    "unique": true,
+    "skill": 3,
+    "points": 15,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite"
+    ],
+    "id": 244
+  },
+  {
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/quinn-jast.png",
+    "text": "At the start of the Combat phase, you may receive a weapons disabled token to flip one of your discarded [Torpedo] or [Missile] Upgrade cards faceup.",
+    "name": "Quinn Jast",
+    "xws": "quinnjast",
+    "ship": "M3-A Interceptor",
+    "unique": true,
+    "skill": 6,
+    "points": 18,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite"
+    ],
+    "id": 245
+  },
+  {
+    "image": "pilots/Scum and Villainy/M3-A Interceptor/sunny-bounder.png",
+    "text": "Once per round, after you roll or reroll dice, if you have the same result on each of your dice, you may add 1 matching result.",
+    "name": "Sunny Bounder",
+    "xws": "sunnybounder",
+    "ship": "M3-A Interceptor",
+    "unique": true,
+    "skill": 1,
+    "points": 14,
+    "faction": "Scum and Villainy",
+    "slots": [],
+    "id": 246
   }
 ]
