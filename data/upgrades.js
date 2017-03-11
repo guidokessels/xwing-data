@@ -3601,5 +3601,37 @@
       "GR-75 Medium Transport"
     ],
     "id": 308
+  },
+  {
+    "image": "upgrades/Modification/pulsed-ray-shield.png",
+    "text": "During the End phase, you may receive 1 ion token to recover 1 shield (up to your shield value). You can equip this card only if your shield value is \"1\".",
+    "name": "Pulsed Ray Shield",
+    "xws": "pulsedrayshield",
+    "points": 2,
+    "slot": "Modification",
+    "faction": "Scum and Villainy",
+    "id": 309
+  },
+  {
+    "image": "upgrades/Cannon/arc-caster.png",
+    "text": "<strong>Attack:</strong> Attack 1 ship. If this attack hits, you must choose 1 other ship at Range 1 of the defender to suffer 1 damage.<br /><br />Then flip this card.",
+    "name": "ARC Caster",
+    "xws": "arccaster",
+    "points": 2,
+    "slot": "Cannon",
+    "range": "1",
+    "attack": 4,
+    "faction": "Scum and Villainy",
+    "id": 310
+  },
+  {
+    "image": "upgrades/Cannon/arc-caster-recharging.png",
+    "text": "At the start of the Combat phase, you may receive a weapons disabled token to flip this card.",
+    "name": "ARC Caster (Recharging)",
+    "xws": "arccaster",
+    "points": 2,
+    "slot": "Cannon",
+    "faction": "Scum and Villainy",
+    "id": 311
   }
 ]
