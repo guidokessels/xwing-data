@@ -2942,7 +2942,8 @@
       "Rebel Alliance"
     ],
     "actions": [
-      "Target Lock"
+      "Target Lock",
+      "Focus"
     ],
     "size": "large",
     "attack": 3,
