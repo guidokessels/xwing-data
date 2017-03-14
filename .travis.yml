@@ -1,3 +1,11 @@
 language: node_js
 node_js:
-  - "6"
+- '6'
+deploy:
+  provider: npm
+  email: $NPM_EMAIL
+  api_key:
+    secure: $NPM_TOKEN
+  on:
+    tags: true
+    repo: guidokessels/xwing-data
