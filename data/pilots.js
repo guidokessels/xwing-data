@@ -4003,7 +4003,8 @@
       "Illicit",
       "Tech"
     ],
-    "id": 242
+    "id": 242,
+    "image": "pilots/Scum and Villainy/Quadjumper/sarco-plank.png"
   },
   {
     "image": "pilots/Scum and Villainy/M3-A Interceptor/genesis-red.png",
