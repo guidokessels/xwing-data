@@ -1916,5 +1916,88 @@
     "image": "sources/swx58-product.png",
     "thumb": "sources/swx58-thumb.jpg",
     "announcement_date": "2017-01-09"
+  },
+  {
+    "name": "Auzituck Gunship Expansion Pack",
+    "wave": 11,
+    "contents": {
+      "ships": {
+        "47": 1
+      },
+      "upgrades": {
+        "61": 1,
+        "103": 1,
+        "179": 1,
+        "315": 1
+      },
+      "pilots": {
+        "249": 1
+      },
+      "reference-cards": [
+        3,
+        20,
+        23
+      ]
+    },
+    "id": 52,
+    "image": "sources/swx64-product.png",
+    "thumb": "sources/swx64-thumb.jpg",
+    "sku": "SWX64",
+    "announcement_date": "2017-03-15"
+  },
+  {
+    "name": "TIE Aggressor Expansion Pack",
+    "wave": 11,
+    "contents": {
+      "ships": {
+        "48": 1
+      },
+      "upgrades": {
+        "138": 1,
+        "296": 1,
+        "312": 1,
+        "314": 1
+      },
+      "pilots": {
+        "248": 1
+      },
+      "reference-cards": [
+        3,
+        16
+      ]
+    },
+    "id": 53,
+    "image": "sources/swx66-product.png",
+    "thumb": "sources/swx66-thumb.jpg",
+    "sku": "SWX66",
+    "announcement_date": "2017-03-15"
+  },
+  {
+    "name": "Scurrg H-6 Bomber Expansion Pack",
+    "wave": 11,
+    "contents": {
+      "ships": {
+        "49": 1
+      },
+      "upgrades": {
+        "133": 1,
+        "259": 1,
+        "313": 1,
+        "314": 1
+      },
+      "pilots": {
+        "247": 1
+      },
+      "reference-cards": [
+        3,
+        4,
+        21
+      ]
+    },
+    "sku": "SWX65",
+    "image": "sources/swx65-product.png",
+    "thumb": "sources/swx65-thumb.jpg",
+    "id": 54,
+    "announcement_date": "2017-03-15"
   }
 ]

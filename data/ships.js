@@ -3003,5 +3003,61 @@
     "maneuvers": [],
     "maneuvers_energy": [],
     "id": 46
+  },
+  {
+    "name": "Auzituck Gunship",
+    "xws": "auzituckgunship",
+    "faction": [
+      "Rebel Alliance"
+    ],
+    "actions": [
+      "Focus",
+      "Reinforce"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 1,
+    "hull": 6,
+    "shields": 3,
+    "maneuvers": [],
+    "id": 47
+  },
+  {
+    "name": "TIE Aggressor",
+    "xws": "tieaggressor",
+    "faction": [
+      "Galactic Empire"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 4,
+    "shields": 1,
+    "maneuvers": [],
+    "id": 48
+  },
+  {
+    "name": "Scurrg H-6 Bomber",
+    "xws": "scurrgh6bomber",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 1,
+    "hull": 5,
+    "shields": 3,
+    "maneuvers": [],
+    "id": 49
   }
 ]

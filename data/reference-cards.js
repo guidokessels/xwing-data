@@ -132,5 +132,11 @@
     "title": "Conditions",
     "subtitle": "Reference Card",
     "image": "reference-cards/Conditions.png"
+  },
+  {
+    "id": 23,
+    "title": "Reinforce Action",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/ReinforceAction.png"
   }
 ]
