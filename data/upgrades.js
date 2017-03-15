@@ -3663,6 +3663,16 @@
     "ship": [
       "Scurrg H-6 Bomber"
     ],
+    "grants": [
+      {
+        "type": "slot",
+        "name": "System"
+      },
+      {
+        "type": "slot",
+        "name": "Salvaged Astromech"
+      }
+    ],
     "id": 313
   },
   {
