@@ -2168,6 +2168,7 @@
     "ship": [
       "TIE Adv. Prototype",
       "TIE Advanced",
+      "TIE Aggressor",
       "TIE Bomber",
       "TIE Defender",
       "TIE Fighter",
