@@ -147,7 +147,8 @@
         "xws",
         "maneuvers",
         "maneuvers_energy",
-        "size"
+        "size",
+        "id"
       ]
     },
     "non_huge": {
@@ -202,7 +203,8 @@
         "actions",
         "xws",
         "maneuvers",
-        "size"
+        "size",
+        "id"
       ]
     }
   },
