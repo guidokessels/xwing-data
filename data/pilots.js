@@ -4063,5 +4063,49 @@
     "faction": "Scum and Villainy",
     "slots": [],
     "id": 246
+  },
+  {
+    "name": "Karthakk Pirate",
+    "xws": "karthakkpirate",
+    "ship": "Scurrg H-6 Bomber",
+    "skill": 1,
+    "points": 24,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "Crew",
+      "Missile",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 247
+  },
+  {
+    "name": "Sienar Specialist",
+    "xws": "sienarspecialist",
+    "ship": "TIE Aggressor",
+    "skill": 2,
+    "points": 17,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Missile",
+      "Missile",
+      "Turret"
+    ],
+    "id": 248
+  },
+  {
+    "name": "Kashyyyk Defender",
+    "xws": "kashyyykdefender",
+    "ship": "Auzituck Gunship",
+    "skill": 1,
+    "points": 24,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew"
+    ],
+    "id": 249
   }
 ]

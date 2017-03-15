@@ -1808,13 +1808,13 @@
     "text": "Your upgrade bar gains the [Cannon], [Torpedo] or [Missile] upgrade icon.<br /><br />Increase your hull value by 1.",
     "image": "upgrades/Title/heavy-scyk-interceptor.png",
     "xws": "heavyscykinterceptor",
-    "grants": [		
-       {		
-         "type": "stats",		
-         "name": "hull",		
-         "value": 1		
-       }		
-     ]
+    "grants": [
+      {
+        "type": "stats",
+        "name": "hull",
+        "value": 1
+      }
+    ]
   },
   {
     "name": "IG-2000",
@@ -3640,5 +3640,50 @@
     "slot": "Cannon",
     "faction": "Scum and Villainy",
     "id": 311
+  },
+  {
+    "image": "upgrades/Missile/unguided-rockets.png",
+    "text": "<strong>Attack (focus):</strong> Attack 1 ship.<br /><br />Your attack dice can be modified only by spending a focus token for its standard effect.",
+    "name": "Unguided Rockets",
+    "xws": "unguidedrockets",
+    "points": 2,
+    "slot": "Missile",
+    "range": "1-3",
+    "attack": 3,
+    "id": 312
+  },
+  {
+    "image": "upgrades/Title/havoc.png",
+    "text": "Your upgrade bar gains the [System] and [Salvaged Astromech] upgrade icons and loses the [Crew] upgrade icon.<br /><br />You cannot equip non-unique [Salvaged Astromech] Upgrade cards.",
+    "name": "Havoc",
+    "xws": "havoc",
+    "unique": true,
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "Scurrg H-6 Bomber"
+    ],
+    "id": 313
+  },
+  {
+    "image": "upgrades/Turret/synced-turret.png",
+    "text": "<strong>Attack (target lock):</strong> Attack 1 ship (even a ship outside your firing arc).<br /><br />If the defender is inside your primary firing arc, you may reroll a number of attack dice up to your primary weapon value.",
+    "name": "Synced Turret",
+    "xws": "syncedturret",
+    "points": 4,
+    "slot": "Turret",
+    "range": "1-2",
+    "attack": 3,
+    "id": 314
+  },
+  {
+    "text": "When attacking, you may reroll your [Focus] results.",
+    "name": "Wookiee Commandos",
+    "xws": "wookieecommandos",
+    "limited": false,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 315
   }
 ]
