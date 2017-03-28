@@ -3696,5 +3696,16 @@
     "slot": "Crew",
     "faction": "Rebel Alliance",
     "id": 315
+  },
+  {
+    "image": "upgrades/Crew/jabba-the-hutt.png",
+    "text": "When you equip this card, place 1 illicit token on each [Illicit] Upgrade card in your squad. When you are instructed to discard an Upgrade card, you may discard 1 illicit token on that card instead.",
+    "name": "Jabba the Hutt",
+    "xws": "jabbathehutt",
+    "unique": true,
+    "points": 5,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 316
   }
 ]
