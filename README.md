@@ -45,6 +45,7 @@ A list of projects that use this content:
 
 - [X-Wing Companion](https://play.google.com/store/apps/details?id=com.guidokessels.xwc) (Android App)
 - [X-Wing Companion Card Viewer](https://chrome.google.com/webstore/detail/x-wing-companion-card-vie/bilhapljfgefhhepedfaanikpailghbm) (Chrome Extension)
+- [X-Wing Overlayer](https://github.com/sheepeatingtaz/xwingoverlayer) (Web App for generating overlays for streaming)
 
 Want your project listed here? [Let us know!](https://github.com/guidokessels/xwing-data/issues/new?title=Add%20Project)
 
