@@ -54,6 +54,12 @@ describe("All data", function() {
     });
   });
 
+  describe("in damage-deck-rebel-transport.js", function() {
+    it("should validate against damage-deck schema", function() {
+      validateData(Data, "damageDeckRebelTransport", Schema.damageDeck);
+    });
+  });
+
   describe("in pilots.js", function() {
     it("should validate against pilots schema", function() {
       validateData(Data, "pilots", Schema.pilots);
