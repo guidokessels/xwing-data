@@ -27,6 +27,18 @@
       "type": "string",
       "description": "The card's text describing its effect.",
       "minLength": 1
+    },
+    "image": {
+      "description": "The file path for this damage card's image.",
+      "$ref": "definitions.json#/definitions/image_file_path"
+    },
+    "section": {
+      "type": "string",
+      "description": "Defines the ship's section this card affects.",
+      "enum": [
+        "Aft",
+        "Fore"
+      ]
     }
   },
   "required": [
