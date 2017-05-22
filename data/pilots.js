@@ -3468,7 +3468,6 @@
     "points": 20,
     "faction": "Scum and Villainy",
     "slots": [
-      "Elite",
       "Torpedo"
     ],
     "id": 210
