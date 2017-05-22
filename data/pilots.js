@@ -4093,7 +4093,8 @@
       "Missile",
       "Turret"
     ],
-    "id": 248
+    "id": 248,
+    "image": "pilots/Galactic Empire/TIE Aggressor/sienar-specialist.png"
   },
   {
     "name": "Kashyyyk Defender",
@@ -4107,5 +4108,56 @@
       "Crew"
     ],
     "id": 249
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Aggressor/onyx-squadron-escort.png",
+    "name": "Onyx Squadron Escort",
+    "xws": "onyxsquadronescort",
+    "ship": "TIE Aggressor",
+    "skill": 5,
+    "points": 19,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Missile",
+      "Missile",
+      "Turret"
+    ],
+    "id": 250
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Aggressor/lieutenant-kestal.png",
+    "text": "When attacking, you may spend 1 focus token to cancel all of the defender's blank and [Focus] results.",
+    "name": "Lieutenant Kestal",
+    "xws": "lieutenantkestal",
+    "ship": "TIE Aggressor",
+    "unique": true,
+    "skill": 7,
+    "points": 22,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Missile",
+      "Turret"
+    ],
+    "id": 251
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Aggressor/double-edge.png",
+    "text": "Once per round, after you perform a secondary weapon attack that does not hit, you may perform an attack with a different weapon.",
+    "name": "\"Double Edge\"",
+    "xws": "doubleedge",
+    "ship": "TIE Aggressor",
+    "unique": true,
+    "skill": 4,
+    "points": 19,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Missile",
+      "Turret"
+    ],
+    "id": 252
   }
 ]
