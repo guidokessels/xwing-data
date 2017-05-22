@@ -3707,5 +3707,29 @@
     "slot": "Crew",
     "faction": "Scum and Villainy",
     "id": 316
+  },
+  {
+    "image": "upgrades/Elite/intensity.png",
+    "text": "After you perform a boost or barrel roll action, you may assign 1 focus or evade token to your ship. If you do, flip this card.",
+    "name": "Intensity",
+    "xws": "intensity",
+    "points": 2,
+    "slot": "Elite",
+    "id": 317,
+    "size": [
+      "small"
+    ]
+  },
+  {
+    "image": "upgrades/Elite/intensity-exhausted.png",
+    "text": "At the end of the Combat phase, you may spend 1 focus or evade token to flip this card.",
+    "name": "Intensity (Exhausted)",
+    "xws": "intensity",
+    "points": 2,
+    "slot": "Elite",
+    "size": [
+      "small"
+    ],
+    "id": 318
   }
 ]
