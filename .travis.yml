@@ -3,9 +3,7 @@ node_js:
 - '6'
 deploy:
   provider: npm
-  email: $NPM_EMAIL
-  api_key:
-    secure: $NPM_TOKEN
+  api_key: $NPM_TOKEN
   on:
     tags: true
     repo: guidokessels/xwing-data
