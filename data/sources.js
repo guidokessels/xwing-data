@@ -2007,7 +2007,7 @@
     "announcement_date": "2017-03-15"
   },
   {
-    "name": "Guns for Hire",
+    "name": "Guns for Hire Expansion Pack",
     "wave": "Iconic Starships",
     "sku": "SWX73",
     "contents": {
