@@ -3731,5 +3731,29 @@
       "small"
     ],
     "id": 318
+  },
+  {
+    "image": "upgrades/Title/vaksai.png",
+    "text": "The squad point cost of each of your equipped upgrades is reduced by 1 (to a minimum of 0).<br /><br />You may equip up to 3 different Modification upgrades.",
+    "name": "Vaksai",
+    "xws": "vaksai",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "Kihraxz Fighter"
+    ],
+    "id": 319
+  },
+  {
+    "image": "upgrades/Title/starviper-mk-ii.png",
+    "text": "You may equip up to 2 different Title upgrades.<br /><br />When performing a barrel roll action, you <strong>must</strong> use the ([Bank Left] 1) or ([Bank Right] 1) template instead of the ([Straight] 1) template.",
+    "name": "StarViper Mk.II",
+    "xws": "starvipermkii",
+    "points": -3,
+    "slot": "Title",
+    "ship": [
+      "StarViper"
+    ],
+    "id": 320
   }
 ]
