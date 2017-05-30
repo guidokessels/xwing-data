@@ -4158,5 +4158,22 @@
       "Turret"
     ],
     "id": 252
+  },
+  {
+    "image": "pilots/Scum and Villainy/StarViper/viktor-hel.png",
+    "text": "After defending, if you did not roll exactly 2 defense dice, the attacker receives 1 stress token.",
+    "name": "Viktor Hel",
+    "xws": "viktorhel",
+    "ship": "Kihraxz Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 25,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Illicit"
+    ],
+    "id": 253
   }
 ]

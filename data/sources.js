@@ -2005,5 +2005,30 @@
     "thumb": "sources/swx65-thumb.jpg",
     "id": 54,
     "announcement_date": "2017-03-15"
+  },
+  {
+    "name": "Guns for Hire",
+    "wave": "Iconic Starships",
+    "sku": "SWX73",
+    "contents": {
+      "ships": {
+        "21": 1,
+        "27": 1
+      },
+      "upgrades": {
+        "174": 1,
+        "251": 1,
+        "309": 2,
+        "319": 2,
+        "320": 2
+      },
+      "pilots": {
+        "253": 1
+      }
+    },
+    "id": 55,
+    "image": "sources/swx73-product.png",
+    "thumb": "sources/swx73-thumb.jpg",
+    "announcement_date": "2017-05-30"
   }
 ]
