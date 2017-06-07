@@ -85,6 +85,15 @@
       "type": "string",
       "description": "A range in expressed in range format",
       "pattern": "^[1-5](-[1-5])?$"
+    },
+    "contents": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[0-9]+$": {
+          "type": "integer"
+        }
+      }
     }
   }
 }
