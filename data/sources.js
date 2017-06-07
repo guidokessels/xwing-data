@@ -45,7 +45,7 @@
     "released": true,
     "contents": {
       "ships": {
-        "0": "1"
+        "0": 1
       },
       "pilots": {
         "0": 1,
