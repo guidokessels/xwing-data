@@ -3762,6 +3762,7 @@
     "xws": "igrmthugdroids",
     "points": 1,
     "slot": "Team",
-    "id": 321
+    "id": 321,
+    "image": "upgrades/Team/ig-rm-thug-droids.png"
   }
 ]
