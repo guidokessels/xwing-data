@@ -3755,5 +3755,14 @@
       "StarViper"
     ],
     "id": 320
+  },
+  {
+    "text": "When attacking, you may change 1 of your [Hit] results to a [Critical Hit] result.",
+    "name": "IG-RM Thug Droids",
+    "xws": "igrmthugdroids",
+    "points": 1,
+    "slot": "Team",
+    "id": 321,
+    "image": "upgrades/Team/ig-rm-thug-droids.png"
   }
 ]
