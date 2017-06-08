@@ -1826,7 +1826,8 @@
     ],
     "text": "You have the pilot ability of each other friendly ship with the IG-2000 Upgrade card (in addition to your own pilot ability).",
     "image": "upgrades/Title/ig-2000.png",
-    "xws": "ig2000"
+    "xws": "ig2000",
+    "faction": "Scum and Villainy"
   },
   {
     "name": "Virago",
