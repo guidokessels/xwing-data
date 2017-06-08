@@ -4096,6 +4096,7 @@
     "image": "pilots/Galactic Empire/TIE Aggressor/sienar-specialist.png"
   },
   {
+    "image": "pilots/Rebel Alliance/Auzituck Gunship/kashyyyk-defender.png",
     "name": "Kashyyyk Defender",
     "xws": "kashyyykdefender",
     "ship": "Auzituck Gunship",
@@ -4175,5 +4176,39 @@
       "Illicit"
     ],
     "id": 253
+  },
+  {
+    "image": "pilots/Rebel Alliance/Auzituck Gunship/lowhhrick.png",
+    "text": "When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 [Evade] result.",
+    "name": "Lowhhrick",
+    "xws": "lowhhrick",
+    "ship": "Auzituck Gunship",
+    "skill": 5,
+    "points": 28,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite"
+    ],
+    "id": 254,
+    "unique": true
+  },
+  {
+    "image": "pilots/Rebel Alliance/Auzituck Gunship/wullffwarro.png",
+    "text": "When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.",
+    "name": "Wullffwarro",
+    "xws": "wullffwarro",
+    "ship": "Auzituck Gunship",
+    "unique": true,
+    "skill": 7,
+    "points": 30,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite"
+    ],
+    "id": 255
   }
 ]
