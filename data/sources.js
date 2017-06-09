@@ -1917,7 +1917,9 @@
     "id": 51,
     "image": "sources/swx58-product.png",
     "thumb": "sources/swx58-thumb.jpg",
-    "announcement_date": "2017-01-09"
+    "announcement_date": "2017-01-09",
+    "release_date": "2017-06-08",
+    "released": true
   },
   {
     "name": "Auzituck Gunship Expansion Pack",
