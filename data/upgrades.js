@@ -3689,10 +3689,10 @@
     "id": 314
   },
   {
+    "image": "upgrades/Crew/wookiee-commandos.png",
     "text": "When attacking, you may reroll your [Focus] results.",
     "name": "Wookiee Commandos",
     "xws": "wookieecommandos",
-    "limited": false,
     "points": 1,
     "slot": "Crew",
     "faction": "Rebel Alliance",
@@ -3765,5 +3765,28 @@
     "slot": "Team",
     "id": 321,
     "image": "upgrades/Team/ig-rm-thug-droids.png"
+  },
+  {
+    "image": "upgrades/Elite/selflessness.png",
+    "text": "When a friendly ship at Range 1 is hit by an attack, you may discard this card to suffer all uncanceled [Hit] results instead of the target ship.",
+    "name": "Selflessness",
+    "xws": "selflessness",
+    "unique": true,
+    "points": 1,
+    "slot": "Elite",
+    "size": [
+      "small"
+    ],
+    "faction": "Rebel Alliance",
+    "id": 322
+  },
+  {
+    "image": "upgrades/Crew/breach-specialist.png",
+    "text": "When you are dealt a faceup Damage card, you may spend 1 reinforce token to flip it facedown (without resolving its effect). If you do, until the end of the round, when you are dealt a faceup Damage card, flip it facedown (without resolving its effect).",
+    "name": "Breach Specialist",
+    "xws": "breachspecialist",
+    "points": 1,
+    "slot": "Crew",
+    "id": 323
   }
 ]
