@@ -4078,7 +4078,8 @@
       "Torpedo",
       "Turret"
     ],
-    "id": 247
+    "id": 247,
+    "image": "pilots/Scum and Villainy/Scurrg H-6 Bomber/karthakk-pirate.png"
   },
   {
     "name": "Sienar Specialist",
@@ -4210,5 +4211,68 @@
       "Elite"
     ],
     "id": 255
+  },
+  {
+    "image": "pilots/Scum and Villainy/Scurrg H-6 Bomber/captain-nym.png",
+    "text": "You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 [Evade] result.",
+    "name": "Captain Nym",
+    "xws": "captainnym",
+    "ship": "Scurrg H-6 Bomber",
+    "unique": true,
+    "skill": 8,
+    "points": 30,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "Crew",
+      "Elite",
+      "Missile",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 256
+  },
+  {
+    "image": "pilots/Rebel Alliance/Scurrg H-6 Bomber/captain-nym.png",
+    "text": "Once per round, you may prevent a friendly bomb from detonating.",
+    "name": "Captain Nym",
+    "xws": "captainnym",
+    "ship": "Scurrg H-6 Bomber",
+    "unique": true,
+    "skill": 8,
+    "points": 30,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "Crew",
+      "Elite",
+      "Missile",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 257
+  },
+  {
+    "image": "pilots/Scum and Villainy/Scurrg H-6 Bomber/sol-sixxa.png",
+    "text": "When dropping a bomb, you may use the ([Turn Left] 1) or ([Turn Right] 1) template instead of the ([Straight] 1) template.",
+    "name": "Sol Sixxa",
+    "xws": "solsixxa",
+    "ship": "Scurrg H-6 Bomber",
+    "unique": true,
+    "skill": 6,
+    "points": 28,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "Crew",
+      "Elite",
+      "Missile",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 258
   }
 ]

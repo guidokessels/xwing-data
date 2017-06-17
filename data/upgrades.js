@@ -3788,5 +3788,36 @@
     "points": 1,
     "slot": "Crew",
     "id": 323
+  },
+  {
+    "image": "upgrades/Bomb/bomblet-generator.png",
+    "text": "When you reveal your maneuver, you may <strong>drop</strong> 1 bomblet token.<br /><br />This token <strong>detonates</strong> at end of the Activation phase.",
+    "name": "Bomblet Generator",
+    "xws": "bombletgenerator",
+    "unique": true,
+    "points": 3,
+    "slot": "Bomb",
+    "effect": "When this token detonates, each ship at Range 1 of the token rolls 2 attack dice and suffers all damage ([Hit]) and critical damage ([Critical Hit]) rolled. Then discard this token.",
+    "id": 324
+  },
+  {
+    "image": "upgrades/Crew/cad-bane.png",
+    "text": "Your upgrade bar gains the [Bomb] upgrade icon. Once per round, when an enemy ship rolls attack dice due to a friendly bomb detonating, you may choose any number of [Focus] and blank results. It must reroll those results.",
+    "name": "Cad Bane",
+    "xws": "cadbane",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Scum and Villainy",
+    "id": 325
+  },
+  {
+    "image": "upgrades/System/minefield-mapper.png",
+    "text": "During setup, after the \"Place Forces\" step, you may discard any number of your equipped [Bomb] Upgrade cards. Place all corresponding bomb tokens in the play area beyond Range 3 of enemy ships.",
+    "name": "Minefield Mapper",
+    "xws": "minefieldmapper",
+    "points": 0,
+    "slot": "System",
+    "id": 326
   }
 ]

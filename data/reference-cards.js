@@ -138,5 +138,11 @@
     "title": "Reinforce Action",
     "subtitle": "Reference Card",
     "image": "reference-cards/ReinforceAction.png"
+  },
+  {
+    "id": 24,
+    "title": "Bomb Tokens",
+    "subtitle": "Reference Card #08",
+    "image": "reference-cards/BombTokens-08.png"
   }
 ]
