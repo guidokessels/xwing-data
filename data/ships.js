@@ -3159,6 +3159,7 @@
     "name": "Scurrg H-6 Bomber",
     "xws": "scurrgh6bomber",
     "faction": [
+      "Rebel Alliance",
       "Scum and Villainy"
     ],
     "actions": [
@@ -3170,8 +3171,45 @@
     "attack": 3,
     "agility": 1,
     "hull": 5,
-    "shields": 3,
-    "maneuvers": [],
+    "shields": 5,
+    "maneuvers": [
+      [],
+      [
+        0,
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        3,
+        1,
+        2,
+        1,
+        3,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        3
+      ]
+    ],
     "id": 49
   }
 ]
