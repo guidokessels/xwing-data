@@ -2384,7 +2384,7 @@
     ],
     "image": "pilots/Galactic Empire/TIE Punisher/black-eight-squadron-pilot.png",
     "faction": "Galactic Empire",
-    "xws": "blackeightsquadronpilot"
+    "xws": "blackeightsqpilot"
   },
   {
     "name": "Moralo Eval",
