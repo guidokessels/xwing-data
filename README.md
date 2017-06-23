@@ -46,6 +46,8 @@ A list of projects that use this content:
 - [X-Wing Companion](https://play.google.com/store/apps/details?id=com.guidokessels.xwc) (Android App)
 - [X-Wing Companion Card Viewer](https://chrome.google.com/webstore/detail/x-wing-companion-card-vie/bilhapljfgefhhepedfaanikpailghbm) (Chrome Extension)
 - [X-Wing Overlayer](https://github.com/sheepeatingtaz/xwingoverlayer) (Web App for generating overlays for streaming)
+- [X-Wing VASSAL Module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) (X-Wing Module for VASSAL for online play)
+- [Meta-Wing](http://meta-wing.com/) (X-Wing Meta Analyzer)
 
 Want your project listed here? [Let us know!](https://github.com/guidokessels/xwing-data/issues/new?title=Add%20Project)
 
