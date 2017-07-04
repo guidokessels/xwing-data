@@ -1,15 +1,13 @@
-var assert = require("assert");
 var fs = require("fs");
 
 var Data = require("./data");
 var moment = require("moment");
 var utils = require("./utils");
 
-
 describe("All data", function() {
   describe("in sources.js", function() {
     describe("that have 'release_date' value", function() {
-      it("should have an 'announcement_date' that comes before it", function() {
+      test("should have an 'announcement_date' that comes before it", function() {
         var errors = [];
         var source;
 
@@ -30,7 +28,7 @@ describe("All data", function() {
     });
 
     describe("that have 'release_date' value in the past", function() {
-      it("should have 'released' value set to true", function() {
+      test("should have 'released' value set to true", function() {
         var errors = [];
         var source;
         var now = moment();
@@ -52,7 +50,7 @@ describe("All data", function() {
     });
 
     describe("that has the 'released' field set to true", function() {
-      it("should have a 'release_date' value", function() {
+      test("should have a 'release_date' value", function() {
         var errors = [];
         var source;
 
@@ -72,7 +70,7 @@ describe("All data", function() {
   });
 
   describe("that has an image file path", function() {
-    it("should have a matching image file in the images directory", function() {
+    test("should have a matching image file in the images directory", function() {
       var errors = [];
       var modelData;
 

@@ -1,6 +1,3 @@
-var assert = require("assert");
-
-
 var DATASET_HEADER_MAP = {
   conditions: "Condition",
   damageDeckCore: "DamageDeckCore",
@@ -32,11 +29,7 @@ function buildDataHeader(data, dataKey, index) {
 
 function outputAllErrors(errors) {
   if (errors.length > 0) {
-    assert.fail(
-      errors.length + " Validation Errors",
-      "0 Validation Errors" ,
-      "\n" + errors.join("\n")
-    );
+    throw new Error(errors.join("\n"));
   }
 }
 

@@ -1,4 +1,3 @@
-var assert = require("assert");
 var Data = require("./data");
 var Schema = require("./schema");
 var utils = require("./utils");
@@ -37,55 +36,55 @@ function validateData(data, dataKey, schema) {
 
 describe("All data", function() {
   describe("in conditions.js", function() {
-    it("should validate against conditions schema", function() {
+    test("should validate against conditions schema", function() {
       validateData(Data, "conditions", Schema.conditions);
     });
   });
 
   describe("in damage-deck-core.js", function() {
-    it("should validate against damage-deck schema", function() {
+    test("should validate against damage-deck schema", function() {
       validateData(Data, "damageDeckCore", Schema.damageDeck);
     });
   });
 
   describe("in damage-deck-core-tfa.js", function() {
-    it("should validate against damage-deck schema", function() {
+    test("should validate against damage-deck schema", function() {
       validateData(Data, "damageDeckCoreTfa", Schema.damageDeck);
     });
   });
 
   describe("in damage-deck-rebel-transport.js", function() {
-    it("should validate against damage-deck schema", function() {
+    test("should validate against damage-deck schema", function() {
       validateData(Data, "damageDeckRebelTransport", Schema.damageDeck);
     });
   });
 
   describe("in pilots.js", function() {
-    it("should validate against pilots schema", function() {
+    test("should validate against pilots schema", function() {
       validateData(Data, "pilots", Schema.pilots);
     });
   });
 
   describe("in reference-cards.js", function() {
-    it("should validate against reference-cards schema", function() {
+    test("should validate against reference-cards schema", function() {
       validateData(Data, "referenceCards", Schema.referenceCards);
     });
   });
 
   describe("in ships.js", function() {
-    it("should validate against ships schema", function() {
+    test("should validate against ships schema", function() {
       validateData(Data, "ships", Schema.ships);
     });
   });
 
   describe("in sources.js", function() {
-    it("should validate against sources schema", function() {
+    test("should validate against sources schema", function() {
       validateData(Data, "sources", Schema.sources);
     });
   });
 
   describe("in upgrades.js", function() {
-    it("should validate against upgrades schema", function() {
+    test("should validate against upgrades schema", function() {
       validateData(Data, "upgrades", Schema.upgrades);
     });
   });
