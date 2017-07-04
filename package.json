@@ -3,12 +3,11 @@
   "version": "0.39.0",
   "description": "An easy-to-use collection of data and images from X-Wing: The Miniatures Game by Fantasy Flight Games.",
   "scripts": {
-    "release": "./node_modules/.bin/release-it",
-    "patch": "npm run release -- patch",
-    "minor": "npm run release -- minor",
-    "major": "npm run release -- major",
-    "test": "mocha ./tests",
-    "test:watch": "mocha ./tests --watch"
+    "patch": "release-it patch",
+    "minor": "release-it minor",
+    "major": "release-it major",
+    "test": "jest ./tests",
+    "test:watch": "jest ./tests --watch"
   },
   "repository": {
     "type": "git",
