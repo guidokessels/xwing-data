@@ -1,6 +1,10 @@
 language: node_js
 node_js:
 - '6'
+cache:
+  yarn: true
+  directories:
+    - node_modules
 deploy:
   provider: npm
   email: guidokessels@gmail.com
