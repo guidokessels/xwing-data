@@ -1,5 +1,3 @@
-var assert = require("assert");
-
 var Data = require("./data");
 var Keywords = require("./keywords");
 var utils = require("./utils");
@@ -53,29 +51,25 @@ function validateKeywords(dataKey, keywords, textFields) {
   }
 
   if (keywordErrors > 0) {
-    assert.fail(
-      keywordErrors + " Keyword Errors",
-      "0 Keyword Errors",
-      "\n" + errors.join("\n")
-    );
+    throw new Error(errors.join("\n"));
   }
 }
 
 describe("All card text fields", function() {
   describe("in conditions.js", function() {
-    it("should use allowed keywords only", function() {
+    test("should use allowed keywords only", function() {
       validateKeywords("conditions", Keywords.all, ['text']);
     });
   });
 
   describe("in pilots.js", function() {
-    it("should use allowed keywords only", function() {
+    test("should use allowed keywords only", function() {
       validateKeywords("pilots", Keywords.all, ['text']);
     });
   });
 
   describe("in upgrades.js", function() {
-    it("should use allowed keywords only", function() {
+    test("should use allowed keywords only", function() {
       validateKeywords("upgrades", Keywords.all, ['text', 'effect']);
     });
   });
