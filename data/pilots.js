@@ -4274,5 +4274,37 @@
       "Turret"
     ],
     "id": 258
+  },
+  {
+    "name": "Wookiee Liberator",
+    "xws": "wookieeliberator",
+    "ship": "Auzituck Gunship",
+    "skill": 3,
+    "points": 26,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite"
+    ],
+    "id": 259
+  },
+  {
+    "name": "Lok Revenant",
+    "xws": "lokrevenant",
+    "ship": "Scurrg H-6 Bomber",
+    "skill": 3,
+    "points": 26,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "Crew",
+      "Elite",
+      "Missile",
+      "Torpedo",
+      "Turret"
+    ],
+    "id": 260
   }
 ]
