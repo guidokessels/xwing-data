@@ -159,6 +159,7 @@
   {
     "id": 5,
     "name": "TIE Interceptor Expansion Pack",
+    "image": "sources/tie-interceptor-expansion-pack-product.png",
     "thumb": "sources/tie-interceptor-expansion-pack-thumb.jpg",
     "wave": 2,
     "released": true,
