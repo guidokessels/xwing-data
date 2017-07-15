@@ -2728,6 +2728,7 @@
     "skill": 4,
     "points": 14,
     "faction": "Galactic Empire",
+    "slots": [],
     "id": 166,
     "xws": "wampa"
   },
@@ -2755,6 +2756,7 @@
     "skill": 3,
     "points": 14,
     "faction": "Galactic Empire",
+    "slots": [],
     "id": 168,
     "xws": "chaser"
   },
