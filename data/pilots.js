@@ -4162,7 +4162,7 @@
     "id": 252
   },
   {
-    "image": "pilots/Scum and Villainy/StarViper/viktor-hel.png",
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/viktor-hel.png",
     "text": "After defending, if you did not roll exactly 2 defense dice, the attacker receives 1 stress token.",
     "name": "Viktor Hel",
     "xws": "viktorhel",
