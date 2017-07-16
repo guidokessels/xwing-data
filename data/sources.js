@@ -1953,7 +1953,9 @@
     "image": "sources/swx64-product.png",
     "thumb": "sources/swx64-thumb.jpg",
     "sku": "SWX64",
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "release_date": "2017-07-13",
+    "released": true
   },
   {
     "name": "TIE Aggressor Expansion Pack",
@@ -1985,7 +1987,9 @@
     "image": "sources/swx66-product.png",
     "thumb": "sources/swx66-thumb.jpg",
     "sku": "SWX66",
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "release_date": "2017-07-13",
+    "released": true
   },
   {
     "name": "Scurrg H-6 Bomber Expansion Pack",
@@ -2023,7 +2027,9 @@
     "image": "sources/swx65-product.png",
     "thumb": "sources/swx65-thumb.jpg",
     "id": 54,
-    "announcement_date": "2017-03-15"
+    "announcement_date": "2017-03-15",
+    "release_date": "2017-07-13",
+    "released": true
   },
   {
     "name": "Guns for Hire Expansion Pack",
