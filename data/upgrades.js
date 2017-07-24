@@ -3836,7 +3836,8 @@
     "slot": "Missile",
     "range": "2-3",
     "attack": 1,
-    "id": 328
+    "id": 328,
+    "image": "upgrades/Missile/cruise-missiles.png"
   },
   {
     "image": "upgrades/Illicit/ion-dischargers.png",
