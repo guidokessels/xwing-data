@@ -4308,5 +4308,54 @@
       "Turret"
     ],
     "id": 260
+  },
+  {
+    "image": "pilots/Scum and Villainy/StarViper/black-sun-assassin.png",
+    "name": "Black Sun Assassin",
+    "xws": "blacksunassassin",
+    "ship": "StarViper",
+    "skill": 5,
+    "points": 28,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 261
+  },
+  {
+    "image": "pilots/Scum and Villainy/StarViper/dalan-oberos.png",
+    "text": "If you are not stressed, when you reveal a turn, bank, or Segnor's Loop maneuver, you may instead treat it as a red Tallon Roll maneuver of the same direction (left or right) using the template of the original revealed maneuver.",
+    "name": "Dalan Oberos",
+    "xws": "dalanoberos",
+    "ship": "StarViper",
+    "unique": true,
+    "skill": 6,
+    "points": 30,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 262
+  },
+  {
+    "image": "pilots/Scum and Villainy/StarViper/thweek.png",
+    "text": "During setup, before the \"Place Forces\" step, you may choose 1 enemy ship and assign the \"Shadowed\" or \"Mimicked\" Condition card to it.",
+    "name": "Thweek",
+    "xws": "thweek",
+    "ship": "StarViper",
+    "unique": true,
+    "skill": 4,
+    "points": 28,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Torpedo"
+    ],
+    "id": 263,
+    "conditions": [
+      "Mimicked",
+      "Shadowed"
+    ]
   }
 ]

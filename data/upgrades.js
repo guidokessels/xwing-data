@@ -3837,5 +3837,14 @@
     "range": "2-3",
     "attack": 1,
     "id": 328
+  },
+  {
+    "image": "upgrades/Illicit/ion-dischargers.png",
+    "text": "After you receive an ion token, you may choose an enemy ship at Range 1. If you do, remove that ion token. Then that ship may choose to receive 1 ion token. If it does, discard this card.",
+    "name": "Ion Dischargers",
+    "xws": "iondischargers",
+    "points": 2,
+    "slot": "Illicit",
+    "id": 329
   }
 ]

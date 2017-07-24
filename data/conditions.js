@@ -30,5 +30,21 @@
     "xws": "adebttopay",
     "unique": true,
     "id": 3
+  },
+  {
+    "image": "conditions/mimicked.png",
+    "text": "\"Thweek\" is treated as having your pilot ability.<br /><br />\"Thweek\" cannot apply a Condition card by using your pilot ability.<br /><br />\"Thweek\" does not lose your pilot ability if you are destroyed.",
+    "name": "Mimicked",
+    "xws": "mimicked",
+    "unique": true,
+    "id": 4
+  },
+  {
+    "image": "conditions/shadowed.png",
+    "text": "\"Thweek\" is treated as having the pilot skill value you had after setup.<br /><br />This pilot skill value of \"Thweek\" does not change if your pilot skill value changes or you are destroyed.",
+    "name": "Shadowed",
+    "xws": "shadowed",
+    "unique": true,
+    "id": 5
   }
 ]
