@@ -3809,7 +3809,13 @@
     "points": 2,
     "slot": "Crew",
     "faction": "Scum and Villainy",
-    "id": 325
+    "id": 325,
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Bomb"
+      }
+    ]
   },
   {
     "image": "upgrades/System/minefield-mapper.png",
