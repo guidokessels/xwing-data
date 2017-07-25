@@ -49,6 +49,7 @@ A list of projects that use this content:
 - [X-Streamer](https://github.com/NineWorlds/xstreamer) (Stream overlays)
 - [X-Wing VASSAL Module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) (X-Wing Module for VASSAL for online play)
 - [Meta-Wing](http://meta-wing.com/) (X-Wing Meta Analyzer)
+- [X-Wing Data Module](https://github.com/stevegood/xwing-data-module) (xwing-data packaged as modules for JavaScript applications)
 
 Want your project listed here? [Let us know!](https://github.com/guidokessels/xwing-data/issues/new?title=Add%20Project)
 
