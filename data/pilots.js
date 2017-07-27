@@ -4278,6 +4278,7 @@
     "id": 258
   },
   {
+    "image": "pilots/Rebel Alliance/Auzituck Gunship/wookiee-liberator.png",
     "name": "Wookiee Liberator",
     "xws": "wookieeliberator",
     "ship": "Auzituck Gunship",
@@ -4292,6 +4293,7 @@
     "id": 259
   },
   {
+    "image": "pilots/Scum and Villainy/Scurrg H-6 Bomber/lok-revenant.png",
     "name": "Lok Revenant",
     "xws": "lokrevenant",
     "ship": "Scurrg H-6 Bomber",
