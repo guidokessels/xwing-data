@@ -46,5 +46,13 @@
     "xws": "shadowed",
     "unique": true,
     "id": 5
+  },
+  {
+    "image": "conditions/harpooned.png",
+    "text": "When you are hit by an attack, if there is at least 1 uncancelled [Critical Hit] result, each other ship at range 1 suffers 1 damage. Then discard this card and receive one facedown Damage card.<br /><br />When you are destroyed, each ship at Range 1 of you suffers 1 damage..<br /><br /><strong>Action:</strong> Discard this card. Then roll 1 attack die. On a [Hit] or [Critical Hit] result, suffer 1 damage.",
+    "name": "Harpooned!",
+    "xws": "harpooned",
+    "id": 6,
+    "unique": false
   }
 ]

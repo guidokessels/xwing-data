@@ -3854,5 +3854,19 @@
     "points": 2,
     "slot": "Illicit",
     "id": 329
+  },
+  {
+    "image": "upgrades/Missile/harpoon-missiles.png",
+    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, after the attack resolves, assign the \"Harpooned\" Condition to the defender.",
+    "name": "Harpoon Missiles",
+    "xws": "harpoonmissiles",
+    "points": 4,
+    "slot": "Missile",
+    "range": "2-3",
+    "attack": 4,
+    "id": 330,
+    "conditions": [
+      "Harpooned!"
+    ]
   }
 ]
