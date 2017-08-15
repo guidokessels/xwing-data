@@ -4359,5 +4359,22 @@
       "Mimicked",
       "Shadowed"
     ]
+  },
+  {
+    "image": "pilots/Scum and Villainy/Kihraxz Fighter/captain-jostero.png",
+    "text": "Once per round, after an enemy ship that is not defending from an attack suffers damage, you may perform an attack against that ship.",
+    "name": "Captain Jostero",
+    "xws": "captainjostero",
+    "ship": "Kihraxz Fighter",
+    "unique": true,
+    "skill": 4,
+    "points": 24,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Illicit",
+      "Missile"
+    ],
+    "id": 264
   }
 ]
