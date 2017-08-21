@@ -3880,6 +3880,16 @@
     "ship": [
       "Alpha-class Star Wing"
     ],
+    "grants": [
+      {
+        "type": "slot",
+        "name": "Cannon"
+      },
+      {
+        "type": "slot",
+        "name": "Cannon"
+      }
+    ],
     "id": 331
   },
   {
