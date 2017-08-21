@@ -3241,5 +3241,64 @@
       ]
     ],
     "id": 49
+  },
+  {
+    "name": "Alpha-class Star Wing",
+    "xws": "alphaclassstarwing",
+    "faction": [
+      "Galactic Empire"
+    ],
+    "actions": [
+      "Focus",
+      "Reload",
+      "SLAM",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 4,
+    "shields": 3,
+    "maneuvers": [],
+    "id": 50
+  },
+  {
+    "name": "M12-L Kimogila Fighter",
+    "xws": "m12lkimogilafighter",
+    "faction": [
+      "Scum and Villainy"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Focus",
+      "Reload",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 1,
+    "hull": 6,
+    "shields": 2,
+    "maneuvers": [],
+    "id": 51
+  },
+  {
+    "name": "Sheathipede-class Shuttle",
+    "xws": "sheathipedeclassshuttle",
+    "faction": [
+      "Rebel Alliance"
+    ],
+    "actions": [
+      "Coordinate",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 4,
+    "shields": 1,
+    "maneuvers": [],
+    "id": 52
   }
 ]

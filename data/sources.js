@@ -2065,5 +2065,85 @@
     "image": "sources/swx73-product.png",
     "thumb": "sources/swx73-thumb.jpg",
     "announcement_date": "2017-05-30"
+  },
+  {
+    "name": "Alpha-class Star Wing Expansion Pack",
+    "wave": 12,
+    "sku": "SWX69",
+    "announcement_date": "2017-08-21",
+    "released": false,
+    "id": 56,
+    "thumb": "sources/swx69-thumb.jpg",
+    "image": "sources/swx69-product.png",
+    "contents": {
+      "pilots": {
+        "265": 1
+      },
+      "upgrades": {
+        "189": 1,
+        "328": 1,
+        "331": 1
+      },
+      "ships": {
+        "50": 1
+      },
+      "reference-cards": [
+        3,
+        11,
+        26
+      ]
+    }
+  },
+  {
+    "name": "M12-L Kimogila Fighter Expansion Pack",
+    "wave": 12,
+    "sku": "SWX70",
+    "announcement_date": "2017-08-21",
+    "released": false,
+    "image": "sources/swx70-product.png",
+    "thumb": "sources/swx70-thumb.jpg",
+    "id": 57,
+    "contents": {
+      "ships": {
+        "51": 1
+      },
+      "upgrades": {
+        "113": 1,
+        "136": 1,
+        "332": 1
+      },
+      "pilots": {
+        "266": 1
+      },
+      "reference-cards": [
+        3,
+        25,
+        26
+      ]
+    }
+  },
+  {
+    "name": "Phantom II Expansion Pack",
+    "wave": 12,
+    "sku": "SWX72",
+    "announcement_date": "2017-08-21",
+    "image": "sources/swx72-product.png",
+    "id": 58,
+    "contents": {
+      "ships": {
+        "52": 1
+      },
+      "pilots": {
+        "267": 1
+      },
+      "upgrades": {
+        "333": 1,
+        "334": 1
+      },
+      "reference-cards": [
+        20,
+        26
+      ]
+    }
   }
 ]

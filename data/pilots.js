@@ -4376,5 +4376,55 @@
       "Missile"
     ],
     "id": 264
+  },
+  {
+    "text": "When defending, if you have a weapons disabled token, roll 1 additional defense die.",
+    "name": "Major Vynder",
+    "xws": "majorvynder",
+    "ship": "Alpha-class Star Wing",
+    "unique": true,
+    "skill": 7,
+    "points": 26,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Torpedo"
+    ],
+    "id": 265
+  },
+  {
+    "text": "After you perform an attack, each enemy ship inside your bullseye firing arc at Range 1-3 must choose to suffer 1 damage or remove all of its focus and evade tokens.",
+    "name": "Torani Kulda",
+    "xws": "toranikulda",
+    "ship": "M12-L Kimogila Fighter",
+    "unique": true,
+    "skill": 8,
+    "points": 27,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Illicit",
+      "Missile",
+      "Salvaged Astromech",
+      "Torpedo"
+    ],
+    "id": 266
+  },
+  {
+    "text": "When an enemy ship inside your firing arc at Range 1-3 becomes the active ship during the Combat phase, if you are not stressed, you may receive 1 stress token. If you do, that ship cannot spend tokens to modify its dice when attacking this round.",
+    "name": "Fenn Rau",
+    "xws": "fennrau",
+    "ship": "Sheathipede-class Shuttle",
+    "unique": true,
+    "skill": 9,
+    "points": 20,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew",
+      "Elite"
+    ],
+    "id": 267
   }
 ]

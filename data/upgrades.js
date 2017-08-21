@@ -3868,5 +3868,56 @@
     "conditions": [
       "Harpooned!"
     ]
+  },
+  {
+    "image": "upgrades/Title/xg-1-assault-configuration.png",
+    "text": "Your upgrade bar gains 2 [Cannon] upgrade icons.<br /><br />You may perform attacks with [Cannon] secondary weapons that cost 2 or fewer squad points even while you have a weapons disabled token.",
+    "name": "Xg-1 Assault Configuration",
+    "xws": "xg1assaultconfiguration",
+    "unique": false,
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "Alpha-class Star Wing"
+    ],
+    "id": 331
+  },
+  {
+    "text": "After defending, if the attacker is inside your bullseye firing arc, it receives 1 stress token.",
+    "name": "Enforcer",
+    "xws": "enforcer",
+    "unique": true,
+    "points": 1,
+    "slot": "Title",
+    "ship": [
+      "M12-L Kimogila Fighter"
+    ],
+    "id": 332
+  },
+  {
+    "image": "upgrades/Title/ghost-swx72.png",
+    "text": "Equip the <em>Phantom II</em> title card to a friendly Sheathipede-class shuttle and dock it to this ship.<br /><br />After you execute a maneuver, you may deploy it from your rear guides.",
+    "name": "Ghost",
+    "xws": "ghost-swx72",
+    "unique": true,
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "VCX-100"
+    ],
+    "id": 333
+  },
+  {
+    "image": "upgrades/Title/phantom-ii.png",
+    "text": "While you are docked, the <em>Ghost</em> can perform primary weapon attacks from its special firing arc.<br /><br />While you are docked, at the end of the Activation phase, the <em>Ghost</em> may perform a free coordinate action.",
+    "name": "Phantom II",
+    "xws": "phantomii",
+    "unique": true,
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "Sheathipede-class Shuttle"
+    ],
+    "id": 334
   }
 ]

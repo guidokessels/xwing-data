@@ -144,5 +144,17 @@
     "title": "Bomb Tokens",
     "subtitle": "Reference Card #08",
     "image": "reference-cards/BombTokens-08.png"
+  },
+  {
+    "id": 25,
+    "title": "Bullseye Firing Arc",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/BullseyeFiringArc.png"
+  },
+  {
+    "id": 26,
+    "title": "Reload Action and Jam Tokens",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/ReloadActionAndJamTokens.png"
   }
 ]
