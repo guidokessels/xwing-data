@@ -8,6 +8,7 @@ var actions = [
   "Jam",
   "Recover",
   "Reinforce",
+  "Reload",
   "Rotate Arc",
   "SLAM",
   "Target Lock"
