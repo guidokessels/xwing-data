@@ -101,7 +101,7 @@ describe("All data", function() {
   })
 
   describe("in ships.js", function() {
-    it("only has factions matching the ones in pilots.js", function() {
+    test("only has factions matching the ones in pilots.js", function() {
       var pilotFactions = {};
       var errors = [];
       var shipFactions, i, j;
@@ -143,7 +143,7 @@ describe("All data", function() {
   });
 
   describe("in pilots.js", function() {
-    it("only references ships that exists in ships.js", function() {
+    test("only references ships that exists in ships.js", function() {
       var shipNames = [];
       var errors = [];
       var i;
