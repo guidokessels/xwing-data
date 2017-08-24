@@ -99,4 +99,68 @@ describe("All data", function() {
       utils.outputAllErrors(errors);
     })
   })
+
+  describe("in ships.js", function() {
+    it("only has factions matching the ones in pilots.js", function() {
+      var pilotFactions = {};
+      var errors = [];
+      var shipFactions, i, j;
+
+      for (i = 0; i < Data.pilots.length; i++) {
+        if (!pilotFactions[Data.pilots[i].ship]) {
+          pilotFactions[Data.pilots[i].ship] = [];
+        }
+        if (pilotFactions[Data.pilots[i].ship].indexOf(Data.pilots[i].faction) === -1) {
+          pilotFactions[Data.pilots[i].ship].push(Data.pilots[i].faction);
+        }
+      }
+
+      for (i = 0; i < Data.ships.length; i++) {
+        shipFactions = Data.ships[i].faction.slice();
+        pilotFactions[Data.ships[i].name];
+
+        for (j = 0; j < shipFactions.length; j++) {
+          if (pilotFactions[Data.ships[i].name].indexOf(shipFactions[j]) === -1) {
+            errors.push(utils.buildDataHeader(Data, 'ships', i) +
+            ": has faction '" +
+            shipFactions[j] +
+            "' but has no pilots with that faction");
+          }
+        }
+
+        for (j = 0; j < pilotFactions[Data.ships[i].name].length; j++) {
+          if (shipFactions.indexOf(pilotFactions[Data.ships[i].name][j]) === -1) {
+            errors.push(utils.buildDataHeader(Data, 'ships', i) +
+            ": does not have faction '" +
+            pilotFactions[Data.ships[i].name][j] +
+            "' but it does have pilots with that faction");
+          }
+        }
+      }
+
+      utils.outputAllErrors(errors);
+    });
+  });
+
+  describe("in pilots.js", function() {
+    it("only references ships that exists in ships.js", function() {
+      var shipNames = [];
+      var errors = [];
+      var i;
+
+      for (i = 0; i < Data.ships.length; i++) {
+        shipNames.push(Data.ships[i].name);
+      }
+
+      for (i = 0; i < Data.pilots.length; i++) {
+        if (shipNames.indexOf(Data.pilots[i].ship) === -1) {
+          errors.push(utils.buildDataHeader(Data, 'pilots', i) +
+          ": ship '" + Data.pilots[i].ship +
+          "' does not exist in ships.js");
+        }
+      }
+
+      utils.outputAllErrors(errors);
+    });
+  });
 });
