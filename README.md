@@ -5,15 +5,24 @@ An easy-to-use collection of data and images from [X-Wing: The Miniatures Game](
 
 ## What's included
 
+This repository contains data and images for the following components:
+- Ships
+- Pilots
+- Upgrades
+- Conditions
+- Core Sets and Expansion Packs
+- Reference Cards
+- Damage Decks
+
 There are two top-level directories; `data` and `images`.
 
 ### data
 
-The `data` folder contains all X-Wing data; pilots, upgrades, damage decks, expansion packs, etc.
+The `data` folder contains all X-Wing data in JSON format.
 
 ### images
 
-The `images` folder contains images for each card, product and faction.
+The `images` folder contains images for each card, product, faction, etc.
 
 ## Usage
 
@@ -21,9 +30,9 @@ You can use this data to build your own apps, squad builders, web sites, etc.
 
 The easiest way to do this is via [Bower](http://bower.io/), [Yarn](https://yarnpkg.com/), [npm](https://www.npmjs.com/package/xwing-data) or as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
 
-* Bower: `bower install xwing-data`
 * Yarn: `yarn add xwing-data`
 * npm: `npm install xwing-data`
+* Bower: `bower install xwing-data`
 * Git submodule: `git submodule add https://github.com/guidokessels/xwing-data.git`
 
 ## Bugs / Issues
