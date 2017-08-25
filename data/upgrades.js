@@ -2325,7 +2325,7 @@
   },
   {
     "image": "upgrades/Modification/automated-protocols.png",
-    "text": "Once per round, after you perform an action that is not a recover or reinforce action, you pay spend 1 energy to perform a free recover or reinforce action.",
+    "text": "Once per round, after you perform an action that is not a recover or reinforce action, you may spend 1 energy to perform a free recover or reinforce action.",
     "name": "Automated Protocols",
     "points": 5,
     "slot": "Modification",
