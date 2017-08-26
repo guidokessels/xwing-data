@@ -94,7 +94,7 @@
     "name": "Direct Hit!",
     "amount": 7,
     "type": "Ship",
-    "text": "This card counts as <strong>2 damage</strong> against your hull",
+    "text": "This card counts as <strong>2 damage</strong> against your hull.",
     "image": "damage-decks/core-tfa/direct-hit.png"
   }
 ]
