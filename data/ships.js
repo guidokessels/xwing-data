@@ -56,7 +56,10 @@
     ],
     "size": "small",
     "xws": "xwing",
-    "id": 0
+    "id": 0,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Y-Wing",
@@ -116,7 +119,10 @@
     ],
     "size": "small",
     "xws": "ywing",
-    "id": 1
+    "id": 1,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "A-Wing",
@@ -185,7 +191,10 @@
     ],
     "size": "small",
     "xws": "awing",
-    "id": 2
+    "id": 2,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "YT-1300",
@@ -245,7 +254,11 @@
     ],
     "size": "large",
     "xws": "yt1300",
-    "id": 3
+    "id": 3,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "TIE Fighter",
@@ -314,7 +327,10 @@
     ],
     "size": "small",
     "xws": "tiefighter",
-    "id": 4
+    "id": 4,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Advanced",
@@ -383,7 +399,10 @@
     ],
     "size": "small",
     "xws": "tieadvanced",
-    "id": 5
+    "id": 5,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Interceptor",
@@ -452,7 +471,10 @@
     ],
     "size": "small",
     "xws": "tieinterceptor",
-    "id": 6
+    "id": 6,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Firespray-31",
@@ -513,7 +535,11 @@
     ],
     "size": "large",
     "xws": "firespray31",
-    "id": 7
+    "id": 7,
+    "firing_arcs": [
+      "AuxiliaryRear",
+      "Front"
+    ]
   },
   {
     "name": "HWK-290",
@@ -568,7 +594,10 @@
     ],
     "size": "small",
     "xws": "hwk290",
-    "id": 8
+    "id": 8,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Lambda-Class Shuttle",
@@ -615,7 +644,10 @@
     ],
     "size": "large",
     "xws": "lambdaclassshuttle",
-    "id": 9
+    "id": 9,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "B-Wing",
@@ -675,7 +707,10 @@
     ],
     "size": "small",
     "xws": "bwing",
-    "id": 10
+    "id": 10,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Bomber",
@@ -743,7 +778,10 @@
     ],
     "size": "small",
     "xws": "tiebomber",
-    "id": 11
+    "id": 11,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "GR-75 Medium Transport",
@@ -907,7 +945,10 @@
     ],
     "size": "small",
     "xws": "z95headhunter",
-    "id": 13
+    "id": 13,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Defender",
@@ -975,7 +1016,10 @@
     ],
     "size": "small",
     "xws": "tiedefender",
-    "id": 14
+    "id": 14,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "E-Wing",
@@ -1044,7 +1088,10 @@
     ],
     "size": "small",
     "xws": "ewing",
-    "id": 15
+    "id": 15,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Phantom",
@@ -1105,7 +1152,10 @@
     ],
     "size": "small",
     "xws": "tiephantom",
-    "id": 16
+    "id": 16,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "CR90 Corvette (Fore)",
@@ -1369,7 +1419,11 @@
     ],
     "size": "large",
     "xws": "yt2400",
-    "id": 19
+    "id": 19,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "VT-49 Decimator",
@@ -1428,7 +1482,11 @@
     ],
     "size": "large",
     "xws": "vt49decimator",
-    "id": 20
+    "id": 20,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "StarViper",
@@ -1491,7 +1549,10 @@
     ],
     "size": "small",
     "xws": "starviper",
-    "id": 21
+    "id": 21,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "M3-A Interceptor",
@@ -1560,7 +1621,10 @@
     ],
     "size": "small",
     "xws": "m3ainterceptor",
-    "id": 22
+    "id": 22,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Aggressor",
@@ -1623,7 +1687,10 @@
     ],
     "size": "large",
     "xws": "aggressor",
-    "id": 23
+    "id": 23,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Raider-class Corvette (Fore)",
@@ -1886,7 +1953,11 @@
     ],
     "size": "large",
     "xws": "yv666",
-    "id": 26
+    "id": 26,
+    "firing_arcs": [
+      "Auxiliary180",
+      "Front"
+    ]
   },
   {
     "name": "Kihraxz Fighter",
@@ -1953,7 +2024,10 @@
     ],
     "size": "small",
     "xws": "kihraxzfighter",
-    "id": 27
+    "id": 27,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "K-Wing",
@@ -2021,7 +2095,11 @@
     ],
     "size": "small",
     "xws": "kwing",
-    "id": 28
+    "id": 28,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "TIE Punisher",
@@ -2081,7 +2159,10 @@
     ],
     "size": "small",
     "xws": "tiepunisher",
-    "id": 29
+    "id": 29,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "T-70 X-Wing",
@@ -2145,7 +2226,10 @@
     ],
     "size": "small",
     "xws": "t70xwing",
-    "id": 30
+    "id": 30,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE/fo Fighter",
@@ -2216,7 +2300,10 @@
     ],
     "size": "small",
     "xws": "tiefofighter",
-    "id": 31
+    "id": 31,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "VCX-100",
@@ -2274,7 +2361,10 @@
     ],
     "size": "large",
     "xws": "vcx100",
-    "id": 32
+    "id": 32,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Attack Shuttle",
@@ -2324,7 +2414,10 @@
     ],
     "size": "small",
     "xws": "attackshuttle",
-    "id": 33
+    "id": 33,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "JumpMaster 5000",
@@ -2376,7 +2469,11 @@
     ],
     "size": "large",
     "xws": "jumpmaster5000",
-    "id": 34
+    "id": 34,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "G-1A Starfighter",
@@ -2427,7 +2524,10 @@
     ],
     "size": "small",
     "xws": "g1astarfighter",
-    "id": 35
+    "id": 35,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Adv. Prototype",
@@ -2483,7 +2583,10 @@
     ],
     "size": "small",
     "xws": "tieadvprototype",
-    "id": 36
+    "id": 36,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Gozanti-Class Cruiser",
@@ -2625,7 +2728,11 @@
         3
       ]
     ],
-    "id": 38
+    "id": 38,
+    "firing_arcs": [
+      "AuxiliaryRear",
+      "Front"
+    ]
   },
   {
     "name": "TIE/sf Fighter",
@@ -2675,7 +2782,11 @@
         1
       ]
     ],
-    "id": 39
+    "id": 39,
+    "firing_arcs": [
+      "AuxiliaryRear",
+      "Front"
+    ]
   },
   {
     "name": "Protectorate Starfighter",
@@ -2736,7 +2847,10 @@
         1
       ]
     ],
-    "id": 40
+    "id": 40,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Lancer-class Pursuit Craft",
@@ -2791,7 +2905,11 @@
         3
       ]
     ],
-    "id": 41
+    "id": 41,
+    "firing_arcs": [
+      "Front",
+      "Mobile"
+    ]
   },
   {
     "name": "Upsilon-class Shuttle",
@@ -2837,7 +2955,10 @@
         3
       ]
     ],
-    "id": 42
+    "id": 42,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Quadjumper",
@@ -2889,7 +3010,10 @@
         1
       ]
     ],
-    "id": 43
+    "id": 43,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "TIE Striker",
@@ -2933,7 +3057,10 @@
         1
       ]
     ],
-    "id": 44
+    "id": 44,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "U-Wing",
@@ -2981,7 +3108,10 @@
         1
       ]
     ],
-    "id": 45
+    "id": 45,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "C-ROC Cruiser",
@@ -3134,7 +3264,11 @@
         3
       ]
     ],
-    "id": 47
+    "id": 47,
+    "firing_arcs": [
+      "Auxiliary180",
+      "Front"
+    ]
   },
   {
     "name": "TIE Aggressor",
@@ -3183,7 +3317,11 @@
         3
       ]
     ],
-    "id": 48
+    "id": 48,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ]
   },
   {
     "name": "Scurrg H-6 Bomber",
@@ -3240,7 +3378,10 @@
         3
       ]
     ],
-    "id": 49
+    "id": 49,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "Alpha-class Star Wing",
@@ -3260,7 +3401,10 @@
     "hull": 4,
     "shields": 3,
     "maneuvers": [],
-    "id": 50
+    "id": 50,
+    "firing_arcs": [
+      "Front"
+    ]
   },
   {
     "name": "M12-L Kimogila Fighter",
@@ -3280,7 +3424,11 @@
     "hull": 6,
     "shields": 2,
     "maneuvers": [],
-    "id": 51
+    "id": 51,
+    "firing_arcs": [
+      "Bullseye",
+      "Front"
+    ]
   },
   {
     "name": "Sheathipede-class Shuttle",
@@ -3299,6 +3447,10 @@
     "hull": 4,
     "shields": 1,
     "maneuvers": [],
-    "id": 52
+    "id": 52,
+    "firing_arcs": [
+      "AuxiliaryRear",
+      "Front"
+    ]
   }
 ]

@@ -77,6 +77,18 @@
         "Target Lock"
       ]
     },
+    "firing_arcs": {
+      "type": "string",
+      "description": "A firing arc.",
+      "enum": [
+        "Front",
+        "Turret",
+        "AuxiliaryRear",
+        "Auxiliary180",
+        "Mobile",
+        "Bullseye"
+      ]
+    },
     "image_file_path": {
       "type": "string",
       "description": "A file path for an image in this package.",

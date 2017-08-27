@@ -58,6 +58,15 @@
           "description": "The ship's unique XWS id as described in the XWS format.",
           "minLength": 1
         },
+        "firing_arcs": {
+          "type": "array",
+          "description": "A list of all the ship's firing arcs.",
+          "uniqueItems": true,
+          "minItems": 1,
+          "items": {
+            "$ref": "definitions.json#/definitions/firing_arcs"
+          }
+        },
         "id": {
           "type": "integer",
           "description": "The ship's unique id number. It's not used in the game but it's used to link this ship to other data in this dataset.",
@@ -204,7 +213,8 @@
         "xws",
         "maneuvers",
         "size",
-        "id"
+        "id",
+        "firing_arcs"
       ]
     }
   },
