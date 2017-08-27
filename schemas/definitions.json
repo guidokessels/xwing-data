@@ -77,7 +77,7 @@
         "Target Lock"
       ]
     },
-    "firing_arcs": {
+    "firing_arc": {
       "type": "string",
       "description": "A firing arc.",
       "enum": [
@@ -106,6 +106,114 @@
         "^[0-9]+$": {
           "type": "integer"
         }
+      }
+    },
+    "grants": {
+      "type": "array",
+      "description": "A list of changes granted to the ship this card is attached to.",
+      "uniqueItems": false,
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "anyOf": [
+          {
+            "type": "object",
+            "description": "The modifier granted by this card (stats).",
+            "properties": {
+              "name": {
+                "description": "The name of the stat modified by this card",
+                "$ref": "definitions.json#/definitions/stats"
+              },
+              "type": {
+                "type": "string",
+                "description": "This card grants a stats modifier.",
+                "enum": [
+                  "stats"
+                ]
+              },
+              "value": {
+                "type": "integer",
+                "description": "The value of the modifier."
+              }
+            },
+            "required": [
+              "value",
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "description": "The modifier granted by this card (action).",
+            "properties": {
+              "name": {
+                "description": "The action granted by this card",
+                "$ref": "definitions.json#/definitions/action"
+              },
+              "type": {
+                "type": "string",
+                "description": "This card grants an action.",
+                "enum": [
+                  "action"
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "description": "The modifier granted by this card (slot).",
+            "properties": {
+              "name": {
+                "description": "The slot granted by this card",
+                "$ref": "definitions.json#/definitions/slot"
+              },
+              "type": {
+                "type": "string",
+                "description": "This card grants a slot.",
+                "enum": [
+                  "slot"
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "description": "The firing arc granted by this card.",
+            "properties": {
+              "name": {
+                "description": "The firing arc granted by this card",
+                "$ref": "definitions.json#/definitions/firing_arc"
+              },
+              "type": {
+                "type": "string",
+                "description": "This card grants a firing arc.",
+                "enum": [
+                  "firing_arc"
+                ]
+              },
+              "slot": {
+                "description": "This card grants a firing arc, but only for a specific slot",
+                "$ref": "definitions.json#/definitions/slot"
+              }
+            },
+            "required": [
+              "name",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        ]
       }
     }
   }

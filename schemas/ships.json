@@ -64,7 +64,7 @@
           "uniqueItems": true,
           "minItems": 1,
           "items": {
-            "$ref": "definitions.json#/definitions/firing_arcs"
+            "$ref": "definitions.json#/definitions/firing_arc"
           }
         },
         "id": {
