@@ -537,7 +537,7 @@
     "xws": "firespray31",
     "id": 7,
     "firing_arcs": [
-      "AuxiliaryRear",
+      "Auxiliary Rear",
       "Front"
     ]
   },
@@ -1955,7 +1955,7 @@
     "xws": "yv666",
     "id": 26,
     "firing_arcs": [
-      "Auxiliary180",
+      "Auxiliary 180",
       "Front"
     ]
   },
@@ -2730,7 +2730,7 @@
     ],
     "id": 38,
     "firing_arcs": [
-      "AuxiliaryRear",
+      "Auxiliary Rear",
       "Front"
     ]
   },
@@ -2784,7 +2784,7 @@
     ],
     "id": 39,
     "firing_arcs": [
-      "AuxiliaryRear",
+      "Auxiliary Rear",
       "Front"
     ]
   },
@@ -3266,7 +3266,7 @@
     ],
     "id": 47,
     "firing_arcs": [
-      "Auxiliary180",
+      "Auxiliary 180",
       "Front"
     ]
   },
@@ -3449,7 +3449,7 @@
     "maneuvers": [],
     "id": 52,
     "firing_arcs": [
-      "AuxiliaryRear",
+      "Auxiliary Rear",
       "Front"
     ]
   }

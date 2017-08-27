@@ -83,8 +83,8 @@
       "enum": [
         "Front",
         "Turret",
-        "AuxiliaryRear",
-        "Auxiliary180",
+        "Auxiliary Rear",
+        "Auxiliary 180",
         "Mobile",
         "Bullseye"
       ]
