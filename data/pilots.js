@@ -1399,7 +1399,14 @@
     "text": "You can perform [Torpedo] secondary weapon attacks against enemy ships outside your firing arc.",
     "image": "pilots/Rebel Alliance/B-Wing/nera-dantels.png",
     "faction": "Rebel Alliance",
-    "xws": "neradantels"
+    "xws": "neradantels",
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Turret",
+        "slot": "Torpedo"
+      }
+    ]
   },
   {
     "name": "Dash Rendar",
@@ -2404,7 +2411,14 @@
     "text": "You can perform [Cannon] secondary weapon attacks against ships inside your auxiliary firing arc.",
     "image": "pilots/Scum and Villainy/YV-666/moralo-eval.png",
     "faction": "Scum and Villainy",
-    "xws": "moraloeval"
+    "xws": "moraloeval",
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Auxiliary 180",
+        "slot": "Cannon"
+      }
+    ]
   },
   {
     "name": "Guardian Squadron Pilot",
@@ -2629,7 +2643,14 @@
       "Turret"
     ],
     "image": "pilots/Rebel Alliance/VCX-100/hera-syndulla.png",
-    "xws": "herasyndulla"
+    "xws": "herasyndulla",
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Auxiliary Rear",
+        "slot": "Torpedo"
+      }
+    ]
   },
   {
     "image": "pilots/Scum and Villainy/JumpMaster 5000/dengar.png",
@@ -2826,7 +2847,14 @@
       "Crew"
     ],
     "id": 172,
-    "xws": "chopper"
+    "xws": "chopper",
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Auxiliary Rear",
+        "slot": "Torpedo"
+      }
+    ]
   },
   {
     "image": "pilots/Rebel Alliance/VCX-100/kanan-jarrus.png",
@@ -2846,7 +2874,14 @@
       "Crew"
     ],
     "id": 173,
-    "xws": "kananjarrus"
+    "xws": "kananjarrus",
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Auxiliary Rear",
+        "slot": "Torpedo"
+      }
+    ]
   },
   {
     "image": "pilots/Rebel Alliance/Attack Shuttle/hera-syndulla.png",
@@ -3076,7 +3111,14 @@
       "Torpedo",
       "Turret"
     ],
-    "id": 186
+    "id": 186,
+    "grants": [
+      {
+        "type": "firing_arc",
+        "name": "Auxiliary Rear",
+        "slot": "Torpedo"
+      }
+    ]
   },
   {
     "name": "Baron of the Empire",
