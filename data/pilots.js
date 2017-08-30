@@ -3,7 +3,7 @@
     "name": "Wedge Antilles",
     "id": 0,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 9,
     "points": 29,
     "slots": [
@@ -12,7 +12,7 @@
       "Astromech"
     ],
     "text": "When attacking, reduce the defender's agility value by 1 (to a minimum of \"0\").",
-    "image": "pilots/Rebel Alliance/X-Wing/wedge-antilles.png",
+    "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
     "faction": "Rebel Alliance",
     "xws": "wedgeantilles"
   },
@@ -20,7 +20,7 @@
     "name": "Garven Dreis",
     "id": 1,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 6,
     "points": 26,
     "slots": [
@@ -28,35 +28,35 @@
       "Astromech"
     ],
     "text": "After spending a focus token, you may place that token on any other friendly ship at Range 1-2 (instead of discarding it).",
-    "image": "pilots/Rebel Alliance/X-Wing/garven-dreis.png",
+    "image": "pilots/Rebel Alliance/X-wing/garven-dreis.png",
     "faction": "Rebel Alliance",
     "xws": "garvendreis"
   },
   {
     "name": "Red Squadron Pilot",
     "id": 2,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 4,
     "points": 23,
     "slots": [
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/X-Wing/red-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/X-wing/red-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "redsquadronpilot"
   },
   {
     "name": "Rookie Pilot",
     "id": 3,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 2,
     "points": 21,
     "slots": [
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/X-Wing/rookie-pilot.png",
+    "image": "pilots/Rebel Alliance/X-wing/rookie-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "rookiepilot"
   },
@@ -64,7 +64,7 @@
     "name": "Biggs Darklighter",
     "id": 4,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 5,
     "points": 25,
     "slots": [
@@ -72,7 +72,7 @@
       "Astromech"
     ],
     "text": "Other friendly small and large ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.",
-    "image": "pilots/Rebel Alliance/X-Wing/biggs-darklighter.png",
+    "image": "pilots/Rebel Alliance/X-wing/biggs-darklighter.png",
     "faction": "Rebel Alliance",
     "xws": "biggsdarklighter"
   },
@@ -80,7 +80,7 @@
     "name": "Luke Skywalker",
     "id": 5,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 8,
     "points": 28,
     "slots": [
@@ -89,14 +89,14 @@
       "Astromech"
     ],
     "text": "When defending, you may change 1 of your [Focus] results to a [Evade] result.",
-    "image": "pilots/Rebel Alliance/X-Wing/luke-skywalker.png",
+    "image": "pilots/Rebel Alliance/X-wing/luke-skywalker.png",
     "faction": "Rebel Alliance",
     "xws": "lukeskywalker"
   },
   {
     "name": "Gray Squadron Pilot",
     "id": 6,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 4,
     "points": 20,
     "slots": [
@@ -105,7 +105,7 @@
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/Y-Wing/gray-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/Y-wing/gray-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "graysquadronpilot"
   },
@@ -113,7 +113,7 @@
     "name": "\"Dutch\" Vander",
     "id": 7,
     "unique": true,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 6,
     "points": 23,
     "slots": [
@@ -123,7 +123,7 @@
       "Astromech"
     ],
     "text": "After acquiring a target lock, choose another friendly ship at Range 1-2.  The chosen ship may immediately acquire a target lock.",
-    "image": "pilots/Rebel Alliance/Y-Wing/dutch-vander.png",
+    "image": "pilots/Rebel Alliance/Y-wing/dutch-vander.png",
     "faction": "Rebel Alliance",
     "xws": "dutchvander"
   },
@@ -131,7 +131,7 @@
     "name": "Horton Salm",
     "id": 8,
     "unique": true,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 8,
     "points": 25,
     "slots": [
@@ -141,14 +141,14 @@
       "Astromech"
     ],
     "text": "When attacking at Range 2-3, you may reroll any of your blank results.",
-    "image": "pilots/Rebel Alliance/Y-Wing/horton-salm.png",
+    "image": "pilots/Rebel Alliance/Y-wing/horton-salm.png",
     "faction": "Rebel Alliance",
     "xws": "hortonsalm"
   },
   {
     "name": "Gold Squadron Pilot",
     "id": 9,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 2,
     "points": 18,
     "slots": [
@@ -157,7 +157,7 @@
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/Y-Wing/gold-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/Y-wing/gold-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "goldsquadronpilot"
   },
@@ -418,7 +418,7 @@
     "name": "Tycho Celchu",
     "id": 29,
     "unique": true,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 8,
     "points": 26,
     "slots": [
@@ -426,7 +426,7 @@
       "Missile"
     ],
     "text": "You may perform actions even while you have stress tokens.",
-    "image": "pilots/Rebel Alliance/A-Wing/tycho-celchu.png",
+    "image": "pilots/Rebel Alliance/A-wing/tycho-celchu.png",
     "faction": "Rebel Alliance",
     "xws": "tychocelchu"
   },
@@ -434,41 +434,41 @@
     "name": "Arvel Crynyd",
     "id": 30,
     "unique": true,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 6,
     "points": 23,
     "slots": [
       "Missile"
     ],
     "text": "You may declare an enemy ship inside your firing arc that you are touching as the target of your attack.",
-    "image": "pilots/Rebel Alliance/A-Wing/arvel-crynyd.png",
+    "image": "pilots/Rebel Alliance/A-wing/arvel-crynyd.png",
     "faction": "Rebel Alliance",
     "xws": "arvelcrynyd"
   },
   {
     "name": "Green Squadron Pilot",
     "id": 31,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 3,
     "points": 19,
     "slots": [
       "Elite",
       "Missile"
     ],
-    "image": "pilots/Rebel Alliance/A-Wing/green-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/A-wing/green-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "greensquadronpilot"
   },
   {
     "name": "Prototype Pilot",
     "id": 32,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 1,
     "points": 17,
     "slots": [
       "Missile"
     ],
-    "image": "pilots/Rebel Alliance/A-Wing/prototype-pilot.png",
+    "image": "pilots/Rebel Alliance/A-wing/prototype-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "prototypepilot"
   },
@@ -622,7 +622,7 @@
     "name": "Ten Numb",
     "id": 41,
     "unique": true,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 8,
     "points": 31,
     "slots": [
@@ -633,7 +633,7 @@
       "Torpedo"
     ],
     "text": "When attacking, 1 of your [Critical Hit] results cannot be canceled by defense dice.",
-    "image": "pilots/Rebel Alliance/B-Wing/ten-numb.png",
+    "image": "pilots/Rebel Alliance/B-wing/ten-numb.png",
     "faction": "Rebel Alliance",
     "xws": "tennumb"
   },
@@ -641,7 +641,7 @@
     "name": "Ibtisam",
     "id": 42,
     "unique": true,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 6,
     "points": 28,
     "slots": [
@@ -652,14 +652,14 @@
       "Torpedo"
     ],
     "text": "When attacking or defending, if you have at least 1 stress token, you may reroll 1 of your dice.",
-    "image": "pilots/Rebel Alliance/B-Wing/ibtisam.png",
+    "image": "pilots/Rebel Alliance/B-wing/ibtisam.png",
     "faction": "Rebel Alliance",
     "xws": "ibtisam"
   },
   {
     "name": "Dagger Squadron Pilot",
     "id": 43,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 4,
     "points": 24,
     "slots": [
@@ -668,14 +668,14 @@
       "Torpedo",
       "Torpedo"
     ],
-    "image": "pilots/Rebel Alliance/B-Wing/dagger-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/B-wing/dagger-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "daggersquadronpilot"
   },
   {
     "name": "Blue Squadron Pilot",
     "id": 44,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 2,
     "points": 22,
     "slots": [
@@ -684,7 +684,7 @@
       "Torpedo",
       "Torpedo"
     ],
-    "image": "pilots/Rebel Alliance/B-Wing/blue-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/B-wing/blue-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "bluesquadronpilot"
   },
@@ -830,7 +830,7 @@
     "name": "Captain Kagi",
     "id": 53,
     "unique": true,
-    "ship": "Lambda-Class Shuttle",
+    "ship": "Lambda-class Shuttle",
     "skill": 8,
     "points": 27,
     "slots": [
@@ -840,7 +840,7 @@
       "Crew"
     ],
     "text": "When an enemy ship acquires a target lock, it must lock onto your ship if able.",
-    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/captain-kagi.png",
+    "image": "pilots/Galactic Empire/Lambda-class Shuttle/captain-kagi.png",
     "faction": "Galactic Empire",
     "xws": "captainkagi"
   },
@@ -848,7 +848,7 @@
     "name": "Colonel Jendon",
     "id": 54,
     "unique": true,
-    "ship": "Lambda-Class Shuttle",
+    "ship": "Lambda-class Shuttle",
     "skill": 6,
     "points": 26,
     "slots": [
@@ -858,7 +858,7 @@
       "Crew"
     ],
     "text": "At the start of the Combat phase, you may assign 1 of your blue target lock tokens to a friendly ship at Range 1 if it does not have a blue target lock token.",
-    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/colonel-jendon.png",
+    "image": "pilots/Galactic Empire/Lambda-class Shuttle/colonel-jendon.png",
     "faction": "Galactic Empire",
     "xws": "coloneljendon"
   },
@@ -866,7 +866,7 @@
     "name": "Captain Yorr",
     "id": 55,
     "unique": true,
-    "ship": "Lambda-Class Shuttle",
+    "ship": "Lambda-class Shuttle",
     "skill": 4,
     "points": 24,
     "slots": [
@@ -876,14 +876,14 @@
       "Crew"
     ],
     "text": "When another friendly ship at Range 1-2 would receive a stress token, if you have 2 or fewer stress tokens, you may receive that token instead.",
-    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/captain-yorr.png",
+    "image": "pilots/Galactic Empire/Lambda-class Shuttle/captain-yorr.png",
     "faction": "Galactic Empire",
     "xws": "captainyorr"
   },
   {
     "name": "Omicron Group Pilot",
     "id": 56,
-    "ship": "Lambda-Class Shuttle",
+    "ship": "Lambda-class Shuttle",
     "skill": 2,
     "points": 21,
     "slots": [
@@ -892,7 +892,7 @@
       "Crew",
       "Crew"
     ],
-    "image": "pilots/Galactic Empire/Lambda-Class Shuttle/omicron-group-pilot.png",
+    "image": "pilots/Galactic Empire/Lambda-class Shuttle/omicron-group-pilot.png",
     "faction": "Galactic Empire",
     "xws": "omicrongrouppilot"
   },
@@ -1105,7 +1105,7 @@
   {
     "name": "Knave Squadron Pilot",
     "id": 71,
-    "ship": "E-Wing",
+    "ship": "E-wing",
     "skill": 1,
     "points": 27,
     "slots": [
@@ -1113,14 +1113,14 @@
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/E-Wing/knave-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/E-wing/knave-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "knavesquadronpilot"
   },
   {
     "name": "Blackmoon Squadron Pilot",
     "id": 72,
-    "ship": "E-Wing",
+    "ship": "E-wing",
     "skill": 3,
     "points": 29,
     "slots": [
@@ -1128,7 +1128,7 @@
       "Torpedo",
       "Astromech"
     ],
-    "image": "pilots/Rebel Alliance/E-Wing/blackmoon-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/E-wing/blackmoon-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "blackmoonsquadronpilot"
   },
@@ -1136,7 +1136,7 @@
     "name": "Etahn A'baht",
     "id": 73,
     "unique": true,
-    "ship": "E-Wing",
+    "ship": "E-wing",
     "skill": 5,
     "points": 32,
     "slots": [
@@ -1146,7 +1146,7 @@
       "Astromech"
     ],
     "text": "When an enemy ship inside your firing arc at Range 1-3 is defending, the attacker may change 1 of its [Hit] results to a [Critical Hit] result.",
-    "image": "pilots/Rebel Alliance/E-Wing/etahn-a-baht.png",
+    "image": "pilots/Rebel Alliance/E-wing/etahn-a-baht.png",
     "faction": "Rebel Alliance",
     "xws": "etahnabaht"
   },
@@ -1154,7 +1154,7 @@
     "name": "Corran Horn",
     "id": 74,
     "unique": true,
-    "ship": "E-Wing",
+    "ship": "E-wing",
     "skill": 8,
     "points": 35,
     "slots": [
@@ -1164,7 +1164,7 @@
       "Astromech"
     ],
     "text": "At the start of the End phase, you may perform one attack. You cannot attack during the next round.",
-    "image": "pilots/Rebel Alliance/E-Wing/corran-horn.png",
+    "image": "pilots/Rebel Alliance/E-wing/corran-horn.png",
     "faction": "Rebel Alliance",
     "xws": "corranhorn"
   },
@@ -1270,7 +1270,7 @@
     "name": "Wes Janson",
     "id": 81,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 8,
     "points": 29,
     "slots": [
@@ -1279,7 +1279,7 @@
       "Astromech"
     ],
     "text": "After you perform an attack, you may remove 1 focus, evade, or blue target lock token from the defender.",
-    "image": "pilots/Rebel Alliance/X-Wing/wes-janson.png",
+    "image": "pilots/Rebel Alliance/X-wing/wes-janson.png",
     "faction": "Rebel Alliance",
     "xws": "wesjanson"
   },
@@ -1287,7 +1287,7 @@
     "name": "Jek Porkins",
     "id": 82,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 7,
     "points": 26,
     "slots": [
@@ -1296,7 +1296,7 @@
       "Astromech"
     ],
     "text": "When you receive a stress token, you may remove it and roll 1 attack die.  On a [Hit] result, deal 1 facedown Damage card to this ship.",
-    "image": "pilots/Rebel Alliance/X-Wing/jek-porkins.png",
+    "image": "pilots/Rebel Alliance/X-wing/jek-porkins.png",
     "faction": "Rebel Alliance",
     "xws": "jekporkins"
   },
@@ -1304,7 +1304,7 @@
     "name": "\"Hobbie\" Klivian",
     "id": 83,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 5,
     "points": 25,
     "slots": [
@@ -1312,7 +1312,7 @@
       "Astromech"
     ],
     "text": "When you acquire or spend a target lock, you may remove 1 stress token from your ship.",
-    "image": "pilots/Rebel Alliance/X-Wing/hobbie-klivian.png",
+    "image": "pilots/Rebel Alliance/X-wing/hobbie-klivian.png",
     "faction": "Rebel Alliance",
     "xws": "hobbieklivian"
   },
@@ -1320,7 +1320,7 @@
     "name": "Tarn Mison",
     "id": 84,
     "unique": true,
-    "ship": "X-Wing",
+    "ship": "X-wing",
     "skill": 3,
     "points": 23,
     "slots": [
@@ -1328,7 +1328,7 @@
       "Astromech"
     ],
     "text": "When an enemy ship declares you as the target of an attack, you may acquire a target lock on that ship.",
-    "image": "pilots/Rebel Alliance/X-Wing/tarn-mison.png",
+    "image": "pilots/Rebel Alliance/X-wing/tarn-mison.png",
     "faction": "Rebel Alliance",
     "xws": "tarnmison"
   },
@@ -1336,7 +1336,7 @@
     "name": "Jake Farrell",
     "id": 85,
     "unique": true,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 7,
     "points": 24,
     "slots": [
@@ -1344,7 +1344,7 @@
       "Missile"
     ],
     "text": "After you perform a focus action or are assigned a focus token, you may perform a free boost or barrel roll action.",
-    "image": "pilots/Rebel Alliance/A-Wing/jake-farrell.png",
+    "image": "pilots/Rebel Alliance/A-wing/jake-farrell.png",
     "faction": "Rebel Alliance",
     "xws": "jakefarrell"
   },
@@ -1352,14 +1352,14 @@
     "name": "Gemmer Sojan",
     "id": 86,
     "unique": true,
-    "ship": "A-Wing",
+    "ship": "A-wing",
     "skill": 5,
     "points": 22,
     "slots": [
       "Missile"
     ],
     "text": "While you are at Range 1 of at least 1 enemy ship, increase your agility value by 1.",
-    "image": "pilots/Rebel Alliance/A-Wing/gemmer-sojan.png",
+    "image": "pilots/Rebel Alliance/A-wing/gemmer-sojan.png",
     "faction": "Rebel Alliance",
     "xws": "gemmersojan"
   },
@@ -1367,7 +1367,7 @@
     "name": "Keyan Farlander",
     "id": 87,
     "unique": true,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 7,
     "points": 29,
     "slots": [
@@ -1378,7 +1378,7 @@
       "Torpedo"
     ],
     "text": "When attacking, you may remove 1 stress token to change all of your [Focus] results to [Hit] results.",
-    "image": "pilots/Rebel Alliance/B-Wing/keyan-farlander.png",
+    "image": "pilots/Rebel Alliance/B-wing/keyan-farlander.png",
     "faction": "Rebel Alliance",
     "xws": "keyanfarlander"
   },
@@ -1386,7 +1386,7 @@
     "name": "Nera Dantels",
     "id": 88,
     "unique": true,
-    "ship": "B-Wing",
+    "ship": "B-wing",
     "skill": 5,
     "points": 26,
     "slots": [
@@ -1397,7 +1397,7 @@
       "Torpedo"
     ],
     "text": "You can perform [Torpedo] secondary weapon attacks against enemy ships outside your firing arc.",
-    "image": "pilots/Rebel Alliance/B-Wing/nera-dantels.png",
+    "image": "pilots/Rebel Alliance/B-wing/nera-dantels.png",
     "faction": "Rebel Alliance",
     "xws": "neradantels",
     "grants": [
@@ -1772,7 +1772,7 @@
     "name": "Drea Renthal",
     "id": 109,
     "unique": true,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 5,
     "points": 22,
     "slots": [
@@ -1783,7 +1783,7 @@
     ],
     "text": "After you spend a target lock, you may receive 1 stress token to acquire a target lock.",
     "faction": "Scum and Villainy",
-    "image": "pilots/Scum and Villainy/Y-Wing/drea-renthal.png",
+    "image": "pilots/Scum and Villainy/Y-wing/drea-renthal.png",
     "xws": "drearenthal"
   },
   {
@@ -1807,7 +1807,7 @@
     "name": "Kavil",
     "id": 111,
     "unique": true,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 7,
     "points": 24,
     "slots": [
@@ -1819,13 +1819,13 @@
     ],
     "text": "When attacking a ship outside your firing arc, roll 1 additional attack die.",
     "faction": "Scum and Villainy",
-    "image": "pilots/Scum and Villainy/Y-Wing/kavil.png",
+    "image": "pilots/Scum and Villainy/Y-wing/kavil.png",
     "xws": "kavil"
   },
   {
     "name": "Syndicate Thug",
     "id": 112,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 2,
     "points": 18,
     "slots": [
@@ -1835,7 +1835,7 @@
       "Salvaged Astromech"
     ],
     "faction": "Scum and Villainy",
-    "image": "pilots/Scum and Villainy/Y-Wing/syndicate-thug.png",
+    "image": "pilots/Scum and Villainy/Y-wing/syndicate-thug.png",
     "xws": "syndicatethug"
   },
   {
@@ -2005,7 +2005,7 @@
     "range": "2-4",
     "text": "Once per round, after you perform a primary weapon attack, you may spend 2 energy to perform another primary weapon attack.",
     "faction": "Galactic Empire",
-    "image": "pilots/Galactic Empire/Raider-Class Corvette/raider-class-corv-fore.png",
+    "image": "pilots/Galactic Empire/Raider-class Corvette/raider-class-corv-fore.png",
     "xws": "raiderclasscorvettefore"
   },
   {
@@ -2024,7 +2024,7 @@
       "Cargo"
     ],
     "faction": "Galactic Empire",
-    "image": "pilots/Galactic Empire/Raider-Class Corvette/raider-class-corv-aft.png",
+    "image": "pilots/Galactic Empire/Raider-class Corvette/raider-class-corv-aft.png",
     "xws": "raiderclasscorvetteaft"
   },
   {
@@ -2043,7 +2043,7 @@
   {
     "name": "Hired Gun",
     "id": 126,
-    "ship": "Y-Wing",
+    "ship": "Y-wing",
     "skill": 4,
     "points": 20,
     "slots": [
@@ -2053,7 +2053,7 @@
       "Salvaged Astromech"
     ],
     "faction": "Scum and Villainy",
-    "image": "pilots/Scum and Villainy/Y-Wing/hired-gun.png",
+    "image": "pilots/Scum and Villainy/Y-wing/hired-gun.png",
     "xws": "hiredgun"
   },
   {
@@ -2255,7 +2255,7 @@
   {
     "name": "Warden Squadron Pilot",
     "id": 139,
-    "ship": "K-Wing",
+    "ship": "K-wing",
     "skill": 2,
     "points": 23,
     "slots": [
@@ -2267,7 +2267,7 @@
       "Bomb",
       "Bomb"
     ],
-    "image": "pilots/Rebel Alliance/K-Wing/warden-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/K-wing/warden-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "wardensquadronpilot"
   },
@@ -2275,7 +2275,7 @@
     "name": "Esege Tuketu",
     "id": 140,
     "unique": true,
-    "ship": "K-Wing",
+    "ship": "K-wing",
     "skill": 6,
     "points": 28,
     "slots": [
@@ -2288,7 +2288,7 @@
       "Bomb"
     ],
     "text": "When another friendly ship at Range 1-2 is attacking, it may treat your focus tokens as its own.",
-    "image": "pilots/Rebel Alliance/K-Wing/esege-tuketu.png",
+    "image": "pilots/Rebel Alliance/K-wing/esege-tuketu.png",
     "faction": "Rebel Alliance",
     "xws": "esegetuketu"
   },
@@ -2296,7 +2296,7 @@
     "name": "Miranda Doni",
     "id": 141,
     "unique": true,
-    "ship": "K-Wing",
+    "ship": "K-wing",
     "skill": 8,
     "points": 29,
     "slots": [
@@ -2309,7 +2309,7 @@
       "Bomb"
     ],
     "text": "Once per round when attacking, you may either spend 1 shield to roll 1 additional attack die <strong>or</strong> roll 1 fewer attack die to recover 1 shield.",
-    "image": "pilots/Rebel Alliance/K-Wing/miranda-doni.png",
+    "image": "pilots/Rebel Alliance/K-wing/miranda-doni.png",
     "faction": "Rebel Alliance",
     "xws": "mirandadoni"
   },
@@ -2423,7 +2423,7 @@
   {
     "name": "Guardian Squadron Pilot",
     "id": 147,
-    "ship": "K-Wing",
+    "ship": "K-wing",
     "skill": 4,
     "points": 25,
     "slots": [
@@ -2435,7 +2435,7 @@
       "Bomb",
       "Bomb"
     ],
-    "image": "pilots/Rebel Alliance/K-Wing/guardian-squadron-pilot.png",
+    "image": "pilots/Rebel Alliance/K-wing/guardian-squadron-pilot.png",
     "faction": "Rebel Alliance",
     "xws": "guardiansquadronpilot"
   },
@@ -2545,7 +2545,7 @@
   {
     "name": "Blue Squadron Novice",
     "id": 155,
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "skill": 2,
     "points": 24,
     "slots": [
@@ -2553,7 +2553,7 @@
       "Astromech",
       "Tech"
     ],
-    "image": "pilots/Resistance/T-70 X-Wing/blue-squadron-novice.png",
+    "image": "pilots/Resistance/T-70 X-wing/blue-squadron-novice.png",
     "faction": "Resistance",
     "xws": "bluesquadronnovice"
   },
@@ -2561,7 +2561,7 @@
     "name": "Poe Dameron",
     "unique": true,
     "id": 156,
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "skill": 8,
     "points": 31,
     "slots": [
@@ -2571,7 +2571,7 @@
       "Tech"
     ],
     "text": "While attacking or defending, if you have a focus token, you may change 1 of your [Focus] results to a [Hit] or [Evade] result.",
-    "image": "pilots/Resistance/T-70 X-Wing/poe-dameron.png",
+    "image": "pilots/Resistance/T-70 X-wing/poe-dameron.png",
     "faction": "Resistance",
     "xws": "poedameron"
   },
@@ -2579,7 +2579,7 @@
     "name": "\"Red Ace\"",
     "unique": true,
     "id": 157,
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "skill": 6,
     "points": 29,
     "slots": [
@@ -2588,14 +2588,14 @@
       "Tech"
     ],
     "text": "The first time you remove a shield token from your ship each round, assign 1 evade token to your ship.",
-    "image": "pilots/Resistance/T-70 X-Wing/red-ace.png",
+    "image": "pilots/Resistance/T-70 X-wing/red-ace.png",
     "faction": "Resistance",
     "xws": "redace"
   },
   {
     "name": "Red Squadron Veteran",
     "id": 158,
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "skill": 4,
     "points": 26,
     "slots": [
@@ -2604,7 +2604,7 @@
       "Astromech",
       "Tech"
     ],
-    "image": "pilots/Resistance/T-70 X-Wing/red-squadron-veteran.png",
+    "image": "pilots/Resistance/T-70 X-wing/red-squadron-veteran.png",
     "faction": "Resistance",
     "xws": "redsquadronveteran"
   },
@@ -2612,7 +2612,7 @@
     "name": "\"Blue Ace\"",
     "unique": true,
     "id": 159,
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "skill": 5,
     "points": 27,
     "slots": [
@@ -2622,7 +2622,7 @@
     ],
     "text": "When performing a boost action, you may use the ([Turn Left] 1) or ([Turn Right] 1) template.",
     "faction": "Resistance",
-    "image": "pilots/Resistance/T-70 X-Wing/blue-ace.png",
+    "image": "pilots/Resistance/T-70 X-wing/blue-ace.png",
     "xws": "blueace"
   },
   {
@@ -2707,10 +2707,10 @@
     "xws": "theinquisitor"
   },
   {
-    "image": "pilots/Galactic Empire/Gozanti-Class Cruiser/gozanti-class-cruiser.png",
-    "name": "Gozanti-Class Cruiser",
+    "image": "pilots/Galactic Empire/Gozanti-class Cruiser/gozanti-class-cruiser.png",
+    "name": "Gozanti-class Cruiser",
     "text": "After you execute a maneuver, you may deploy up to 2 docked ships.",
-    "ship": "Gozanti-Class Cruiser",
+    "ship": "Gozanti-class Cruiser",
     "skill": 2,
     "points": 40,
     "faction": "Galactic Empire",
@@ -2973,10 +2973,10 @@
     "xws": "gammasquadronveteran"
   },
   {
-    "image": "pilots/Resistance/T-70 X-Wing/ello-asty.png",
+    "image": "pilots/Resistance/T-70 X-wing/ello-asty.png",
     "text": "While you are not stressed, you may treat your [Tallon Roll Left] and [Tallon Roll Right] maneuvers as white maneuvers.",
     "name": "Ello Asty",
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "unique": true,
     "skill": 7,
     "points": 30,
@@ -3235,11 +3235,11 @@
     "id": 193
   },
   {
-    "image": "pilots/Resistance/T-70 X-Wing/poe-dameron-hotr.png",
+    "image": "pilots/Resistance/T-70 X-wing/poe-dameron-hotr.png",
     "text": "While attacking or defending, if you have a focus token, you may change 1 of your [Focus] results to a [Hit] or [Evade] result.",
     "name": "Poe Dameron",
     "xws": "poedameron-swx57",
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "unique": true,
     "skill": 9,
     "points": 33,
@@ -3308,7 +3308,7 @@
     "name": "Sabine Wren",
     "xws": "sabinewren",
     "text": "When defending against an enemy ship inside your mobile firing arc at Range 1-2, you may add 1 [Focus] result to your roll.",
-    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/sabine-wren.png",
+    "image": "pilots/Scum and Villainy/Lancer-class Pursuit Craft/sabine-wren.png",
     "ship": "Lancer-class Pursuit Craft",
     "unique": true,
     "skill": 5,
@@ -3355,7 +3355,7 @@
       "Illicit"
     ],
     "id": 200,
-    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/ketsu-onyo.png"
+    "image": "pilots/Scum and Villainy/Lancer-class Pursuit Craft/ketsu-onyo.png"
   },
   {
     "image": "pilots/Rebel Alliance/ARC-170/braylen-stramm.png",
@@ -3517,7 +3517,7 @@
     "id": 210
   },
   {
-    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/asajj-ventress.png",
+    "image": "pilots/Scum and Villainy/Lancer-class Pursuit Craft/asajj-ventress.png",
     "text": "At the start of the Combat phase, you may choose a ship at Range 1-2. If it is inside your mobile firing arc, assign 1 stress token to it.",
     "name": "Asajj Ventress",
     "xws": "asajjventress",
@@ -3563,7 +3563,7 @@
       "Illicit"
     ],
     "id": 213,
-    "image": "pilots/Scum and Villainy/Lancer-Class Pursuit Craft/shadowport-hunter.png"
+    "image": "pilots/Scum and Villainy/Lancer-class Pursuit Craft/shadowport-hunter.png"
   },
   {
     "image": "pilots/Rebel Alliance/TIE Fighter/sabine-wren.png",
@@ -3598,7 +3598,7 @@
       "Tech"
     ],
     "id": 215,
-    "image": "pilots/First Order/Upsilon-Class Shuttle/kylo-ren.png",
+    "image": "pilots/First Order/Upsilon-class Shuttle/kylo-ren.png",
     "conditions": [
       "I'll Show You the Dark Side"
     ]
@@ -3625,7 +3625,7 @@
     "text": "At the start of the Activation phase, you may remove 1 stress token from 1 other friendly ship at Range 1-2.",
     "name": "Cassian Andor",
     "xws": "cassianandor",
-    "ship": "U-Wing",
+    "ship": "U-wing",
     "unique": true,
     "skill": 6,
     "points": 27,
@@ -3638,7 +3638,7 @@
       "Torpedo"
     ],
     "id": 217,
-    "image": "pilots/Rebel Alliance/U-Wing/cassian-andor.png"
+    "image": "pilots/Rebel Alliance/U-wing/cassian-andor.png"
   },
   {
     "image": "pilots/Galactic Empire/TIE Striker/duchess.png",
@@ -3692,11 +3692,11 @@
     "id": 220
   },
   {
-    "image": "pilots/Resistance/T-70 X-Wing/jess-pava.png",
+    "image": "pilots/Resistance/T-70 X-wing/jess-pava.png",
     "text": "When attacking or defending, you may reroll 1 of your dice for each other friendly ship at Range 1.",
     "name": "Jess Pava",
     "xws": "jesspava",
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "unique": true,
     "skill": 3,
     "points": 25,
@@ -3709,11 +3709,11 @@
     "id": 221
   },
   {
-    "image": "pilots/Resistance/T-70 X-Wing/nien-nunb.png",
+    "image": "pilots/Resistance/T-70 X-wing/nien-nunb.png",
     "text": "When you receive a stress token, if there is an enemy ship inside your firing arc at Range 1, you may discard that stress token.",
     "name": "Nien Nunb",
     "xws": "niennunb",
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "unique": true,
     "skill": 7,
     "points": 29,
@@ -3727,11 +3727,11 @@
     "id": 222
   },
   {
-    "image": "pilots/Resistance/T-70 X-Wing/snap-wexley.png",
+    "image": "pilots/Resistance/T-70 X-wing/snap-wexley.png",
     "text": "After you execute a 2-, 3-, or 4-speed maneuver, if you are not touching a ship, you may perform a free boost action.",
     "name": "\"Snap\" Wexley",
     "xws": "snapwexley",
-    "ship": "T-70 X-Wing",
+    "ship": "T-70 X-wing",
     "unique": true,
     "skill": 6,
     "points": 28,
@@ -3791,10 +3791,10 @@
     ]
   },
   {
-    "image": "pilots/Rebel Alliance/U-Wing/blue-squadron-pathfinder.png",
+    "image": "pilots/Rebel Alliance/U-wing/blue-squadron-pathfinder.png",
     "name": "Blue Squadron Pathfinder",
     "xws": "bluesquadronpathfinder",
-    "ship": "U-Wing",
+    "ship": "U-wing",
     "unique": false,
     "skill": 2,
     "points": 23,
@@ -3808,7 +3808,7 @@
     "id": 227
   },
   {
-    "image": "pilots/First Order/Upsilon-Class Shuttle/major-stridan.png",
+    "image": "pilots/First Order/Upsilon-class Shuttle/major-stridan.png",
     "text": "For the purpose of your actions and Upgrade cards, you may treat friendly ships at Range 2-3 as being at Range 1.",
     "name": "Major Stridan",
     "xws": "majorstridan",
@@ -3827,7 +3827,7 @@
     "skill": 4
   },
   {
-    "image": "pilots/First Order/Upsilon-Class Shuttle/lieutenant-dormitz.png",
+    "image": "pilots/First Order/Upsilon-class Shuttle/lieutenant-dormitz.png",
     "text": "During setup, friendly ships may be placed anywhere in the play area at Range 1-2 of you.",
     "name": "Lieutenant Dormitz",
     "xws": "lieutenantdormitz",
@@ -3846,7 +3846,7 @@
     "id": 229
   },
   {
-    "image": "pilots/First Order/Upsilon-Class Shuttle/starkiller-base-pilot.png",
+    "image": "pilots/First Order/Upsilon-class Shuttle/starkiller-base-pilot.png",
     "name": "Starkiller Base Pilot",
     "xws": "starkillerbasepilot",
     "ship": "Upsilon-class Shuttle",
@@ -3863,11 +3863,11 @@
     "faction": "First Order"
   },
   {
-    "image": "pilots/Rebel Alliance/U-Wing/bodhi-rook.png",
+    "image": "pilots/Rebel Alliance/U-wing/bodhi-rook.png",
     "text": "When a friendly ship acquires a target lock, that ship can lock onto an enemy ship at Range 1-3 of any friendly ship.",
     "name": "Bodhi Rook",
     "xws": "bodhirook",
-    "ship": "U-Wing",
+    "ship": "U-wing",
     "unique": true,
     "skill": 4,
     "points": 25,
@@ -3881,11 +3881,11 @@
     "id": 231
   },
   {
-    "image": "pilots/Rebel Alliance/U-Wing/heff-tobber.png",
+    "image": "pilots/Rebel Alliance/U-wing/heff-tobber.png",
     "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, you may perform a free action.",
     "name": "Heff Tobber",
     "xws": "hefftobber",
-    "ship": "U-Wing",
+    "ship": "U-wing",
     "unique": true,
     "skill": 3,
     "points": 24,

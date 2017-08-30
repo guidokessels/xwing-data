@@ -736,7 +736,7 @@
     "points": -2,
     "text": "This card has a negative squad point cost.",
     "ship": [
-      "A-Wing"
+      "A-wing"
     ],
     "image": "upgrades/Missile/chardaan-refit.png",
     "xws": "chardaanrefit"
@@ -1154,7 +1154,7 @@
     "id": 111,
     "limited": true,
     "ship": [
-      "Y-Wing"
+      "Y-wing"
     ],
     "slot": "Torpedo",
     "points": 0,
@@ -1638,7 +1638,7 @@
     "unique": true,
     "points": 3,
     "ship": [
-      "Lambda-Class Shuttle"
+      "Lambda-class Shuttle"
     ],
     "text": "When acquiring a target lock, you may lock onto any enemy ship in the play area.",
     "image": "upgrades/Title/st-321.png",
@@ -1676,12 +1676,12 @@
     "xws": "dodonnaspride"
   },
   {
-    "name": "A-Wing Test Pilot",
+    "name": "A-wing Test Pilot",
     "id": 157,
     "slot": "Title",
     "points": 0,
     "ship": [
-      "A-Wing"
+      "A-wing"
     ],
     "text": "Your upgrade bar gains 1 [Elite] upgrade icon.<br /><br />You cannot equip 2 of the same [Elite] Upgrade cards. You cannot equip this if your pilot skill value is \"1\" or lower.",
     "image": "upgrades/Title/a-wing-test-pilot.png",
@@ -1881,7 +1881,7 @@
     "slot": "Title",
     "points": 0,
     "ship": [
-      "Y-Wing"
+      "Y-wing"
     ],
     "text": "You cannot attack ships outside your firing arc. After you perform a primary weapon attack, you may immediately perform an attack with a [Turret] secondary weapon.",
     "image": "upgrades/Title/btl-a4-y-wing.png",
@@ -2092,13 +2092,13 @@
     ]
   },
   {
-    "name": "B-Wing/E2",
+    "name": "B-wing/E2",
     "id": 184,
     "slot": "Modification",
     "points": 1,
     "text": "Your upgrade bar gains the [Crew] upgrade icon.",
     "ship": [
-      "B-Wing"
+      "B-wing"
     ],
     "image": "upgrades/Modification/b-wing-e2.png",
     "grants": [
@@ -2214,8 +2214,8 @@
     "slot": "Modification",
     "points": 0,
     "ship": [
-      "X-Wing",
-      "T-70 X-Wing"
+      "X-wing",
+      "T-70 X-wing"
     ],
     "text": "When you are dealt a Damage card, you may discard 1 of your [Astromech] Upgrade cards to discard that Damage card (without resolving its effect).",
     "image": "upgrades/Modification/integrated-astromech.png",
@@ -2366,7 +2366,7 @@
     "points": 2,
     "slot": "Cargo",
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 205,
     "xws": "broadcastarray",
@@ -2385,7 +2385,7 @@
     "points": 0,
     "slot": "Cargo",
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 206,
     "xws": "dockingclamps"
@@ -2399,7 +2399,7 @@
     "range": "1-3",
     "attack": 3,
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 207,
     "energy": 1,
@@ -2637,7 +2637,7 @@
     "slot": "Title",
     "energy": 0,
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 226,
     "image": "upgrades/Title/requiem.png",
@@ -2651,7 +2651,7 @@
     "slot": "Title",
     "energy": 1,
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 227,
     "image": "upgrades/Title/vector.png",
@@ -2665,7 +2665,7 @@
     "slot": "Title",
     "energy": 2,
     "ship": [
-      "Gozanti-Class Cruiser"
+      "Gozanti-class Cruiser"
     ],
     "id": 228,
     "image": "upgrades/Title/suppressor.png",
@@ -2831,7 +2831,7 @@
     "points": 1,
     "slot": "Title",
     "ship": [
-      "T-70 X-Wing"
+      "T-70 X-wing"
     ],
     "id": 244,
     "image": "upgrades/Title/black-one.png"
@@ -3153,7 +3153,7 @@
     "points": 0,
     "slot": "Title",
     "ship": [
-      "U-Wing"
+      "U-wing"
     ],
     "id": 271
   },
@@ -3165,7 +3165,7 @@
     "points": 0,
     "slot": "Title",
     "ship": [
-      "U-Wing"
+      "U-wing"
     ],
     "id": 272
   },
