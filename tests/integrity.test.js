@@ -98,6 +98,26 @@ describe("All data", function() {
       }
       utils.outputAllErrors(errors);
     })
+    test("should be in the correct folder", function() {
+      var errors = [];
+
+      ['pilots', 'upgrades'].forEach(dataKey => {
+        Data[dataKey].forEach(({ image, faction, slot }, i) => {
+          if (image) {
+            if (
+              (dataKey === 'pilots' && !image.startsWith(`pilots/${faction}/`)) ||
+              (dataKey === 'upgrades' && !image.startsWith(`upgrades/${slot}/`))
+            ) {
+              errors.push(
+                utils.buildDataHeader(Data, dataKey, i) +
+                ": image is in incorrect folder '" + image + "'."
+              )
+            }
+          }
+        })
+      })
+      utils.outputAllErrors(errors);
+    })
   })
 
   describe("in ships.js", function() {
