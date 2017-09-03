@@ -1,4 +1,4 @@
-var fs = require("fs");
+var glob = require('glob');
 
 var Data = require("./data");
 var moment = require("moment");
@@ -71,6 +71,7 @@ describe("All data", function() {
 
   describe("that has an image file path", function() {
     test("should have a matching image file in the images directory", function() {
+      var allImages = glob.sync("images/**/*");
       var errors = [];
       var modelData;
 
@@ -80,14 +81,14 @@ describe("All data", function() {
             for (var i = 0; i < Data[dataKey].length; i++) {
               modelData = Data[dataKey][i];
 
-              if (modelData.image && !fs.existsSync("images/" +  modelData.image)) {
+              if (modelData.image && allImages.indexOf(`images/${modelData.image}`) === -1) {
                   errors.push(
                     utils.buildDataHeader(Data, dataKey, i) +
                     ": file 'images/" + modelData.image + "' was not found."
                   )
               }
 
-              if (modelData.thumb && !fs.existsSync("images/" + modelData.thumb)) {
+              if (modelData.thumb && allImages.indexOf(`images/${modelData.thumb}`) === -1) {
                   errors.push(
                     utils.buildDataHeader(Data, dataKey, i) +
                     ": file 'images/" + modelData.thumb + "' was not found."
