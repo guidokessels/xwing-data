@@ -3034,7 +3034,7 @@
     "points": 1,
     "slot": "Illicit",
     "id": 262,
-    "image": "upgrades/Elite/black-market-slicer-tools.png"
+    "image": "upgrades/Illicit/black-market-slicer-tools.png"
   },
   {
     "image": "upgrades/Title/sabines-masterpiece.png",

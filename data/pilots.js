@@ -3253,7 +3253,7 @@
     "id": 194
   },
   {
-    "image": "pilots/Rebel Alliance/YT-1300/rey.png",
+    "image": "pilots/Resistance/YT-1300/rey.png",
     "text": "When attacking or defending, if the enemy ship is inside your firing arc, you may reroll up to 2 of your blank results.",
     "name": "Rey",
     "xws": "rey",
