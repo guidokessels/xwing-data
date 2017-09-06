@@ -2437,7 +2437,7 @@
     ]
   },
   {
-    "image": "upgrades/Crew/kannan-jarrus.png",
+    "image": "upgrades/Crew/kanan-jarrus.png",
     "text": "Once per round, after a friendly ship at Range 1-2 executes a white maneuver, you may remove 1 stress token from that ship.",
     "name": "Kanan Jarrus",
     "unique": true,
