@@ -1631,7 +1631,8 @@
     "released": true,
     "sku": "SWX54",
     "release_date": "2016-09-22",
-    "announcement_date": "2016-06-02"
+    "announcement_date": "2016-06-02",
+    "thumb": "sources/swx54-thumb.png"
   },
   {
     "name": "Protectorate Starfighter Expansion Pack",
@@ -1876,7 +1877,8 @@
     "sku": "SWX63",
     "release_date": "2016-12-15",
     "announcement_date": "2016-09-02",
-    "released": true
+    "released": true,
+    "thumb": "sources/swx63-thumb.png"
   },
   {
     "name": "C-ROC Cruiser Expansion Pack",
@@ -2144,6 +2146,7 @@
         20,
         26
       ]
-    }
+    },
+    "thumb": "sources/swx72-thumb.png"
   }
 ]
