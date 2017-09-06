@@ -1246,7 +1246,7 @@
     ],
     "range": "3-5",
     "text": "When attacking with your primary weapon, you may spend 1 energy to roll 1 additional attack die.",
-    "image": "pilots/Rebel Alliance/CR90 Corvette (Fore)/cr90-corvette-fore.png",
+    "image": "pilots/Rebel Alliance/CR90 Corvette/cr90-corvette-fore.png",
     "faction": "Rebel Alliance",
     "xws": "cr90corvettefore"
   },
@@ -1262,7 +1262,7 @@
       "Team",
       "Cargo"
     ],
-    "image": "pilots/Rebel Alliance/CR90 Corvette (Aft)/cr90-corvette-aft.png",
+    "image": "pilots/Rebel Alliance/CR90 Corvette/cr90-corvette-aft.png",
     "faction": "Rebel Alliance",
     "xws": "cr90corvetteaft"
   },
