@@ -4468,5 +4468,45 @@
       "Elite"
     ],
     "id": 267
+  },
+  {
+    "image": "pilots/First Order/TIE Silencer/kylo-ren.png",
+    "text": "The first time you are hit by an attack each round, assign the \"I'll Show You the Dark Side\" Condition card to the defender.",
+    "name": "Kylo Ren",
+    "xws": "kyloren",
+    "ship": "TIE Silencer",
+    "unique": true,
+    "skill": 9,
+    "points": 35,
+    "faction": "First Order",
+    "conditions": [
+      "I'll Show You the Dark Side"
+    ],
+    "slots": [
+      "Elite",
+      "System",
+      "Tech"
+    ],
+    "id": 268
+  },
+  {
+    "text": "When attacking, if the defender is inside your firing arc, you may spend 1 [Hit] or [Critical Hit] result to assign the \"Rattled\" Condition to the defender.",
+    "name": "\"Crimson Leader\"",
+    "xws": "crimsonleader",
+    "ship": "B/SF-17 Bomber",
+    "unique": true,
+    "skill": 7,
+    "points": 29,
+    "faction": "Resistance",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "System",
+      "Tech"
+    ],
+    "id": 269,
+    "conditions": [
+      "Rattled"
+    ]
   }
 ]

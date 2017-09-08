@@ -2148,5 +2148,59 @@
       ]
     },
     "thumb": "sources/swx72-thumb.png"
+  },
+  {
+    "name": "TIE Silencer Expansion Pack",
+    "wave": 13,
+    "sku": "SWX68",
+    "announcement_date": "2017-09-08",
+    "id": 59,
+    "contents": {
+      "pilots": {
+        "268": 1
+      },
+      "conditions": {
+        "0": 1
+      },
+      "upgrades": {
+        "44": 1,
+        "188": 2,
+        "277": 2,
+        "337": 1
+      },
+      "ships": {
+        "53": 1
+      }
+    },
+    "image": "sources/swx68-product.png",
+    "thumb": "sources/swx68-thumb.jpg"
+  },
+  {
+    "name": "Resistance Bomber Expansion Pack",
+    "wave": 13,
+    "sku": "SWX67",
+    "announcement_date": "2017-09-08",
+    "image": "sources/swx67-product.png",
+    "thumb": "sources/swx67-thumb.jpg",
+    "contents": {
+      "ships": {
+        "54": 1
+      },
+      "upgrades": {
+        "24": 1,
+        "135": 2,
+        "242": 1,
+        "288": 1,
+        "335": 1,
+        "336": 3
+      },
+      "conditions": {
+        "7": 1
+      },
+      "pilots": {
+        "269": 1
+      }
+    },
+    "id": 60
   }
 ]
