@@ -2176,6 +2176,7 @@
       "TIE Interceptor",
       "TIE Phantom",
       "TIE Punisher",
+      "TIE Silencer",
       "TIE Striker",
       "TIE/fo Fighter",
       "TIE/sf Fighter"
@@ -3444,6 +3445,7 @@
       "TIE Interceptor",
       "TIE Phantom",
       "TIE Punisher",
+      "TIE Silencer",
       "TIE Striker",
       "TIE/fo Fighter",
       "TIE/sf Fighter"
@@ -3929,5 +3931,38 @@
       "Sheathipede-class Shuttle"
     ],
     "id": 334
+  },
+  {
+    "image": "upgrades/Bomb/ordnance-silos.png",
+    "text": "When you equip this card, place 3 ordnance tokens on each other equipped [Bomb] Upgrade card. When you are instructed to discard an Upgrade card, you may discard 1 ordnance token on that card instead.",
+    "name": "Ordnance Silos",
+    "xws": "ordnancesilos",
+    "points": 2,
+    "slot": "Bomb",
+    "ship": [
+      "B/SF-17 Bomber"
+    ],
+    "id": 335
+  },
+  {
+    "image": "upgrades/System/trajectory-simulator.png",
+    "text": "You may launch bombs using the ([Straight] 5) template instead of dropping them. You cannot launch bombs with the \"<strong>Action:</strong>\" header in this way.",
+    "name": "Trajectory Simulator",
+    "xws": "trajectorysimulator",
+    "points": 1,
+    "slot": "System",
+    "id": 336
+  },
+  {
+    "text": "When attacking, if the defender is the only ship in your firing arc at Range 1-3, you may reroll 1 attack die.<br /><br />When defending, you may discard this card to reroll all of your defense dice.",
+    "name": "First Order Vanguard",
+    "xws": "firstordervanguard",
+    "unique": true,
+    "points": 2,
+    "slot": "Title",
+    "ship": [
+      "TIE Silencer"
+    ],
+    "id": 337
   }
 ]

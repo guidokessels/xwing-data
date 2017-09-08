@@ -54,5 +54,12 @@
     "xws": "harpooned",
     "id": 6,
     "unique": false
+  },
+  {
+    "text": "When you suffer damage from a bomb, you suffer 1 additional critical damage. Then, remove this card.<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Focus] or [Hit] result, remove this card.",
+    "name": "Rattled",
+    "xws": "rattled",
+    "unique": true,
+    "id": 7
   }
 ]

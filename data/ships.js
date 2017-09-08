@@ -3452,5 +3452,50 @@
       "Auxiliary Rear",
       "Front"
     ]
+  },
+  {
+    "name": "TIE Silencer",
+    "xws": "tiesilencer",
+    "faction": [
+      "First Order"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Boost",
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 3,
+    "hull": 4,
+    "shields": 2,
+    "firing_arcs": [
+      "Front"
+    ],
+    "id": 53,
+    "maneuvers": []
+  },
+  {
+    "name": "B/SF-17 Bomber",
+    "xws": "bsf17bomber",
+    "faction": [
+      "Resistance"
+    ],
+    "actions": [
+      "Focus",
+      "Target Lock"
+    ],
+    "size": "large",
+    "attack": 2,
+    "agility": 1,
+    "hull": 9,
+    "shields": 3,
+    "firing_arcs": [
+      "Front",
+      "Turret"
+    ],
+    "id": 54,
+    "maneuvers": []
   }
 ]
