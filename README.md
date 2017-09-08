@@ -60,6 +60,7 @@ A list of projects that use this content:
 - [X-Wing VASSAL Module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) (X-Wing Module for VASSAL for online play)
 - [Meta-Wing](http://meta-wing.com/) (X-Wing Meta Analyzer)
 - [X-Wing Data Module](https://github.com/stevegood/xwing-data-module) (xwing-data packaged as modules for JavaScript applications)
+- [R2-D7](https://github.com/FreakyDug/r2-d7) (Slack bot that detects X-Wing lists and prints them in chat)
 
 Want your project listed here? [Let us know!](https://github.com/guidokessels/xwing-data/issues/new?title=Add%20Project)
 
