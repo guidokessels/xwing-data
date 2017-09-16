@@ -2181,7 +2181,7 @@
       "TIE/fo Fighter",
       "TIE/sf Fighter"
     ],
-    "image": "upgrades/Modification/twin-ion-engine-mk2.png",
+    "image": "upgrades/Modification/twin-ion-engine-mkii.png",
     "text": "You may treat all bank maneuvers ([Bank Left] or [Bank Right]) as green maneuvers.",
     "xws": "twinionenginemkii"
   },
