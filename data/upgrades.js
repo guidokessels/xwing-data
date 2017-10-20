@@ -2157,7 +2157,7 @@
     "id": 189,
     "slot": "Modification",
     "points": 2,
-    "text": "After performing a SLAM action, if you did not overlap an obstacle or another ship, you may perform a free action.",
+    "text": "After performing a SLAM action, if you did not overlap an obstacle or another ship, you may perform a free action on your action bar.",
     "image": "upgrades/Modification/advanced-slam.png",
     "xws": "advancedslam"
   },
