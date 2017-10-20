@@ -4433,7 +4433,8 @@
       "Missile",
       "Torpedo"
     ],
-    "id": 265
+    "id": 265,
+    "image": "pilots/Galactic Empire/Alpha-class Star Wing/major-vynder.png"
   },
   {
     "text": "After you perform an attack, each enemy ship inside your bullseye firing arc at Range 1-3 must choose to suffer 1 damage or remove all of its focus and evade tokens.",
@@ -4508,5 +4509,51 @@
     "conditions": [
       "Rattled"
     ]
+  },
+  {
+    "image": "pilots/Galactic Empire/Alpha-class Star Wing/nu-squadron-pilot.png",
+    "name": "Nu Squadron Pilot",
+    "xws": "nusquadronpilot",
+    "ship": "Alpha-class Star Wing",
+    "skill": 2,
+    "points": 18,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Missile",
+      "Torpedo"
+    ],
+    "id": 270
+  },
+  {
+    "image": "pilots/Galactic Empire/Alpha-class Star Wing/rho-squadron-pilot.png",
+    "name": "Rho Squadron Pilot",
+    "xws": "rhosquadronpilot",
+    "ship": "Alpha-class Star Wing",
+    "skill": 4,
+    "points": 21,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Torpedo"
+    ],
+    "id": 271
+  },
+  {
+    "image": "pilots/Galactic Empire/Alpha-class Star Wing/lieutenant-karsabi.png",
+    "text": "When you receive a weapons disabled token, if you are not stressed, you may receive 1 stress token to remove it.",
+    "name": "Lieutenant Karsabi",
+    "xws": "lieutenantkarsabi",
+    "ship": "Alpha-class Star Wing",
+    "unique": true,
+    "skill": 5,
+    "points": 24,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Torpedo"
+    ],
+    "id": 272
   }
 ]

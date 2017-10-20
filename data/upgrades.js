@@ -2157,7 +2157,7 @@
     "id": 189,
     "slot": "Modification",
     "points": 2,
-    "text": "After performing a SLAM action, if you did not overlap an obstacle or another ship, you may perform a free action.",
+    "text": "After performing a SLAM action, if you did not overlap an obstacle or another ship, you may perform a free action on your action bar.",
     "image": "upgrades/Modification/advanced-slam.png",
     "xws": "advancedslam"
   },
@@ -3964,5 +3964,50 @@
       "TIE Silencer"
     ],
     "id": 337
+  },
+  {
+    "image": "upgrades/Title/os-1-arsenal-loadout.png",
+    "text": "Your upgrade bar gains the [Torpedo] and [Missile] upgrade icons.<br /><br />You may perform attacks with [Torpedo] and [Missile] secondary weapons against ships you have locked even while you have a weapons disabled token.",
+    "name": "Os-1 Arsenal Loadout",
+    "xws": "os1arsenalloadout",
+    "points": 2,
+    "slot": "Title",
+    "ship": [
+      "Alpha-class Star Wing"
+    ],
+    "id": 338
+  },
+  {
+    "image": "upgrades/Cannon/jamming-beam.png",
+    "text": "<strong>Attack:</strong> Attack 1 ship.<br /><br />If this attack hits, assign the defender 1 jam token. Then cancel <strong>all</strong> dice results.",
+    "name": "Jamming Beam",
+    "xws": "jammingbeam",
+    "points": 1,
+    "slot": "Cannon",
+    "range": "1-2",
+    "attack": 3,
+    "id": 339
+  },
+  {
+    "image": "upgrades/Cannon/linked-battery.png",
+    "text": "When attacking with a primary weapon or [Cannon] seconday weapon, you may reroll 1 attack die.",
+    "name": "Linked Battery",
+    "xws": "linkedbattery",
+    "limited": true,
+    "points": 2,
+    "slot": "Cannon",
+    "size": [
+      "small"
+    ],
+    "id": 340
+  },
+  {
+    "image": "upgrades/Elite/saturation-salvo.png",
+    "text": "After you perform an attack with a [Torpedo] or [Missile] secondary weapon that does not hit, each ship at Range 1 of the defender with an agility value lower than the squad point cost of the [Torpedo] or [Missile] Upgrade card must roll 1 attack die and suffer any damage ([Hit]) or critical damage ([Critical Hit]) rolled.",
+    "name": "Saturation Salvo",
+    "xws": "saturationsalvo",
+    "points": 1,
+    "slot": "Elite",
+    "id": 341
   }
 ]
