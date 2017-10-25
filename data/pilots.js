@@ -71,7 +71,7 @@
       "Torpedo",
       "Astromech"
     ],
-    "text": "Other friendly small and large ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.",
+    "text": "Once per game, at the start of the Combat phase, you may choose that until the end of the round, other friendly ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.",
     "image": "pilots/Rebel Alliance/X-wing/biggs-darklighter.png",
     "faction": "Rebel Alliance",
     "xws": "biggsdarklighter"
@@ -2662,10 +2662,7 @@
     "faction": "Scum and Villainy",
     "slots": [
       "Elite",
-      "Torpedo",
-      "Torpedo",
       "Crew",
-      "Salvaged Astromech",
       "Illicit"
     ],
     "id": 161,
@@ -3048,10 +3045,7 @@
     "slots": [
       "Crew",
       "Elite",
-      "Illicit",
-      "Salvaged Astromech",
-      "Torpedo",
-      "Torpedo"
+      "Illicit"
     ],
     "id": 183
   },
@@ -3068,9 +3062,6 @@
     "slots": [
       "Elite",
       "Illicit",
-      "Salvaged Astromech",
-      "Torpedo",
-      "Torpedo",
       "Crew"
     ],
     "id": 184
@@ -3088,10 +3079,7 @@
     "slots": [
       "Crew",
       "Elite",
-      "Illicit",
-      "Salvaged Astromech",
-      "Torpedo",
-      "Torpedo"
+      "Illicit"
     ],
     "id": 185
   },

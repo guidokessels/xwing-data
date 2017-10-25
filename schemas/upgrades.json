@@ -72,6 +72,11 @@
       "type": "boolean",
       "description": "Indicates if this upgrade has the Limited trait.\nA ship cannot equip more than one copy of the same card with the Limited trait."
     },
+    "squadLimited": {
+      "type": "integer",
+      "description": "Indicates if this upgrade is limited to a set number of times in a squad.",
+      "minimum": 1
+    },
     "energy": {
       "type": "integer",
       "description": "The upgrade's energy cost"

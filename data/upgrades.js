@@ -1145,7 +1145,7 @@
     "unique": true,
     "slot": "Salvaged Astromech",
     "points": 0,
-    "text": "If you are equipped with a bomb that can be dropped when you reveal your maneuver, you may drop the bomb after you execute your maneuver instead.",
+    "text": "After you reveal and execute a maneuver, if you did not overlap a ship, you may discard 1 of your equipped [Bomb] Upgrade cards without the \"<strong>Action:</strong>\" header to drop the corresponding bomb token.",
     "image": "upgrades/Salvaged Astromech/genius.png",
     "xws": "genius"
   },
@@ -2747,6 +2747,7 @@
     "points": 1,
     "slot": "Elite",
     "faction": "Scum and Villainy",
+    "squadLimited": 2,
     "id": 236
   },
   {
