@@ -2066,7 +2066,9 @@
     "id": 55,
     "image": "sources/swx73-product.png",
     "thumb": "sources/swx73-thumb.jpg",
-    "announcement_date": "2017-05-30"
+    "announcement_date": "2017-05-30",
+    "released": true,
+    "release_date": "2017-10-26"
   },
   {
     "name": "Alpha-class Star Wing Expansion Pack",
