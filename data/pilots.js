@@ -4440,7 +4440,8 @@
       "Salvaged Astromech",
       "Torpedo"
     ],
-    "id": 266
+    "id": 266,
+    "image": "pilots/Scum and Villainy/M12-L Kimogila Fighter/torani-kulda.png"
   },
   {
     "text": "When an enemy ship inside your firing arc at Range 1-3 becomes the active ship during the Combat phase, if you are not stressed, you may receive 1 stress token. If you do, that ship cannot spend tokens to modify its dice when attacking this round.",
@@ -4543,5 +4544,40 @@
       "Torpedo"
     ],
     "id": 272
+  },
+  {
+    "image": "pilots/Scum and Villainy/M12-L Kimogila Fighter/cartel-brute.png",
+    "name": "Cartel Brute",
+    "xws": "cartelbrute",
+    "ship": "M12-L Kimogila Fighter",
+    "skill": 3,
+    "points": 22,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Illicit",
+      "Missile",
+      "Salvaged Astromech",
+      "Torpedo"
+    ],
+    "id": 273
+  },
+  {
+    "image": "pilots/Scum and Villainy/M12-L Kimogila Fighter/dalan-oberos.png",
+    "text": "At the start of the Combat phase, you may acquire a target lock on an enemy ship inside your bullseye firing arc at Range 1-3.",
+    "name": "Dalan Oberos",
+    "xws": "dalanoberos",
+    "ship": "M12-L Kimogila Fighter",
+    "unique": true,
+    "skill": 7,
+    "points": 25,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Illicit",
+      "Elite",
+      "Missile",
+      "Salvaged Astromech",
+      "Torpedo"
+    ],
+    "id": 274
   }
 ]

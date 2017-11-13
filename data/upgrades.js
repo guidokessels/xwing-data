@@ -3905,7 +3905,8 @@
     "ship": [
       "M12-L Kimogila Fighter"
     ],
-    "id": 332
+    "id": 332,
+    "image": "upgrades/Title/enforcer.png"
   },
   {
     "image": "upgrades/Title/ghost-swx72.png",
@@ -4010,5 +4011,14 @@
     "points": 1,
     "slot": "Elite",
     "id": 341
+  },
+  {
+    "image": "upgrades/Illicit/contraband-cybernetics.png",
+    "text": "When you become the active ship during the Activation phase, you may discard this card and receive 1 stress token. If you do, until the end of the round, you may perform actions and red maneuvers even while you are stressed.",
+    "name": "Contraband Cybernetics",
+    "xws": "contrabandcybernetics",
+    "points": 1,
+    "slot": "Illicit",
+    "id": 342
   }
 ]
