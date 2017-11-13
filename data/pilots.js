@@ -4457,7 +4457,8 @@
       "Crew",
       "Elite"
     ],
-    "id": 267
+    "id": 267,
+    "image": "pilots/Rebel Alliance/Sheathipede-class Shuttle/fenn-rau.png"
   },
   {
     "image": "pilots/First Order/TIE Silencer/kylo-ren.png",
@@ -4579,5 +4580,54 @@
       "Torpedo"
     ],
     "id": 274
+  },
+  {
+    "image": "pilots/Rebel Alliance/Sheathipede-class Shuttle/ezra-bridger.png",
+    "text": "When defending, if you are stressed, you may change up to 2 of your [Focus] results to [Evade] results.",
+    "name": "Ezra Bridger",
+    "xws": "ezrabridger",
+    "ship": "Sheathipede-class Shuttle",
+    "unique": true,
+    "skill": 5,
+    "points": 17,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew",
+      "Elite"
+    ],
+    "id": 275
+  },
+  {
+    "image": "pilots/Rebel Alliance/Sheathipede-class Shuttle/zeb-orrelios.png",
+    "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
+    "name": "\"Zeb\" Orrelios",
+    "xws": "zeborrelios",
+    "ship": "Sheathipede-class Shuttle",
+    "unique": true,
+    "skill": 3,
+    "points": 16,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew"
+    ],
+    "id": 276
+  },
+  {
+    "image": "pilots/Rebel Alliance/Sheathipede-class Shuttle/ap-5.png",
+    "text": "When you perform the coordinate action, after you choose a friendly ship and before it performs a free action, you may receive 2 stress tokens to remove 1 stress token from it.",
+    "name": "AP-5",
+    "xws": "ap5",
+    "ship": "Sheathipede-class Shuttle",
+    "unique": true,
+    "skill": 1,
+    "points": 15,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Crew"
+    ],
+    "id": 277
   }
 ]
