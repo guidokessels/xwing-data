@@ -4067,7 +4067,8 @@
     "text": "You cannot have more than 1 focus token.<br /><br />During the End phase, do not remove an unused focus token from your ship.",
     "points": 2,
     "slot": "Tech",
-    "id": 347
+    "id": 347,
+    "image": "upgrades/Tech/advanced-optics.png"
   },
   {
     "name": "Crossfire Formation",
@@ -4078,7 +4079,8 @@
     "ship": [
       "B/SF-17 Bomber"
     ],
-    "id": 348
+    "id": 348,
+    "image": "upgrades/Title/crossfire-formation.png"
   },
   {
     "text": "When a friendly bomb token detonates, you may choose not to suffer its effects. If you do, roll an attack die. on a [Hit] result, discard this card.",
@@ -4089,6 +4091,7 @@
     "ship": [
       "B/SF-17 Bomber"
     ],
-    "id": 349
+    "id": 349,
+    "image": "upgrades/Modification/deflective-plating.png"
   }
 ]
