@@ -4498,7 +4498,8 @@
     "id": 269,
     "conditions": [
       "Rattled"
-    ]
+    ],
+    "image": "pilots/Resistance/B-SF-17 Bomber/crimson-leader.png"
   },
   {
     "image": "pilots/Galactic Empire/Alpha-class Star Wing/nu-squadron-pilot.png",
@@ -4660,7 +4661,8 @@
       "System",
       "Tech"
     ],
-    "id": 279
+    "id": 279,
+    "image": "pilots/Resistance/B-SF-17 Bomber/crimson-specialist.png"
   },
   {
     "name": "\"Cobalt Leader\"",
