@@ -4060,5 +4060,35 @@
     "points": 1,
     "slot": "Astromech",
     "id": 346
+  },
+  {
+    "name": "Advanced Optics",
+    "xws": "advancedoptics",
+    "text": "You cannot have more than 1 focus token.<br /><br />During the End phase, do not remove an unused focus token from your ship.",
+    "points": 2,
+    "slot": "Tech",
+    "id": 347
+  },
+  {
+    "name": "Crossfire Formation",
+    "xws": "crossfireformation",
+    "text": "When defending, if there is at least 1 other friendly Resistance ship at Range 1-2 of the attacker, you may add one [Focus] result to your roll.",
+    "points": 2,
+    "slot": "Title",
+    "ship": [
+      "B/SF-17 Bomber"
+    ],
+    "id": 348
+  },
+  {
+    "text": "When a friendly bomb token detonates, you may choose not to suffer its effects. If you do, roll an attack die. on a [Hit] result, discard this card.",
+    "name": "Deflective Plating",
+    "xws": "deflectiveplating",
+    "points": 1,
+    "slot": "Modification",
+    "ship": [
+      "B/SF-17 Bomber"
+    ],
+    "id": 349
   }
 ]

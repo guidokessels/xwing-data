@@ -4629,5 +4629,54 @@
       "Crew"
     ],
     "id": 277
+  },
+  {
+    "name": "Crimson Squadron Pilot",
+    "xws": "crimsonsquadronpilot",
+    "ship": "B/SF-17 Bomber",
+    "skill": 1,
+    "points": 25,
+    "faction": "Resistance",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "System",
+      "Tech"
+    ],
+    "id": 278
+  },
+  {
+    "text": "When placing a bomb token you dropped after revealing your manuever dial, you may place the bomb token anywhere on the play area touching your ship.",
+    "name": "\"Crimson Specialist\"",
+    "xws": "crimsonspecialist",
+    "ship": "B/SF-17 Bomber",
+    "unique": true,
+    "skill": 4,
+    "points": 27,
+    "faction": "Resistance",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "System",
+      "Tech"
+    ],
+    "id": 279
+  },
+  {
+    "name": "\"Cobalt Leader\"",
+    "xws": "cobaltleader",
+    "text": "When attacking, if the defender is at range 1 of a bomb token, the defender rolls 1 fewer defense die (to a minimum of 0).",
+    "ship": "B/SF-17 Bomber",
+    "unique": true,
+    "skill": 6,
+    "points": 28,
+    "faction": "Resistance",
+    "slots": [
+      "Bomb",
+      "Bomb",
+      "System",
+      "Tech"
+    ],
+    "id": 280
   }
 ]
