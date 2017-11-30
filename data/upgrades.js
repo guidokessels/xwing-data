@@ -4118,5 +4118,24 @@
       "small"
     ],
     "id": 351
+  },
+  {
+    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, the defender and each other ship at Range 1 receive 1 jam token. Then cancel <strong>all</strong> results.",
+    "name": "Scrambler Missiles",
+    "xws": "scramblermissiles",
+    "points": 2,
+    "slot": "Missile",
+    "range": "2-3",
+    "attack": "3",
+    "id": 352
+  },
+  {
+    "text": "You can qcquire target locks on friendly ships.<br /><br />You can attack friendly ships.",
+    "name": "R5-TK",
+    "xws": "r5tk",
+    "unique": true,
+    "points": 0,
+    "slot": "Salvaged Astromech",
+    "id": 353
   }
 ]

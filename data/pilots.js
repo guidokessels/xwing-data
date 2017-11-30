@@ -4697,5 +4697,21 @@
       "Tech"
     ],
     "id": 281
+  },
+  {
+    "name": "Cartel Executioner",
+    "xws": "cartelexecutioner",
+    "ship": "M12-L Kimogila Fighter",
+    "skill": 5,
+    "points": 24,
+    "faction": "Scum and Villainy",
+    "slots": [
+      "Elite",
+      "Missile",
+      "Torpedo",
+      "Illicit",
+      "Salvaged Astromech"
+    ],
+    "id": 282
   }
 ]
