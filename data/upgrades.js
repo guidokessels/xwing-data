@@ -3965,7 +3965,8 @@
     "ship": [
       "TIE Silencer"
     ],
-    "id": 337
+    "id": 337,
+    "image": "upgrades/Title/first-order-vanguard.png"
   },
   {
     "image": "upgrades/Title/os-1-arsenal-loadout.png",
@@ -4093,5 +4094,29 @@
     ],
     "id": 349,
     "image": "upgrades/Modification/deflective-plating.png"
+  },
+  {
+    "image": "upgrades/Elite/debris-gambit.png",
+    "text": "<strong>Action:</strong> Assign 1 evade token to your ship for each obstacle at Range 1, to a maximum of 2 evade tokens.",
+    "name": "Debris Gambit",
+    "xws": "debrisgambit",
+    "points": 2,
+    "slot": "Elite",
+    "size": [
+      "small"
+    ],
+    "id": 350
+  },
+  {
+    "image": "upgrades/Tech/threat-tracker.png",
+    "text": "When an enemy ship inside your firing arc at Range 1-2 becomes the active ship during the Combat phase, you may spend your target lock on that ship to perform a free boost or barrel roll action if that action is on your action bar.",
+    "name": "Threat Tracker",
+    "xws": "threattracker",
+    "points": 3,
+    "slot": "Tech",
+    "size": [
+      "small"
+    ],
+    "id": 351
   }
 ]

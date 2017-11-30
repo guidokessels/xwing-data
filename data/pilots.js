@@ -4680,5 +4680,22 @@
       "Tech"
     ],
     "id": 280
+  },
+  {
+    "image": "pilots/First Order/TIE Silencer/test-pilot-blackout.png",
+    "text": "When attacking, if the attack is obstructed, the defender rolls 2 fewer defense dice (to a minimum of 0).",
+    "name": "Test Pilot \"Blackout\"",
+    "xws": "testpilotblackout",
+    "ship": "TIE Silencer",
+    "unique": true,
+    "skill": 7,
+    "points": 31,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "System",
+      "Tech"
+    ],
+    "id": 281
   }
 ]
