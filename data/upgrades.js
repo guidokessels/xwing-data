@@ -4126,7 +4126,7 @@
     "points": 2,
     "slot": "Missile",
     "range": "2-3",
-    "attack": "3",
+    "attack": 3,
     "id": 352
   },
   {
