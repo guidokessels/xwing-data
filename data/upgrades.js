@@ -3965,7 +3965,8 @@
     "ship": [
       "TIE Silencer"
     ],
-    "id": 337
+    "id": 337,
+    "image": "upgrades/Title/first-order-vanguard.png"
   },
   {
     "image": "upgrades/Title/os-1-arsenal-loadout.png",
@@ -4093,5 +4094,48 @@
     ],
     "id": 349,
     "image": "upgrades/Modification/deflective-plating.png"
+  },
+  {
+    "image": "upgrades/Elite/debris-gambit.png",
+    "text": "<strong>Action:</strong> Assign 1 evade token to your ship for each obstacle at Range 1, to a maximum of 2 evade tokens.",
+    "name": "Debris Gambit",
+    "xws": "debrisgambit",
+    "points": 2,
+    "slot": "Elite",
+    "size": [
+      "small"
+    ],
+    "id": 350
+  },
+  {
+    "image": "upgrades/Tech/threat-tracker.png",
+    "text": "When an enemy ship inside your firing arc at Range 1-2 becomes the active ship during the Combat phase, you may spend your target lock on that ship to perform a free boost or barrel roll action if that action is on your action bar.",
+    "name": "Threat Tracker",
+    "xws": "threattracker",
+    "points": 3,
+    "slot": "Tech",
+    "size": [
+      "small"
+    ],
+    "id": 351
+  },
+  {
+    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, the defender and each other ship at Range 1 receive 1 jam token. Then cancel <strong>all</strong> results.",
+    "name": "Scrambler Missiles",
+    "xws": "scramblermissiles",
+    "points": 2,
+    "slot": "Missile",
+    "range": "2-3",
+    "attack": 3,
+    "id": 352
+  },
+  {
+    "text": "You can qcquire target locks on friendly ships.<br /><br />You can attack friendly ships.",
+    "name": "R5-TK",
+    "xws": "r5tk",
+    "unique": true,
+    "points": 0,
+    "slot": "Salvaged Astromech",
+    "id": 353
   }
 ]
