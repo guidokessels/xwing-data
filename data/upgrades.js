@@ -4130,7 +4130,7 @@
     "id": 352
   },
   {
-    "text": "You can qcquire target locks on friendly ships.<br /><br />You can attack friendly ships.",
+    "text": "You can acquire target locks on friendly ships.<br /><br />You can attack friendly ships.",
     "name": "R5-TK",
     "xws": "r5tk",
     "unique": true,
