@@ -3794,7 +3794,7 @@
   },
   {
     "image": "upgrades/Bomb/bomblet-generator.png",
-    "text": "When you reveal your maneuver, you may <strong>drop</strong> 1 bomblet token.<br /><br />This token <strong>detonates</strong> at end of the Activation phase.",
+    "text": "When you reveal your maneuver, you may <strong>drop</strong> 1 bomblet token.<br /><br />This token <strong>detonates</strong> at the end of the Activation phase.",
     "name": "Bomblet Generator",
     "xws": "bombletgenerator",
     "unique": true,
