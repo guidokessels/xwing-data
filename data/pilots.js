@@ -4713,5 +4713,32 @@
       "Salvaged Astromech"
     ],
     "id": 282
+  },
+  {
+    "name": "Sienar-Jaemus Analyst",
+    "xws": "sienarjaemusanalyst",
+    "ship": "TIE Silencer",
+    "skill": 4,
+    "points": 26,
+    "faction": "First Order",
+    "slots": [
+      "System",
+      "Tech"
+    ],
+    "id": 283
+  },
+  {
+    "name": "First Order Test Pilot",
+    "xws": "firstordertestpilot",
+    "ship": "TIE Silencer",
+    "skill": 6,
+    "points": 29,
+    "faction": "First Order",
+    "slots": [
+      "Elite",
+      "System",
+      "Tech"
+    ],
+    "id": 284
   }
 ]
