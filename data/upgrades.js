@@ -4127,7 +4127,8 @@
     "slot": "Missile",
     "range": "2-3",
     "attack": 3,
-    "id": 352
+    "id": 352,
+    "image": "upgrades/Missile/scrambler-missiles.png"
   },
   {
     "text": "You can acquire target locks on friendly ships.<br /><br />You can attack friendly ships.",
@@ -4136,6 +4137,7 @@
     "unique": true,
     "points": 0,
     "slot": "Salvaged Astromech",
-    "id": 353
+    "id": 353,
+    "image": "upgrades/Salvaged Astromech/r5-tk.png"
   }
 ]
