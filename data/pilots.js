@@ -4644,7 +4644,8 @@
       "System",
       "Tech"
     ],
-    "id": 278
+    "id": 278,
+    "image": "pilots/Resistance/B-SF-17 Bomber/crimson-squadron-pilot.png"
   },
   {
     "text": "When placing a bomb token you dropped after revealing your manuever dial, you may place the bomb token anywhere on the play area touching your ship.",
@@ -4679,7 +4680,8 @@
       "System",
       "Tech"
     ],
-    "id": 280
+    "id": 280,
+    "image": "pilots/Resistance/B-SF-17 Bomber/cobalt-leader.png"
   },
   {
     "image": "pilots/First Order/TIE Silencer/test-pilot-blackout.png",
@@ -4712,7 +4714,8 @@
       "Illicit",
       "Salvaged Astromech"
     ],
-    "id": 282
+    "id": 282,
+    "image": "pilots/Scum and Villainy/M12-L Kimogila Fighter/cartel-executioner.png"
   },
   {
     "name": "Sienar-Jaemus Analyst",
@@ -4725,7 +4728,8 @@
       "System",
       "Tech"
     ],
-    "id": 283
+    "id": 283,
+    "image": "pilots/First Order/TIE Silencer/sienar-jaemus-analyst.png"
   },
   {
     "name": "First Order Test Pilot",
@@ -4739,6 +4743,7 @@
       "System",
       "Tech"
     ],
-    "id": 284
+    "id": 284,
+    "image": "pilots/First Order/TIE Silencer/first-order-test-pilot.png"
   }
 ]
