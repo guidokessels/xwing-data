@@ -4047,7 +4047,7 @@
     "image": "upgrades/Astromech/chopper.png",
     "text": "<strong>Action:</strong> Discard 1 other equipped Upgrade card to recover 1 shield.",
     "name": "\"Chopper\"",
-    "xws": "chopper",
+    "xws": "chopper-swx72",
     "unique": true,
     "points": 1,
     "slot": "Astromech",
