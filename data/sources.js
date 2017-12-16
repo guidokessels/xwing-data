@@ -2075,7 +2075,7 @@
     "wave": 12,
     "sku": "SWX69",
     "announcement_date": "2017-08-21",
-    "released": false,
+    "released": true,
     "id": 56,
     "thumb": "sources/swx69-thumb.jpg",
     "image": "sources/swx69-product.png",
@@ -2103,14 +2103,15 @@
         11,
         26
       ]
-    }
+    },
+    "release_date": "2017-12-08"
   },
   {
     "name": "M12-L Kimogila Fighter Expansion Pack",
     "wave": 12,
     "sku": "SWX70",
     "announcement_date": "2017-08-21",
-    "released": false,
+    "released": true,
     "image": "sources/swx70-product.png",
     "thumb": "sources/swx70-thumb.jpg",
     "id": 57,
@@ -2138,7 +2139,8 @@
         25,
         26
       ]
-    }
+    },
+    "release_date": "2017-12-08"
   },
   {
     "name": "Phantom II Expansion Pack",
@@ -2170,7 +2172,9 @@
         26
       ]
     },
-    "thumb": "sources/swx72-thumb.png"
+    "thumb": "sources/swx72-thumb.png",
+    "released": true,
+    "release_date": "2017-12-08"
   },
   {
     "name": "TIE Silencer Expansion Pack",
@@ -2202,7 +2206,9 @@
       }
     },
     "image": "sources/swx68-product.png",
-    "thumb": "sources/swx68-thumb.jpg"
+    "thumb": "sources/swx68-thumb.jpg",
+    "release_date": "2017-12-08",
+    "released": true
   },
   {
     "name": "Resistance Bomber Expansion Pack",
@@ -2236,6 +2242,8 @@
         "280": 1
       }
     },
-    "id": 60
+    "id": 60,
+    "release_date": "2017-12-08",
+    "released": true
   }
 ]
