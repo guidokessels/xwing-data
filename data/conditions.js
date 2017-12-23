@@ -60,6 +60,7 @@
     "name": "Rattled",
     "xws": "rattled",
     "unique": true,
-    "id": 7
+    "id": 7,
+    "image": "conditions/rattled.png"
   }
 ]
