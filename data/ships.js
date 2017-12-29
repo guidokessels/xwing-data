@@ -1088,7 +1088,17 @@
     ],
     "size": "huge",
     "xws": "gr75mediumtransport",
-    "id": 12
+    "id": 12,
+    "dial": [
+      "1BW2E",
+      "1FW3E",
+      "1NW2E",
+      "2BW1E",
+      "2FW2E",
+      "2NW1E",
+      "3FW1E",
+      "4FW"
+    ]
   },
   {
     "name": "Z-95 Headhunter",
@@ -1532,7 +1542,16 @@
     ],
     "size": "huge",
     "xws": "cr90corvettefore",
-    "id": 17
+    "id": 17,
+    "dial": [
+      "1BW3E",
+      "1NW3E",
+      "2BW2E",
+      "2FW3E",
+      "2NW2E",
+      "3FW2E",
+      "4FW1E"
+    ]
   },
   {
     "name": "CR90 Corvette (Aft)",
@@ -1634,7 +1653,16 @@
     ],
     "size": "huge",
     "xws": "cr90corvetteaft",
-    "id": 18
+    "id": 18,
+    "dial": [
+      "1BW3E",
+      "1NW3E",
+      "2BW2E",
+      "2FW3E",
+      "2NW2E",
+      "3FW2E",
+      "4FW1E"
+    ]
   },
   {
     "name": "YT-2400",
@@ -2155,7 +2183,17 @@
     ],
     "size": "huge",
     "xws": "raiderclasscorvettefore",
-    "id": 24
+    "id": 24,
+    "dial": [
+      "1BW3E",
+      "1FW3E",
+      "1NW3E",
+      "2BW2E",
+      "2FW3E",
+      "2NW2E",
+      "3FW2E",
+      "4FW1E"
+    ]
   },
   {
     "name": "Raider-class Corvette (Aft)",
@@ -2257,7 +2295,17 @@
     ],
     "size": "huge",
     "xws": "raiderclasscorvetteaft",
-    "id": 25
+    "id": 25,
+    "dial": [
+      "1BW3E",
+      "1FW3E",
+      "1NW3E",
+      "2BW2E",
+      "2FW3E",
+      "2NW2E",
+      "3FW2E",
+      "4FW1E"
+    ]
   },
   {
     "name": "YV-666",
@@ -3238,7 +3286,17 @@
       ]
     ],
     "xws": "gozanticlasscruiser",
-    "id": 37
+    "id": 37,
+    "dial": [
+      "1BW2E",
+      "1FW3E",
+      "1NW2E",
+      "2BW1E",
+      "2FW2E",
+      "2NW1E",
+      "3FW1E",
+      "4FW1E"
+    ]
   },
   {
     "name": "ARC-170",
@@ -3915,7 +3973,17 @@
         0
       ]
     ],
-    "id": 46
+    "id": 46,
+    "dial": [
+      "1BW2E",
+      "1FW3E",
+      "1NW2E",
+      "2BW1E",
+      "2FW2E",
+      "2NW1E",
+      "3FW2E",
+      "4FW1E"
+    ]
   },
   {
     "name": "Auzituck Gunship",
