@@ -71,6 +71,16 @@
           "type": "integer",
           "description": "The ship's unique id number. It's not used in the game but it's used to link this ship to other data in this dataset.",
           "minimum": 0
+        },
+        "dial": {
+          "type": "array",
+          "description": "This array is a representation of the ship's maneuver dial.\n\nEach item in this array references a maneuver's speed, bearing and difficulty in the following format: [speed][bearing][difficulty]\n\nThe bearing is indicated with a single character:\n\tT = Turn Left\n\tY = Turn Right\n\tB = Bank Left\n\tN = Bank Right\n\tF = Straight\n\tK = Koiogran Turn\n\tR = Tallon Roll Right\n\tE = Tallon Roll Left\n\tL = Segnor's Loop Left\n\tP = Segnor's Loop Right\n\tA = Reverse Bank Left\n\tD = Reverse Bank Right\n\tS = Reverse Straight\n\tO = Stationary",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "description": "A maneuver on the ship's dial",
+            "pattern": "^[0-5][ERTYOPASDFKLBN][WGR]$"
+          }
         }
       },
       "additionalProperties": false

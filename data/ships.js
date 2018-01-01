@@ -59,6 +59,23 @@
     "id": 0,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -122,6 +139,23 @@
     "id": 1,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YR",
+      "4FR",
+      "4KR"
     ]
   },
   {
@@ -194,6 +228,24 @@
     "id": 2,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YG",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FG",
+      "5FG",
+      "5KR"
     ]
   },
   {
@@ -258,6 +310,24 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3KR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -330,6 +400,24 @@
     "id": 4,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FW",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -402,6 +490,23 @@
     "id": 5,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -474,6 +579,24 @@
     "id": 6,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YG",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FG",
+      "5FW",
+      "5KR"
     ]
   },
   {
@@ -539,6 +662,24 @@
     "firing_arcs": [
       "Auxiliary Rear",
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -597,6 +738,20 @@
     "id": 8,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BR",
+      "3FW",
+      "3NR",
+      "4FR"
     ]
   },
   {
@@ -647,6 +802,20 @@
     "id": 9,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "0OR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TR",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YR",
+      "3BR",
+      "3FW",
+      "3NR"
     ]
   },
   {
@@ -710,6 +879,23 @@
     "id": 10,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YR",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "2KR",
+      "3BR",
+      "3FW",
+      "3NR",
+      "4FR"
     ]
   },
   {
@@ -781,6 +967,23 @@
     "id": 11,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TR",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "5KR"
     ]
   },
   {
@@ -948,6 +1151,23 @@
     "id": 13,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FW"
     ]
   },
   {
@@ -1019,6 +1239,25 @@
     "id": 14,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BW",
+      "1NW",
+      "1YR",
+      "2TR",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FG",
+      "4KW",
+      "5FG"
     ]
   },
   {
@@ -1091,6 +1330,25 @@
     "id": 15,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FW",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -1155,6 +1413,23 @@
     "id": 16,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3KR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -1423,6 +1698,25 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -1486,6 +1780,22 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1BW",
+      "1FW",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW"
     ]
   },
   {
@@ -1552,6 +1862,24 @@
     "id": 21,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3LR",
+      "3PR",
+      "4FW"
     ]
   },
   {
@@ -1624,6 +1952,23 @@
     "id": 22,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3KR",
+      "4FW",
+      "5KR"
     ]
   },
   {
@@ -1690,6 +2035,24 @@
     "id": 23,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3BG",
+      "3FG",
+      "3NG",
+      "3LR",
+      "3PR",
+      "4KR"
     ]
   },
   {
@@ -1957,6 +2320,23 @@
     "firing_arcs": [
       "Auxiliary 180",
       "Front"
+    ],
+    "dial": [
+      "0OR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TR",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW"
     ]
   },
   {
@@ -2027,6 +2407,23 @@
     "id": 27,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "4FW",
+      "4KR",
+      "5KR"
     ]
   },
   {
@@ -2099,6 +2496,19 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BW",
+      "3FW",
+      "3NW"
     ]
   },
   {
@@ -2162,6 +2572,22 @@
     "id": 29,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TR",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YR",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "4KR"
     ]
   },
   {
@@ -2229,6 +2655,25 @@
     "id": 30,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3ER",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "3RR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -2303,6 +2748,25 @@
     "id": 31,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2LR",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YG",
+      "2PR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -2364,6 +2828,25 @@
     "id": 32,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BW",
+      "1FG",
+      "1NW",
+      "1YR",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YR",
+      "4FW",
+      "5KR"
     ]
   },
   {
@@ -2417,6 +2900,25 @@
     "id": 33,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YR",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -2473,6 +2975,25 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1TG",
+      "1BG",
+      "1FG",
+      "1NW",
+      "1YW",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NW",
+      "2YW",
+      "2LW",
+      "2PR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -2527,6 +3048,24 @@
     "id": 35,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YR",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BR",
+      "3FG",
+      "3NR",
+      "3KR",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -2586,6 +3125,25 @@
     "id": 36,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TG",
+      "1BG",
+      "1NG",
+      "1YG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FG",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -2732,6 +3290,23 @@
     "firing_arcs": [
       "Auxiliary Rear",
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YR",
+      "4FR",
+      "4KR"
     ]
   },
   {
@@ -2786,6 +3361,26 @@
     "firing_arcs": [
       "Auxiliary Rear",
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YR",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3LR",
+      "3TR",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YR",
+      "3PR",
+      "4FW"
     ]
   },
   {
@@ -2850,6 +3445,25 @@
     "id": 40,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2ER",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YG",
+      "2RR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR",
+      "5FW"
     ]
   },
   {
@@ -2909,6 +3523,24 @@
     "firing_arcs": [
       "Front",
       "Mobile"
+    ],
+    "dial": [
+      "1BW",
+      "1FW",
+      "1NW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TG",
+      "3BG",
+      "3FG",
+      "3NG",
+      "3YG",
+      "4FG",
+      "5FW",
+      "5KR"
     ]
   },
   {
@@ -2958,6 +3590,24 @@
     "id": 42,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "0OR",
+      "1TR",
+      "1BW",
+      "1FG",
+      "1NW",
+      "1YR",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YR"
     ]
   },
   {
@@ -3013,6 +3663,24 @@
     "id": 43,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1AR",
+      "1SR",
+      "1DR",
+      "1TW",
+      "1FW",
+      "1YW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "2LR",
+      "2PR",
+      "3BW",
+      "3FG",
+      "3NW"
     ]
   },
   {
@@ -3060,6 +3728,24 @@
     "id": 44,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1TW",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "2LR",
+      "2KR",
+      "2PR",
+      "3BW",
+      "3FG",
+      "3NW"
     ]
   },
   {
@@ -3111,6 +3797,21 @@
     "id": 45,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "0OR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "4FW"
     ]
   },
   {
@@ -3268,6 +3969,23 @@
     "firing_arcs": [
       "Auxiliary 180",
       "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "5FR"
     ]
   },
   {
@@ -3321,6 +4039,23 @@
     "firing_arcs": [
       "Front",
       "Turret"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4FW",
+      "4KR"
     ]
   },
   {
@@ -3381,6 +4116,25 @@
     "id": 49,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3ER",
+      "3TR",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YR",
+      "3RR",
+      "4FW",
+      "5FR"
     ]
   },
   {
@@ -3431,6 +4185,22 @@
     "id": 50,
     "firing_arcs": [
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TW",
+      "3BW",
+      "3FW",
+      "3NW",
+      "3YW",
+      "4FR"
     ]
   },
   {
@@ -3486,6 +4256,24 @@
     "firing_arcs": [
       "Bullseye",
       "Front"
+    ],
+    "dial": [
+      "1TR",
+      "1BW",
+      "1FG",
+      "1NW",
+      "1YR",
+      "2TR",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YR",
+      "3TW",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YW",
+      "4KR"
     ]
   },
   {
@@ -3537,6 +4325,23 @@
     "firing_arcs": [
       "Auxiliary Rear",
       "Front"
+    ],
+    "dial": [
+      "1BW",
+      "1FG",
+      "1NW",
+      "2TW",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YW",
+      "3TR",
+      "3BW",
+      "3FG",
+      "3NW",
+      "3YR",
+      "3KR",
+      "4FR"
     ]
   },
   {
@@ -3601,6 +4406,25 @@
         0,
         2
       ]
+    ],
+    "dial": [
+      "1TW",
+      "1YW",
+      "2TG",
+      "2BG",
+      "2FG",
+      "2NG",
+      "2YG",
+      "3ER",
+      "3TW",
+      "3BG",
+      "3FG",
+      "3NG",
+      "3YW",
+      "3RR",
+      "4FG",
+      "4KR",
+      "5FG"
     ]
   },
   {
@@ -3649,6 +4473,22 @@
         1,
         1
       ]
+    ],
+    "dial": [
+      "0OR",
+      "1TR",
+      "1BG",
+      "1FG",
+      "1NG",
+      "1YR",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BW",
+      "3FW",
+      "3NW"
     ]
   }
 ]
