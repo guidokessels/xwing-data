@@ -1,4 +1,6 @@
 # X-Wing Data
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/guidokessels/xwing-data.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/guidokessels/xwing-data.svg?branch=master)](https://travis-ci.org/guidokessels/xwing-data) [![npm version](https://img.shields.io/npm/v/xwing-data.svg?style=flat)](https://www.npmjs.com/package/xwing-data)
 
 An easy-to-use collection of data and images from [X-Wing: The Miniatures Game](https://www.fantasyflightgames.com/en/products/x-wing/) by [Fantasy Flight Games](http://fantasyflightgames.com/).
