@@ -4745,5 +4745,92 @@
     ],
     "id": 284,
     "image": "pilots/First Order/TIE Silencer/first-order-test-pilot.png"
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-1b5.png",
+    "name": "IRF-1B5",
+    "xws": "irf1b5",
+    "ship": "TIE Droid",
+    "skill": 0,
+    "unique": false,
+    "points": 11,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 285
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-2c1.png",
+    "name": "IRF-2C1",
+    "xws": "irf2c1",
+    "ship": "TIE Droid",
+    "skill": 1,
+    "points": 12,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 286
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-5z1a.png",
+    "text": "Once per round, after you perform an attack, you may assign the defender a red target lock token.",
+    "name": "IRF-5Z1A",
+    "xws": "irf5z1a",
+    "ship": "TIE Droid",
+    "unique": true,
+    "skill": 3,
+    "points": 13,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 287
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-5z1b.png",
+    "text": "After you execute a white maneuver, you may perform a free boost action.",
+    "name": "IRF-5Z1B",
+    "xws": "irf5z1b",
+    "ship": "TIE Droid",
+    "unique": true,
+    "skill": 3,
+    "points": 13,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 288
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-5z1c.png",
+    "text": "After you remove a stress token, you may perform a free barrel roll action.",
+    "name": "IRF-5Z1C",
+    "xws": "irf5z1c",
+    "ship": "TIE Droid",
+    "unique": true,
+    "skill": 3,
+    "points": 13,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 289
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Droid/irf-5z1d.png",
+    "text": "You may execute the ([Turn Left] 3) or ([Turn Right] 3) maneuver using the corresponding ([Bank Left] 3) or ([Bank Right] 3) template.",
+    "name": "IRF-5Z1D",
+    "xws": "irf5z1d",
+    "ship": "TIE Droid",
+    "unique": true,
+    "skill": 3,
+    "points": 13,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Tech"
+    ],
+    "id": 290
   }
 ]

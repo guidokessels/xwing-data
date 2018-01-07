@@ -4490,5 +4490,86 @@
       "3FW",
       "3NW"
     ]
+  },
+  {
+    "name": "TIE Droid",
+    "xws": "tiedroid",
+    "faction": [
+      "Galactic Empire"
+    ],
+    "actions": [
+      "Barrel Roll",
+      "Boost"
+    ],
+    "size": "small",
+    "attack": 2,
+    "agility": 2,
+    "hull": 3,
+    "shields": 0,
+    "maneuvers": [
+      [],
+      [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      [
+        1,
+        0,
+        2,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "firing_arcs": [
+      "Front"
+    ],
+    "dial": [
+      "1ER",
+      "1TW",
+      "1FW",
+      "1YW",
+      "1RR",
+      "2TW",
+      "2FG",
+      "2YW",
+      "3ER",
+      "3TW",
+      "3FG",
+      "3YW",
+      "3RR",
+      "4FG",
+      "5FW"
+    ],
+    "id": 55
   }
 ]
