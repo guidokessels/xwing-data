@@ -74,7 +74,8 @@
   {
     "id": 12,
     "title": "Turret Primary Weapon",
-    "subtitle": "Reference Card"
+    "subtitle": "Reference Card",
+    "image": "reference-cards/TurretPrimaryWeapon.png"
   },
   {
     "id": 13,
@@ -86,7 +87,7 @@
     "id": 14,
     "title": "Tractor Beam Token",
     "subtitle": "Reference Card",
-    "image": "reference-cards/TractorBeanToken.png"
+    "image": "reference-cards/TractorBeamToken.png"
   },
   {
     "id": 15,
@@ -97,7 +98,8 @@
   {
     "id": 16,
     "title": "Dual Upgrade Cards",
-    "subtitle": "Reference Card"
+    "subtitle": "Reference Card",
+    "image": "reference-cards/DualUpgradeCards.png"
   },
   {
     "id": 17,
@@ -120,12 +122,14 @@
   {
     "id": 20,
     "title": "Auxiliary Firing Arc",
-    "subtitle": "Reference Card"
+    "subtitle": "Reference Card",
+    "image": "reference-cards/AuxiliaryFiringArc.png"
   },
   {
     "id": 21,
     "title": "Tallon Roll",
-    "subtitle": "Reference Card"
+    "subtitle": "Reference Card",
+    "image": "reference-cards/TallonRoll.png"
   },
   {
     "id": 22,
@@ -156,5 +160,41 @@
     "title": "Reload Action and Jam Tokens",
     "subtitle": "Reference Card",
     "image": "reference-cards/ReloadActionAndJamTokens.png"
+  },
+  {
+    "id": 27,
+    "title": "Bomb Tokens",
+    "subtitle": "Reference Card #07",
+    "image": "reference-cards/BombTokens-07.png"
+  },
+  {
+    "id": 28,
+    "title": "Coordinate and Docking",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/CoordinateAndDocking.png"
+  },
+  {
+    "id": 29,
+    "title": "Modifications and Upgrades",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/ModificationsAndUpgrades.png"
+  },
+  {
+    "id": 30,
+    "title": "Reverse Maneuver",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/ReverseManeuver.png"
+  },
+  {
+    "id": 31,
+    "title": "Titles",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/Titles.png"
+  },
+  {
+    "id": 32,
+    "title": "Titles and Upgrades",
+    "subtitle": "Reference Card",
+    "image": "reference-cards/TitlesAndUpgrades.png"
   }
 ]
