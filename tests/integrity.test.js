@@ -184,4 +184,31 @@ describe("All data", function() {
       utils.outputAllErrors(errors);
     });
   });
+
+  describe('in sources.js', function () {
+    ['upgrades', 'pilots', 'conditions', 'ships'].forEach(function (type) {
+      test("all " + type + " belong to at least 1 expansion pack", function () {
+        var idsInPack = [];
+        var errors = [];
+        var ids;
+        var i;
+
+        for (i = 0; i < Data.sources.length; i++) {
+          if (Data.sources[i].contents[type]) {
+            ids = Object.keys(Data.sources[i].contents[type]).map(d => parseInt(d, 10));
+            idsInPack = idsInPack.concat(ids);
+          }
+        }
+
+        for (i = 0; i < Data[type].length; i++) {
+          if (idsInPack.indexOf(Data[type][i].id) === -1) {
+            errors.push(utils.buildDataHeader(Data, type, i) +
+              ": does not belong to any expansion pack");
+          }
+        }
+
+        utils.outputAllErrors(errors);
+      });
+    });
+  });
 });
