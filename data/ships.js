@@ -4037,8 +4037,7 @@
     ],
     "id": 48,
     "firing_arcs": [
-      "Front",
-      "Turret"
+      "Front"
     ],
     "dial": [
       "1BW",
