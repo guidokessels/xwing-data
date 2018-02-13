@@ -4745,5 +4745,37 @@
     ],
     "id": 284,
     "image": "pilots/First Order/TIE Silencer/first-order-test-pilot.png"
+  },
+  {
+    "name": "Kullbee Sperado",
+    "xws": "kullbeesperado",
+    "text": "After you perform a boost or barrel roll action, you may flip your equipped \"Servomotor S-foils\" Upgrade card.",
+    "ship": "X-wing",
+    "unique": true,
+    "skill": 7,
+    "points": 26,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 285
+  },
+  {
+    "text": "When attacking, if the defender does not have a focus or evade token, you may change 1 of your blank or [Focus] results to a [Hit] result.",
+    "name": "Major Vermeil",
+    "xws": "majorvermeil",
+    "ship": "TIE Reaper",
+    "unique": true,
+    "skill": 6,
+    "points": 26,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite"
+    ],
+    "id": 286
   }
 ]

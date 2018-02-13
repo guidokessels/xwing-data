@@ -2246,5 +2246,57 @@
     "id": 60,
     "release_date": "2017-12-08",
     "released": true
+  },
+  {
+    "name": "Saw's Renegades Expansion Pack",
+    "wave": 14,
+    "sku": "SWX74",
+    "announcement_date": "2018-02-13",
+    "contents": {
+      "ships": {
+        "0": 0,
+        "45": 1
+      },
+      "upgrades": {
+        "141": 1,
+        "271": 1,
+        "272": 1,
+        "346": 1,
+        "354": 1,
+        "355": 1
+      },
+      "conditions": {
+        "8": 1
+      },
+      "pilots": {
+        "285": 1
+      }
+    },
+    "id": 61,
+    "image": "sources/swx74-product.png",
+    "thumb": "sources/swx74-thumb.jpg"
+  },
+  {
+    "name": "TIE Reaper Expansion Pack",
+    "wave": 14,
+    "sku": "SWX75",
+    "announcement_date": "2018-02-13",
+    "image": "sources/swx75-product.png",
+    "thumb": "sources/swx75-thumb.jpg",
+    "id": 62,
+    "contents": {
+      "ships": {
+        "55": 1
+      },
+      "upgrades": {
+        "55": 1,
+        "245": 2,
+        "356": 1,
+        "357": 1
+      },
+      "pilots": {
+        "286": 1
+      }
+    }
   }
 ]
