@@ -4489,5 +4489,27 @@
       "3FW",
       "3NW"
     ]
+  },
+  {
+    "name": "TIE Reaper",
+    "xws": "tiereaper",
+    "faction": [
+      "Galactic Empire"
+    ],
+    "actions": [
+      "Evade",
+      "Focus",
+      "Jam"
+    ],
+    "size": "small",
+    "attack": 3,
+    "agility": 1,
+    "hull": 6,
+    "shields": 2,
+    "firing_arcs": [
+      "Front"
+    ],
+    "id": 55,
+    "maneuvers": []
   }
 ]

@@ -4139,5 +4139,49 @@
     "slot": "Salvaged Astromech",
     "id": 353,
     "image": "upgrades/Salvaged Astromech/r5-tk.png"
+  },
+  {
+    "image": "upgrades/System/targeting-scrambler.png",
+    "text": "At the start of the Planning phase, you may receive a weapons disabled token to choose a ship at Range 1-3 and assign it the \"Scrambled\" Condition.",
+    "name": "Targeting Scrambler",
+    "xws": "targetingscrambler",
+    "unique": true,
+    "points": 0,
+    "slot": "System",
+    "conditions": [
+      "Scrambled"
+    ],
+    "id": 354
+  },
+  {
+    "text": "When attacking, you may suffer 1 damage to change all of your [Focus] results to [Critical Hit] results.",
+    "name": "Saw Gerrera",
+    "xws": "sawgerrera",
+    "unique": true,
+    "points": 1,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 355
+  },
+  {
+    "text": "During setup, before the \"Place Forces\" step, assign the \"Optimized Prototype\" Condition to a friendly Galactic Empire ship with 3 or fewer shields.",
+    "name": "Director Krennic",
+    "xws": "directorkrennic",
+    "unique": true,
+    "points": 5,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 356
+  },
+  {
+    "image": "upgrades/Crew/death-troopers.png",
+    "text": "After another friendly ship at Range 1 becomes the defender, if you are inside the attacker's firing arc at Range 1-3, the attacker receives 1 stress token.",
+    "name": "Death Troopers",
+    "xws": "deathtroopers",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 357
   }
 ]
