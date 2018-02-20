@@ -2254,7 +2254,7 @@
     "announcement_date": "2018-02-13",
     "contents": {
       "ships": {
-        "0": 0,
+        "0": 1,
         "45": 1
       },
       "upgrades": {
