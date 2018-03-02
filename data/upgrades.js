@@ -3439,18 +3439,12 @@
     "points": 2,
     "slot": "Modification",
     "ship": [
-      "TIE Adv. Prototype",
-      "TIE Advanced",
       "TIE Aggressor",
       "TIE Bomber",
-      "TIE Defender",
-      "TIE Fighter",
-      "TIE Interceptor",
       "TIE Phantom",
       "TIE Punisher",
-      "TIE Silencer",
+      "TIE Reaper",
       "TIE Striker",
-      "TIE/fo Fighter",
       "TIE/sf Fighter"
     ],
     "id": 296
