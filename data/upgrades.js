@@ -2176,6 +2176,7 @@
       "TIE Interceptor",
       "TIE Phantom",
       "TIE Punisher",
+      "TIE Reaper",
       "TIE Silencer",
       "TIE Striker",
       "TIE/fo Fighter",
