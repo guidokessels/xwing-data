@@ -81,6 +81,10 @@
             "description": "A maneuver on the ship's dial",
             "pattern": "^[0-5][ERTYOPASDFKLBN][WGR]$"
           }
+        },
+        "dial_image": {
+          "description": "The file path for this ship's dial image.",
+          "$ref": "definitions.json#/definitions/image_file_path"
         }
       },
       "additionalProperties": false

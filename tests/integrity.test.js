@@ -88,6 +88,13 @@ describe("All data", function() {
                   )
               }
 
+              if (modelData.dial_image && allImages.indexOf(`images/${modelData.dial_image}`) === -1) {
+                  errors.push(
+                    utils.buildDataHeader(Data, dataKey, i) +
+                    ": file 'images/" + modelData.dial_image + "' was not found."
+                  )
+              }
+
               if (modelData.thumb && allImages.indexOf(`images/${modelData.thumb}`) === -1) {
                   errors.push(
                     utils.buildDataHeader(Data, dataKey, i) +

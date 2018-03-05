@@ -76,7 +76,8 @@
       "3YW",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/X-wing.png"
   },
   {
     "name": "Y-wing",
@@ -156,7 +157,8 @@
       "3YR",
       "4FR",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/Y-wing.png"
   },
   {
     "name": "A-wing",
@@ -246,7 +248,8 @@
       "4FG",
       "5FG",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/A-wing.png"
   },
   {
     "name": "YT-1300",
@@ -328,7 +331,8 @@
       "3KR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/YT-1300.png"
   },
   {
     "name": "TIE Fighter",
@@ -418,7 +422,8 @@
       "4FW",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/TIE Fighter.png"
   },
   {
     "name": "TIE Advanced",
@@ -507,7 +512,8 @@
       "4FW",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/TIE Advanced.png"
   },
   {
     "name": "TIE Interceptor",
@@ -597,7 +603,8 @@
       "4FG",
       "5FW",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/TIE Interceptor.png"
   },
   {
     "name": "Firespray-31",
@@ -680,7 +687,8 @@
       "3KR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/Firespray-31.png"
   },
   {
     "name": "HWK-290",
@@ -752,7 +760,8 @@
       "3FW",
       "3NR",
       "4FR"
-    ]
+    ],
+    "dial_image": "dials/HWK-290.png"
   },
   {
     "name": "Lambda-class Shuttle",
@@ -816,7 +825,8 @@
       "3BR",
       "3FW",
       "3NR"
-    ]
+    ],
+    "dial_image": "dials/Lambda-class Shuttle.png"
   },
   {
     "name": "B-wing",
@@ -896,7 +906,8 @@
       "3FW",
       "3NR",
       "4FR"
-    ]
+    ],
+    "dial_image": "dials/B-wing.png"
   },
   {
     "name": "TIE Bomber",
@@ -984,7 +995,8 @@
       "3YW",
       "4FW",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/TIE Bomber.png"
   },
   {
     "name": "GR-75 Medium Transport",
@@ -1168,7 +1180,8 @@
       "3YW",
       "3KR",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/Z-95 Headhunter.png"
   },
   {
     "name": "TIE Defender",
@@ -1258,7 +1271,8 @@
       "4FG",
       "4KW",
       "5FG"
-    ]
+    ],
+    "dial_image": "dials/TIE Defender.png"
   },
   {
     "name": "E-wing",
@@ -1349,7 +1363,8 @@
       "4FW",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/E-wing.png"
   },
   {
     "name": "TIE Phantom",
@@ -1430,7 +1445,8 @@
       "3KR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/TIE Phantom.png"
   },
   {
     "name": "CR90 Corvette (Fore)",
@@ -1717,7 +1733,8 @@
       "3YW",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/YT-2400.png"
   },
   {
     "name": "VT-49 Decimator",
@@ -1796,7 +1813,8 @@
       "3NW",
       "3YW",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/VT-49 Decimator.png"
   },
   {
     "name": "StarViper",
@@ -1880,7 +1898,8 @@
       "3LR",
       "3PR",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/StarViper.png"
   },
   {
     "name": "M3-A Interceptor",
@@ -1969,7 +1988,8 @@
       "3KR",
       "4FW",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/M3-A Interceptor.png"
   },
   {
     "name": "Aggressor",
@@ -2053,7 +2073,8 @@
       "3LR",
       "3PR",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/Aggressor.png"
   },
   {
     "name": "Raider-class Corvette (Fore)",
@@ -2337,7 +2358,8 @@
       "3NW",
       "3YW",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/YV-666.png"
   },
   {
     "name": "Kihraxz Fighter",
@@ -2424,7 +2446,8 @@
       "4FW",
       "4KR",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/Kihraxz Fighter.png"
   },
   {
     "name": "K-wing",
@@ -2509,7 +2532,8 @@
       "3BW",
       "3FW",
       "3NW"
-    ]
+    ],
+    "dial_image": "dials/K-wing.png"
   },
   {
     "name": "TIE Punisher",
@@ -2588,7 +2612,8 @@
       "3NW",
       "3YW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/TIE Punisher.png"
   },
   {
     "name": "T-70 X-wing",
@@ -2674,7 +2699,8 @@
       "3RR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/T-70 X-wing.png"
   },
   {
     "name": "TIE/fo Fighter",
@@ -2767,7 +2793,8 @@
       "4FW",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/TIEfo Fighter.png"
   },
   {
     "name": "VCX-100",
@@ -2847,7 +2874,8 @@
       "3YR",
       "4FW",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/VCX-100.png"
   },
   {
     "name": "Attack Shuttle",
@@ -2919,7 +2947,8 @@
       "3YR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/Attack Shuttle.png"
   },
   {
     "name": "JumpMaster 5000",
@@ -2994,7 +3023,8 @@
       "3NW",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/JumpMaster 5000.png"
   },
   {
     "name": "G-1A Starfighter",
@@ -3066,7 +3096,8 @@
       "3KR",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/G-1A Starfighter.png"
   },
   {
     "name": "TIE Adv. Prototype",
@@ -3144,7 +3175,8 @@
       "4FG",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/TIE Adv Prototype.png"
   },
   {
     "name": "Gozanti-class Cruiser",
@@ -3307,7 +3339,8 @@
       "3YR",
       "4FR",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/ARC-170.png"
   },
   {
     "name": "TIE/sf Fighter",
@@ -3381,7 +3414,8 @@
       "3YR",
       "3PR",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/TIEsf Fighter.png"
   },
   {
     "name": "Protectorate Starfighter",
@@ -3464,7 +3498,8 @@
       "4FW",
       "4KR",
       "5FW"
-    ]
+    ],
+    "dial_image": "dials/Protectorate Starfighter.png"
   },
   {
     "name": "Lancer-class Pursuit Craft",
@@ -3541,7 +3576,8 @@
       "4FG",
       "5FW",
       "5KR"
-    ]
+    ],
+    "dial_image": "dials/Lancer-class Pursuit Craft.png"
   },
   {
     "name": "Upsilon-class Shuttle",
@@ -3608,7 +3644,8 @@
       "3FW",
       "3NW",
       "3YR"
-    ]
+    ],
+    "dial_image": "dials/Upsilon-class Shuttle.png"
   },
   {
     "name": "Quadjumper",
@@ -3681,7 +3718,8 @@
       "3BW",
       "3FG",
       "3NW"
-    ]
+    ],
+    "dial_image": "dials/Quadjumper.png"
   },
   {
     "name": "TIE Striker",
@@ -3746,7 +3784,8 @@
       "3BW",
       "3FG",
       "3NW"
-    ]
+    ],
+    "dial_image": "dials/TIE Striker.png"
   },
   {
     "name": "U-wing",
@@ -3812,7 +3851,8 @@
       "3FW",
       "3NW",
       "4FW"
-    ]
+    ],
+    "dial_image": "dials/U-wing.png"
   },
   {
     "name": "C-ROC Cruiser",
@@ -3986,7 +4026,8 @@
       "3YW",
       "4FW",
       "5FR"
-    ]
+    ],
+    "dial_image": "dials/Auzituck Gunship.png"
   },
   {
     "name": "TIE Aggressor",
@@ -4055,7 +4096,8 @@
       "3YW",
       "4FW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/TIE Aggressor.png"
   },
   {
     "name": "Scurrg H-6 Bomber",
@@ -4134,7 +4176,8 @@
       "3RR",
       "4FW",
       "5FR"
-    ]
+    ],
+    "dial_image": "dials/Scurrg H-6 Bomber.png"
   },
   {
     "name": "Alpha-class Star Wing",
@@ -4200,7 +4243,8 @@
       "3NW",
       "3YW",
       "4FR"
-    ]
+    ],
+    "dial_image": "dials/Alpha-class Star Wing.png"
   },
   {
     "name": "M12-L Kimogila Fighter",
@@ -4273,7 +4317,8 @@
       "3NW",
       "3YW",
       "4KR"
-    ]
+    ],
+    "dial_image": "dials/M12-L Kimogila Fighter.png"
   },
   {
     "name": "Sheathipede-class Shuttle",
@@ -4341,7 +4386,8 @@
       "3YR",
       "3KR",
       "4FR"
-    ]
+    ],
+    "dial_image": "dials/Sheathipede-class Shuttle.png"
   },
   {
     "name": "TIE Silencer",
@@ -4424,7 +4470,8 @@
       "4FG",
       "4KR",
       "5FG"
-    ]
+    ],
+    "dial_image": "dials/TIE Silencer.png"
   },
   {
     "name": "B/SF-17 Bomber",
@@ -4488,7 +4535,8 @@
       "3BW",
       "3FW",
       "3NW"
-    ]
+    ],
+    "dial_image": "dials/BSF-17 Bomber.png"
   },
   {
     "name": "TIE Reaper",
