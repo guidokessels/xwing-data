@@ -77,6 +77,12 @@
       "description": "Indicates if this upgrade is limited to a set number of times in a squad.",
       "minimum": 1
     },
+    "dualCard": {
+      "type": "integer",
+      "description":
+        "Indicates if this upgrade is a dual card. If set, the number should be the other side's unique id.",
+      "minimum": 1
+    },
     "energy": {
       "type": "integer",
       "description": "The upgrade's energy cost"

@@ -2711,7 +2711,8 @@
     "xws": "adaptability",
     "points": 0,
     "slot": "Elite",
-    "id": 232
+    "id": 232,
+    "dualCard": 233
   },
   {
     "image": "upgrades/Elite/adaptability-increase.png",
@@ -2720,7 +2721,8 @@
     "xws": "adaptability",
     "points": 0,
     "slot": "Elite",
-    "id": 233
+    "id": 233,
+    "dualCard": 232
   },
   {
     "image": "upgrades/System/electronic-baffle.png",
@@ -3158,7 +3160,8 @@
     "ship": [
       "U-wing"
     ],
-    "id": 271
+    "id": 271,
+    "dualCard": 272
   },
   {
     "image": "upgrades/Title/pivot-wing-landing.png",
@@ -3170,7 +3173,8 @@
     "ship": [
       "U-wing"
     ],
-    "id": 272
+    "id": 272,
+    "dualCard": 271
   },
   {
     "image": "upgrades/Modification/smuggling-compartment.png",
@@ -3630,7 +3634,8 @@
     "range": "1",
     "attack": 4,
     "faction": "Scum and Villainy",
-    "id": 310
+    "id": 310,
+    "dualCard": 311
   },
   {
     "image": "upgrades/Cannon/arc-caster-recharging.png",
@@ -3640,7 +3645,8 @@
     "points": 2,
     "slot": "Cannon",
     "faction": "Scum and Villainy",
-    "id": 311
+    "id": 311,
+    "dualCard": 310
   },
   {
     "image": "upgrades/Missile/unguided-rockets.png",
@@ -3718,7 +3724,8 @@
     "id": 317,
     "size": [
       "small"
-    ]
+    ],
+    "dualCard": 318
   },
   {
     "image": "upgrades/Elite/intensity-exhausted.png",
@@ -3730,7 +3737,8 @@
     "size": [
       "small"
     ],
-    "id": 318
+    "id": 318,
+    "dualCard": 317
   },
   {
     "image": "upgrades/Title/vaksai.png",
