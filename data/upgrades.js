@@ -4165,7 +4165,8 @@
     "points": 1,
     "slot": "Crew",
     "faction": "Rebel Alliance",
-    "id": 355
+    "id": 355,
+    "image": "upgrades/Crew/saw-gerrera.png"
   },
   {
     "text": "During setup, before the \"Place Forces\" step, assign the \"Optimized Prototype\" Condition to a friendly Galactic Empire ship with 3 or fewer shields.",
@@ -4187,5 +4188,67 @@
     "slot": "Crew",
     "faction": "Galactic Empire",
     "id": 357
+  },
+  {
+    "image": "upgrades/Crew/magva-yarro.png",
+    "text": "After defending, you may acquire a target lock on the attacker.",
+    "name": "Magva Yarro",
+    "xws": "magvayarro",
+    "unique": true,
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Rebel Alliance",
+    "id": 358
+  },
+  {
+    "image": "upgrades/Torpedo/renegade-refit.png",
+    "text": "You may equip up to 2 different Modification upgrades.<br /><br />The squad point cost of your equipped [Modification] upgrades is reduced by 1 (to a minimum of 0).",
+    "name": "Renegade Refit",
+    "xws": "renegaderefit",
+    "points": -2,
+    "slot": "Torpedo",
+    "ship": [
+      "U-wing",
+      "X-wing"
+    ],
+    "id": 359
+  },
+  {
+    "image": "upgrades/Modification/servomotors-s-foils-attack.png",
+    "text": "Your action bar gains [Barrel Roll].<br /><br />If you are not stressed, when you reveal a ([Turn Left] 3) or (3 [Turn Right]) maneuver, you may treat it as a red ([Tallon Roll Left] 3) or ([Tallon Roll Right] 3) in the same direction.<br /><br />At the start of the Activation phase, you may flip this card.",
+    "name": "Servomoto S-foils (Attack)",
+    "xws": "servomotosfoils",
+    "points": 0,
+    "slot": "Modification",
+    "ship": [
+      "X-wing"
+    ],
+    "id": 360,
+    "dualCard": 361,
+    "grants": [
+      {
+        "type": "action",
+        "name": "Barrel Roll"
+      }
+    ]
+  },
+  {
+    "image": "upgrades/Modification/servomotors-s-foils-closed.png",
+    "text": "Reduce your primary attack value by 1. Your action bar gains [Boost]. Treat your ([Segnor's Loop Left] 2) and ([Segnor's Loop Right] 2) maneuvers as green.<br /><br />At the start of the Activation phase, you may flip this card.",
+    "name": "Servomoto S-foils (Closed)",
+    "xws": "servomotosfoils",
+    "points": 0,
+    "slot": "Modification",
+    "ship": [
+      "X-wing"
+    ],
+    "id": 361,
+    "dualCard": 360,
+    "grants": [
+      {
+        "type": "action",
+        "name": "Boost"
+      }
+    ]
   }
 ]

@@ -4760,7 +4760,8 @@
       "Elite",
       "Torpedo"
     ],
-    "id": 285
+    "id": 285,
+    "image": "pilots/Rebel Alliance/X-wing/kullbee-sperado.png"
   },
   {
     "text": "When attacking, if the defender does not have a focus or evade token, you may change 1 of your blank or [Focus] results to a [Hit] result.",
@@ -4777,5 +4778,59 @@
       "Elite"
     ],
     "id": 286
+  },
+  {
+    "image": "pilots/Rebel Alliance/U-wing/saw-gerrera.png",
+    "text": "When a friendly ship at Range 1-2 attacks, if it is stressed or has at least 1 Damage card, it may reroll 1 attack die.",
+    "name": "Saw Gerrera",
+    "xws": "sawgerrera",
+    "ship": "U-wing",
+    "unique": true,
+    "skill": 6,
+    "points": 26,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite",
+      "System",
+      "Torpedo"
+    ],
+    "id": 287
+  },
+  {
+    "image": "pilots/Rebel Alliance/U-wing/benthic-two-tubes.png",
+    "text": "After you perform a focus action, you may remove 1 of your focus tokens to assign it to a friendly ship at Range 1-2.",
+    "name": "Senthic Two Tubes",
+    "xws": "senthictwotubes",
+    "ship": "U-wing",
+    "unique": true,
+    "skill": 4,
+    "points": 24,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Torpedo"
+    ],
+    "id": 288
+  },
+  {
+    "image": "pilots/Rebel Alliance/X-wing/leevan-tenza.png",
+    "text": "After you perform a boost action, you may receive 1 stress token to receive 1 evade token.",
+    "name": "Leevan Tenza",
+    "xws": "leevantenza",
+    "ship": "X-wing",
+    "unique": true,
+    "skill": 5,
+    "points": 25,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 289
   }
 ]
