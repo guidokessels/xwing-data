@@ -4801,8 +4801,8 @@
   {
     "image": "pilots/Rebel Alliance/U-wing/benthic-two-tubes.png",
     "text": "After you perform a focus action, you may remove 1 of your focus tokens to assign it to a friendly ship at Range 1-2.",
-    "name": "Senthic Two Tubes",
-    "xws": "senthictwotubes",
+    "name": "Benthic Two Tubes",
+    "xws": "benthictwotubes",
     "ship": "U-wing",
     "unique": true,
     "skill": 4,

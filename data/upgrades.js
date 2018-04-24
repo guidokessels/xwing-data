@@ -4202,7 +4202,7 @@
   },
   {
     "image": "upgrades/Torpedo/renegade-refit.png",
-    "text": "You may equip up to 2 different Modification upgrades.<br /><br />The squad point cost of your equipped [Modification] upgrades is reduced by 1 (to a minimum of 0).",
+    "text": "You may equip up to 2 different Modification upgrades.<br /><br />The squad point cost of your equipped [Elite] upgrades is reduced by 1 (to a minimum of 0).",
     "name": "Renegade Refit",
     "xws": "renegaderefit",
     "points": -2,
