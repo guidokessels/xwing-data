@@ -4214,10 +4214,10 @@
     "id": 359
   },
   {
-    "image": "upgrades/Modification/servomotors-s-foils-attack.png",
+    "image": "upgrades/Modification/servomotor-s-foils-attack.png",
     "text": "Your action bar gains [Barrel Roll].<br /><br />If you are not stressed, when you reveal a ([Turn Left] 3) or (3 [Turn Right]) maneuver, you may treat it as a red ([Tallon Roll Left] 3) or ([Tallon Roll Right] 3) in the same direction.<br /><br />At the start of the Activation phase, you may flip this card.",
-    "name": "Servomoto S-foils (Attack)",
-    "xws": "servomotosfoils",
+    "name": "Servomotor S-foils (Attack)",
+    "xws": "servomotorsfoils",
     "points": 0,
     "slot": "Modification",
     "ship": [
@@ -4233,10 +4233,10 @@
     ]
   },
   {
-    "image": "upgrades/Modification/servomotors-s-foils-closed.png",
+    "image": "upgrades/Modification/servomotor-s-foils-closed.png",
     "text": "Reduce your primary attack value by 1. Your action bar gains [Boost]. Treat your ([Segnor's Loop Left] 2) and ([Segnor's Loop Right] 2) maneuvers as green.<br /><br />At the start of the Activation phase, you may flip this card.",
-    "name": "Servomoto S-foils (Closed)",
-    "xws": "servomotosfoils",
+    "name": "Servomotor S-foils (Closed)",
+    "xws": "servomotorsfoils",
     "points": 0,
     "slot": "Modification",
     "ship": [
