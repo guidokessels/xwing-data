@@ -41,6 +41,7 @@ var slots = [
   "Hardpoint",
   "Illicit",
   "Missile",
+  "Modification",
   "Salvaged Astromech",
   "System",
   "Team",

@@ -25,6 +25,7 @@ describe('XWS Spec', function() {
       'pivotwing',
       'arccaster',
       'intensity',
+      'servomotosfoils',
     ]);
 
     if (duplicates.length) {
