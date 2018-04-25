@@ -4234,7 +4234,7 @@
   },
   {
     "image": "upgrades/Modification/servomotor-s-foils-closed.png",
-    "text": "Reduce your primary attack value by 1. Your action bar gains [Boost]. Treat your ([Segnor's Loop Left] 2) and ([Segnor's Loop Right] 2) maneuvers as green.<br /><br />At the start of the Activation phase, you may flip this card.",
+    "text": "Reduce your primary attack value by 1. Your action bar gains [Boost]. Treat your ([Bank Left] 2) and ([Bank Right] 2) maneuvers as green.<br /><br />At the start of the Activation phase, you may flip this card.",
     "name": "Servomotor S-foils (Closed)",
     "xws": "servomotorsfoils",
     "points": 0,
