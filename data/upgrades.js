@@ -4176,7 +4176,11 @@
     "points": 5,
     "slot": "Crew",
     "faction": "Galactic Empire",
-    "id": 356
+    "id": 356,
+    "image": "upgrades/Crew/director-krennic.png",
+    "conditions": [
+      "Optimized Prototype"
+    ]
   },
   {
     "image": "upgrades/Crew/death-troopers.png",
@@ -4250,5 +4254,37 @@
         "name": "Boost"
       }
     ]
+  },
+  {
+    "image": "upgrades/Title/advanced-ailerons.png",
+    "text": "Treat your ([Bank Left] 3) and ([Bank Right] 3) maneuvers as white.<br /><br />Immediately before you reveal your dial, if you are not stressed, you must execute a white ([Bank Left] 1), ([Straight] 1), or ([Bank Right] 1) maneuver.",
+    "name": "Advanced Ailerons",
+    "xws": "advancedailerons",
+    "points": 0,
+    "slot": "Title",
+    "ship": [
+      "TIE Reaper"
+    ],
+    "id": 362
+  },
+  {
+    "image": "upgrades/Crew/tactical-officer.png",
+    "text": "Your action bar gains [Coordinate].",
+    "name": "Tactical Officer",
+    "xws": "tacticalofficer",
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 363
+  },
+  {
+    "image": "upgrades/Crew/isb-slicer.png",
+    "text": "After you perform a jam action against an enemy ship, you may choose a ship at Range 1 of that ship that is not jammed and assign it 1 jam token.",
+    "name": "ISB Slicer",
+    "xws": "isbslicer",
+    "points": 2,
+    "slot": "Crew",
+    "faction": "Galactic Empire",
+    "id": 364
   }
 ]
