@@ -4777,7 +4777,8 @@
       "Crew",
       "Elite"
     ],
-    "id": 286
+    "id": 286,
+    "image": "pilots/Galactic Empire/TIE Reaper/major-vermeil.png"
   },
   {
     "image": "pilots/Rebel Alliance/U-wing/saw-gerrera.png",
@@ -4832,5 +4833,52 @@
       "Torpedo"
     ],
     "id": 289
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Reaper/captain-feroph.png",
+    "text": "When defending, if the attacker is jammed, add 1 [Evade] result to your roll.",
+    "name": "Captain Feroph",
+    "xws": "captainferoph",
+    "ship": "TIE Reaper",
+    "unique": true,
+    "skill": 4,
+    "points": 24,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Elite"
+    ],
+    "id": 290
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Reaper/scarif-base-pilot.png",
+    "name": "Scarif Base Pilot",
+    "xws": "scarifbasepilot",
+    "ship": "TIE Reaper",
+    "skill": 1,
+    "points": 22,
+    "faction": "Galactic Empire",
+    "slots": [
+      "Crew",
+      "Crew"
+    ],
+    "id": 291
+  },
+  {
+    "image": "pilots/Galactic Empire/TIE Reaper/vizier.png",
+    "text": "After a friendly ship executes a 1-speed maneuver, if it is at Range 1 and did not overlap a ship, you may assign 1 of your focus or evade tokens to it.",
+    "name": "\"Vizier\"",
+    "xws": "vizier",
+    "ship": "TIE Reaper",
+    "unique": true,
+    "skill": 3,
+    "points": 23,
+    "slots": [
+      "Crew",
+      "Crew"
+    ],
+    "id": 292,
+    "faction": "Galactic Empire"
   }
 ]

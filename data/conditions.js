@@ -70,5 +70,13 @@
     "xws": "scrambled",
     "unique": true,
     "id": 8
+  },
+  {
+    "image": "conditions/optimized-prototype.png",
+    "text": "Increase your shield value by 1.<br /><br />Once per round, when performing a primary weapon attack, you may spend 1 die result to remove 1 shield from the defender.<br /><br />After you perform a primary weapon attack, a friendly ship at Range 1-2 equipped with the \"Director Krennic\" Upgrade card may acquire a target lock on the defender.",
+    "name": "Optimized Prototype",
+    "xws": "optimizedprototype",
+    "unique": true,
+    "id": 9
   }
 ]
