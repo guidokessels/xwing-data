@@ -4889,10 +4889,11 @@
     "points": 22,
     "slots": [
       "Torpedo",
-      "Astromech"
+      "Astromech",
+      "Elite"
     ],
-    "image": "",
     "faction": "Rebel Alliance",
-    "xws": "cavernangelzealot"
+    "xws": "cavernangelzealot",
+    "image": "pilots/Rebel Alliance/X-wing/cavern-angel-zealot.png"
   }
 ]
