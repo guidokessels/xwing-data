@@ -4882,7 +4882,7 @@
     "faction": "Galactic Empire"
   },
   {
-    "name": "Cavern Angel Zealot",
+    "name": "Cavern Angels Zealot",
     "id": 293,
     "ship": "X-wing",
     "skill": 1,
@@ -4893,7 +4893,7 @@
       "Elite"
     ],
     "faction": "Rebel Alliance",
-    "xws": "cavernangelzealot",
+    "xws": "cavernangelszealot",
     "image": "pilots/Rebel Alliance/X-wing/cavern-angel-zealot.png"
   }
 ]
