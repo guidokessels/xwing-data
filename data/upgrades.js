@@ -4286,5 +4286,25 @@
     "slot": "Crew",
     "faction": "Galactic Empire",
     "id": 364
+  },
+  {
+    "text": "After you receive a red target lock token, if you have only 1 red target lock token, roll 1 defense die. On an [Evade] result, remove 1 red target lock token.",
+    "name": "Multi-spectral Camouflage",
+    "xws": "multispectralcamouflage",
+    "unique": true,
+    "points": 1,
+    "slot": "Modification",
+    "size": [
+      "small"
+    ],
+    "id": 365
+  },
+  {
+    "name": "Thrust Corrector",
+    "xws": "thrustcorrector",
+    "text": "When defending, if you have 3 or fewer stress tokens, you may receive 1 stress token to cancel all of your dice results. If you do, add 1 [Evade] result to your roll. Your dice cannot be modified again during this attack. You can equip this Upgrade only if your hull value is \"4\" or lower.",
+    "points": 1,
+    "slot": "Modification",
+    "id": 366
   }
 ]
