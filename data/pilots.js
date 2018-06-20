@@ -4895,5 +4895,54 @@
     "faction": "Rebel Alliance",
     "xws": "cavernangelszealot",
     "image": "pilots/Rebel Alliance/X-wing/cavern-angel-zealot.png"
+  },
+  {
+    "text": "When you become the active ship during the Activation phase, if you have 1 or more focus tokens, you may perform a free action.",
+    "name": "Edrio Two Tubes",
+    "xws": "edriotwotubes",
+    "ship": "X-wing",
+    "unique": true,
+    "skill": 4,
+    "points": 24,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Astromech",
+      "Elite",
+      "Torpedo"
+    ],
+    "id": 294
+  },
+  {
+    "name": "Partisan Renegade",
+    "xws": "partisanrenegade",
+    "ship": "U-wing",
+    "unique": false,
+    "skill": 1,
+    "points": 22,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "System",
+      "Torpedo"
+    ],
+    "id": 295
+  },
+  {
+    "text": "When another ship at Range 1-2 is defending, the attacker cannot reroll more than 1 attack die.",
+    "name": "Magva Yarro",
+    "xws": "magvayarro",
+    "ship": "U-wing",
+    "unique": true,
+    "skill": 5,
+    "points": 25,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Crew",
+      "Crew",
+      "Torpedo",
+      "System"
+    ],
+    "id": 296
   }
 ]
