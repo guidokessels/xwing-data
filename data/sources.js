@@ -2266,8 +2266,8 @@
         "355": 1,
         "358": 1,
         "359": 3,
-        "360": 4,
-        "361": 4,
+        "360": 3,
+        "361": 3,
         "366": 2
       },
       "conditions": {
@@ -2278,7 +2278,7 @@
         "287": 1,
         "288": 1,
         "289": 1,
-        "293": 5,
+        "293": 3,
         "294": 1,
         "295": 1,
         "296": 1
@@ -2287,7 +2287,8 @@
     "id": 61,
     "image": "sources/swx74-product.png",
     "thumb": "sources/swx74-thumb.jpg",
-    "release_date": "2018-06-21"
+    "release_date": "2018-06-21",
+    "released": true
   },
   {
     "name": "TIE Reaper Expansion Pack",
@@ -2321,6 +2322,7 @@
         "9": 1
       }
     },
-    "release_date": "2018-06-21"
+    "release_date": "2018-06-21",
+    "released": true
   }
 ]

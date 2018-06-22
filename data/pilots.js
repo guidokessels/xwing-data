@@ -4894,7 +4894,7 @@
     ],
     "faction": "Rebel Alliance",
     "xws": "cavernangelszealot",
-    "image": "pilots/Rebel Alliance/X-wing/cavern-angel-zealot.png"
+    "image": "pilots/Rebel Alliance/X-wing/cavern-angels-zealot.png"
   },
   {
     "text": "When you become the active ship during the Activation phase, if you have 1 or more focus tokens, you may perform a free action.",
@@ -4910,7 +4910,8 @@
       "Elite",
       "Torpedo"
     ],
-    "id": 294
+    "id": 294,
+    "image": "pilots/Rebel Alliance/X-wing/edrio-two-tubes.png"
   },
   {
     "name": "Partisan Renegade",
@@ -4926,7 +4927,8 @@
       "System",
       "Torpedo"
     ],
-    "id": 295
+    "id": 295,
+    "image": "pilots/Rebel Alliance/U-wing/partisan-renegade.png"
   },
   {
     "text": "When another ship at Range 1-2 is defending, the attacker cannot reroll more than 1 attack die.",
@@ -4943,6 +4945,7 @@
       "Torpedo",
       "System"
     ],
-    "id": 296
+    "id": 296,
+    "image": "pilots/Rebel Alliance/U-wing/magva-yarro.png"
   }
 ]
