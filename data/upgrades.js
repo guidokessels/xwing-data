@@ -4297,7 +4297,8 @@
     "size": [
       "small"
     ],
-    "id": 365
+    "id": 365,
+    "image": "upgrades/Modification/multi-spectral-camouflage.png"
   },
   {
     "name": "Thrust Corrector",
