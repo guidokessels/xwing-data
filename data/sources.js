@@ -2287,7 +2287,8 @@
     "id": 61,
     "image": "sources/swx74-product.png",
     "thumb": "sources/swx74-thumb.jpg",
-    "release_date": "2018-06-21"
+    "release_date": "2018-06-21",
+    "released": true
   },
   {
     "name": "TIE Reaper Expansion Pack",
@@ -2321,6 +2322,7 @@
         "9": 1
       }
     },
-    "release_date": "2018-06-21"
+    "release_date": "2018-06-21",
+    "released": true
   }
 ]
