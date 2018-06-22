@@ -4304,7 +4304,7 @@
     "xws": "thrustcorrector",
     "text": "When defending, if you have 3 or fewer stress tokens, you may receive 1 stress token to cancel all of your dice results. If you do, add 1 [Evade] result to your roll. Your dice cannot be modified again during this attack. You can equip this Upgrade only if your hull value is \"4\" or lower.",
     "points": 1,
-    "slot": "Modification",
+    "slot": "System",
     "id": 366
   }
 ]
